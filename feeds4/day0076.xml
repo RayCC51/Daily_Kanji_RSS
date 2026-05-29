@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>保</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 보 - ホ・ホウ</li>
+            <li>훈: 지키다 - たも(つ)・も(つ)・やす(んじる)</li>
+          </ul>
+          <br/>
+          <h3>井</h3>
+          <ul>
+            <li>7급 (부수:二)</li>
+            <li>음: 정 - セイ・ショウ</li>
+            <li>훈: 우물 - い・いげた</li>
+          </ul>
+          <br/>
+          <h3>涯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 생애 - みぎわ・はて</li>
+          </ul>
+          <br/>
+          <h3>滴</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 물방울 - しずく・したた(る)・た(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>両</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 둘 - ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>書</h3>
+          <ul>
+            <li>9급 (부수:曰)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 글, 쓰다 - か(く)・ふみ</li>
+          </ul>
+          <br/>
+          <h3>粒</h3>
+          <ul>
+            <li>4급 (부수:米)</li>
+            <li>음: 립 - リュウ</li>
+            <li>훈: 낱알 - つぶ</li>
+          </ul>
+          <br/>
+          <h3>挟</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 끼다 - はさ(む)・はさ(まる)・さしはさ(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

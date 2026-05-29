@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>等</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 같다, 동등하다 - ひと(しい)・ら・など</li>
+          </ul>
+          <br/>
+          <h3>税</h3>
+          <ul>
+            <li>6급 (부수:禾)</li>
+            <li>음: 세 - ゼイ・セイ</li>
+            <li>훈: 세금 - みつぎ</li>
+          </ul>
+          <br/>
+          <h3>小</h3>
+          <ul>
+            <li>10급 (부수:小)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 작다 - ちい(さい)・こ・お・さ</li>
+          </ul>
+          <br/>
+          <h3>母</h3>
+          <ul>
+            <li>9급 (부수:毋)</li>
+            <li>음: 모 - ボ・モ・ボウ</li>
+            <li>훈: 엄마 - はは</li>
+          </ul>
+          <br/>
+          <h3>旗</h3>
+          <ul>
+            <li>7급 (부수:方)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 깃발 - はた</li>
+          </ul>
+          <br/>
+          <h3>欠</h3>
+          <ul>
+            <li>7급 (부수:欠)</li>
+            <li>음: 결 - ケツ</li>
+            <li>훈: 부족하다 - か(ける)・か(く)</li>
+          </ul>
+          <br/>
+          <h3>魅</h3>
+          <ul>
+            <li>3급 (부수:鬼)</li>
+            <li>음: 매 - ミ・ビ</li>
+            <li>훈: 매혹하다 - もののけ・すだま</li>
+          </ul>
+          <br/>
+          <h3>睦</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 목 - ボク・モク</li>
+            <li>훈: 화목하다 - むつ(まじい)・むつ(む)・むつ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>銘</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 새기다 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>逮</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 잡다 - およ(ぶ)・とら(える)</li>
+          </ul>
+          <br/>
+          <h3>褐</h3>
+          <ul>
+            <li>2.5급 (부수:衣)</li>
+            <li>음: 갈 - カツ</li>
+            <li>훈: 갈색 - ぬのこ</li>
+          </ul>
+          <br/>
+          <h3>婿</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 서 - セイ</li>
+            <li>훈: 사위 - むこ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

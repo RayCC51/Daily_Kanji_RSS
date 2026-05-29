@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>管</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관리 - くだ・ふえ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>補</h3>
+          <ul>
+            <li>5급 (부수:衣)</li>
+            <li>음: 보 - ホ・フ</li>
+            <li>훈: 보충하다 - おぎな(う)・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>語</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 어 - ゴ・ギョ</li>
+            <li>훈: 말하다 - かた(る)・かた(らう)・ことば・つ(げる)</li>
+          </ul>
+          <br/>
+          <h3>唾</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 침착하다 - つば</li>
+          </ul>
+          <br/>
+          <h3>兼</h3>
+          <ul>
+            <li>4급 (부수:八)</li>
+            <li>음: 겸 - ケン</li>
+            <li>훈: 겸하다 - か(ねる)・あわ(せる)</li>
+          </ul>
+          <br/>
+          <h3>痴</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 어리석다 - おろ(か)・し(れる)・おこ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

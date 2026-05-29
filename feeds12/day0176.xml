@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>傲</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 오 - ゴウ</li>
+            <li>훈: 오만하다 - おご(る)・あなど(る)・あそ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>葛</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 갈 - カツ</li>
+            <li>훈: 칡 - くず・かたびら・かずら・つづら</li>
+          </ul>
+          <br/>
+          <h3>旋</h3>
+          <ul>
+            <li>2.5급 (부수:方)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 돌다 - めぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>及</h3>
+          <ul>
+            <li>4급 (부수:又)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 미치다, 이르다 - およ(ぶ)・およ(び)・およ(ばす)</li>
+          </ul>
+          <br/>
+          <h3>虜</h3>
+          <ul>
+            <li>2.5급 (부수:虍)</li>
+            <li>음: 로 - リョ・ロ</li>
+            <li>훈: 사로잡다 - とりこ・しもべ・えびす</li>
+          </ul>
+          <br/>
+          <h3>賭</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 내기, 걸다 - か(ける)・かけ</li>
+          </ul>
+          <br/>
+          <h3>該</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 해 - ガイ・カイ</li>
+            <li>훈: 갖추다 - か(ねる)・そな(わる)・そ(の)</li>
+          </ul>
+          <br/>
+          <h3>麗</h3>
+          <ul>
+            <li>4급 (부수:鹿)</li>
+            <li>음: 려 - レイ・リ</li>
+            <li>훈: 곱다 - うるわ(しい)・うら(ら)・うら(らか)・なら(ぶ)・つら(なる)</li>
+          </ul>
+          <br/>
+          <h3>爆</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 폭 - バク・ハク・ホウ</li>
+            <li>훈: 터지다 - は(ぜる)・さ(ける)</li>
+          </ul>
+          <br/>
+          <h3>隻</h3>
+          <ul>
+            <li>3급 (부수:隹)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 외짝 - ひと(つ)</li>
+          </ul>
+          <br/>
+          <h3>獲</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 획 - カク</li>
+            <li>훈: 획득하다 - え(る)</li>
+          </ul>
+          <br/>
+          <h3>奪</h3>
+          <ul>
+            <li>3급 (부수:大)</li>
+            <li>음: 탈 - ダツ・タツ</li>
+            <li>훈: 빼앗다 - うば(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>火</h3>
+          <ul>
+            <li>10급 (부수:火)</li>
+            <li>음: 화 - カ・コ</li>
+            <li>훈: 불 - ひ・ほ</li>
+          </ul>
+          <br/>
+          <h3>窓</h3>
+          <ul>
+            <li>5급 (부수:穴)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 창문 - まど</li>
+          </ul>
+          <br/>
+          <h3>争</h3>
+          <ul>
+            <li>7급 (부수:亅)</li>
+            <li>음: 쟁 - ソウ</li>
+            <li>훈: 다투다 - あらそ(う)・いさ(める)</li>
+          </ul>
+          <br/>
+          <h3>杯</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 술잔 - さかずき</li>
+          </ul>
+          <br/>
+          <h3>髪</h3>
+          <ul>
+            <li>4급 (부수:髟)</li>
+            <li>음: 발 - ハツ・ホツ</li>
+            <li>훈: 머리카락 - かみ</li>
+          </ul>
+          <br/>
+          <h3>斎</h3>
+          <ul>
+            <li>2.5급 (부수:斉)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재계, 집 - ものいみ・つつし(む)・いつ(く)・とき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>取</h3>
+          <ul>
+            <li>8급 (부수:又)</li>
+            <li>음: 취 - シュ</li>
+            <li>훈: 잡다 - と(る)</li>
+          </ul>
+          <br/>
+          <h3>細</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 세 - サイ</li>
+            <li>훈: 가늘다, 세세하다 - ほそ(い)・ほそ(る)・こま(か)・こま(かい)・ささ(やか)・くわ(しい)</li>
+          </ul>
+          <br/>
+          <h3>練</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 련 - レン</li>
+            <li>훈: 익히다, 다듬다 - ね(る)・ねりぎぬ</li>
+          </ul>
+          <br/>
+          <h3>虚</h3>
+          <ul>
+            <li>3급 (부수:虍)</li>
+            <li>음: 허 - キョ・コ</li>
+            <li>훈: 공허하다, 헛되다 - むな(しい)・うつ(ろ)・うろ・うつ(ける)</li>
+          </ul>
+          <br/>
+          <h3>俗</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 속 - ゾク</li>
+            <li>훈: 풍속 - なら(わし)・いや(しい)</li>
+          </ul>
+          <br/>
+          <h3>呂</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 려 - ロ・リョ</li>
+            <li>훈: 음률 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>済</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 제 - サイ・セイ</li>
+            <li>훈: 끝나다 - す(む)・す(ます)・すく(う)・な(す)・わた(る)・わた(す)</li>
+          </ul>
+          <br/>
+          <h3>冷</h3>
+          <ul>
+            <li>7급 (부수:冫)</li>
+            <li>음: 랭 - レイ</li>
+            <li>훈: 차갑다, 식다 - つめ(たい)・ひ(える)・ひ(や)・ひ(やす)・ひ(やかす)・さ(める)・さ(ます)</li>
+          </ul>
+          <br/>
+          <h3>性</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 성품 - さが・たち</li>
+          </ul>
+          <br/>
+          <h3>唆</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 사 - サ</li>
+            <li>훈: 부추기다 - そそのか(す)</li>
+          </ul>
+          <br/>
+          <h3>胎</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 태 - タイ</li>
+            <li>훈: 아이배다 - はら(む)</li>
+          </ul>
+          <br/>
+          <h3>縫</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 꿰매다 - ぬ(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

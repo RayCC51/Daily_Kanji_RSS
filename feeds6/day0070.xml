@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>輪</h3>
+          <ul>
+            <li>7급 (부수:車)</li>
+            <li>음: 륜 - リン</li>
+            <li>훈: 바퀴 - わ</li>
+          </ul>
+          <br/>
+          <h3>貝</h3>
+          <ul>
+            <li>10급 (부수:貝)</li>
+            <li>음: 패 - バイ</li>
+            <li>훈: 조개 - かい</li>
+          </ul>
+          <br/>
+          <h3>別</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 별 - ベツ・ベチ</li>
+            <li>훈: 나눔, 헤어지다 - わか(れる)・わ(ける)・わか(つ)</li>
+          </ul>
+          <br/>
+          <h3>逃</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 도망치다, 놓아주다 - に(げる)・に(がす)・のが(す)・のが(れる)</li>
+          </ul>
+          <br/>
+          <h3>怨</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 원망하다 - うら(む)・うら(み)</li>
+          </ul>
+          <br/>
+          <h3>斑</h3>
+          <ul>
+            <li>2급 (부수:文)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 얼룩 - まだら・ふ・ぶち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

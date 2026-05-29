@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>丸</h3>
+          <ul>
+            <li>9급 (부수:丶)</li>
+            <li>음: 환 - ガン</li>
+            <li>훈: 통째로, 둥글다 - まる・まる(い)・まる(める)・たま</li>
+          </ul>
+          <br/>
+          <h3>者</h3>
+          <ul>
+            <li>8급 (부수:耂)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 사람 - もの</li>
+          </ul>
+          <br/>
+          <h3>旦</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 단 - タン・ダン</li>
+            <li>훈: 아침 - あした</li>
+          </ul>
+          <br/>
+          <h3>欧</h3>
+          <ul>
+            <li>3급 (부수:欠)</li>
+            <li>음: 구 - オウ</li>
+            <li>훈: 유럽 - は(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

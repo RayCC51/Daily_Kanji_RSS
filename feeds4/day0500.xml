@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>階</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 등급 - きざはし・はしご・しな</li>
+          </ul>
+          <br/>
+          <h3>昭</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 밝다, 일본 연호 - あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>御</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 어 - ギョ・ゴ</li>
+            <li>훈: 높임말 - おん・お・み・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>烈</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 뜨겁다 - はげ(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>白</h3>
+          <ul>
+            <li>10급 (부수:白)</li>
+            <li>음: 백 - ハク・ビャク</li>
+            <li>훈: 하양 - しろ・しら・しろ(い)・あき(らか)・もう(す)・せりふ</li>
+          </ul>
+          <br/>
+          <h3>歯</h3>
+          <ul>
+            <li>8급 (부수:歯)</li>
+            <li>음: 치 - シ</li>
+            <li>훈: 이 - は・よわい</li>
+          </ul>
+          <br/>
+          <h3>芝</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 잔디 - しば</li>
+          </ul>
+          <br/>
+          <h3>翼</h3>
+          <ul>
+            <li>4급 (부수:羽)</li>
+            <li>음: 익 - ヨク</li>
+            <li>훈: 날개, 쪽 - つばさ・たす(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

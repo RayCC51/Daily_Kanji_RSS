@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>客</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 객 - キャク・カク</li>
+            <li>훈: 손님 - まろうど</li>
+          </ul>
+          <br/>
+          <h3>時</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 시 - ジ</li>
+            <li>훈: 때, 시간 - とき</li>
+          </ul>
+          <br/>
+          <h3>即</h3>
+          <ul>
+            <li>4급 (부수:卩)</li>
+            <li>음: 즉 - ソク・ショク</li>
+            <li>훈: 곧 - つ(く)・すなわ(ち)</li>
+          </ul>
+          <br/>
+          <h3>渡</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 건너다, 건네다 - わた(る)・わた(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

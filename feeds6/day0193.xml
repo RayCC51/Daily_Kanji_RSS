@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>心</h3>
+          <ul>
+            <li>9급 (부수:心)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 마음 - こころ・うら</li>
+          </ul>
+          <br/>
+          <h3>肥</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 살찌다 - こ(える)・こえ・こ(やす)・こ(やし)・ふと(る)</li>
+          </ul>
+          <br/>
+          <h3>息</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 식 - ソク</li>
+            <li>훈: 숨 - いき・やす(む)</li>
+          </ul>
+          <br/>
+          <h3>峰</h3>
+          <ul>
+            <li>4급 (부수:山)</li>
+            <li>음: 봉 - ホウ・フ</li>
+            <li>훈: 봉우리 - みね</li>
+          </ul>
+          <br/>
+          <h3>漸</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 점 - ゼン・ザン</li>
+            <li>훈: 점차 - ようや(く)・すす(む)・やや</li>
+          </ul>
+          <br/>
+          <h3>鬼</h3>
+          <ul>
+            <li>4급 (부수:鬼)</li>
+            <li>음: 귀 - キ</li>
+            <li>훈: 귀신, 도깨비 - おに</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

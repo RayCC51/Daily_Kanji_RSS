@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>秒</h3>
+          <ul>
+            <li>8급 (부수:禾)</li>
+            <li>음: 초 - ビョウ</li>
+            <li>훈: 초 - のぎ</li>
+          </ul>
+          <br/>
+          <h3>序</h3>
+          <ul>
+            <li>6급 (부수:广)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 차례 - つい(で)・はしがき・まなびや</li>
+          </ul>
+          <br/>
+          <h3>合</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 합 - ゴウ・ガッ・カッ・コウ</li>
+            <li>훈: 맞다, 합치다 - あ(う)・あ(わす)・あ(わせる)</li>
+          </ul>
+          <br/>
+          <h3>漂</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 떠다니다 - ただよ(う)・さら(す)</li>
+          </ul>
+          <br/>
+          <h3>斬</h3>
+          <ul>
+            <li>2급 (부수:斤)</li>
+            <li>음: 참 - ザン・サン</li>
+            <li>훈: 베다 - き(る)</li>
+          </ul>
+          <br/>
+          <h3>稼</h3>
+          <ul>
+            <li>2.5급 (부수:禾)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 돈을 벌다 - かせ(ぐ)・みの(り)・う(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

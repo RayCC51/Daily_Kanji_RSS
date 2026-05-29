@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>肺</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 폐 - ハイ</li>
+            <li>훈: 폐 - 無し</li>
+          </ul>
+          <br/>
+          <h3>三</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 삼 - サン</li>
+            <li>훈: 3, 셋 - み・み(つ)・み(っつ)</li>
+          </ul>
+          <br/>
+          <h3>革</h3>
+          <ul>
+            <li>5급 (부수:革)</li>
+            <li>음: 혁 - カク</li>
+            <li>훈: 가죽, 혁명 - かわ・あらた(まる)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>埋</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 매 - マイ</li>
+            <li>훈: 묻다 - う(める)・う(まる)・う(もれる)・うず(もれる)・うず(まる)・い(ける)</li>
+          </ul>
+          <br/>
+          <h3>粋</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 순수, 세련되다 - いき</li>
+          </ul>
+          <br/>
+          <h3>傑</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 걸 - ケツ</li>
+            <li>훈: 뛰어나다 - すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

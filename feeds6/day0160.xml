@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>処</h3>
+          <ul>
+            <li>5급 (부수:几)</li>
+            <li>음: 처 - ショ・ソ</li>
+            <li>훈: 처치 - ところ・お(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>店</h3>
+          <ul>
+            <li>9급 (부수:广)</li>
+            <li>음: 점 - テン</li>
+            <li>훈: 가게 - みせ・たな</li>
+          </ul>
+          <br/>
+          <h3>乳</h3>
+          <ul>
+            <li>5급 (부수:乙)</li>
+            <li>음: 유 - ニュウ・ジュ・ニュ</li>
+            <li>훈: 젖 - ちち・ち</li>
+          </ul>
+          <br/>
+          <h3>祉</h3>
+          <ul>
+            <li>3급 (부수:示)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 복 - さいわ(い)</li>
+          </ul>
+          <br/>
+          <h3>耐</h3>
+          <ul>
+            <li>4급 (부수:而)</li>
+            <li>음: 내 - タイ</li>
+            <li>훈: 견디다 - た(える)</li>
+          </ul>
+          <br/>
+          <h3>闘</h3>
+          <ul>
+            <li>4급 (부수:門)</li>
+            <li>음: 투 - トウ</li>
+            <li>훈: 싸우다 - たたか(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

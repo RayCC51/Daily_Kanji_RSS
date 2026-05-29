@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>可</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 가 - カ・コク</li>
+            <li>훈: 옳다 - よ(い)・べ(し)</li>
+          </ul>
+          <br/>
+          <h3>節</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 절 - セツ・セチ</li>
+            <li>훈: 마디 - ふし・みさお・ノット</li>
+          </ul>
+          <br/>
+          <h3>鈴</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 령 - レイ・リン</li>
+            <li>훈: 방울 - すず</li>
+          </ul>
+          <br/>
+          <h3>璃</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 유리 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

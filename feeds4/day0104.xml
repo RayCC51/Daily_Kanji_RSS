@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>尺</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 척 - シャク・セキ</li>
+            <li>훈: 척도 - さし・ものさし・わず(か)</li>
+          </ul>
+          <br/>
+          <h3>青</h3>
+          <ul>
+            <li>10급 (부수:青)</li>
+            <li>음: 청 - セイ・ショウ</li>
+            <li>훈: 파랑 - あお・あお(い)</li>
+          </ul>
+          <br/>
+          <h3>雄</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 웅 - ユウ</li>
+            <li>훈: 수컷 - お・おす・おん・まさ(る)</li>
+          </ul>
+          <br/>
+          <h3>幾</h3>
+          <ul>
+            <li>4급 (부수:幺)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 얼마 - いく・ほとん(ど)・きざ(し)・こいねが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

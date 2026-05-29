@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>君</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 군 - クン</li>
+            <li>훈: 너, 임금 - きみ</li>
+          </ul>
+          <br/>
+          <h3>休</h3>
+          <ul>
+            <li>10급 (부수:人)</li>
+            <li>음: 휴 - キュウ</li>
+            <li>훈: 쉬다 - やす(む)・やす(まる)・やす(める)・いこ(う)・や(める)・さいわ(い)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>戯</h3>
+          <ul>
+            <li>4급 (부수:戈)</li>
+            <li>음: 희 - ギ・ゲ</li>
+            <li>훈: 놀다 - たわむ(れる)・ざ(れる)・たわ(ける)</li>
+          </ul>
+          <br/>
+          <h3>楼</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 루 - ロウ</li>
+            <li>훈: 다락 - たかどの・やぐら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

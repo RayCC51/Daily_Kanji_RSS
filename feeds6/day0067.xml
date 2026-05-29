@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>乗</h3>
+          <ul>
+            <li>8급 (부수:丿)</li>
+            <li>음: 승 - ジョウ・ショウ</li>
+            <li>훈: 타다 - の(る)・の(せる)</li>
+          </ul>
+          <br/>
+          <h3>春</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 춘 - シュン</li>
+            <li>훈: 봄 - はる</li>
+          </ul>
+          <br/>
+          <h3>固</h3>
+          <ul>
+            <li>7급 (부수:囗)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 단단하다, 굳다 - かた(める)・かた(まる)・かた(い)・もと(より)</li>
+          </ul>
+          <br/>
+          <h3>膜</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 막 - マク・バク</li>
+            <li>훈: 막 - 無し</li>
+          </ul>
+          <br/>
+          <h3>含</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 함 - ガン・カン・ゴン</li>
+            <li>훈: 포함하다 - ふく(む)・ふく(める)</li>
+          </ul>
+          <br/>
+          <h3>祈</h3>
+          <ul>
+            <li>4급 (부수:示)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 빌다 - いの(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

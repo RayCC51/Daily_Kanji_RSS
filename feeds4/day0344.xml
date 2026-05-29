@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刻</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 각 - コク</li>
+            <li>훈: 새기다 - きざ(む)・とき</li>
+          </ul>
+          <br/>
+          <h3>庭</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 정원 - にわ</li>
+          </ul>
+          <br/>
+          <h3>股</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 가랑이 - また・もも</li>
+          </ul>
+          <br/>
+          <h3>戻</h3>
+          <ul>
+            <li>2.5급 (부수:戸)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 되돌리다, 돌려주다 - もど(す)・もど(る)・もと(る)・いた(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

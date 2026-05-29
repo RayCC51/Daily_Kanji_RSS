@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>舌</h3>
+          <ul>
+            <li>5급 (부수:舌)</li>
+            <li>음: 설 - ゼツ・セツ</li>
+            <li>훈: 혀 - した・ことば</li>
+          </ul>
+          <br/>
+          <h3>発</h3>
+          <ul>
+            <li>8급 (부수:癶)</li>
+            <li>음: 발 - ハツ・ホツ</li>
+            <li>훈: 피다 - はな(つ)・た(つ)・ひら(く)・あば(く)</li>
+          </ul>
+          <br/>
+          <h3>維</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 유 - イ</li>
+            <li>훈: 벼리 - つな(ぐ)・これ</li>
+          </ul>
+          <br/>
+          <h3>陪</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 배 - バイ</li>
+            <li>훈: 모시다 - したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

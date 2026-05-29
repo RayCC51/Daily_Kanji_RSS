@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>条</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 조 - ジョウ</li>
+            <li>훈: 조건 - えだ・すじ</li>
+          </ul>
+          <br/>
+          <h3>町</h3>
+          <ul>
+            <li>10급 (부수:田)</li>
+            <li>음: 정 - チョウ・テイ</li>
+            <li>훈: 마을 - まち・あぜみち</li>
+          </ul>
+          <br/>
+          <h3>他</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 타 - タ</li>
+            <li>훈: 다른 것 - ほか</li>
+          </ul>
+          <br/>
+          <h3>哲</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철학 - あき(らか)・さと(い)</li>
+          </ul>
+          <br/>
+          <h3>更</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 경, 갱 - コウ</li>
+            <li>훈: 더욱, 깊어지다, 고치다 - さら・ふ(ける)・ふ(かす)・か(える)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>吐</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 토 - ト</li>
+            <li>훈: 뱉다 - は(く)・つ(く)・ぬ(かす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

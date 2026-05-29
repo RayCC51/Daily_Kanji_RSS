@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>湯</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 탕 - トウ・ショウ</li>
+            <li>훈: 뜨거운 물 - ゆ</li>
+          </ul>
+          <br/>
+          <h3>状</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 상, 장 - ジョウ</li>
+            <li>훈: 상황, 문서 - かたち・かきつけ</li>
+          </ul>
+          <br/>
+          <h3>修</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 수 - シュウ・シュ</li>
+            <li>훈: 닦다, 좋아지다 - おさ(める)・おさ(まる)・かざ(る)・なが(い)</li>
+          </ul>
+          <br/>
+          <h3>択</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 택 - タク</li>
+            <li>훈: 고르다 - えら(ぶ)・よ(る)</li>
+          </ul>
+          <br/>
+          <h3>概</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 개 - ガイ・カイ</li>
+            <li>훈: 대개 - おおむ(ね)</li>
+          </ul>
+          <br/>
+          <h3>艇</h3>
+          <ul>
+            <li>2.5급 (부수:舟)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 배 - こぶね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>口</h3>
+          <ul>
+            <li>10급 (부수:口)</li>
+            <li>음: 구 - コウ・ク</li>
+            <li>훈: 입 - くち</li>
+          </ul>
+          <br/>
+          <h3>置</h3>
+          <ul>
+            <li>7급 (부수:网)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 놓다 - お(く)</li>
+          </ul>
+          <br/>
+          <h3>帯</h3>
+          <ul>
+            <li>7급 (부수:巾)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 띠, 차다 - お(びる)・おび</li>
+          </ul>
+          <br/>
+          <h3>還</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 환 - カン・ゲン</li>
+            <li>훈: 돌아오다 - かえ(る)・かえ(す)・また</li>
+          </ul>
+          <br/>
+          <h3>珍</h3>
+          <ul>
+            <li>4급 (부수:玉)</li>
+            <li>음: 진 - チン</li>
+            <li>훈: 드물다 - めずら(しい)</li>
+          </ul>
+          <br/>
+          <h3>措</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 조치 - お(く)・はか(らう)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

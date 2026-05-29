@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>植</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 식 - ショク・チ</li>
+            <li>훈: 심다 - う(える)・う(わる)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>勢</h3>
+          <ul>
+            <li>6급 (부수:力)</li>
+            <li>음: 세 - セイ・セ</li>
+            <li>훈: 기세, 세력 - いきお(い)</li>
+          </ul>
+          <br/>
+          <h3>梗</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 경 - コウ・キョウ</li>
+            <li>훈: 줄기 - おおむ(ね)・ふさ(がる)・かた(い)・つよ(い)・でく</li>
+          </ul>
+          <br/>
+          <h3>致</h3>
+          <ul>
+            <li>4급 (부수:至)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 이르게 하다 - いた(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

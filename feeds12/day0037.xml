@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>郷</h3>
+          <ul>
+            <li>5급 (부수:邑)</li>
+            <li>음: 향 - キョウ・ゴウ</li>
+            <li>훈: 시골 - さと</li>
+          </ul>
+          <br/>
+          <h3>俳</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 배우 - わざおぎ・たわむ(れ)</li>
+          </ul>
+          <br/>
+          <h3>探</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 탐 - タン</li>
+            <li>훈: 찾다, 살피다 - さぐ(る)・さが(す)</li>
+          </ul>
+          <br/>
+          <h3>速</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 속 - ソク</li>
+            <li>훈: 빠르다 - はや(い)・はや(める)・はや(まる)・すみ(やか)</li>
+          </ul>
+          <br/>
+          <h3>看</h3>
+          <ul>
+            <li>5급 (부수:目)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 돌보다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>兆</h3>
+          <ul>
+            <li>7급 (부수:儿)</li>
+            <li>음: 조 - チョウ・ジョウ</li>
+            <li>훈: 1,000,000,000,000, 징조, 싹트다 - きざ(す)・きざ(し)・うらな(い)</li>
+          </ul>
+          <br/>
+          <h3>旬</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 순 - ジュン・シュン</li>
+            <li>훈: 열흘 - 無し</li>
+          </ul>
+          <br/>
+          <h3>壌</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 흙 - つち</li>
+          </ul>
+          <br/>
+          <h3>漂</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 떠다니다 - ただよ(う)・さら(す)</li>
+          </ul>
+          <br/>
+          <h3>韓</h3>
+          <ul>
+            <li>2급 (부수:韋)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한국 - から</li>
+          </ul>
+          <br/>
+          <h3>倣</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 흉내내다 - なら(う)</li>
+          </ul>
+          <br/>
+          <h3>赦</h3>
+          <ul>
+            <li>3급 (부수:赤)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 용서하다 - ゆる(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

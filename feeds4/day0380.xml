@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>汽</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 김 - ゆげ</li>
+          </ul>
+          <br/>
+          <h3>頂</h3>
+          <ul>
+            <li>5급 (부수:頁)</li>
+            <li>음: 정 - チョウ・テイ</li>
+            <li>훈: 받다, 모시다, 꼭대기 - いただ(く)・いただき</li>
+          </ul>
+          <br/>
+          <h3>駒</h3>
+          <ul>
+            <li>2급 (부수:馬)</li>
+            <li>음: 구 - ク</li>
+            <li>훈: 망아지 - こま</li>
+          </ul>
+          <br/>
+          <h3>摂</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 섭 - セツ・ショウ</li>
+            <li>훈: 다스리다 - と(る)・か(ねる)・か(わる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

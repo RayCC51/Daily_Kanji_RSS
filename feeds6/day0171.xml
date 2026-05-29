@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>救</h3>
+          <ul>
+            <li>6급 (부수:攵)</li>
+            <li>음: 구 - キュウ・グ・ク</li>
+            <li>훈: 구하다 - すく(う)・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>遊</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 유 - ユウ・ユ</li>
+            <li>훈: 놀다 - あそ(ぶ)・すさ(び)・すさ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>団</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 단 - ダン・トン・タン</li>
+            <li>훈: 단체 - まる(い)・かたまり</li>
+          </ul>
+          <br/>
+          <h3>殻</h3>
+          <ul>
+            <li>2.5급 (부수:殳)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 껍질 - から</li>
+          </ul>
+          <br/>
+          <h3>詣</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 예 - ケイ</li>
+            <li>훈: 참배하다 - もう(でる)・いた(る)・まい(る)</li>
+          </ul>
+          <br/>
+          <h3>培</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 배 - バイ・ホウ・ハイ</li>
+            <li>훈: 배양하다 - つちか(う)・おか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

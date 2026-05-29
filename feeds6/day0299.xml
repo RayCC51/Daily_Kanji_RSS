@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>妻</h3>
+          <ul>
+            <li>6급 (부수:女)</li>
+            <li>음: 처 - サイ・セイ</li>
+            <li>훈: 아내 - つま・めあ(わす)</li>
+          </ul>
+          <br/>
+          <h3>挙</h3>
+          <ul>
+            <li>7급 (부수:手)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 오르다, 들다 - あ(げる)・あ(がる)・こぞ(る)・こぞ(って)</li>
+          </ul>
+          <br/>
+          <h3>運</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 운 - ウン</li>
+            <li>훈: 옮기다 - はこ(ぶ)・めぐ(る)・さだめ</li>
+          </ul>
+          <br/>
+          <h3>唐</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 당나라, 당황 - から・もろこし</li>
+          </ul>
+          <br/>
+          <h3>塗</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 칠하다 - ぬ(る)・どろ・まみ(れる)・まぶ(す)・みち</li>
+          </ul>
+          <br/>
+          <h3>墾</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 간 - コン</li>
+            <li>훈: 개간하다 - ひら(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

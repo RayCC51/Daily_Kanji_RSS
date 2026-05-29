@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>軍</h3>
+          <ul>
+            <li>7급 (부수:車)</li>
+            <li>음: 군 - グン・クン</li>
+            <li>훈: 군사 - いくさ・つわもの</li>
+          </ul>
+          <br/>
+          <h3>殺</h3>
+          <ul>
+            <li>6급 (부수:殳)</li>
+            <li>음: 살 - サツ・サイ・セツ</li>
+            <li>훈: 죽이다 - ころ(す)・そ(ぐ)・そ(げる)・けず(る)</li>
+          </ul>
+          <br/>
+          <h3>隆</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 륭 - リュウ</li>
+            <li>훈: 높다 - たか(い)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>尽</h3>
+          <ul>
+            <li>4급 (부수:尸)</li>
+            <li>음: 진 - ジン</li>
+            <li>훈: 다하다, 바닥나다, 없어지다 - つ(くす)・つ(きる)・つ(かす)・すが(れる)・ことごと(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

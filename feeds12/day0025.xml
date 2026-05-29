@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>城</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 성 - ジョウ・セイ</li>
+            <li>훈: 성 - しろ・き</li>
+          </ul>
+          <br/>
+          <h3>暗</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 암 - アン</li>
+            <li>훈: 어둡다 - くら(い)・やみ・そら(んじる)</li>
+          </ul>
+          <br/>
+          <h3>末</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 말 - マツ・バツ</li>
+            <li>훈: 끝 - すえ・うら</li>
+          </ul>
+          <br/>
+          <h3>日</h3>
+          <ul>
+            <li>10급 (부수:日)</li>
+            <li>음: 일 - ニチ・ジツ</li>
+            <li>훈: 날 - ひ・か</li>
+          </ul>
+          <br/>
+          <h3>弁</h3>
+          <ul>
+            <li>6급 (부수:廾)</li>
+            <li>음: 변 - ベン</li>
+            <li>훈: 고깔 - わきま(える)・わ(ける)・はなびら・と(く)・かた(る)</li>
+          </ul>
+          <br/>
+          <h3>済</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 제 - サイ・セイ</li>
+            <li>훈: 끝나다 - す(む)・す(ます)・すく(う)・な(す)・わた(る)・わた(す)</li>
+          </ul>
+          <br/>
+          <h3>臭</h3>
+          <ul>
+            <li>2.5급 (부수:自)</li>
+            <li>음: 취 - シュウ・キュウ</li>
+            <li>훈: 냄새 - くさ(い)・にお(う)</li>
+          </ul>
+          <br/>
+          <h3>謀</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 모 - ボウ・ム</li>
+            <li>훈: 꾀하다 - はか(る)・はかりごと</li>
+          </ul>
+          <br/>
+          <h3>鍋</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 냄비 - なべ</li>
+          </ul>
+          <br/>
+          <h3>祈</h3>
+          <ul>
+            <li>4급 (부수:示)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 빌다 - いの(る)</li>
+          </ul>
+          <br/>
+          <h3>懇</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 간 - コン</li>
+            <li>훈: 간절, 공손함 - ねんご(ろ)</li>
+          </ul>
+          <br/>
+          <h3>剤</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 제 - ザイ・セイ</li>
+            <li>훈: 약제 - ま(ぜる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

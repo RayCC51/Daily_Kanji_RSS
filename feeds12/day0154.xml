@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>羊</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 양 - ひつじ</li>
+          </ul>
+          <br/>
+          <h3>片</h3>
+          <ul>
+            <li>5급 (부수:片)</li>
+            <li>음: 편 - ヘン</li>
+            <li>훈: 조각 - かた・きれ・ひら・ペンス</li>
+          </ul>
+          <br/>
+          <h3>判</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 판 - ハン・バン・ホウ</li>
+            <li>훈: 판단 - わ(ける)・わか(る)</li>
+          </ul>
+          <br/>
+          <h3>安</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 안 - アン</li>
+            <li>훈: 편하다, 싸다 - やす(い)・やす(んじる)・いずく(んぞ)</li>
+          </ul>
+          <br/>
+          <h3>高</h3>
+          <ul>
+            <li>9급 (부수:高)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 높다, 비싸다 - たか(い)・たか・たか(まる)・たか(める)</li>
+          </ul>
+          <br/>
+          <h3>士</h3>
+          <ul>
+            <li>6급 (부수:士)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 선비 - さむらい</li>
+          </ul>
+          <br/>
+          <h3>咽</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 인 - イン・エツ・エン</li>
+            <li>훈: 목구멍, 목메다 - のど・むせ(ぶ)・の(む)</li>
+          </ul>
+          <br/>
+          <h3>審</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 살피다 - つまび(らか)</li>
+          </ul>
+          <br/>
+          <h3>維</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 유 - イ</li>
+            <li>훈: 벼리 - つな(ぐ)・これ</li>
+          </ul>
+          <br/>
+          <h3>匹</h3>
+          <ul>
+            <li>4급 (부수:匸)</li>
+            <li>음: 필 - ヒツ</li>
+            <li>훈: 마리 - ひき・たぐ(う)</li>
+          </ul>
+          <br/>
+          <h3>擁</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 옹 - ヨウ</li>
+            <li>훈: 끼다 - いだ(く)・だ(く)・まも(る)</li>
+          </ul>
+          <br/>
+          <h3>慈</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 자 - ジ</li>
+            <li>훈: 사랑하다 - いつく(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

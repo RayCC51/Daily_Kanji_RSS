@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>呼</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 부르다 - よ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>染</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 염 - セン・ゼン</li>
+            <li>훈: 물들다, 번지다 - そ(める)・そ(まる)・し(みる)・し(み)</li>
+          </ul>
+          <br/>
+          <h3>脈</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 맥 - ミャク・バク</li>
+            <li>훈: 줄기 - すじ</li>
+          </ul>
+          <br/>
+          <h3>浦</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 포 - ホ</li>
+            <li>훈: 물가, 포구 - うら</li>
+          </ul>
+          <br/>
+          <h3>郎</h3>
+          <ul>
+            <li>4급 (부수:邑)</li>
+            <li>음: 랑 - ロウ</li>
+            <li>훈: 사내 - おとこ</li>
+          </ul>
+          <br/>
+          <h3>辱</h3>
+          <ul>
+            <li>3급 (부수:辰)</li>
+            <li>음: 욕 - ジョク・ニク</li>
+            <li>훈: 모욕하다 - はずかし(める)・はじ・はずかし(め)・かたじけな(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

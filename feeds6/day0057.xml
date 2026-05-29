@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>高</h3>
+          <ul>
+            <li>9급 (부수:高)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 높다, 비싸다 - たか(い)・たか・たか(まる)・たか(める)</li>
+          </ul>
+          <br/>
+          <h3>復</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 복, 부 - フク</li>
+            <li>훈: 회복하다 - かえ(る)・かえ(す)・また・ふたた(び)</li>
+          </ul>
+          <br/>
+          <h3>暮</h3>
+          <ul>
+            <li>5급 (부수:日)</li>
+            <li>음: 모 - ボ</li>
+            <li>훈: 저물다, 살다 - く(れる)・く(らす)</li>
+          </ul>
+          <br/>
+          <h3>豚</h3>
+          <ul>
+            <li>3급 (부수:豕)</li>
+            <li>음: 돈 - トン</li>
+            <li>훈: 돼지 - ぶた</li>
+          </ul>
+          <br/>
+          <h3>拘</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 구 - コウ</li>
+            <li>훈: 구속 - とら(える)・とど(める)・かか(わる)・こだわ(る)</li>
+          </ul>
+          <br/>
+          <h3>迭</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 질 - テツ</li>
+            <li>훈: 경질 - か(わる)・たが(いに)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>役</h3>
+          <ul>
+            <li>8급 (부수:彳)</li>
+            <li>음: 역 - ヤク・エキ</li>
+            <li>훈: 역할 - つと(め)・いくさ</li>
+          </ul>
+          <br/>
+          <h3>標</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 표준 - しるし・しるべ・しめ・しる(す)・こずえ</li>
+          </ul>
+          <br/>
+          <h3>逃</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 도망치다, 놓아주다 - に(げる)・に(がす)・のが(す)・のが(れる)</li>
+          </ul>
+          <br/>
+          <h3>顕</h3>
+          <ul>
+            <li>2.5급 (부수:頁)</li>
+            <li>음: 현 - ケン</li>
+            <li>훈: 나타나다 - あき(らか)・あらわ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

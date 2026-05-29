@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>老</h3>
+          <ul>
+            <li>7급 (부수:耂)</li>
+            <li>음: 로 - ロウ</li>
+            <li>훈: 늙다 - お(いる)・ふ(ける)</li>
+          </ul>
+          <br/>
+          <h3>章</h3>
+          <ul>
+            <li>8급 (부수:立)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 글 - あや・しるし・ふみ</li>
+          </ul>
+          <br/>
+          <h3>逸</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 일 - イツ・イチ</li>
+            <li>훈: 편안하다, 빗나가다, 놓치다 - はし(る)・うしな(う)・そ(れる)・そ(らす)・はぐ(れる)・すぐ(れる)・はや(る)</li>
+          </ul>
+          <br/>
+          <h3>淡</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 담 - タン</li>
+            <li>훈: 연하다, 담담함 - あわ(い)・うす(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

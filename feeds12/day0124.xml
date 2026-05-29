@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>京</h3>
+          <ul>
+            <li>9급 (부수:亠)</li>
+            <li>음: 경 - キョウ・ケイ・キン</li>
+            <li>훈: 서울 - みやこ</li>
+          </ul>
+          <br/>
+          <h3>祝</h3>
+          <ul>
+            <li>7급 (부수:示)</li>
+            <li>음: 축 - シュク・シュウ</li>
+            <li>훈: 축하하다 - いわ(う)・た(つ)・の(る)・のろ(う)</li>
+          </ul>
+          <br/>
+          <h3>議</h3>
+          <ul>
+            <li>7급 (부수:言)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 의논 - はか(る)</li>
+          </ul>
+          <br/>
+          <h3>商</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 장사, 장사하다 - あきな(う)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>遊</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 유 - ユウ・ユ</li>
+            <li>훈: 놀다 - あそ(ぶ)・すさ(び)・すさ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>公</h3>
+          <ul>
+            <li>9급 (부수:八)</li>
+            <li>음: 공 - コウ・ク</li>
+            <li>훈: 공평 - おおやけ・きみ</li>
+          </ul>
+          <br/>
+          <h3>歓</h3>
+          <ul>
+            <li>4급 (부수:欠)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 기쁘다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>舗</h3>
+          <ul>
+            <li>4급 (부수:舌)</li>
+            <li>음: 포 - ホ・フ</li>
+            <li>훈: 펴다, 가게 - みせ・し(く)</li>
+          </ul>
+          <br/>
+          <h3>棋</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 기 - キ・ゴ</li>
+            <li>훈: 바둑 - 無し</li>
+          </ul>
+          <br/>
+          <h3>謎</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 미 - メイ・ベイ</li>
+            <li>훈: 수수께끼 - なぞ</li>
+          </ul>
+          <br/>
+          <h3>衡</h3>
+          <ul>
+            <li>2.5급 (부수:行)</li>
+            <li>음: 형 - コウ</li>
+            <li>훈: 저울 - はかり・はか(る)・くびき</li>
+          </ul>
+          <br/>
+          <h3>嘆</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 한탄하다 - なげ(く)・なげ(かわしい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

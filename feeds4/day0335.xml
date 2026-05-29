@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>泣</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 읍 - キュウ</li>
+            <li>훈: 울다 - な(く)</li>
+          </ul>
+          <br/>
+          <h3>独</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 독 - ドク・トク</li>
+            <li>훈: 혼자 - ひと(り)</li>
+          </ul>
+          <br/>
+          <h3>眺</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 바라보다 - なが(める)</li>
+          </ul>
+          <br/>
+          <h3>斎</h3>
+          <ul>
+            <li>2.5급 (부수:斉)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재계, 집 - ものいみ・つつし(む)・いつ(く)・とき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

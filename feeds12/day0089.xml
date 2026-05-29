@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>局</h3>
+          <ul>
+            <li>8급 (부수:尸)</li>
+            <li>음: 국 - キョク</li>
+            <li>훈: 판 - つぼね</li>
+          </ul>
+          <br/>
+          <h3>賀</h3>
+          <ul>
+            <li>7급 (부수:貝)</li>
+            <li>음: 하 - ガ</li>
+            <li>훈: 축하 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>失</h3>
+          <ul>
+            <li>7급 (부수:大)</li>
+            <li>음: 실 - シツ</li>
+            <li>훈: 잃다 - うしな(う)・う(せる)</li>
+          </ul>
+          <br/>
+          <h3>有</h3>
+          <ul>
+            <li>8급 (부수:月)</li>
+            <li>음: 유 - ユウ・ウ</li>
+            <li>훈: 있다 - あ(る)・も(つ)</li>
+          </ul>
+          <br/>
+          <h3>立</h3>
+          <ul>
+            <li>10급 (부수:立)</li>
+            <li>음: 립 - リツ・リュウ</li>
+            <li>훈: 일어서다, 세우다, 리터 - た(つ)・た(てる)・リットル</li>
+          </ul>
+          <br/>
+          <h3>留</h3>
+          <ul>
+            <li>6급 (부수:田)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 머물다, 고정하다 - と(める)・と(まる)・とど(まる)</li>
+          </ul>
+          <br/>
+          <h3>忌</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기피하다, 꺼림칙하다 - い(む)・い(まわしい)</li>
+          </ul>
+          <br/>
+          <h3>微</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 작다 - かす(か)</li>
+          </ul>
+          <br/>
+          <h3>砲</h3>
+          <ul>
+            <li>4급 (부수:石)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 대포 - つつ・おおづつ</li>
+          </ul>
+          <br/>
+          <h3>致</h3>
+          <ul>
+            <li>4급 (부수:至)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 이르게 하다 - いた(す)</li>
+          </ul>
+          <br/>
+          <h3>衝</h3>
+          <ul>
+            <li>3급 (부수:行)</li>
+            <li>음: 충 - ショウ</li>
+            <li>훈: 찌르다, 부딪히다 - つ(く)</li>
+          </ul>
+          <br/>
+          <h3>甲</h3>
+          <ul>
+            <li>3급 (부수:田)</li>
+            <li>음: 갑 - コウ・カン</li>
+            <li>훈: 갑, 투구 - つめ・きのえ・よろい・かぶと</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

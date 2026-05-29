@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>技</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 기 - ギ</li>
+            <li>훈: 재주, 기술 - わざ</li>
+          </ul>
+          <br/>
+          <h3>巣</h3>
+          <ul>
+            <li>7급 (부수:ツ)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 둥지 - す</li>
+          </ul>
+          <br/>
+          <h3>娠</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+          <h3>寿</h3>
+          <ul>
+            <li>3급 (부수:寸)</li>
+            <li>음: 수 - ジュ・ス</li>
+            <li>훈: 목숨, 축하하다 - ことぶき・ことほ(ぐ)・とし・ひさ(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

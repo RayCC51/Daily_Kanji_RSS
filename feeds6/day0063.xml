@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>面</h3>
+          <ul>
+            <li>8급 (부수:面)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 얼굴, 가면 - おも・おもて・つら・も</li>
+          </ul>
+          <br/>
+          <h3>授</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 수 - ジュ</li>
+            <li>훈: 주다 - さず(ける)・さず(かる)</li>
+          </ul>
+          <br/>
+          <h3>林</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 림 - リン</li>
+            <li>훈: 숲 - はやし・おお(い)</li>
+          </ul>
+          <br/>
+          <h3>蛍</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 형 - ケイ</li>
+            <li>훈: 반딧불이 - ほたる</li>
+          </ul>
+          <br/>
+          <h3>緻</h3>
+          <ul>
+            <li>2급 (부수:糸)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 빽빽하다 - こま(かい)</li>
+          </ul>
+          <br/>
+          <h3>慶</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 경축 - よろこ(ぶ)・よ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>求</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 구 - キュウ・グ</li>
+            <li>훈: 구하다, 바라다 - もと(める)</li>
+          </ul>
+          <br/>
+          <h3>覚</h3>
+          <ul>
+            <li>7급 (부수:見)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 외우다, 느끼다, 깨다 - おぼ(える)・さ(ます)・さ(める)・さと(る)・さと(り)</li>
+          </ul>
+          <br/>
+          <h3>話</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 화 - ワ</li>
+            <li>훈: 이야기 - はな(す)・はなし</li>
+          </ul>
+          <br/>
+          <h3>詰</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 힐 - キツ</li>
+            <li>훈: 꾸짖다, 담다, 막히다 - つ(める)・つ(まる)・つ(む)・なじ(る)</li>
+          </ul>
+          <br/>
+          <h3>凝</h3>
+          <ul>
+            <li>3급 (부수:冫)</li>
+            <li>음: 응 - ギョウ</li>
+            <li>훈: 굳다, 엉기다 - こ(る)・こ(らす)・しこ(り)・こご(る)</li>
+          </ul>
+          <br/>
+          <h3>洪</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 홍 - コウ</li>
+            <li>훈: 넓다, 넘치다 - おおみず</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

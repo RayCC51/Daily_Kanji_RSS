@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>格</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 격 - カク・コウ・キャク・ゴウ</li>
+            <li>훈: 격식 - いた(る)・ただ(す)・う(つ)</li>
+          </ul>
+          <br/>
+          <h3>空</h3>
+          <ul>
+            <li>10급 (부수:穴)</li>
+            <li>음: 공 - クウ</li>
+            <li>훈: 하늘, 비다, 비우다 - そら・あ(く)・あ(ける)・から・うつ(ろ)・す(く)・うつ(ける)・むな(しい)・あな・うろ</li>
+          </ul>
+          <br/>
+          <h3>銅</h3>
+          <ul>
+            <li>6급 (부수:金)</li>
+            <li>음: 동 - ドウ</li>
+            <li>훈: 구리 - あかがね</li>
+          </ul>
+          <br/>
+          <h3>掌</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 손바닥 - てのひら・たなごころ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>僅</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 겨우, 근소함 - わず(か)</li>
+          </ul>
+          <br/>
+          <h3>泡</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 거품 - あわ・あぶく</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

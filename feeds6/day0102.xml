@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>産</h3>
+          <ul>
+            <li>7급 (부수:生)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 낳다, 태어나다 - う(む)・う(まれる)・うぶ</li>
+          </ul>
+          <br/>
+          <h3>万</h3>
+          <ul>
+            <li>9급 (부수:一)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 10000 - よろず</li>
+          </ul>
+          <br/>
+          <h3>短</h3>
+          <ul>
+            <li>8급 (부수:矢)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 짧다 - みじか(い)</li>
+          </ul>
+          <br/>
+          <h3>違</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 다르다, 위반하다 - ちが(う)・ちが(える)・たが(う)・たが(える)・さ(る)・よこしま・か(い)</li>
+          </ul>
+          <br/>
+          <h3>胴</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 몸통 - 無し</li>
+          </ul>
+          <br/>
+          <h3>描</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 묘 - ビョウ</li>
+            <li>훈: 그리다 - えが(く)・か(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

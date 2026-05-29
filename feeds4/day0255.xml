@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>始</h3>
+          <ul>
+            <li>8급 (부수:女)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시작하다 - はじ(める)・はじ(まる)</li>
+          </ul>
+          <br/>
+          <h3>交</h3>
+          <ul>
+            <li>9급 (부수:亠)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 사귀다, 섞다, 주고받다 - まじ(わる)・まじ(える)・ま(じる)・ま(ざる)・ま(ぜる)・か(う)・か(わす)・こもごも</li>
+          </ul>
+          <br/>
+          <h3>謄</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 베끼다 - うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>剰</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 잉 - ジョウ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・あまつさ(え)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

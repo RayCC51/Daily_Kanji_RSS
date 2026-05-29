@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>落</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 락 - ラク</li>
+            <li>훈: 떨어지다, 빠지다 - お(ちる)・お(とす)・さと</li>
+          </ul>
+          <br/>
+          <h3>海</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 바다 - うみ</li>
+          </ul>
+          <br/>
+          <h3>閉</h3>
+          <ul>
+            <li>5급 (부수:門)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 닫다 - と(じる)・と(ざす)・し(める)・し(まる)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>義</h3>
+          <ul>
+            <li>6급 (부수:羊)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 옳음 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>示</h3>
+          <ul>
+            <li>6급 (부수:示)</li>
+            <li>음: 시 - ジ・シ</li>
+            <li>훈: 보이다, 가리키다 - しめ(す)</li>
+          </ul>
+          <br/>
+          <h3>間</h3>
+          <ul>
+            <li>9급 (부수:門)</li>
+            <li>음: 간 - カン・ケン</li>
+            <li>훈: 사이 - あいだ・ま・はざま・あい・うかが(う)・ひそ(かに)・しず(か)</li>
+          </ul>
+          <br/>
+          <h3>為</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 하다, 위하다, 행하다 - な(す)・す(る)・ため・つく(る)・な(る)</li>
+          </ul>
+          <br/>
+          <h3>沙</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 사 - サ・シャ</li>
+            <li>훈: 모래 - すな・みぎわ・よな(げる)</li>
+          </ul>
+          <br/>
+          <h3>嗣</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 잇다 - つ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>鯨</h3>
+          <ul>
+            <li>3급 (부수:魚)</li>
+            <li>음: 경 - ゲイ・ケイ</li>
+            <li>훈: 고래 - くじら</li>
+          </ul>
+          <br/>
+          <h3>諧</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 어울리다 - やわ(らぐ)・かな(う)・ととの(う)・たわむ(れ)</li>
+          </ul>
+          <br/>
+          <h3>尾</h3>
+          <ul>
+            <li>4급 (부수:尸)</li>
+            <li>음: 미 - ビ</li>
+            <li>훈: 꼬리 - お</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

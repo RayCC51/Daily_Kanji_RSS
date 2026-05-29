@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>鳥</h3>
+          <ul>
+            <li>9급 (부수:鳥)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 새 - とり</li>
+          </ul>
+          <br/>
+          <h3>衆</h3>
+          <ul>
+            <li>5급 (부수:血)</li>
+            <li>음: 중 - シュウ・シュ</li>
+            <li>훈: 무리 - おお(い)</li>
+          </ul>
+          <br/>
+          <h3>輝</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 휘 - キ</li>
+            <li>훈: 빛나다 - かがや(く)・て(る)</li>
+          </ul>
+          <br/>
+          <h3>避</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 피하다 - さ(ける)・よ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>西</h3>
+          <ul>
+            <li>9급 (부수:襾)</li>
+            <li>음: 서 - セイ・サイ・スイ</li>
+            <li>훈: 서쪽 - にし</li>
+          </ul>
+          <br/>
+          <h3>終</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 종 - シュウ</li>
+            <li>훈: 끝나다 - お(わる)・お(える)・しま(う)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>犠</h3>
+          <ul>
+            <li>3급 (부수:牛)</li>
+            <li>음: 희 - ギ・キ</li>
+            <li>훈: 희생 - いけにえ</li>
+          </ul>
+          <br/>
+          <h3>絡</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 락 - ラク</li>
+            <li>훈: 잇다, 얽히다 - から(む)・から(まる)・から(める)・まと(う)・から(げる)・つな(ぐ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

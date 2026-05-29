@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>暑</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 덥다 - あつ(い)</li>
+          </ul>
+          <br/>
+          <h3>学</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 학 - ガク</li>
+            <li>훈: 배우다 - まな(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>邦</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 나라 - くに</li>
+          </ul>
+          <br/>
+          <h3>藻</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 해초, 수초 - も・あや</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

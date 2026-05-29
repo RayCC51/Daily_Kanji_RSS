@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>難</h3>
+          <ul>
+            <li>5급 (부수:隹)</li>
+            <li>음: 난 - ナン・ダン</li>
+            <li>훈: 어렵다 - かた(い)・むずか(しい)・にく(い)</li>
+          </ul>
+          <br/>
+          <h3>章</h3>
+          <ul>
+            <li>8급 (부수:立)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 글 - あや・しるし・ふみ</li>
+          </ul>
+          <br/>
+          <h3>職</h3>
+          <ul>
+            <li>6급 (부수:耳)</li>
+            <li>음: 직 - ショク・シキ</li>
+            <li>훈: 직장 - つと(め)・つかさ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>悲</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 슬프다 - かな(しい)・かな(しむ)</li>
+          </ul>
+          <br/>
+          <h3>収</h3>
+          <ul>
+            <li>5급 (부수:又)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 넣다, 거두다, 수습되다 - おさ(める)・おさ(まる)</li>
+          </ul>
+          <br/>
+          <h3>后</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 후 - コウ・ゴ</li>
+            <li>훈: 임금 - のち・きさき・きみ</li>
+          </ul>
+          <br/>
+          <h3>併</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 합치다 - あわ(せる)・なら(ぶ)・しか(し)</li>
+          </ul>
+          <br/>
+          <h3>拓</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 척, 탁 - タク</li>
+            <li>훈: 넓히다 - ひら(く)</li>
+          </ul>
+          <br/>
+          <h3>涙</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 눈물 - なみだ</li>
+          </ul>
+          <br/>
+          <h3>肯</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 긍 - コウ</li>
+            <li>훈: 긍정 - うなず(く)・がえん(じる)・うべな(う)・あ(えて)</li>
+          </ul>
+          <br/>
+          <h3>騒</h3>
+          <ul>
+            <li>4급 (부수:馬)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 떠들다 - さわ(ぐ)・ざわ(つく)・ぞめ(く)・うれ(い)</li>
+          </ul>
+          <br/>
+          <h3>輩</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 무리 - ともがら・やから</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

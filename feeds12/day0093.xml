@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>束</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 속 - ソク</li>
+            <li>훈: 약속, 묶음, 다발 - たば・つか・つか(ねる)</li>
+          </ul>
+          <br/>
+          <h3>帳</h3>
+          <ul>
+            <li>8급 (부수:巾)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 수첩 - とばり</li>
+          </ul>
+          <br/>
+          <h3>古</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 옛, 오래되다 - ふる(い)・ふる(す)・いにしえ</li>
+          </ul>
+          <br/>
+          <h3>設</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 설 - セツ・セチ</li>
+            <li>훈: 설치하다 - もう(ける)・しつら(える)</li>
+          </ul>
+          <br/>
+          <h3>糸</h3>
+          <ul>
+            <li>10급 (부수:糸)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 실 - いと</li>
+          </ul>
+          <br/>
+          <h3>花</h3>
+          <ul>
+            <li>10급 (부수:艸)</li>
+            <li>음: 화 - カ・ケ</li>
+            <li>훈: 꽃 - はな</li>
+          </ul>
+          <br/>
+          <h3>況</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 황 - キョウ</li>
+            <li>훈: 상황 - ありさま・いわ(んや)</li>
+          </ul>
+          <br/>
+          <h3>胴</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 몸통 - 無し</li>
+          </ul>
+          <br/>
+          <h3>援</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 돕다 - たす(ける)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>郭</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 곽 - カク</li>
+            <li>훈: 둘레 - くるわ</li>
+          </ul>
+          <br/>
+          <h3>励</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 힘쓰다, 격려하다 - はげ(む)・はげ(ます)</li>
+          </ul>
+          <br/>
+          <h3>遷</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 옮기다 - うつ(る)・うつ(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

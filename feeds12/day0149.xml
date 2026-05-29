@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>一</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 일 - イチ・イツ</li>
+            <li>훈: 1, 하나 - ひと・ひと(つ)・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>耳</h3>
+          <ul>
+            <li>10급 (부수:耳)</li>
+            <li>음: 이 - ジ</li>
+            <li>훈: 귀 - みみ・のみ</li>
+          </ul>
+          <br/>
+          <h3>祭</h3>
+          <ul>
+            <li>8급 (부수:示)</li>
+            <li>음: 제 - サイ</li>
+            <li>훈: 축제 - まつ(る)・まつ(り)</li>
+          </ul>
+          <br/>
+          <h3>仕</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 사 - シ・ジ</li>
+            <li>훈: 섬기다 - つか(える)・つかまつ(る)</li>
+          </ul>
+          <br/>
+          <h3>犯</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 범 - ハン・ボン</li>
+            <li>훈: 어기다 - おか(す)</li>
+          </ul>
+          <br/>
+          <h3>残</h3>
+          <ul>
+            <li>7급 (부수:歹)</li>
+            <li>음: 잔 - ザン</li>
+            <li>훈: 남다 - のこ(る)・のこ(す)・そこ(なう)</li>
+          </ul>
+          <br/>
+          <h3>架</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 걸이, 걸치다 - か(ける)・か(かる)・たな</li>
+          </ul>
+          <br/>
+          <h3>哀</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 슬프다, 동정하다 - あわ(れ)・あわ(れむ)・かな(しい)・かな(しむ)</li>
+          </ul>
+          <br/>
+          <h3>循</h3>
+          <ul>
+            <li>2.5급 (부수:彳)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 돌다 - したが(う)・めぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>稿</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 원고 - したがき・わら</li>
+          </ul>
+          <br/>
+          <h3>喫</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 끽 - キツ</li>
+            <li>훈: 먹다 - の(む)・す(う)・く(う)</li>
+          </ul>
+          <br/>
+          <h3>凍</h3>
+          <ul>
+            <li>3급 (부수:冫)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 얼다 - こお(る)・こご(える)・い(てる)・し(みる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

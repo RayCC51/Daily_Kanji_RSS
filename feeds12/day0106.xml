@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>名</h3>
+          <ul>
+            <li>10급 (부수:口)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 이름 - な</li>
+          </ul>
+          <br/>
+          <h3>池</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 지 - チ</li>
+            <li>훈: 연못 - いけ</li>
+          </ul>
+          <br/>
+          <h3>前</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 전 - ゼン・セン</li>
+            <li>훈: 앞 - まえ・さき</li>
+          </ul>
+          <br/>
+          <h3>栄</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 번영, 돋보이다 - さか(える)・は(え)・は(える)・は(やす)</li>
+          </ul>
+          <br/>
+          <h3>賞</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상금 - ほ(める)・め(でる)</li>
+          </ul>
+          <br/>
+          <h3>机</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 궤 - キ</li>
+            <li>훈: 책상 - つくえ</li>
+          </ul>
+          <br/>
+          <h3>衰</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 쇠 - スイ・サイ</li>
+            <li>훈: 쇠퇴하다 - おとろ(える)</li>
+          </ul>
+          <br/>
+          <h3>乙</h3>
+          <ul>
+            <li>3급 (부수:乙)</li>
+            <li>음: 을 - オツ・イツ</li>
+            <li>훈: 두 번째 - きのと・おと</li>
+          </ul>
+          <br/>
+          <h3>藤</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 등나무 - ふじ</li>
+          </ul>
+          <br/>
+          <h3>且</h3>
+          <ul>
+            <li>2.5급 (부수:一)</li>
+            <li>음: 차 - ショ</li>
+            <li>훈: 게다가 - か(つ)・しばら(く)・まさ(に…す)</li>
+          </ul>
+          <br/>
+          <h3>釜</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 가마솥 - かま</li>
+          </ul>
+          <br/>
+          <h3>賓</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 빈 - ヒン</li>
+            <li>훈: 손님 - まろうど・したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

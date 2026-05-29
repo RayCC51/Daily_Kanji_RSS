@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>危</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 위 - キ</li>
+            <li>훈: 위험하다, 걱정하다, 의심하다 - あぶ(ない)・あや(うい)・あや(ぶむ)・あや(める)・たか(い)</li>
+          </ul>
+          <br/>
+          <h3>水</h3>
+          <ul>
+            <li>10급 (부수:水)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 물 - みず</li>
+          </ul>
+          <br/>
+          <h3>立</h3>
+          <ul>
+            <li>10급 (부수:立)</li>
+            <li>음: 립 - リツ・リュウ</li>
+            <li>훈: 일어서다, 세우다, 리터 - た(つ)・た(てる)・リットル</li>
+          </ul>
+          <br/>
+          <h3>甚</h3>
+          <ul>
+            <li>2.5급 (부수:甘)</li>
+            <li>음: 심 - ジン</li>
+            <li>훈: 매우, 심하다 - はなは(だ)・はなは(だしい)・いた(く)</li>
+          </ul>
+          <br/>
+          <h3>憾</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 섭섭하다 - うら(む)</li>
+          </ul>
+          <br/>
+          <h3>麺</h3>
+          <ul>
+            <li>2급 (부수:麦)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 면 - むぎこ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

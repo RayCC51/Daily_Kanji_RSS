@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>川</h3>
+          <ul>
+            <li>10급 (부수:川)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 강 - かわ</li>
+          </ul>
+          <br/>
+          <h3>上</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 상 - ジョウ・ショウ</li>
+            <li>훈: 위, 올리다, 오르다 - うえ・うわ・かみ・あ(げる)・あ(がる)・のぼ(る)・のぼ(せる)・のぼ(す)・たてまつ(る)・ほとり</li>
+          </ul>
+          <br/>
+          <h3>逮</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 잡다 - およ(ぶ)・とら(える)</li>
+          </ul>
+          <br/>
+          <h3>杯</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 술잔 - さかずき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

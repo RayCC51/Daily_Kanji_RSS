@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>引</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 끌다, 내키지 않다 - ひ(く)・ひ(ける)</li>
+          </ul>
+          <br/>
+          <h3>備</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 비 - ビ・ヒ</li>
+            <li>훈: 대비하다, 갖추다 - そな(える)・そな(わる)・つぶさ(に)</li>
+          </ul>
+          <br/>
+          <h3>巻</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 권 - カン・ケン</li>
+            <li>훈: 책, 말다 - ま(く)・まき</li>
+          </ul>
+          <br/>
+          <h3>票</h3>
+          <ul>
+            <li>7급 (부수:示)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 표 - ふだ</li>
+          </ul>
+          <br/>
+          <h3>貯</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 저 - チョ</li>
+            <li>훈: 쌓다 - たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>営</h3>
+          <ul>
+            <li>6급 (부수:ツ)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 경영하다 - いとな(む)</li>
+          </ul>
+          <br/>
+          <h3>蜜</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 밀 - ミツ</li>
+            <li>훈: 꿀 - 無し</li>
+          </ul>
+          <br/>
+          <h3>栽</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 심다 - う(える)</li>
+          </ul>
+          <br/>
+          <h3>抜</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 발 - バツ</li>
+            <li>훈: 뽑다, 빠지다, 실수하다 - ぬ(く)・ぬ(ける)・ぬ(かす)・ぬ(かる)</li>
+          </ul>
+          <br/>
+          <h3>寿</h3>
+          <ul>
+            <li>3급 (부수:寸)</li>
+            <li>음: 수 - ジュ・ス</li>
+            <li>훈: 목숨, 축하하다 - ことぶき・ことほ(ぐ)・とし・ひさ(しい)</li>
+          </ul>
+          <br/>
+          <h3>辛</h3>
+          <ul>
+            <li>3급 (부수:辛)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 맵다, 괴롭다 - から(い)・つら(い)・かのと</li>
+          </ul>
+          <br/>
+          <h3>虐</h3>
+          <ul>
+            <li>3급 (부수:虍)</li>
+            <li>음: 학 - ギャク</li>
+            <li>훈: 학대하다 - しいた(げる)・むご(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

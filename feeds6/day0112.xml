@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>秘</h3>
+          <ul>
+            <li>5급 (부수:禾)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 숨기다 - ひ(める)・かく(す)・ひそ(か)</li>
+          </ul>
+          <br/>
+          <h3>就</h3>
+          <ul>
+            <li>5급 (부수:尢)</li>
+            <li>음: 취 - シュウ・ジュ</li>
+            <li>훈: 취임하다 - つ(く)・つ(ける)・な(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>灰</h3>
+          <ul>
+            <li>5급 (부수:火)</li>
+            <li>음: 회 - カイ</li>
+            <li>훈: 재 - はい</li>
+          </ul>
+          <br/>
+          <h3>聴</h3>
+          <ul>
+            <li>3급 (부수:耳)</li>
+            <li>음: 청 - チョウ・テイ</li>
+            <li>훈: 듣다 - き(く)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>隠</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 은 - イン・オン</li>
+            <li>훈: 숨다, 숨기다 - かく(す)・かく(れる)</li>
+          </ul>
+          <br/>
+          <h3>錯</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 착 - サク・ソ</li>
+            <li>훈: 어긋나다 - ま(じる)・あやま(る)・お(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

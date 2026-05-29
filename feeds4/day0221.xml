@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>有</h3>
+          <ul>
+            <li>8급 (부수:月)</li>
+            <li>음: 유 - ユウ・ウ</li>
+            <li>훈: 있다 - あ(る)・も(つ)</li>
+          </ul>
+          <br/>
+          <h3>低</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 저 - テイ</li>
+            <li>훈: 낮다 - ひく(い)・ひく(める)・ひく(まる)・た(れる)</li>
+          </ul>
+          <br/>
+          <h3>殊</h3>
+          <ul>
+            <li>3급 (부수:歹)</li>
+            <li>음: 수 - シュ</li>
+            <li>훈: 특히 - こと</li>
+          </ul>
+          <br/>
+          <h3>審</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 살피다 - つまび(らか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

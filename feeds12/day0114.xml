@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>多</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 다 - タ</li>
+            <li>훈: 많다 - おお(い)</li>
+          </ul>
+          <br/>
+          <h3>息</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 식 - ソク</li>
+            <li>훈: 숨 - いき・やす(む)</li>
+          </ul>
+          <br/>
+          <h3>元</h3>
+          <ul>
+            <li>9급 (부수:儿)</li>
+            <li>음: 원 - ゲン・ガン</li>
+            <li>훈: 으뜸, 원래 - もと・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>郡</h3>
+          <ul>
+            <li>7급 (부수:邑)</li>
+            <li>음: 군 - グン・クン</li>
+            <li>훈: 고을 - こおり</li>
+          </ul>
+          <br/>
+          <h3>脳</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 뇌 - ノウ・ドウ</li>
+            <li>훈: 뇌 - 無し</li>
+          </ul>
+          <br/>
+          <h3>夕</h3>
+          <ul>
+            <li>10급 (부수:夕)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 저녁 - ゆう</li>
+          </ul>
+          <br/>
+          <h3>磨</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 마 - マ・バ</li>
+            <li>훈: 갈다, 닦다, 연마하다 - みが(く)・と(ぐ)・す(る)</li>
+          </ul>
+          <br/>
+          <h3>曹</h3>
+          <ul>
+            <li>2.5급 (부수:曰)</li>
+            <li>음: 조 - ソウ・ゾウ</li>
+            <li>훈: 무리 - つかさ・ともがら</li>
+          </ul>
+          <br/>
+          <h3>誰</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 누구 - だれ・たれ・た</li>
+          </ul>
+          <br/>
+          <h3>腺</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 샘 - すじ</li>
+          </ul>
+          <br/>
+          <h3>募</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 모 - ボ・モ</li>
+            <li>훈: 모으다, 뽑다 - つの(る)</li>
+          </ul>
+          <br/>
+          <h3>披</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 펼치다 - ひら(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>比</h3>
+          <ul>
+            <li>6급 (부수:比)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비교하다 - くら(べる)・なら(ぶ)・たぐい・ころ</li>
+          </ul>
+          <br/>
+          <h3>刻</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 각 - コク</li>
+            <li>훈: 새기다 - きざ(む)・とき</li>
+          </ul>
+          <br/>
+          <h3>統</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 통 - トウ</li>
+            <li>훈: 총괄하다 - す(べる)・おさ(める)・すじ</li>
+          </ul>
+          <br/>
+          <h3>成</h3>
+          <ul>
+            <li>7급 (부수:戈)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 이루다, 되다 - な(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>河</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 물 - かわ</li>
+          </ul>
+          <br/>
+          <h3>飛</h3>
+          <ul>
+            <li>7급 (부수:飛)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 날다 - と(ぶ)・と(ばす)</li>
+          </ul>
+          <br/>
+          <h3>互</h3>
+          <ul>
+            <li>4급 (부수:二)</li>
+            <li>음: 호 - ゴ</li>
+            <li>훈: 서로 - たが(い)・かたみ(に)</li>
+          </ul>
+          <br/>
+          <h3>臼</h3>
+          <ul>
+            <li>2급 (부수:臼)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 절구 - うす</li>
+          </ul>
+          <br/>
+          <h3>腎</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 신 - ジン・シン</li>
+            <li>훈: 콩팥 - 無し</li>
+          </ul>
+          <br/>
+          <h3>浜</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 빈 - ヒン</li>
+            <li>훈: 물가 - はま</li>
+          </ul>
+          <br/>
+          <h3>鉛</h3>
+          <ul>
+            <li>4급 (부수:金)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 납 - なまり・おしろい</li>
+          </ul>
+          <br/>
+          <h3>伏</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 복 - フク・ブク</li>
+            <li>훈: 숙이다, 숨기다 - ふ(せる)・ふ(す)・かく(れる)・したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

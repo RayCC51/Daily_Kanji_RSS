@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>幕</h3>
+          <ul>
+            <li>5급 (부수:巾)</li>
+            <li>음: 막 - マク・バク</li>
+            <li>훈: 장막 - 無し</li>
+          </ul>
+          <br/>
+          <h3>梅</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 매화 - うめ</li>
+          </ul>
+          <br/>
+          <h3>玉</h3>
+          <ul>
+            <li>10급 (부수:玉)</li>
+            <li>음: 옥 - ギョク</li>
+            <li>훈: 구슬 - たま</li>
+          </ul>
+          <br/>
+          <h3>師</h3>
+          <ul>
+            <li>6급 (부수:巾)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 스승 - みやこ・いくさ</li>
+          </ul>
+          <br/>
+          <h3>著</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 저 - チョ・チャク・ジャク</li>
+            <li>훈: 저술하다, 두드러지다 - あらわ(す)・いちじる(しい)・き(る)・つ(く)</li>
+          </ul>
+          <br/>
+          <h3>術</h3>
+          <ul>
+            <li>6급 (부수:行)</li>
+            <li>음: 술 - ジュツ・シュツ・スイ</li>
+            <li>훈: 재주 - わざ・すべ</li>
+          </ul>
+          <br/>
+          <h3>儒</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 유 - ジュ</li>
+            <li>훈: 선비 - 無し</li>
+          </ul>
+          <br/>
+          <h3>捜</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 수 - ソウ</li>
+            <li>훈: 찾다 - さが(す)</li>
+          </ul>
+          <br/>
+          <h3>那</h3>
+          <ul>
+            <li>2급 (부수:邑)</li>
+            <li>음: 나 - ナ・ダ</li>
+            <li>훈: 어찌 - なん(ぞ)・いかん(ぞ)・なに</li>
+          </ul>
+          <br/>
+          <h3>双</h3>
+          <ul>
+            <li>3급 (부수:又)</li>
+            <li>음: 쌍 - ソウ</li>
+            <li>훈: 쌍 - ふた・ふた(つ)・たぐい・もろ・なら(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>貌</h3>
+          <ul>
+            <li>2급 (부수:豸)</li>
+            <li>음: 모 - ボウ</li>
+            <li>훈: 얼굴 - かたち</li>
+          </ul>
+          <br/>
+          <h3>箇</h3>
+          <ul>
+            <li>4급 (부수:竹)</li>
+            <li>음: 개 - カ・コ</li>
+            <li>훈: 낱 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>養</h3>
+          <ul>
+            <li>7급 (부수:食)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 기르다 - やしな(う)</li>
+          </ul>
+          <br/>
+          <h3>話</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 화 - ワ</li>
+            <li>훈: 이야기 - はな(す)・はなし</li>
+          </ul>
+          <br/>
+          <h3>濫</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 람 - ラン</li>
+            <li>훈: 넘치다 - みだ(れる)・みだ(りに)・う(かべる)</li>
+          </ul>
+          <br/>
+          <h3>耗</h3>
+          <ul>
+            <li>2.5급 (부수:耒)</li>
+            <li>음: 모 - モウ・コウ</li>
+            <li>훈: 소모 - へ(る)・たよ(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>図</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 도 - ズ・ト</li>
+            <li>훈: 그림 - はか(る)・え</li>
+          </ul>
+          <br/>
+          <h3>蔵</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 장 - ゾウ・ソウ</li>
+            <li>훈: 창고 - くら・おさ(める)・かく(れる)</li>
+          </ul>
+          <br/>
+          <h3>歓</h3>
+          <ul>
+            <li>4급 (부수:欠)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 기쁘다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>挨</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 인사하다 - お(す)・ひら(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>舎</h3>
+          <ul>
+            <li>6급 (부수:舌)</li>
+            <li>음: 사 - シャ・セキ</li>
+            <li>훈: 집 - いえ・やど・やど(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>火</h3>
+          <ul>
+            <li>10급 (부수:火)</li>
+            <li>음: 화 - カ・コ</li>
+            <li>훈: 불 - ひ・ほ</li>
+          </ul>
+          <br/>
+          <h3>塔</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 탑 - トウ</li>
+            <li>훈: 탑 - 無し</li>
+          </ul>
+          <br/>
+          <h3>突</h3>
+          <ul>
+            <li>4급 (부수:穴)</li>
+            <li>음: 돌 - トツ</li>
+            <li>훈: 찌르다 - つ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

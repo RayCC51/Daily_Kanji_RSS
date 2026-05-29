@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>費</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비용, 쓰다, 줄다 - つい(やす)・つい(える)</li>
+          </ul>
+          <br/>
+          <h3>降</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 강, 항 - コウ・ゴウ</li>
+            <li>훈: 내리다 - お(りる)・お(ろす)・ふ(る)・くだ(る)・くだ(す)</li>
+          </ul>
+          <br/>
+          <h3>弦</h3>
+          <ul>
+            <li>2.5급 (부수:弓)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 활시위, 줄 - つる</li>
+          </ul>
+          <br/>
+          <h3>払</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 불 - フツ</li>
+            <li>훈: 지불하다, 없애다 - はら(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

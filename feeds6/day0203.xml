@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>仏</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 불 - ブツ・フツ</li>
+            <li>훈: 부처 - ほとけ</li>
+          </ul>
+          <br/>
+          <h3>中</h3>
+          <ul>
+            <li>10급 (부수:丨)</li>
+            <li>음: 중 - チュウ・ジュウ</li>
+            <li>훈: 가운데, 안 - なか・あ(たる)・あ(てる)</li>
+          </ul>
+          <br/>
+          <h3>紙</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 종이 - かみ</li>
+          </ul>
+          <br/>
+          <h3>鑑</h3>
+          <ul>
+            <li>4급 (부수:金)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 살펴보다 - かんが(みる)・かがみ</li>
+          </ul>
+          <br/>
+          <h3>胆</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 담 - タン・トウ</li>
+            <li>훈: 쓸개 - きも</li>
+          </ul>
+          <br/>
+          <h3>迫</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 다가오다 - せま(る)・せ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

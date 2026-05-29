@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>急</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 급하다, 서두르다, 조급해지다, 재촉하다 - いそ(ぐ)・せ(く)</li>
+          </ul>
+          <br/>
+          <h3>令</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 령 - レイ・リョウ</li>
+            <li>훈: 명령 - いいつけ・おさ・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>韻</h3>
+          <ul>
+            <li>2.5급 (부수:音)</li>
+            <li>음: 운 - イン</li>
+            <li>훈: 운율 - ひびき・おもむき</li>
+          </ul>
+          <br/>
+          <h3>妃</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 왕비 - きさき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

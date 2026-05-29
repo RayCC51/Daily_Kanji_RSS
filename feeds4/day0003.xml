@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>個</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 개 - コ・カ</li>
+            <li>훈: 낱 - 無し</li>
+          </ul>
+          <br/>
+          <h3>得</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 득 - トク</li>
+            <li>훈: 얻다, 할 수 있다 - え(る)・う(る)</li>
+          </ul>
+          <br/>
+          <h3>舟</h3>
+          <ul>
+            <li>4급 (부수:舟)</li>
+            <li>음: 주 - シュウ・シュ</li>
+            <li>훈: 배 - ふね・ふな</li>
+          </ul>
+          <br/>
+          <h3>飽</h3>
+          <ul>
+            <li>3급 (부수:食)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 배부르다, 질리다, 끝까지 - あ(きる)・あ(かす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

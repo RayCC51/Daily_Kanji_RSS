@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>皇</h3>
+          <ul>
+            <li>5급 (부수:白)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 임금 - きみ・すめらぎ</li>
+          </ul>
+          <br/>
+          <h3>縦</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 종 - ジュウ・ショウ</li>
+            <li>훈: 세로 - たて・はな(つ)・ゆる(す)・ゆる(める)・ほしいまま・よし(んば)</li>
+          </ul>
+          <br/>
+          <h3>製</h3>
+          <ul>
+            <li>6급 (부수:衣)</li>
+            <li>음: 제 - セイ</li>
+            <li>훈: 짓다 - つく(る)</li>
+          </ul>
+          <br/>
+          <h3>却</h3>
+          <ul>
+            <li>4급 (부수:卩)</li>
+            <li>음: 각 - キャク</li>
+            <li>훈: 물리치다 - しりぞ(く)・しりぞ(ける)・かえ(って)</li>
+          </ul>
+          <br/>
+          <h3>拓</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 척, 탁 - タク</li>
+            <li>훈: 넓히다 - ひら(く)</li>
+          </ul>
+          <br/>
+          <h3>戒</h3>
+          <ul>
+            <li>4급 (부수:戈)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 훈계하다 - いまし(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

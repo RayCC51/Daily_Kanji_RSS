@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>姉</h3>
+          <ul>
+            <li>9급 (부수:女)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 누나, 언니 - あね</li>
+          </ul>
+          <br/>
+          <h3>荷</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 짐 - に・にな(う)・はす</li>
+          </ul>
+          <br/>
+          <h3>燃</h3>
+          <ul>
+            <li>6급 (부수:火)</li>
+            <li>음: 연 - ネン・ゼン</li>
+            <li>훈: 타다, 불태우다 - も(える)・も(やす)・も(す)</li>
+          </ul>
+          <br/>
+          <h3>下</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 하 - カ・ゲ</li>
+            <li>훈: 아래, 내리다, 내려오다 - した・しも・もと・さ(げる)・さ(がる)・くだ(る)・くだ(す)・くだ(さる)・お(ろす)・お(りる)</li>
+          </ul>
+          <br/>
+          <h3>徳</h3>
+          <ul>
+            <li>7급 (부수:彳)</li>
+            <li>음: 덕 - トク</li>
+            <li>훈: 덕 - 無し</li>
+          </ul>
+          <br/>
+          <h3>売</h3>
+          <ul>
+            <li>9급 (부수:士)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 팔다 - う(る)・う(れる)</li>
+          </ul>
+          <br/>
+          <h3>把</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 파 - ハ</li>
+            <li>훈: 잡다 - と(る)・にぎ(る)</li>
+          </ul>
+          <br/>
+          <h3>暁</h3>
+          <ul>
+            <li>2.5급 (부수:日)</li>
+            <li>음: 효 - ギョウ</li>
+            <li>훈: 새벽 - あかつき・さと(る)</li>
+          </ul>
+          <br/>
+          <h3>椅</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 의 - イ</li>
+            <li>훈: 의자 - 無し</li>
+          </ul>
+          <br/>
+          <h3>膝</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 슬 - シツ</li>
+            <li>훈: 무릎 - ひざ</li>
+          </ul>
+          <br/>
+          <h3>酵</h3>
+          <ul>
+            <li>3급 (부수:酉)</li>
+            <li>음: 효 - コウ</li>
+            <li>훈: 삭히다 - もと・こうじ</li>
+          </ul>
+          <br/>
+          <h3>彫</h3>
+          <ul>
+            <li>3급 (부수:彡)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 새기다 - ほ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

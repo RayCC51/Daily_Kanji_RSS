@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>新</h3>
+          <ul>
+            <li>9급 (부수:斤)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 새롭다 - あたら(しい)・あら(た)・にい・さら</li>
+          </ul>
+          <br/>
+          <h3>東</h3>
+          <ul>
+            <li>9급 (부수:木)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 동쪽 - ひがし・あずま</li>
+          </ul>
+          <br/>
+          <h3>層</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 층 - ソウ</li>
+            <li>훈: 층 - かさ(なる)</li>
+          </ul>
+          <br/>
+          <h3>江</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 강 - え</li>
+          </ul>
+          <br/>
+          <h3>餅</h3>
+          <ul>
+            <li>2급 (부수:食)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 떡 - もち</li>
+          </ul>
+          <br/>
+          <h3>普</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 보 - フ</li>
+            <li>훈: 보통 - あまね(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

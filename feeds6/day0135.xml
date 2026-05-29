@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>任</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 맡기다 - まか(せる)・まか(す)</li>
+          </ul>
+          <br/>
+          <h3>球</h3>
+          <ul>
+            <li>8급 (부수:玉)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 공 - たま</li>
+          </ul>
+          <br/>
+          <h3>筋</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 근육 - すじ</li>
+          </ul>
+          <br/>
+          <h3>悦</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 열 - エツ</li>
+            <li>훈: 기쁘다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>哀</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 슬프다, 동정하다 - あわ(れ)・あわ(れむ)・かな(しい)・かな(しむ)</li>
+          </ul>
+          <br/>
+          <h3>稚</h3>
+          <ul>
+            <li>3급 (부수:禾)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 어리다 - わか(い)・いとけな(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

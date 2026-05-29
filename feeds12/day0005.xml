@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>沿</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 물을 따르다 - そ(う)・ふち</li>
+          </ul>
+          <br/>
+          <h3>作</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 작 - サク・サ</li>
+            <li>훈: 만들다 - つく(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>乳</h3>
+          <ul>
+            <li>5급 (부수:乙)</li>
+            <li>음: 유 - ニュウ・ジュ・ニュ</li>
+            <li>훈: 젖 - ちち・ち</li>
+          </ul>
+          <br/>
+          <h3>館</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 집, 저택 - やかた・たて・たち</li>
+          </ul>
+          <br/>
+          <h3>点</h3>
+          <ul>
+            <li>9급 (부수:火)</li>
+            <li>음: 점 - テン</li>
+            <li>훈: 점 - つ(ける)・とぼ(る)・とも(る)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>仁</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 인 - ジン・ニ・ニン</li>
+            <li>훈: 어질다 - 無し</li>
+          </ul>
+          <br/>
+          <h3>殻</h3>
+          <ul>
+            <li>2.5급 (부수:殳)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 껍질 - から</li>
+          </ul>
+          <br/>
+          <h3>詔</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 조 - ショウ</li>
+            <li>훈: 조서 - みことのり</li>
+          </ul>
+          <br/>
+          <h3>妨</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 방해하다 - さまた(げる)</li>
+          </ul>
+          <br/>
+          <h3>寝</h3>
+          <ul>
+            <li>4급 (부수:宀)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 자다 - ね(る)・ね(かす)・みたまや・や(める)・みにく(い)</li>
+          </ul>
+          <br/>
+          <h3>𠮟</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 질 - シツ・シチ</li>
+            <li>훈: 꾸짖다 - しか(る)</li>
+          </ul>
+          <br/>
+          <h3>患</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 환 - カン・ゲン</li>
+            <li>훈: 앓다 - わずら(う)・うれ(える)・うれ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

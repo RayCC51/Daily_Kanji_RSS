@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>居</h3>
+          <ul>
+            <li>6급 (부수:尸)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 거주, 있다 - い(る)・お(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>修</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 수 - シュウ・シュ</li>
+            <li>훈: 닦다, 좋아지다 - おさ(める)・おさ(まる)・かざ(る)・なが(い)</li>
+          </ul>
+          <br/>
+          <h3>俗</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 속 - ゾク</li>
+            <li>훈: 풍속 - なら(わし)・いや(しい)</li>
+          </ul>
+          <br/>
+          <h3>拒</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 거절하다 - こば(む)・ふせ(ぐ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

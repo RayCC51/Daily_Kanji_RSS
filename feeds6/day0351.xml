@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>挫</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 좌 - ザ</li>
+            <li>훈: 꺾이다, 삐다 - くじ(く)・くじ(ける)</li>
+          </ul>
+          <br/>
+          <h3>払</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 불 - フツ</li>
+            <li>훈: 지불하다, 없애다 - はら(う)</li>
+          </ul>
+          <br/>
+          <h3>鉢</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 발 - ハチ・ハツ</li>
+            <li>훈: 화분 - 無し</li>
+          </ul>
+          <br/>
+          <h3>酷</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 혹 - コク</li>
+            <li>훈: 심하다 - きび(しい)・むご(い)・はなは(だしい)</li>
+          </ul>
+          <br/>
+          <h3>謄</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 베끼다 - うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>妬</h3>
+          <ul>
+            <li>2급 (부수:女)</li>
+            <li>음: 투 - ト</li>
+            <li>훈: 질투, 시샘하다 - ねた(む)・そね(む)・や(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

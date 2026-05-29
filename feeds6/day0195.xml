@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>蚕</h3>
+          <ul>
+            <li>5급 (부수:虫)</li>
+            <li>음: 잠 - サン</li>
+            <li>훈: 누에 - かいこ・こ</li>
+          </ul>
+          <br/>
+          <h3>横</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 횡 - オウ・コウ</li>
+            <li>훈: 가로 - よこ・よこ(たわる)</li>
+          </ul>
+          <br/>
+          <h3>奮</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 떨치다 - ふる(う)</li>
+          </ul>
+          <br/>
+          <h3>呪</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 주 - ジュ・シュウ</li>
+            <li>훈: 저주하다 - のろ(う)・まじな(う)・まじな(い)</li>
+          </ul>
+          <br/>
+          <h3>稽</h3>
+          <ul>
+            <li>2급 (부수:禾)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 머무르다 - かんが(える)・とど(める)・とどこお(る)</li>
+          </ul>
+          <br/>
+          <h3>途</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 도 - ト・ズ</li>
+            <li>훈: 길 - みち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

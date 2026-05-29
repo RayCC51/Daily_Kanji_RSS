@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>己</h3>
+          <ul>
+            <li>5급 (부수:己)</li>
+            <li>음: 기 - ユ・キ</li>
+            <li>훈: 나, 너 - おのれ・つちのと</li>
+          </ul>
+          <br/>
+          <h3>堂</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 당 - ドウ・トウ</li>
+            <li>훈: 집 - たかどの</li>
+          </ul>
+          <br/>
+          <h3>祥</h3>
+          <ul>
+            <li>2.5급 (부수:示)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상서 - さいわ(い)・さち・きざ(し)</li>
+          </ul>
+          <br/>
+          <h3>訂</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 바로잡다 - ただ(す)・さだ(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

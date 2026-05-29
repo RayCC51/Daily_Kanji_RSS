@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>笑</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 웃다 - わら(う)・え(む)</li>
+          </ul>
+          <br/>
+          <h3>導</h3>
+          <ul>
+            <li>6급 (부수:寸)</li>
+            <li>음: 도 - ドウ</li>
+            <li>훈: 안내하다 - みちび(く)・しるべ</li>
+          </ul>
+          <br/>
+          <h3>漏</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 루 - ロウ</li>
+            <li>훈: 새다 - も(る)・も(れる)・も(らす)</li>
+          </ul>
+          <br/>
+          <h3>塁</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 보루 - とりで・かさ(ねる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

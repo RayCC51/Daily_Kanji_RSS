@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>責</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 책 - セキ・シャク</li>
+            <li>훈: 꾸짖다 - せ(める)</li>
+          </ul>
+          <br/>
+          <h3>刀</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 칼 - かたな</li>
+          </ul>
+          <br/>
+          <h3>枢</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 추 - スウ</li>
+            <li>훈: 중심 - とぼそ・かなめ</li>
+          </ul>
+          <br/>
+          <h3>薄</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 얇다, 연하다 - うす(い)・うす(める)・うす(まる)・うす(らぐ)・うす(れる)・せま(る)・すすき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

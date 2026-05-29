@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>諸</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 제 - ショ</li>
+            <li>훈: 모두 - もろ・もろもろ</li>
+          </ul>
+          <br/>
+          <h3>黄</h3>
+          <ul>
+            <li>9급 (부수:黄)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 노랑 - き・こ</li>
+          </ul>
+          <br/>
+          <h3>楽</h3>
+          <ul>
+            <li>9급 (부수:木)</li>
+            <li>음: 락, 악 - ガク・ラク・ゴウ・ギョウ</li>
+            <li>훈: 즐겁다 - たの(しい)・たの(しむ)・かな(でる)・この(む)</li>
+          </ul>
+          <br/>
+          <h3>昭</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 밝다, 일본 연호 - あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>飲</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 음 - イン・オン</li>
+            <li>훈: 마시다 - の(む)</li>
+          </ul>
+          <br/>
+          <h3>血</h3>
+          <ul>
+            <li>8급 (부수:血)</li>
+            <li>음: 혈 - ケツ・ケチ</li>
+            <li>훈: 피 - ち</li>
+          </ul>
+          <br/>
+          <h3>硝</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 화약 - 無し</li>
+          </ul>
+          <br/>
+          <h3>斬</h3>
+          <ul>
+            <li>2급 (부수:斤)</li>
+            <li>음: 참 - ザン・サン</li>
+            <li>훈: 베다 - き(る)</li>
+          </ul>
+          <br/>
+          <h3>瞳</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 눈동자 - ひとみ</li>
+          </ul>
+          <br/>
+          <h3>琴</h3>
+          <ul>
+            <li>2.5급 (부수:玉)</li>
+            <li>음: 금 - キン・ゴン</li>
+            <li>훈: 거문고 - こと</li>
+          </ul>
+          <br/>
+          <h3>髪</h3>
+          <ul>
+            <li>4급 (부수:髟)</li>
+            <li>음: 발 - ハツ・ホツ</li>
+            <li>훈: 머리카락 - かみ</li>
+          </ul>
+          <br/>
+          <h3>憶</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 생각하다 - おぼ(える)・おも(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

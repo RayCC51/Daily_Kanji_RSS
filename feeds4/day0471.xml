@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>樹</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 수 - ジュ・キ</li>
+            <li>훈: 나무 - き・う(える)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>直</h3>
+          <ul>
+            <li>9급 (부수:目)</li>
+            <li>음: 직 - チョク・ジキ・チ</li>
+            <li>훈: 곧다, 즉시, 고치다 - ただ(ちに)・なお(す)・なお(る)・じか・すぐ・あたい・ひた</li>
+          </ul>
+          <br/>
+          <h3>援</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 돕다 - たす(ける)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>鍵</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 건 - ケン</li>
+            <li>훈: 열쇠, 자물쇠 - かぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

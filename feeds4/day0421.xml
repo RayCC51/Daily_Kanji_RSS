@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拡</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 넑히다 - ひろ(がる)・ひろ(げる)</li>
+          </ul>
+          <br/>
+          <h3>足</h3>
+          <ul>
+            <li>10급 (부수:足)</li>
+            <li>음: 족 - ソク</li>
+            <li>훈: 발, 충분하다, 만족하다, 더하다 - あし・た(りる)・た(る)・た(す)</li>
+          </ul>
+          <br/>
+          <h3>貫</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 관 - カン・ワン</li>
+            <li>훈: 꿰뚫다 - つらぬ(く)・ぬき・ぬ(く)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>振</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 흔들다 - ふ(る)・ふ(るう)・ふ(れる)・すく(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

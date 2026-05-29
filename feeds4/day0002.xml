@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>報</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 보 - ホウ</li>
+            <li>훈: 보답하다, 보복하다 - むく(いる)・しら(せる)</li>
+          </ul>
+          <br/>
+          <h3>岸</h3>
+          <ul>
+            <li>8급 (부수:山)</li>
+            <li>음: 안 - ガン</li>
+            <li>훈: 물가, 벼랑 - きし・かどだ(つ)</li>
+          </ul>
+          <br/>
+          <h3>那</h3>
+          <ul>
+            <li>2급 (부수:邑)</li>
+            <li>음: 나 - ナ・ダ</li>
+            <li>훈: 어찌 - なん(ぞ)・いかん(ぞ)・なに</li>
+          </ul>
+          <br/>
+          <h3>彙</h3>
+          <ul>
+            <li>2급 (부수:彐)</li>
+            <li>음: 휘 - イ</li>
+            <li>훈: 무리 - あつ(める)・たぐい・はりねずみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

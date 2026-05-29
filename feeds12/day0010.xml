@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>先</h3>
+          <ul>
+            <li>10급 (부수:儿)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 먼저 - さき・ま(ず)</li>
+          </ul>
+          <br/>
+          <h3>市</h3>
+          <ul>
+            <li>9급 (부수:巾)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 도시 - いち</li>
+          </ul>
+          <br/>
+          <h3>赤</h3>
+          <ul>
+            <li>10급 (부수:赤)</li>
+            <li>음: 적 - セキ・シャク</li>
+            <li>훈: 빨강, 아기 - あか・あか(い)・あか(らむ)・あか(らめる)</li>
+          </ul>
+          <br/>
+          <h3>無</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 무 - ム・ブ</li>
+            <li>훈: 없다, 잃다 - な(い)</li>
+          </ul>
+          <br/>
+          <h3>授</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 수 - ジュ</li>
+            <li>훈: 주다 - さず(ける)・さず(かる)</li>
+          </ul>
+          <br/>
+          <h3>破</h3>
+          <ul>
+            <li>6급 (부수:石)</li>
+            <li>음: 파 - ハ</li>
+            <li>훈: 찢다, 부수다, 깨다 - やぶ(る)・やぶ(れる)・わ(れる)</li>
+          </ul>
+          <br/>
+          <h3>唯</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 유 - ユイ・イ</li>
+            <li>훈: 오직 - ただ</li>
+          </ul>
+          <br/>
+          <h3>謡</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 가사, 노래하다 - うたい・うた(う)</li>
+          </ul>
+          <br/>
+          <h3>駄</h3>
+          <ul>
+            <li>2.5급 (부수:馬)</li>
+            <li>음: 태 - ダ・タ</li>
+            <li>훈: 헛됨 - の(せる)</li>
+          </ul>
+          <br/>
+          <h3>恐</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 공 - キョウ</li>
+            <li>훈: 무섭다 - おそ(れる)・おそ(ろしい)・こわ(い)</li>
+          </ul>
+          <br/>
+          <h3>殉</h3>
+          <ul>
+            <li>2.5급 (부수:歹)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 죽다 - したが(う)</li>
+          </ul>
+          <br/>
+          <h3>汚</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 오 - オ</li>
+            <li>훈: 더럽다 - けが(す)・けが(れる)・けが(らわしい)・よご(す)・よご(れる)・きたな(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

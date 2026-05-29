@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>成</h3>
+          <ul>
+            <li>7급 (부수:戈)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 이루다, 되다 - な(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>機</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 틀 - はた・からくり・きざ(し)・はずみ・おり</li>
+          </ul>
+          <br/>
+          <h3>起</h3>
+          <ul>
+            <li>8급 (부수:走)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 일어나다, 일으키다 - お(きる)・お(こる)・お(こす)・た(つ)</li>
+          </ul>
+          <br/>
+          <h3>傘</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 우산 - かさ</li>
+          </ul>
+          <br/>
+          <h3>軒</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 헌 - ケン</li>
+            <li>훈: 처마, 집 - のき・くるま・てすり・と(ぶ)・たか(い)</li>
+          </ul>
+          <br/>
+          <h3>挑</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 도전하다 - いど(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

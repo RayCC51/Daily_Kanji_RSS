@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>会</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 회 - カイ・エ</li>
+            <li>훈: 만나다 - あ(う)・あつ(まる)・あつ(める)</li>
+          </ul>
+          <br/>
+          <h3>理</h3>
+          <ul>
+            <li>9급 (부수:玉)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 다스리다 - ことわり・すじ・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>写</h3>
+          <ul>
+            <li>8급 (부수:冖)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 베끼다, 찍다 - うつ(す)・うつ(る)</li>
+          </ul>
+          <br/>
+          <h3>俵</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 가마니 - たわら</li>
+          </ul>
+          <br/>
+          <h3>略</h3>
+          <ul>
+            <li>6급 (부수:田)</li>
+            <li>음: 략 - リャク</li>
+            <li>훈: 줄이다 - はか(る)・はかりごと・おか(す)・はぶ(く)・ほぼ・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>妹</h3>
+          <ul>
+            <li>9급 (부수:女)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 여동생 - いもうと・いも</li>
+          </ul>
+          <br/>
+          <h3>嫉</h3>
+          <ul>
+            <li>2급 (부수:女)</li>
+            <li>음: 질 - シツ</li>
+            <li>훈: 질투, 시샘하다 - ねた(む)・そね(む)・にく(む)</li>
+          </ul>
+          <br/>
+          <h3>艶</h3>
+          <ul>
+            <li>2급 (부수:色)</li>
+            <li>음: 염 - エン</li>
+            <li>훈: 광택, 애교, 곱다 - つや・なまめ(かしい)・あで(やか)・うらや(む)</li>
+          </ul>
+          <br/>
+          <h3>柵</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 책 - サク</li>
+            <li>훈: 울타리 - やらい・しがらみ・とりで</li>
+          </ul>
+          <br/>
+          <h3>脱</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 탈 - ダツ・タツ</li>
+            <li>훈: 벗다 - ぬ(ぐ)・ぬ(げる)</li>
+          </ul>
+          <br/>
+          <h3>盆</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 분 - ボン・ホン</li>
+            <li>훈: 쟁반 - はち</li>
+          </ul>
+          <br/>
+          <h3>徹</h3>
+          <ul>
+            <li>2.5급 (부수:彳)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 통하다 - とお(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

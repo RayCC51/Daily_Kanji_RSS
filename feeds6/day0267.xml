@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>慣</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 익숙하다 - な(れる)・な(らす)・ならわし</li>
+          </ul>
+          <br/>
+          <h3>徳</h3>
+          <ul>
+            <li>7급 (부수:彳)</li>
+            <li>음: 덕 - トク</li>
+            <li>훈: 덕 - 無し</li>
+          </ul>
+          <br/>
+          <h3>張</h3>
+          <ul>
+            <li>6급 (부수:弓)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 뻗다, 팽팽해지다 - は(る)</li>
+          </ul>
+          <br/>
+          <h3>舞</h3>
+          <ul>
+            <li>4급 (부수:舛)</li>
+            <li>음: 무 - ブ・ム</li>
+            <li>훈: 춤추다 - ま(う)・まい・もてあそ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>誉</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 명예 - ほま(れ)・ほ(める)</li>
+          </ul>
+          <br/>
+          <h3>抜</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 발 - バツ</li>
+            <li>훈: 뽑다, 빠지다, 실수하다 - ぬ(く)・ぬ(ける)・ぬ(かす)・ぬ(かる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

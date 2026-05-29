@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>竹</h3>
+          <ul>
+            <li>10급 (부수:竹)</li>
+            <li>음: 죽 - チク</li>
+            <li>훈: 대나무 - たけ</li>
+          </ul>
+          <br/>
+          <h3>準</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 준 - ジュン・シュン・セツ</li>
+            <li>훈: 준하다 - なぞら(える)</li>
+          </ul>
+          <br/>
+          <h3>塩</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 염 - エン・アン</li>
+            <li>훈: 소금 - しお</li>
+          </ul>
+          <br/>
+          <h3>涼</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 선선하다 - すず(しい)・すず(む)・うす(い)</li>
+          </ul>
+          <br/>
+          <h3>遜</h3>
+          <ul>
+            <li>2급 (부수:辵)</li>
+            <li>음: 손 - ソン</li>
+            <li>훈: 겸손하다 - へりくだ(る)・ゆず(る)・のが(れる)</li>
+          </ul>
+          <br/>
+          <h3>避</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 피하다 - さ(ける)・よ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

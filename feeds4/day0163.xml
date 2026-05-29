@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>状</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 상, 장 - ジョウ</li>
+            <li>훈: 상황, 문서 - かたち・かきつけ</li>
+          </ul>
+          <br/>
+          <h3>任</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 맡기다 - まか(せる)・まか(す)</li>
+          </ul>
+          <br/>
+          <h3>尿</h3>
+          <ul>
+            <li>3급 (부수:尸)</li>
+            <li>음: 뇨 - ニョウ</li>
+            <li>훈: 오줌 - いばり・ゆばり・しと</li>
+          </ul>
+          <br/>
+          <h3>辣</h3>
+          <ul>
+            <li>2급 (부수:辛)</li>
+            <li>음: 랄 - ラツ</li>
+            <li>훈: 맵다 - から(い)・きび(しい)・むご(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

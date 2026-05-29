@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刊</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 새기다 - けず(る)・きざ(む)</li>
+          </ul>
+          <br/>
+          <h3>報</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 보 - ホウ</li>
+            <li>훈: 보답하다, 보복하다 - むく(いる)・しら(せる)</li>
+          </ul>
+          <br/>
+          <h3>隊</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 대 - タイ・ツイ</li>
+            <li>훈: 무리 - くみ・お(ちる)</li>
+          </ul>
+          <br/>
+          <h3>硬</h3>
+          <ul>
+            <li>3급 (부수:石)</li>
+            <li>음: 경 - コウ</li>
+            <li>훈: 단단하다 - かた(い)</li>
+          </ul>
+          <br/>
+          <h3>溝</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 구 - コウ</li>
+            <li>훈: 도랑 - みぞ・どぶ</li>
+          </ul>
+          <br/>
+          <h3>吟</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 음 - ギン</li>
+            <li>훈: 읊다 - うた(う)・うめ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

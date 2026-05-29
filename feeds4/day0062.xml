@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>紅</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 홍 - コウ・ク・グ</li>
+            <li>훈: 빨강 - べに・くれない・あか(い)・もみ</li>
+          </ul>
+          <br/>
+          <h3>仏</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 불 - ブツ・フツ</li>
+            <li>훈: 부처 - ほとけ</li>
+          </ul>
+          <br/>
+          <h3>蓋</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 개 - ガイ・コウ</li>
+            <li>훈: 뚜껑 - ふた・おお(う)・おお(い)・かさ・けだ(し)</li>
+          </ul>
+          <br/>
+          <h3>彫</h3>
+          <ul>
+            <li>3급 (부수:彡)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 새기다 - ほ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

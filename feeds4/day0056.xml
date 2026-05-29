@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>焼</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 태우다 - や(く)・や(ける)・く(べる)</li>
+          </ul>
+          <br/>
+          <h3>必</h3>
+          <ul>
+            <li>7급 (부수:心)</li>
+            <li>음: 필 - ヒツ</li>
+            <li>훈: 반드시 - かなら(ず)</li>
+          </ul>
+          <br/>
+          <h3>賜</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 주시다 - たまわ(る)・たま(う)・たまもの</li>
+          </ul>
+          <br/>
+          <h3>詣</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 예 - ケイ</li>
+            <li>훈: 참배하다 - もう(でる)・いた(る)・まい(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>版</h3>
+          <ul>
+            <li>6급 (부수:片)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 판목 - ふだ・いた</li>
+          </ul>
+          <br/>
+          <h3>労</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 로 - ロウ</li>
+            <li>훈: 일, 위로하다, 치하하다 - はたら(く)・つか(れる)・いたわ(る)・ねぎら(う)</li>
+          </ul>
+          <br/>
+          <h3>謀</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 모 - ボウ・ム</li>
+            <li>훈: 꾀하다 - はか(る)・はかりごと</li>
+          </ul>
+          <br/>
+          <h3>塊</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 괴 - カイ</li>
+            <li>훈: 덩어리 - かたまり・つちくれ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

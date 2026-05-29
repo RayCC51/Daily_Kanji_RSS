@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>要</h3>
+          <ul>
+            <li>7급 (부수:襾)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 필요하다, 가장 중요한 점 - かなめ・い(る)・もと(める)</li>
+          </ul>
+          <br/>
+          <h3>明</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 명 - メイ・ミョウ・ミン</li>
+            <li>훈: 불빛, 밝다, 분명함 - あ(かり)・あか(るい)・あか(るむ)・あか(らむ)・あき(らか)・あ(ける)・あ(く)・あ(くる)・あ(かす)</li>
+          </ul>
+          <br/>
+          <h3>分</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 분 - ブン・フン・ブ</li>
+            <li>훈: 나누다, 알다 - わ(ける)・わ(かれる)・わ(かる)・わ(かつ)</li>
+          </ul>
+          <br/>
+          <h3>朴</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 박 - ボク・ハク</li>
+            <li>훈: 순박 - すなお・ほお</li>
+          </ul>
+          <br/>
+          <h3>沸</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 불, 비 - フツ・ヒ</li>
+            <li>훈: 끓다 - わ(く)・わ(かす)・た(てる)・にえ</li>
+          </ul>
+          <br/>
+          <h3>床</h3>
+          <ul>
+            <li>4급 (부수:广)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 마루 - とこ・ゆか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

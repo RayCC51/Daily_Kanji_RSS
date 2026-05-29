@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>州</h3>
+          <ul>
+            <li>8급 (부수:川)</li>
+            <li>음: 주 - シュウ・ス</li>
+            <li>훈: 고을 - す・しま・くに</li>
+          </ul>
+          <br/>
+          <h3>寒</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 춥다 - さむ(い)・さび(しい)・まず(しい)・いや(しい)</li>
+          </ul>
+          <br/>
+          <h3>脚</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 각 - キャク・キャ・カク</li>
+            <li>훈: 다리 - あし</li>
+          </ul>
+          <br/>
+          <h3>唄</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 패 - バイ</li>
+            <li>훈: 노래 - うた</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

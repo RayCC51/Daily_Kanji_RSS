@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>学</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 학 - ガク</li>
+            <li>훈: 배우다 - まな(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>自</h3>
+          <ul>
+            <li>9급 (부수:自)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 스스로, 저절로 - みずか(ら)・おのずか(ら)・よ(り)</li>
+          </ul>
+          <br/>
+          <h3>節</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 절 - セツ・セチ</li>
+            <li>훈: 마디 - ふし・みさお・ノット</li>
+          </ul>
+          <br/>
+          <h3>枯</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 시들다 - か(れる)・か(らす)・から(びる)</li>
+          </ul>
+          <br/>
+          <h3>籍</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 적 - セキ・ジャク</li>
+            <li>훈: 문서 - ふみ・し(く)・ふ(む)</li>
+          </ul>
+          <br/>
+          <h3>奇</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기이하다 - めずら(しい)・く(し)・あや(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

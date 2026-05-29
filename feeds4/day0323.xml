@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>適</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 적 - テキ・セキ</li>
+            <li>훈: 맞다 - かな(う)・ゆ(く)・たまたま</li>
+          </ul>
+          <br/>
+          <h3>勇</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 용 - ユウ・ヨウ</li>
+            <li>훈: 날래다, 기운이 솟다, 용감하다, 활발하다 - いさ(む)・つよ(い)</li>
+          </ul>
+          <br/>
+          <h3>憤</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 분하다 - いきどお(る)・むずか(る)</li>
+          </ul>
+          <br/>
+          <h3>嫉</h3>
+          <ul>
+            <li>2급 (부수:女)</li>
+            <li>음: 질 - シツ</li>
+            <li>훈: 질투, 시샘하다 - ねた(む)・そね(む)・にく(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

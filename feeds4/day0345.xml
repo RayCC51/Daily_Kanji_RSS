@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>算</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 셈 - かぞ(える)・かず</li>
+          </ul>
+          <br/>
+          <h3>薬</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 약 - ヤク</li>
+            <li>훈: 약 - くすり</li>
+          </ul>
+          <br/>
+          <h3>唾</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 침착하다 - つば</li>
+          </ul>
+          <br/>
+          <h3>剛</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 강 - ゴウ・コウ</li>
+            <li>훈: 굳세다 - つよ(い)・かた(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

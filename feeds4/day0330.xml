@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>系</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 이어매다 - つな(ぐ)・すじ</li>
+          </ul>
+          <br/>
+          <h3>熟</h3>
+          <ul>
+            <li>5급 (부수:火)</li>
+            <li>음: 숙 - ジュク</li>
+            <li>훈: 익다, 숙성하다 - う(れる)・う(む)・に(る)・に(える)・な(れる)・つらつら・つくづく・こな(す)・こな(れる)</li>
+          </ul>
+          <br/>
+          <h3>且</h3>
+          <ul>
+            <li>2.5급 (부수:一)</li>
+            <li>음: 차 - ショ</li>
+            <li>훈: 게다가 - か(つ)・しばら(く)・まさ(に…す)</li>
+          </ul>
+          <br/>
+          <h3>旋</h3>
+          <ul>
+            <li>2.5급 (부수:方)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 돌다 - めぐ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

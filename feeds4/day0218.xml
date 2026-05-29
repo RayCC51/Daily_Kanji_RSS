@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>減</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 감 - ゲン</li>
+            <li>훈: 빼다, 줄다 - へ(る)・へ(らす)</li>
+          </ul>
+          <br/>
+          <h3>努</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 노 - ド</li>
+            <li>훈: 노력하다 - つと(める)・ゆめ</li>
+          </ul>
+          <br/>
+          <h3>溶</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 녹다, 풀다 - と(ける)・と(かす)・と(く)</li>
+          </ul>
+          <br/>
+          <h3>謡</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 가사, 노래하다 - うたい・うた(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

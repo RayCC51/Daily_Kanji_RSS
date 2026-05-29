@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>主</h3>
+          <ul>
+            <li>8급 (부수:丶)</li>
+            <li>음: 주 - シュ・ス</li>
+            <li>훈: 주인 - ぬし・おも・あるじ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>護</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 호 - ゴ</li>
+            <li>훈: 도움 - まも(る)・まも(り)</li>
+          </ul>
+          <br/>
+          <h3>虫</h3>
+          <ul>
+            <li>10급 (부수:虫)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 벌레 - むし</li>
+          </ul>
+          <br/>
+          <h3>給</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 주다 - たま(う)・たまわ(る)</li>
+          </ul>
+          <br/>
+          <h3>福</h3>
+          <ul>
+            <li>8급 (부수:示)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 복 - さいわ(い)</li>
+          </ul>
+          <br/>
+          <h3>大</h3>
+          <ul>
+            <li>10급 (부수:大)</li>
+            <li>음: 대 - ダイ・タイ・タ・ダ</li>
+            <li>훈: 크다 - おお・おお(きい)・おお(いに)</li>
+          </ul>
+          <br/>
+          <h3>監</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 감 - カン・ケン</li>
+            <li>훈: 보다 - み(る)・かんがみ(る)・しら(べる)</li>
+          </ul>
+          <br/>
+          <h3>堆</h3>
+          <ul>
+            <li>2급 (부수:土)</li>
+            <li>음: 퇴 - タイ・ツイ</li>
+            <li>훈: 쌓이다 - うずたか(い)</li>
+          </ul>
+          <br/>
+          <h3>獣</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 수 - ジュウ</li>
+            <li>훈: 짐승 - けもの・けだもの・しし</li>
+          </ul>
+          <br/>
+          <h3>癖</h3>
+          <ul>
+            <li>3급 (부수:疒)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 버릇, 습관 - くせ</li>
+          </ul>
+          <br/>
+          <h3>鶏</h3>
+          <ul>
+            <li>3급 (부수:鳥)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 닭 - にわとり・とり</li>
+          </ul>
+          <br/>
+          <h3>慨</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 개 - ガイ・カイ</li>
+            <li>훈: 슬퍼하다 - なげ(く)・いきどお(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

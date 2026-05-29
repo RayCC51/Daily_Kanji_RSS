@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 1자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 1자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>生</h3>
+          <ul>
+            <li>10급 (부수:生)</li>
+            <li>음: 생 - セイ・ショウ</li>
+            <li>훈: 살다, 태어나다, 나다 - い(きる)・い(かす)・い(ける)・う(まれる)・う(む)・お(う)・は(える)・は(やす)・き・なま・いのち・うぶ・な(る)・な(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

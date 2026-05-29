@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>暖</h3>
+          <ul>
+            <li>5급 (부수:日)</li>
+            <li>음: 난 - ダン・ノン</li>
+            <li>훈: 따뜻하다 - あたた(か)・あたた(かい)・あたた(まる)・あたた(める)</li>
+          </ul>
+          <br/>
+          <h3>野</h3>
+          <ul>
+            <li>9급 (부수:里)</li>
+            <li>음: 야 - ヤ・ショ</li>
+            <li>훈: 들판 - の・いや(しい)・いなかや</li>
+          </ul>
+          <br/>
+          <h3>心</h3>
+          <ul>
+            <li>9급 (부수:心)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 마음 - こころ・うら</li>
+          </ul>
+          <br/>
+          <h3>筋</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 근육 - すじ</li>
+          </ul>
+          <br/>
+          <h3>所</h3>
+          <ul>
+            <li>8급 (부수:戸)</li>
+            <li>음: 소 - ショ・ソ</li>
+            <li>훈: 장소 - ところ</li>
+          </ul>
+          <br/>
+          <h3>習</h3>
+          <ul>
+            <li>8급 (부수:羽)</li>
+            <li>음: 습 - シュウ・ジュウ</li>
+            <li>훈: 배우다 - なら(う)</li>
+          </ul>
+          <br/>
+          <h3>雄</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 웅 - ユウ</li>
+            <li>훈: 수컷 - お・おす・おん・まさ(る)</li>
+          </ul>
+          <br/>
+          <h3>唐</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 당나라, 당황 - から・もろこし</li>
+          </ul>
+          <br/>
+          <h3>寡</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 적다 - すく(ない)・やもめ</li>
+          </ul>
+          <br/>
+          <h3>氾</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 넘치다 - ひろ(がる)・あふ(れる)</li>
+          </ul>
+          <br/>
+          <h3>簿</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 부 - ボ・ホ</li>
+            <li>훈: 문서 - 無し</li>
+          </ul>
+          <br/>
+          <h3>詳</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 자세하다 - くわ(しい)・つまび(らか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>士</h3>
+          <ul>
+            <li>6급 (부수:士)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 선비 - さむらい</li>
+          </ul>
+          <br/>
+          <h3>関</h3>
+          <ul>
+            <li>7급 (부수:門)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관계 - せき・かか(わる)・からくり・かんぬき</li>
+          </ul>
+          <br/>
+          <h3>集</h3>
+          <ul>
+            <li>8급 (부수:隹)</li>
+            <li>음: 집 - シュウ</li>
+            <li>훈: 모이다 - あつ(まる)・あつ(める)・つど(う)・すだ(く)・たか(る)</li>
+          </ul>
+          <br/>
+          <h3>請</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 청 - セイ・シン・ショウ</li>
+            <li>훈: 청하다, 떠맡다 - こ(う)・う(ける)</li>
+          </ul>
+          <br/>
+          <h3>酬</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 갚다 - むく(いる)</li>
+          </ul>
+          <br/>
+          <h3>鋳</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 주 - チュウ・シュ</li>
+            <li>훈: 주조하다 - い(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

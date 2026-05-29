@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>訓</h3>
+          <ul>
+            <li>7급 (부수:言)</li>
+            <li>음: 훈 - クン・キン</li>
+            <li>훈: 가르치다 - おし(える)・よ(む)</li>
+          </ul>
+          <br/>
+          <h3>厚</h3>
+          <ul>
+            <li>6급 (부수:厂)</li>
+            <li>음: 후 - コウ</li>
+            <li>훈: 두껍다, 뻔뻔하다 - あつ(い)</li>
+          </ul>
+          <br/>
+          <h3>推</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 추 - スイ</li>
+            <li>훈: 추리, 밀다, 추천하다 - お(す)</li>
+          </ul>
+          <br/>
+          <h3>騰</h3>
+          <ul>
+            <li>2.5급 (부수:馬)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 오르다 - あ(がる)・のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>漫</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 흩어지다, 어쩐지 - みだ(りに)・そぞ(ろに)</li>
+          </ul>
+          <br/>
+          <h3>懲</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 징 - チョウ</li>
+            <li>훈: 질리다, 벌주다 - こ(りる)・こ(らす)・こ(らしめる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

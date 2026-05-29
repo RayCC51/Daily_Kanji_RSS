@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>返</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 반 - ヘン・ハン・ホン</li>
+            <li>훈: 돌려주다, 돌아가다, 돌아오다 - かえ(す)・かえ(る)</li>
+          </ul>
+          <br/>
+          <h3>黄</h3>
+          <ul>
+            <li>9급 (부수:黄)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 노랑 - き・こ</li>
+          </ul>
+          <br/>
+          <h3>昼</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 낮 - ひる</li>
+          </ul>
+          <br/>
+          <h3>嬢</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 아가씨 - むすめ</li>
+          </ul>
+          <br/>
+          <h3>捉</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 착 - ソク</li>
+            <li>훈: 붙잡다 - とら(える)・つか(まえる)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>飽</h3>
+          <ul>
+            <li>3급 (부수:食)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 배부르다, 질리다, 끝까지 - あ(きる)・あ(かす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

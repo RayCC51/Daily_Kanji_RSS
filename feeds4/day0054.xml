@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>対</h3>
+          <ul>
+            <li>8급 (부수:寸)</li>
+            <li>음: 대 - タイ・ツイ</li>
+            <li>훈: 대하다 - む(かう)・つれあい・こた(える)・そろ(い)</li>
+          </ul>
+          <br/>
+          <h3>憲</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 헌 - ケン</li>
+            <li>훈: 헌법 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>嫁</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 며느리, 시집가다 - よめ・とつ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>穏</h3>
+          <ul>
+            <li>3급 (부수:禾)</li>
+            <li>음: 온 - オン</li>
+            <li>훈: 평온함 - おだ(やか)・やす(らか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

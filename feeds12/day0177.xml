@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>迭</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 질 - テツ</li>
+            <li>훈: 경질 - か(わる)・たが(いに)</li>
+          </ul>
+          <br/>
+          <h3>幻</h3>
+          <ul>
+            <li>3급 (부수:幺)</li>
+            <li>음: 환 - ゲン</li>
+            <li>훈: 환상 - まぼろし・まど(わす)</li>
+          </ul>
+          <br/>
+          <h3>遣</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 고용하다, 파견하다 - つか(う)・つか(わす)・や(る)</li>
+          </ul>
+          <br/>
+          <h3>昆</h3>
+          <ul>
+            <li>2.5급 (부수:日)</li>
+            <li>음: 곤 - コン</li>
+            <li>훈: 곤충 - あに</li>
+          </ul>
+          <br/>
+          <h3>喪</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 상 - ソウ</li>
+            <li>훈: 잃다 - も・うしな(う)・ほろ(びる)・ほろ(ぼす)</li>
+          </ul>
+          <br/>
+          <h3>拭</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 식 - シュク・シキ</li>
+            <li>훈: 닦다 - ふ(く)・ぬぐ(う)</li>
+          </ul>
+          <br/>
+          <h3>枯</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 시들다 - か(れる)・か(らす)・から(びる)</li>
+          </ul>
+          <br/>
+          <h3>睡</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 졸음 - ねむ(る)</li>
+          </ul>
+          <br/>
+          <h3>践</h3>
+          <ul>
+            <li>2.5급 (부수:足)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 밟다 - ふ(む)</li>
+          </ul>
+          <br/>
+          <h3>媒</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 매개 - なかだち</li>
+          </ul>
+          <br/>
+          <h3>超</h3>
+          <ul>
+            <li>3급 (부수:走)</li>
+            <li>음: 초 - チョウ</li>
+            <li>훈: 넘다 - こ(える)・こ(す)</li>
+          </ul>
+          <br/>
+          <h3>繭</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 고치 - まゆ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

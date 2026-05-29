@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>後</h3>
+          <ul>
+            <li>9급 (부수:彳)</li>
+            <li>음: 후 - ゴ・コウ</li>
+            <li>훈: 뒤 - のち・うし(ろ)・あと・おく(れる)・しり</li>
+          </ul>
+          <br/>
+          <h3>花</h3>
+          <ul>
+            <li>10급 (부수:艸)</li>
+            <li>음: 화 - カ・ケ</li>
+            <li>훈: 꽃 - はな</li>
+          </ul>
+          <br/>
+          <h3>征</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 정 - セイ</li>
+            <li>훈: 치다 - ゆ(く)・う(つ)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>督</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 독 - トク</li>
+            <li>훈: 감독 - み(る)・ただ(す)・ひき(いる)・うなが(す)・かしら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

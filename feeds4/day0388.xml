@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>定</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 정 - テイ・ジョウ</li>
+            <li>훈: 정하다, 확실함 - さだ(める)・さだ(まる)・さだ(か)・き(まる)</li>
+          </ul>
+          <br/>
+          <h3>当</h3>
+          <ul>
+            <li>9급 (부수:小)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 맞다, 맞히다 - あ(たる)・あ(てる)・まさ(に…べし)</li>
+          </ul>
+          <br/>
+          <h3>携</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 휴 - ケイ</li>
+            <li>훈: 휴대하다, 관여하다 - たずさ(える)・たずさ(わる)・はな(れる)</li>
+          </ul>
+          <br/>
+          <h3>餌</h3>
+          <ul>
+            <li>2급 (부수:食)</li>
+            <li>음: 이 - ジ</li>
+            <li>훈: 먹이, 사료, 미끼 - えさ・え・たべもの・く(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

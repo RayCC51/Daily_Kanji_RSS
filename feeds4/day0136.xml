@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>源</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 원 - ゲン</li>
+            <li>훈: 근원 - みなもと</li>
+          </ul>
+          <br/>
+          <h3>兵</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 병 - ヘイ・ヒョウ</li>
+            <li>훈: 병사 - つわもの・いくさ</li>
+          </ul>
+          <br/>
+          <h3>倒</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 넘어지다 - たお(れる)・たお(す)・さかさま・こ(ける)</li>
+          </ul>
+          <br/>
+          <h3>哲</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철학 - あき(らか)・さと(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

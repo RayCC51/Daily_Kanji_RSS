@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>散</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 흩어지다, 떨어지다 - ち(る)・ち(らす)・ち(らかす)・ち(らかる)・ばら</li>
+          </ul>
+          <br/>
+          <h3>待</h3>
+          <ul>
+            <li>8급 (부수:彳)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 기다리다 - ま(つ)</li>
+          </ul>
+          <br/>
+          <h3>門</h3>
+          <ul>
+            <li>9급 (부수:門)</li>
+            <li>음: 문 - モン・ボン</li>
+            <li>훈: 문 - かど・と・いえ・みうち</li>
+          </ul>
+          <br/>
+          <h3>深</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 깊다 - ふか(い)・ふか(まる)・ふか(める)・ふ(ける)・み</li>
+          </ul>
+          <br/>
+          <h3>豆</h3>
+          <ul>
+            <li>8급 (부수:豆)</li>
+            <li>음: 두 - トウ・ズ</li>
+            <li>훈: 콩 - まめ・たかつき</li>
+          </ul>
+          <br/>
+          <h3>絹</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 비단 - きぬ</li>
+          </ul>
+          <br/>
+          <h3>茎</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 경 - ケイ</li>
+            <li>훈: 줄기 - くき・なかご</li>
+          </ul>
+          <br/>
+          <h3>麺</h3>
+          <ul>
+            <li>2급 (부수:麦)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 면 - むぎこ</li>
+          </ul>
+          <br/>
+          <h3>柳</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 류 - リュウ</li>
+            <li>훈: 버드나무 - やなぎ</li>
+          </ul>
+          <br/>
+          <h3>葬</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 장 - ソウ</li>
+            <li>훈: 매장하다, 장례 - ほうむ(る)</li>
+          </ul>
+          <br/>
+          <h3>烈</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 뜨겁다 - はげ(しい)</li>
+          </ul>
+          <br/>
+          <h3>唄</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 패 - バイ</li>
+            <li>훈: 노래 - うた</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

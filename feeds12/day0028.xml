@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>席</h3>
+          <ul>
+            <li>7급 (부수:巾)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 자리 - むしろ</li>
+          </ul>
+          <br/>
+          <h3>益</h3>
+          <ul>
+            <li>6급 (부수:皿)</li>
+            <li>음: 익 - エキ・ヤク</li>
+            <li>훈: 이익 - ま(す)・ますます</li>
+          </ul>
+          <br/>
+          <h3>可</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 가 - カ・コク</li>
+            <li>훈: 옳다 - よ(い)・べ(し)</li>
+          </ul>
+          <br/>
+          <h3>埼</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 곶 - さい・さき</li>
+          </ul>
+          <br/>
+          <h3>争</h3>
+          <ul>
+            <li>7급 (부수:亅)</li>
+            <li>음: 쟁 - ソウ</li>
+            <li>훈: 다투다 - あらそ(う)・いさ(める)</li>
+          </ul>
+          <br/>
+          <h3>東</h3>
+          <ul>
+            <li>9급 (부수:木)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 동쪽 - ひがし・あずま</li>
+          </ul>
+          <br/>
+          <h3>縫</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 꿰매다 - ぬ(う)</li>
+          </ul>
+          <br/>
+          <h3>柿</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 감 - かき</li>
+          </ul>
+          <br/>
+          <h3>偽</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 위 - ギ</li>
+            <li>훈: 가짜, 속이다 - いつわ(る)・にせ</li>
+          </ul>
+          <br/>
+          <h3>詠</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 읊다 - よ(む)・うた(う)・なが(める)</li>
+          </ul>
+          <br/>
+          <h3>釈</h3>
+          <ul>
+            <li>4급 (부수:釆)</li>
+            <li>음: 석 - シャク・セキ</li>
+            <li>훈: 풀다 - と(く)・ゆる(す)・と(かす)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>塚</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 총 - チョウ</li>
+            <li>훈: 무덤 - つか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

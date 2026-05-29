@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>団</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 단 - ダン・トン・タン</li>
+            <li>훈: 단체 - まる(い)・かたまり</li>
+          </ul>
+          <br/>
+          <h3>他</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 타 - タ</li>
+            <li>훈: 다른 것 - ほか</li>
+          </ul>
+          <br/>
+          <h3>歳</h3>
+          <ul>
+            <li>4급 (부수:止)</li>
+            <li>음: 세 - サイ・セイ</li>
+            <li>훈: 나이, 해 - とし・とせ・よわい</li>
+          </ul>
+          <br/>
+          <h3>膚</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 살갗, 피부 - はだ・はだえ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>下</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 하 - カ・ゲ</li>
+            <li>훈: 아래, 내리다, 내려오다 - した・しも・もと・さ(げる)・さ(がる)・くだ(る)・くだ(す)・くだ(さる)・お(ろす)・お(りる)</li>
+          </ul>
+          <br/>
+          <h3>弁</h3>
+          <ul>
+            <li>6급 (부수:廾)</li>
+            <li>음: 변 - ベン</li>
+            <li>훈: 고깔 - わきま(える)・わ(ける)・はなびら・と(く)・かた(る)</li>
+          </ul>
+          <br/>
+          <h3>姿</h3>
+          <ul>
+            <li>5급 (부수:女)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 모습 - すがた</li>
+          </ul>
+          <br/>
+          <h3>魔</h3>
+          <ul>
+            <li>3급 (부수:鬼)</li>
+            <li>음: 마 - マ・バ</li>
+            <li>훈: 마귀 - 無し</li>
+          </ul>
+          <br/>
+          <h3>覆</h3>
+          <ul>
+            <li>3급 (부수:襾)</li>
+            <li>음: 복 - フク・フ・フウ</li>
+            <li>훈: 덮다, 가리다, 뒤엎다, 뒤집히다 - おお(う)・くつがえ(す)・くつがえ(る)</li>
+          </ul>
+          <br/>
+          <h3>償</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 갚다 - つぐな(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

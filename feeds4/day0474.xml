@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>着</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 착 - チャク・ジャク</li>
+            <li>훈: 옷, 입다, 도착하다 - き(る)・き(せる)・つ(く)・つ(ける)</li>
+          </ul>
+          <br/>
+          <h3>旧</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 옛 - ふる(い)・もと・ふ(る)・ふる(びる)</li>
+          </ul>
+          <br/>
+          <h3>貪</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 탐 - ドン・タン</li>
+            <li>훈: 탐하다 - むさぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>羨</h3>
+          <ul>
+            <li>2급 (부수:羊)</li>
+            <li>음: 선 - セン・ゼン・エン</li>
+            <li>훈: 부럽다 - うらや(む)・うらや(ましい)・あま(る)・はかみち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

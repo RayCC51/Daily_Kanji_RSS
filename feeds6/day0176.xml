@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>目</h3>
+          <ul>
+            <li>10급 (부수:目)</li>
+            <li>음: 목 - モク・ボク</li>
+            <li>훈: 눈 - め・ま・まなこ・かなめ</li>
+          </ul>
+          <br/>
+          <h3>赤</h3>
+          <ul>
+            <li>10급 (부수:赤)</li>
+            <li>음: 적 - セキ・シャク</li>
+            <li>훈: 빨강, 아기 - あか・あか(い)・あか(らむ)・あか(らめる)</li>
+          </ul>
+          <br/>
+          <h3>忘</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 잊다 - わす(れる)</li>
+          </ul>
+          <br/>
+          <h3>茂</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 무 - モ・ボウ</li>
+            <li>훈: 우거지다 - しげ(る)・すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>幻</h3>
+          <ul>
+            <li>3급 (부수:幺)</li>
+            <li>음: 환 - ゲン</li>
+            <li>훈: 환상 - まぼろし・まど(わす)</li>
+          </ul>
+          <br/>
+          <h3>貪</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 탐 - ドン・タン</li>
+            <li>훈: 탐하다 - むさぼ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

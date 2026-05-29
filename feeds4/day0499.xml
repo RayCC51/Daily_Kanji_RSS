@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>京</h3>
+          <ul>
+            <li>9급 (부수:亠)</li>
+            <li>음: 경 - キョウ・ケイ・キン</li>
+            <li>훈: 서울 - みやこ</li>
+          </ul>
+          <br/>
+          <h3>気</h3>
+          <ul>
+            <li>10급 (부수:气)</li>
+            <li>음: 기 - キ・ケ</li>
+            <li>훈: 기운, 기체 - いき</li>
+          </ul>
+          <br/>
+          <h3>猿</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 원숭이 - さる・ましら</li>
+          </ul>
+          <br/>
+          <h3>飾</h3>
+          <ul>
+            <li>4급 (부수:食)</li>
+            <li>음: 식 - ショク</li>
+            <li>훈: 꾸미다 - かざ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>旧</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 옛 - ふる(い)・もと・ふ(る)・ふる(びる)</li>
+          </ul>
+          <br/>
+          <h3>綿</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 솜, 목화 - わた・つら(なる)</li>
+          </ul>
+          <br/>
+          <h3>始</h3>
+          <ul>
+            <li>8급 (부수:女)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시작하다 - はじ(める)・はじ(まる)</li>
+          </ul>
+          <br/>
+          <h3>千</h3>
+          <ul>
+            <li>10급 (부수:十)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 1000 - ち</li>
+          </ul>
+          <br/>
+          <h3>焼</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 태우다 - や(く)・や(ける)・く(べる)</li>
+          </ul>
+          <br/>
+          <h3>似</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 사 - ジ・シ</li>
+            <li>훈: 닮다, 어울리다 - に(る)・ごと(し)</li>
+          </ul>
+          <br/>
+          <h3>帥</h3>
+          <ul>
+            <li>2.5급 (부수:巾)</li>
+            <li>음: 수 - スイ・ソツ</li>
+            <li>훈: 장수, 머리 - ひき(いる)</li>
+          </ul>
+          <br/>
+          <h3>斤</h3>
+          <ul>
+            <li>3급 (부수:斤)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 근 - おの</li>
+          </ul>
+          <br/>
+          <h3>謙</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 겸 - ケン</li>
+            <li>훈: 겸손 - へりくだ(る)</li>
+          </ul>
+          <br/>
+          <h3>閲</h3>
+          <ul>
+            <li>3급 (부수:門)</li>
+            <li>음: 열 - エツ</li>
+            <li>훈: 보다 - けみ(する)・へ(る)</li>
+          </ul>
+          <br/>
+          <h3>刑</h3>
+          <ul>
+            <li>3급 (부수:刀)</li>
+            <li>음: 형 - ケイ・ギョウ</li>
+            <li>훈: 형벌 - しおき</li>
+          </ul>
+          <br/>
+          <h3>甘</h3>
+          <ul>
+            <li>4급 (부수:甘)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 달다, 응석부리다 - あま(い)・あま(える)・あま(やかす)・うま(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

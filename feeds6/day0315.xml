@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>支</h3>
+          <ul>
+            <li>6급 (부수:支)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 버티다, 떠받치다 - ささ(える)・つか(える)・か(う)</li>
+          </ul>
+          <br/>
+          <h3>消</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 사라지다, 끄다 - き(える)・け(す)</li>
+          </ul>
+          <br/>
+          <h3>散</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 흩어지다, 떨어지다 - ち(る)・ち(らす)・ち(らかす)・ち(らかる)・ばら</li>
+          </ul>
+          <br/>
+          <h3>閑</h3>
+          <ul>
+            <li>2.5급 (부수:門)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한가하다 - ひま・しず(か)・なら(う)</li>
+          </ul>
+          <br/>
+          <h3>肘</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 팔꿈치 - ひじ</li>
+          </ul>
+          <br/>
+          <h3>軸</h3>
+          <ul>
+            <li>3급 (부수:車)</li>
+            <li>음: 축 - ジク・チク</li>
+            <li>훈: 축 - しんぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

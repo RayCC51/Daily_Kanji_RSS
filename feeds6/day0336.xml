@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>利</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 이로움, 발휘하다, 가능하다 - き(く)・するど(い)・と(し)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>上</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 상 - ジョウ・ショウ</li>
+            <li>훈: 위, 올리다, 오르다 - うえ・うわ・かみ・あ(げる)・あ(がる)・のぼ(る)・のぼ(せる)・のぼ(す)・たてまつ(る)・ほとり</li>
+          </ul>
+          <br/>
+          <h3>移</h3>
+          <ul>
+            <li>6급 (부수:禾)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 이동하다, 옮기다 - うつ(る)・うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>蔑</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 멸 - ベツ</li>
+            <li>훈: 깔보다 - さげす(む)・ないがし(ろ)・なみ(する)・くら(い)</li>
+          </ul>
+          <br/>
+          <h3>銘</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 새기다 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>腐</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 썩다 - くさ(る)・くさ(れる)・くさ(らす)・くさ(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

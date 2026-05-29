@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刀</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 칼 - かたな</li>
+          </ul>
+          <br/>
+          <h3>路</h3>
+          <ul>
+            <li>8급 (부수:足)</li>
+            <li>음: 로 - ロ</li>
+            <li>훈: 길 - じ・みち・くるま</li>
+          </ul>
+          <br/>
+          <h3>相</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 상 - ソウ・ショウ</li>
+            <li>훈: 서로 - あい・さが・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>炭</h3>
+          <ul>
+            <li>8급 (부수:火)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 숯 - すみ</li>
+          </ul>
+          <br/>
+          <h3>届</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 닿다, 보내다 - とど(ける)・とど(く)</li>
+          </ul>
+          <br/>
+          <h3>康</h3>
+          <ul>
+            <li>7급 (부수:广)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 건강 - やす(い)</li>
+          </ul>
+          <br/>
+          <h3>哲</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철학 - あき(らか)・さと(い)</li>
+          </ul>
+          <br/>
+          <h3>妬</h3>
+          <ul>
+            <li>2급 (부수:女)</li>
+            <li>음: 투 - ト</li>
+            <li>훈: 질투, 시샘하다 - ねた(む)・そね(む)・や(く)</li>
+          </ul>
+          <br/>
+          <h3>浸</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 담그다, 잠기다 - ひた(す)・ひた(る)・つ(く)・つ(かる)・し(みる)</li>
+          </ul>
+          <br/>
+          <h3>網</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 망 - モウ・ボウ</li>
+            <li>훈: 그물 - あみ</li>
+          </ul>
+          <br/>
+          <h3>冠</h3>
+          <ul>
+            <li>3급 (부수:冖)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 갓, 왕관 - かんむり・かむ(る)</li>
+          </ul>
+          <br/>
+          <h3>盾</h3>
+          <ul>
+            <li>4급 (부수:目)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 방패 - たて</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

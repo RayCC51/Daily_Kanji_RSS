@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>川</h3>
+          <ul>
+            <li>10급 (부수:川)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 강 - かわ</li>
+          </ul>
+          <br/>
+          <h3>善</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 선 - ゼン・セン</li>
+            <li>훈: 착하다, 좋다 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>山</h3>
+          <ul>
+            <li>10급 (부수:山)</li>
+            <li>음: 산 - サン・セン</li>
+            <li>훈: 산 - やま</li>
+          </ul>
+          <br/>
+          <h3>罰</h3>
+          <ul>
+            <li>4급 (부수:网)</li>
+            <li>음: 벌 - バツ・バチ・ハツ</li>
+            <li>훈: 벌 - 無し</li>
+          </ul>
+          <br/>
+          <h3>療</h3>
+          <ul>
+            <li>4급 (부수:疒)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 치료 - い(やす)</li>
+          </ul>
+          <br/>
+          <h3>倣</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 흉내내다 - なら(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

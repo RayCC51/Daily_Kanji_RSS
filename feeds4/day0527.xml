@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>沢</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 택 - タク</li>
+            <li>훈: 못, 빛나다 - さわ・うるお(う)・つや</li>
+          </ul>
+          <br/>
+          <h3>升</h3>
+          <ul>
+            <li>2.5급 (부수:十)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 되 - ます・のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>倹</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 검 - ケン</li>
+            <li>훈: 검소하다 - つま(しい)・つづま(やか)</li>
+          </ul>
+          <br/>
+          <h3>架</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 걸이, 걸치다 - か(ける)・か(かる)・たな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

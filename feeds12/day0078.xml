@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>律</h3>
+          <ul>
+            <li>5급 (부수:彳)</li>
+            <li>음: 률 - リツ・リチ</li>
+            <li>훈: 법칙 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>優</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 우 - ユウ・ウ</li>
+            <li>훈: 상냥하다, 뛰어나다 - やさ(しい)・すぐ(れる)・ゆた(か)・まさ(る)・わざおぎ・やわ(らぐ)</li>
+          </ul>
+          <br/>
+          <h3>罪</h3>
+          <ul>
+            <li>6급 (부수:网)</li>
+            <li>음: 죄 - ザイ</li>
+            <li>훈: 죄 - つみ</li>
+          </ul>
+          <br/>
+          <h3>必</h3>
+          <ul>
+            <li>7급 (부수:心)</li>
+            <li>음: 필 - ヒツ</li>
+            <li>훈: 반드시 - かなら(ず)</li>
+          </ul>
+          <br/>
+          <h3>遺</h3>
+          <ul>
+            <li>5급 (부수:辵)</li>
+            <li>음: 유 - イ・ユイ</li>
+            <li>훈: 남기다 - のこ(す)・のこ(る)・わす(れる)・す(てる)</li>
+          </ul>
+          <br/>
+          <h3>終</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 종 - シュウ</li>
+            <li>훈: 끝나다 - お(わる)・お(える)・しま(う)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>粛</h3>
+          <ul>
+            <li>2.5급 (부수:聿)</li>
+            <li>음: 숙 - シュク</li>
+            <li>훈: 엄숙 - つつし(む)</li>
+          </ul>
+          <br/>
+          <h3>炉</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 로 - ロ</li>
+            <li>훈: 화로 - いろり・ひばち</li>
+          </ul>
+          <br/>
+          <h3>僅</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 겨우, 근소함 - わず(か)</li>
+          </ul>
+          <br/>
+          <h3>但</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 단 - タン・ダン</li>
+            <li>훈: 다만 - ただ(し)・ただ</li>
+          </ul>
+          <br/>
+          <h3>碁</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 기 - ゴ・キ</li>
+            <li>훈: 바둑 - 無し</li>
+          </ul>
+          <br/>
+          <h3>胞</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 세포 - はら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

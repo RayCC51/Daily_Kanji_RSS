@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>預</h3>
+          <ul>
+            <li>5급 (부수:頁)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 맡기다, 떠맡다 - あず(ける)・あず(かる)・あらかじ(め)</li>
+          </ul>
+          <br/>
+          <h3>快</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 쾌 - カイ・ケ</li>
+            <li>훈: 유쾌하다 - こころよ(い)</li>
+          </ul>
+          <br/>
+          <h3>漁</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 어 - ギョ・リョウ</li>
+            <li>훈: 어업, 찾아다니다 - すなど(る)・あさ(る)・いさ(り)</li>
+          </ul>
+          <br/>
+          <h3>款</h3>
+          <ul>
+            <li>2.5급 (부수:欠)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 항목 - まこと・よろこ(ぶ)・たた(く)・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>雅</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 맑다 - みやび・みやび(やか)・つね</li>
+          </ul>
+          <br/>
+          <h3>泌</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 필, 비 - ヒツ・ヒ</li>
+            <li>훈: 분비 - にじ(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

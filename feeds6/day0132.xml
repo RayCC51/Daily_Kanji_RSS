@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>顔</h3>
+          <ul>
+            <li>9급 (부수:頁)</li>
+            <li>음: 안 - ガン</li>
+            <li>훈: 얼굴 - かお・かんばせ</li>
+          </ul>
+          <br/>
+          <h3>遠</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 멀다 - とお(い)・おち</li>
+          </ul>
+          <br/>
+          <h3>現</h3>
+          <ul>
+            <li>6급 (부수:玉)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 나타나다 - あらわ(れる)・あらわ(す)・うつつ</li>
+          </ul>
+          <br/>
+          <h3>扉</h3>
+          <ul>
+            <li>2.5급 (부수:戸)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 문 - とびら</li>
+          </ul>
+          <br/>
+          <h3>称</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 칭 - ショウ</li>
+            <li>훈: 칭하다 - とな(える)・たた(える)・あ(げる)・かな(う)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>募</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 모 - ボ・モ</li>
+            <li>훈: 모으다, 뽑다 - つの(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

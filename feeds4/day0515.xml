@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>謙</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 겸 - ケン</li>
+            <li>훈: 겸손 - へりくだ(る)</li>
+          </ul>
+          <br/>
+          <h3>竜</h3>
+          <ul>
+            <li>2.5급 (부수:竜)</li>
+            <li>음: 룡 - リュウ・リョウ・リン</li>
+            <li>훈: 용 - たつ</li>
+          </ul>
+          <br/>
+          <h3>芋</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 토란 - いも</li>
+          </ul>
+          <br/>
+          <h3>漫</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 흩어지다, 어쩐지 - みだ(りに)・そぞ(ろに)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

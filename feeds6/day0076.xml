@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>断</h3>
+          <ul>
+            <li>6급 (부수:斤)</li>
+            <li>음: 단 - ダン</li>
+            <li>훈: 끊다, 거절하다 - た(つ)・ことわ(る)・さだ(める)</li>
+          </ul>
+          <br/>
+          <h3>往</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 가다 - ゆ(く)・いにしえ</li>
+          </ul>
+          <br/>
+          <h3>寄</h3>
+          <ul>
+            <li>6급 (부수:宀)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 접근하다, 밀려오다 - よ(る)・よ(せる)</li>
+          </ul>
+          <br/>
+          <h3>雇</h3>
+          <ul>
+            <li>3급 (부수:隹)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 고용하다 - やと(う)</li>
+          </ul>
+          <br/>
+          <h3>泊</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 숙박하다 - と(まる)・と(める)</li>
+          </ul>
+          <br/>
+          <h3>膨</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 팽 - ボウ・ホウ</li>
+            <li>훈: 부풀다 - ふく(らむ)・ふく(れる)・ふく(よか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

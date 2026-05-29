@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>技</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 기 - ギ</li>
+            <li>훈: 재주, 기술 - わざ</li>
+          </ul>
+          <br/>
+          <h3>道</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 도 - ドウ・トウ</li>
+            <li>훈: 길 - みち・い(う)</li>
+          </ul>
+          <br/>
+          <h3>独</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 독 - ドク・トク</li>
+            <li>훈: 혼자 - ひと(り)</li>
+          </ul>
+          <br/>
+          <h3>列</h3>
+          <ul>
+            <li>8급 (부수:刀)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 행렬 - つら(ねる)・つら(なる)・なら(べる)</li>
+          </ul>
+          <br/>
+          <h3>馬</h3>
+          <ul>
+            <li>9급 (부수:馬)</li>
+            <li>음: 마 - バ・メ・マ</li>
+            <li>훈: 말 - うま・ま</li>
+          </ul>
+          <br/>
+          <h3>際</h3>
+          <ul>
+            <li>6급 (부수:阜)</li>
+            <li>음: 제 - サイ</li>
+            <li>훈: 가장자리, 직전 - きわ・まじ(わる)・あい</li>
+          </ul>
+          <br/>
+          <h3>瓶</h3>
+          <ul>
+            <li>2.5급 (부수:瓦)</li>
+            <li>음: 병 - ビン・ヘイ</li>
+            <li>훈: 병 - かめ</li>
+          </ul>
+          <br/>
+          <h3>窃</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 절 - セツ</li>
+            <li>훈: 훔치다 - ぬす(む)・ひそ(かに)</li>
+          </ul>
+          <br/>
+          <h3>項</h3>
+          <ul>
+            <li>4급 (부수:頁)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 항목 - うなじ</li>
+          </ul>
+          <br/>
+          <h3>哺</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 포 - ホ</li>
+            <li>훈: 먹이다 - ふく(む)・はぐく(む)</li>
+          </ul>
+          <br/>
+          <h3>舞</h3>
+          <ul>
+            <li>4급 (부수:舛)</li>
+            <li>음: 무 - ブ・ム</li>
+            <li>훈: 춤추다 - ま(う)・まい・もてあそ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>戚</h3>
+          <ul>
+            <li>2급 (부수:戈)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 겨레 - みうち・いた(む)・うれ(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

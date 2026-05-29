@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>改</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 고치다 - あらた(める)・あらた(まる)</li>
+          </ul>
+          <br/>
+          <h3>足</h3>
+          <ul>
+            <li>10급 (부수:足)</li>
+            <li>음: 족 - ソク</li>
+            <li>훈: 발, 충분하다, 만족하다, 더하다 - あし・た(りる)・た(る)・た(す)</li>
+          </ul>
+          <br/>
+          <h3>基</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기본 - もと・もとい</li>
+          </ul>
+          <br/>
+          <h3>巨</h3>
+          <ul>
+            <li>4급 (부수:工)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 크다 - おお(きい)・おお(い)</li>
+          </ul>
+          <br/>
+          <h3>凶</h3>
+          <ul>
+            <li>4급 (부수:凵)</li>
+            <li>음: 흉 - キョウ</li>
+            <li>훈: 흉하다 - わざわ(い)・わる(い)・おそ(れる)</li>
+          </ul>
+          <br/>
+          <h3>幽</h3>
+          <ul>
+            <li>3급 (부수:幺)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 그윽하다 - かす(か)・くら(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

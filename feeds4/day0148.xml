@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>唱</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 창 - ショウ</li>
+            <li>훈: 부르다, 소리 내어 읽다, 주장하다 - とな(える)・うた(う)・うた</li>
+          </ul>
+          <br/>
+          <h3>側</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 측 - ソク・ショク</li>
+            <li>훈: 측, 쪽 - がわ・そば・はた・かたわ(ら)</li>
+          </ul>
+          <br/>
+          <h3>漆</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 칠 - シツ</li>
+            <li>훈: 옻, 7 - うるし</li>
+          </ul>
+          <br/>
+          <h3>摘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 따다, 뜯다, 골라내다 - つ(む)・つま(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

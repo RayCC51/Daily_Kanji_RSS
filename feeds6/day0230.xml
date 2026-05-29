@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>紅</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 홍 - コウ・ク・グ</li>
+            <li>훈: 빨강 - べに・くれない・あか(い)・もみ</li>
+          </ul>
+          <br/>
+          <h3>将</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 장차, 장수 - ひき(いる)・まさ(に…す)・はた</li>
+          </ul>
+          <br/>
+          <h3>表</h3>
+          <ul>
+            <li>8급 (부수:衣)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 겉, 나타나다 - おもて・あらわ(す)・あらわ(れる)・しるし</li>
+          </ul>
+          <br/>
+          <h3>込</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 입 - 無し</li>
+            <li>훈: 담다, 채우다, 붐비다 - こ(む)・こ(める)</li>
+          </ul>
+          <br/>
+          <h3>姓</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 성씨 - かばね</li>
+          </ul>
+          <br/>
+          <h3>豪</h3>
+          <ul>
+            <li>4급 (부수:豕)</li>
+            <li>음: 호 - ゴウ・コウ</li>
+            <li>훈: 호걸 - つよ(い)・えら(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

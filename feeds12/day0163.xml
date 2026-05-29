@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>農</h3>
+          <ul>
+            <li>8급 (부수:辰)</li>
+            <li>음: 농 - ノウ・ドウ</li>
+            <li>훈: 농사 - たがや(す)</li>
+          </ul>
+          <br/>
+          <h3>院</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 원 - イン</li>
+            <li>훈: 집 - かき・かこい</li>
+          </ul>
+          <br/>
+          <h3>場</h3>
+          <ul>
+            <li>9급 (부수:土)</li>
+            <li>음: 장 - ジョウ</li>
+            <li>훈: 마당 - ば</li>
+          </ul>
+          <br/>
+          <h3>枚</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 낱, 장 - ひら</li>
+          </ul>
+          <br/>
+          <h3>期</h3>
+          <ul>
+            <li>8급 (부수:月)</li>
+            <li>음: 기 - キ・ゴ</li>
+            <li>훈: 기간 - とき・ちぎ(る)・き(める)</li>
+          </ul>
+          <br/>
+          <h3>寺</h3>
+          <ul>
+            <li>9급 (부수:寸)</li>
+            <li>음: 사 - ジ</li>
+            <li>훈: 절 - てら</li>
+          </ul>
+          <br/>
+          <h3>跳</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 뛰다 - は(ねる)・と(ぶ)・おど(る)</li>
+          </ul>
+          <br/>
+          <h3>傑</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 걸 - ケツ</li>
+            <li>훈: 뛰어나다 - すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>腐</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 썩다 - くさ(る)・くさ(れる)・くさ(らす)・くさ(す)</li>
+          </ul>
+          <br/>
+          <h3>曇</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 담 - ドン・タン</li>
+            <li>훈: 흐리다 - くも(る)</li>
+          </ul>
+          <br/>
+          <h3>煎</h3>
+          <ul>
+            <li>2급 (부수:火)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 볶다, 지지다 - い(る)・に(る)</li>
+          </ul>
+          <br/>
+          <h3>繁</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 번 - ハン</li>
+            <li>훈: 번성하다, 우거지다 - しげ(る)・わずら(わしい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

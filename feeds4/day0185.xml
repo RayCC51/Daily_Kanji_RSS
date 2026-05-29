@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>冷</h3>
+          <ul>
+            <li>7급 (부수:冫)</li>
+            <li>음: 랭 - レイ</li>
+            <li>훈: 차갑다, 식다 - つめ(たい)・ひ(える)・ひ(や)・ひ(やす)・ひ(やかす)・さ(める)・さ(ます)</li>
+          </ul>
+          <br/>
+          <h3>注</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 쏟다, 붓다, 따르다 - そそ(ぐ)・つ(ぐ)・さ(す)</li>
+          </ul>
+          <br/>
+          <h3>握</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 악 - アク</li>
+            <li>훈: 쥐다, 잡다 - にぎ(る)</li>
+          </ul>
+          <br/>
+          <h3>刺</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 자 - シ・セキ</li>
+            <li>훈: 찌르다 - さ(す)・さ(さる)・そし(る)・とげ・なふだ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

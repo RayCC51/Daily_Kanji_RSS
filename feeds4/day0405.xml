@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>詞</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 말 - ことば</li>
+          </ul>
+          <br/>
+          <h3>祖</h3>
+          <ul>
+            <li>6급 (부수:示)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 조상 - おや・じじ・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>墳</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 무덤 - はか</li>
+          </ul>
+          <br/>
+          <h3>亭</h3>
+          <ul>
+            <li>2.5급 (부수:亠)</li>
+            <li>음: 정 - テイ・チン</li>
+            <li>훈: 정자 - あずまや</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

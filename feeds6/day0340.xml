@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>草</h3>
+          <ul>
+            <li>10급 (부수:艸)</li>
+            <li>음: 초 - ソウ</li>
+            <li>훈: 풀 - くさ</li>
+          </ul>
+          <br/>
+          <h3>希</h3>
+          <ul>
+            <li>7급 (부수:巾)</li>
+            <li>음: 희 - キ・ケ</li>
+            <li>훈: 바라다 - まれ・こいねが(う)</li>
+          </ul>
+          <br/>
+          <h3>勢</h3>
+          <ul>
+            <li>6급 (부수:力)</li>
+            <li>음: 세 - セイ・セ</li>
+            <li>훈: 기세, 세력 - いきお(い)</li>
+          </ul>
+          <br/>
+          <h3>畳</h3>
+          <ul>
+            <li>4급 (부수:田)</li>
+            <li>음: 첩 - ジョウ・チョウ</li>
+            <li>훈: 개다, 다다미 - たた(む)・たたみ・かさ(ねる)</li>
+          </ul>
+          <br/>
+          <h3>衷</h3>
+          <ul>
+            <li>2.5급 (부수:衣)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 속마음 - うち・こころ・まこと</li>
+          </ul>
+          <br/>
+          <h3>厘</h3>
+          <ul>
+            <li>3급 (부수:厂)</li>
+            <li>음: 리 - リン</li>
+            <li>훈: 리 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

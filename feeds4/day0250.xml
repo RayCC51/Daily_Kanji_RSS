@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>恩</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 은 - オン</li>
+            <li>훈: 은혜 - めぐ(み)</li>
+          </ul>
+          <br/>
+          <h3>測</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 측 - ソク</li>
+            <li>훈: 측정하다 - はか(る)</li>
+          </ul>
+          <br/>
+          <h3>慶</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 경축 - よろこ(ぶ)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>鶴</h3>
+          <ul>
+            <li>2급 (부수:鳥)</li>
+            <li>음: 학 - カク</li>
+            <li>훈: 학 - つる</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

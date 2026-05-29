@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>崎</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 곶 - さき</li>
+          </ul>
+          <br/>
+          <h3>険</h3>
+          <ul>
+            <li>6급 (부수:阜)</li>
+            <li>음: 험 - ケン</li>
+            <li>훈: 험하다 - けわ(しい)</li>
+          </ul>
+          <br/>
+          <h3>令</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 령 - レイ・リョウ</li>
+            <li>훈: 명령 - いいつけ・おさ・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>廷</h3>
+          <ul>
+            <li>2.5급 (부수:廴)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 집 - にわ</li>
+          </ul>
+          <br/>
+          <h3>娠</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+          <h3>詔</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 조 - ショウ</li>
+            <li>훈: 조서 - みことのり</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

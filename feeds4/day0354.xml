@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>楽</h3>
+          <ul>
+            <li>9급 (부수:木)</li>
+            <li>음: 락, 악 - ガク・ラク・ゴウ・ギョウ</li>
+            <li>훈: 즐겁다 - たの(しい)・たの(しむ)・かな(でる)・この(む)</li>
+          </ul>
+          <br/>
+          <h3>洗</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 세 - セン</li>
+            <li>훈: 씻다 - あら(う)</li>
+          </ul>
+          <br/>
+          <h3>腕</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 완 - ワン</li>
+            <li>훈: 팔 - うで・かいな</li>
+          </ul>
+          <br/>
+          <h3>衡</h3>
+          <ul>
+            <li>2.5급 (부수:行)</li>
+            <li>음: 형 - コウ</li>
+            <li>훈: 저울 - はかり・はか(る)・くびき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

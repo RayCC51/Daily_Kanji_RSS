@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宅</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 댁, 택 - タク</li>
+            <li>훈: 집 - いえ・やけ</li>
+          </ul>
+          <br/>
+          <h3>昼</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 낮 - ひる</li>
+          </ul>
+          <br/>
+          <h3>基</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기본 - もと・もとい</li>
+          </ul>
+          <br/>
+          <h3>規</h3>
+          <ul>
+            <li>6급 (부수:見)</li>
+            <li>음: 규 - キ</li>
+            <li>훈: 법 - のり・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>迷</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 미 - メイ</li>
+            <li>훈: 헤매다 - まよ(う)・まど(う)</li>
+          </ul>
+          <br/>
+          <h3>喜</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 희 - キ</li>
+            <li>훈: 기뻐하다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>猿</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 원숭이 - さる・ましら</li>
+          </ul>
+          <br/>
+          <h3>顧</h3>
+          <ul>
+            <li>3급 (부수:頁)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 뒤돌아보다 - かえり(みる)</li>
+          </ul>
+          <br/>
+          <h3>吉</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 길 - チキ・キツ</li>
+            <li>훈: 길하다 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>峰</h3>
+          <ul>
+            <li>4급 (부수:山)</li>
+            <li>음: 봉 - ホウ・フ</li>
+            <li>훈: 봉우리 - みね</li>
+          </ul>
+          <br/>
+          <h3>諦</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 체 - テイ・タイ</li>
+            <li>훈: 포기하다 - あきら(める)・つまび(らか)・まこと</li>
+          </ul>
+          <br/>
+          <h3>腰</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 허리 - こし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>資</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 재물 - たから・もと・たす(ける)・たち</li>
+          </ul>
+          <br/>
+          <h3>授</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 수 - ジュ</li>
+            <li>훈: 주다 - さず(ける)・さず(かる)</li>
+          </ul>
+          <br/>
+          <h3>敢</h3>
+          <ul>
+            <li>3급 (부수:攵)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 용감, 감히 - あ(えて)</li>
+          </ul>
+          <br/>
+          <h3>甘</h3>
+          <ul>
+            <li>4급 (부수:甘)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 달다, 응석부리다 - あま(い)・あま(える)・あま(やかす)・うま(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

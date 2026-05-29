@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>具</h3>
+          <ul>
+            <li>8급 (부수:八)</li>
+            <li>음: 구 - グ</li>
+            <li>훈: 갖춤 - そな(わる)・そな(える)・つぶさ(に)・つま</li>
+          </ul>
+          <br/>
+          <h3>続</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 속 - ゾク・ショク</li>
+            <li>훈: 계속하다 - つづ(く)・つづ(ける)・つ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>素</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 소 - ソ・ス</li>
+            <li>훈: 요소 - もと・もと(より)・しろ(い)</li>
+          </ul>
+          <br/>
+          <h3>送</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 송 - ソウ</li>
+            <li>훈: 보내다 - おく(る)</li>
+          </ul>
+          <br/>
+          <h3>勤</h3>
+          <ul>
+            <li>5급 (부수:力)</li>
+            <li>음: 근 - キン・ゴン</li>
+            <li>훈: 근무하다 - つと(める)・つと(まる)・いそ(しむ)</li>
+          </ul>
+          <br/>
+          <h3>演</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 공연 - の(べる)・おこな(う)</li>
+          </ul>
+          <br/>
+          <h3>躍</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 약 - ヤク・テキ</li>
+            <li>훈: 뛰어 오르다 - おど(る)</li>
+          </ul>
+          <br/>
+          <h3>触</h3>
+          <ul>
+            <li>4급 (부수:角)</li>
+            <li>음: 촉 - ショク・ソク</li>
+            <li>훈: 닿다, 만지다 - ふれる・さわる</li>
+          </ul>
+          <br/>
+          <h3>矯</h3>
+          <ul>
+            <li>2.5급 (부수:矢)</li>
+            <li>음: 교 - キョウ</li>
+            <li>훈: 바로잡다 - た(める)・いつわ(る)</li>
+          </ul>
+          <br/>
+          <h3>崩</h3>
+          <ul>
+            <li>3급 (부수:山)</li>
+            <li>음: 붕 - ホウ</li>
+            <li>훈: 무너지다 - くず(れる)・くず(す)</li>
+          </ul>
+          <br/>
+          <h3>俺</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 엄 - エン</li>
+            <li>훈: 나 - おれ・われ</li>
+          </ul>
+          <br/>
+          <h3>賢</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 현 - ケン</li>
+            <li>훈: 현명하다 - かしこ(い)・さか(しい)・まさ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

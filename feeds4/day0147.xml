@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>進</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 나아가다 - すす(む)・すす(める)</li>
+          </ul>
+          <br/>
+          <h3>山</h3>
+          <ul>
+            <li>10급 (부수:山)</li>
+            <li>음: 산 - サン・セン</li>
+            <li>훈: 산 - やま</li>
+          </ul>
+          <br/>
+          <h3>濯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 탁 - タク</li>
+            <li>훈: 씻다 - あら(う)・すす(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>微</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 작다 - かす(か)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

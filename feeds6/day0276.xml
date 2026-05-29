@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>講</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 강의 - 無し</li>
+          </ul>
+          <br/>
+          <h3>領</h3>
+          <ul>
+            <li>6급 (부수:頁)</li>
+            <li>음: 령 - リョウ</li>
+            <li>훈: 거느리다 - おさ(める)・う(ける)・かなめ・かしら・うなじ・えり</li>
+          </ul>
+          <br/>
+          <h3>員</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 원 - イン</li>
+            <li>훈: 인원 - かず</li>
+          </ul>
+          <br/>
+          <h3>透</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 투 - トウ</li>
+            <li>훈: 틈이 생기다, 비치다 - す(く)・す(かす)・す(ける)・とお(る)</li>
+          </ul>
+          <br/>
+          <h3>酎</h3>
+          <ul>
+            <li>2급 (부수:酉)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 술 - 無し</li>
+          </ul>
+          <br/>
+          <h3>較</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 교 - カク・コウ</li>
+            <li>훈: 비교하다 - くら(べる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

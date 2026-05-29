@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>片</h3>
+          <ul>
+            <li>5급 (부수:片)</li>
+            <li>음: 편 - ヘン</li>
+            <li>훈: 조각 - かた・きれ・ひら・ペンス</li>
+          </ul>
+          <br/>
+          <h3>株</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 주 - シュ</li>
+            <li>훈: 주식 - かぶ</li>
+          </ul>
+          <br/>
+          <h3>青</h3>
+          <ul>
+            <li>10급 (부수:青)</li>
+            <li>음: 청 - セイ・ショウ</li>
+            <li>훈: 파랑 - あお・あお(い)</li>
+          </ul>
+          <br/>
+          <h3>顎</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 악 - ガク</li>
+            <li>훈: 턱 - あご</li>
+          </ul>
+          <br/>
+          <h3>屯</h3>
+          <ul>
+            <li>2.5급 (부수:屮)</li>
+            <li>음: 둔 - トン・チュン</li>
+            <li>훈: 두다 - たむろ・なや(む)</li>
+          </ul>
+          <br/>
+          <h3>翻</h3>
+          <ul>
+            <li>3급 (부수:羽)</li>
+            <li>음: 번 - ホン・ハン</li>
+            <li>훈: 번역, 뒤집다 - ひるがえ(る)・ひるがえ(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

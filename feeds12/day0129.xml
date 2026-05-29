@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>親</h3>
+          <ul>
+            <li>9급 (부수:見)</li>
+            <li>음: 친 - シン</li>
+            <li>훈: 부모, 친하다 - おや・した(しい)・した(しむ)・みずか(ら)</li>
+          </ul>
+          <br/>
+          <h3>責</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 책 - セキ・シャク</li>
+            <li>훈: 꾸짖다 - せ(める)</li>
+          </ul>
+          <br/>
+          <h3>両</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 둘 - ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>激</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 격 - ゲキ</li>
+            <li>훈: 심하다 - はげ(しい)・はげ(ます)</li>
+          </ul>
+          <br/>
+          <h3>才</h3>
+          <ul>
+            <li>9급 (부수:手)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재주 - ざえ・かど</li>
+          </ul>
+          <br/>
+          <h3>属</h3>
+          <ul>
+            <li>6급 (부수:尸)</li>
+            <li>음: 속 - ゾク・ショク</li>
+            <li>훈: 무리 - つ(く)・やから</li>
+          </ul>
+          <br/>
+          <h3>逝</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 서 - セイ</li>
+            <li>훈: 죽다 - ゆ(く)・い(く)</li>
+          </ul>
+          <br/>
+          <h3>瘍</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 헐다 - かさ・できもの</li>
+          </ul>
+          <br/>
+          <h3>宜</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 마땅 - よろ(しい)・よ(い)・むべ・よろ(しく…べし)</li>
+          </ul>
+          <br/>
+          <h3>繰</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 헤아리다, 되풀이하다 - く(る)</li>
+          </ul>
+          <br/>
+          <h3>侍</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 시 - ジ・シ</li>
+            <li>훈: 무사, 모시다 - さむらい・はべ(る)・さぶら(う)</li>
+          </ul>
+          <br/>
+          <h3>髄</h3>
+          <ul>
+            <li>3급 (부수:骨)</li>
+            <li>음: 수 - ズイ</li>
+            <li>훈: 뼛골 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

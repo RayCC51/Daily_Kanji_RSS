@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>陣</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 진 - ジン・チン</li>
+            <li>훈: 풀다 - じんだて</li>
+          </ul>
+          <br/>
+          <h3>咽</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 인 - イン・エツ・エン</li>
+            <li>훈: 목구멍, 목메다 - のど・むせ(ぶ)・の(む)</li>
+          </ul>
+          <br/>
+          <h3>頼</h3>
+          <ul>
+            <li>4급 (부수:頁)</li>
+            <li>음: 뢰 - ライ</li>
+            <li>훈: 부탁하다, 의지하다 - たの(む)・たの(もしい)・たよ(る)</li>
+          </ul>
+          <br/>
+          <h3>漬</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 담그다, 익다 - つ(ける)・つ(かる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

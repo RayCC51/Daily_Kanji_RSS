@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>科</h3>
+          <ul>
+            <li>9급 (부수:禾)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 과목 - とが・しな・しぐさ</li>
+          </ul>
+          <br/>
+          <h3>持</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 지 - ジ・チ</li>
+            <li>훈: 가지다, 버티다 - も(つ)</li>
+          </ul>
+          <br/>
+          <h3>衆</h3>
+          <ul>
+            <li>5급 (부수:血)</li>
+            <li>음: 중 - シュウ・シュ</li>
+            <li>훈: 무리 - おお(い)</li>
+          </ul>
+          <br/>
+          <h3>肝</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 간 - きも</li>
+          </ul>
+          <br/>
+          <h3>薦</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 추천하다 - すす(める)・こも・し(く)・しき(りに)</li>
+          </ul>
+          <br/>
+          <h3>擬</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 비기다, 비교하다 - なぞら(える)・はか(る)・まがい・もどき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>教</h3>
+          <ul>
+            <li>9급 (부수:攵)</li>
+            <li>음: 교 - キョウ</li>
+            <li>훈: 가르치다, 배우다 - おし(える)・おそ(わる)</li>
+          </ul>
+          <br/>
+          <h3>第</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 제 - ダイ・テイ</li>
+            <li>훈: 차례 - つい(で)・やしき</li>
+          </ul>
+          <br/>
+          <h3>康</h3>
+          <ul>
+            <li>7급 (부수:广)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 건강 - やす(い)</li>
+          </ul>
+          <br/>
+          <h3>柄</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 몸집, 품위, 자루 - がら・え・つか・いきお(い)</li>
+          </ul>
+          <br/>
+          <h3>微</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 작다 - かす(か)</li>
+          </ul>
+          <br/>
+          <h3>漆</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 칠 - シツ</li>
+            <li>훈: 옻, 7 - うるし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

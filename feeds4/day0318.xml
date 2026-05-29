@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>脈</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 맥 - ミャク・バク</li>
+            <li>훈: 줄기 - すじ</li>
+          </ul>
+          <br/>
+          <h3>近</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 근 - キン・コン</li>
+            <li>훈: 가깝다 - ちか(い)</li>
+          </ul>
+          <br/>
+          <h3>縁</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 테두리, 인연 - ふち・へり・よ(る)・えにし・ゆかり・よすが</li>
+          </ul>
+          <br/>
+          <h3>幻</h3>
+          <ul>
+            <li>3급 (부수:幺)</li>
+            <li>음: 환 - ゲン</li>
+            <li>훈: 환상 - まぼろし・まど(わす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

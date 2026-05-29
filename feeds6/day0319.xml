@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>逆</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 역 - ギャク・ゲキ</li>
+            <li>훈: 거스르다 - さか・さか(らう)・むか(える)・あらかじ(め)</li>
+          </ul>
+          <br/>
+          <h3>陸</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 륙 - リク・ロク</li>
+            <li>훈: 땅, 6 - おか・くが</li>
+          </ul>
+          <br/>
+          <h3>登</h3>
+          <ul>
+            <li>8급 (부수:癶)</li>
+            <li>음: 등 - トウ・ト</li>
+            <li>훈: 오르다, 올라가다 - のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>頼</h3>
+          <ul>
+            <li>4급 (부수:頁)</li>
+            <li>음: 뢰 - ライ</li>
+            <li>훈: 부탁하다, 의지하다 - たの(む)・たの(もしい)・たよ(る)</li>
+          </ul>
+          <br/>
+          <h3>某</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 모 - ボウ</li>
+            <li>훈: 아무 - それがし・なにがし</li>
+          </ul>
+          <br/>
+          <h3>粗</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 결점, 조잡하다 - あら(い)・ほぼ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

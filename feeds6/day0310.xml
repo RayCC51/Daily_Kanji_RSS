@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>労</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 로 - ロウ</li>
+            <li>훈: 일, 위로하다, 치하하다 - はたら(く)・つか(れる)・いたわ(る)・ねぎら(う)</li>
+          </ul>
+          <br/>
+          <h3>結</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 결 - ケツ・ケチ・ケイ</li>
+            <li>훈: 묶다, 맺다, 엮다 - むす(ぶ)・ゆ(う)・ゆ(わえる)・す(く)</li>
+          </ul>
+          <br/>
+          <h3>試</h3>
+          <ul>
+            <li>7급 (부수:言)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시험하다, 시도하다 - こころ(みる)・ため(す)</li>
+          </ul>
+          <br/>
+          <h3>諧</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 어울리다 - やわ(らぐ)・かな(う)・ととの(う)・たわむ(れ)</li>
+          </ul>
+          <br/>
+          <h3>遡</h3>
+          <ul>
+            <li>2급 (부수:辵)</li>
+            <li>음: 소 - ソ</li>
+            <li>훈: 거슬러 올라가다 - さかのぼ(る)・む(かう)</li>
+          </ul>
+          <br/>
+          <h3>弦</h3>
+          <ul>
+            <li>2.5급 (부수:弓)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 활시위, 줄 - つる</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

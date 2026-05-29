@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>翌</h3>
+          <ul>
+            <li>5급 (부수:羽)</li>
+            <li>음: 익 - ヨク</li>
+            <li>훈: 다음 - 無し</li>
+          </ul>
+          <br/>
+          <h3>接</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 접 - セツ・ショウ</li>
+            <li>훈: 잇다 - つ(ぐ)・は(ぐ)・まじ(わる)・もてな(す)</li>
+          </ul>
+          <br/>
+          <h3>針</h3>
+          <ul>
+            <li>5급 (부수:金)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 바늘 - はり</li>
+          </ul>
+          <br/>
+          <h3>恨</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 한 - コン</li>
+            <li>훈: 원망하다 - うら(む)・うら(めしい)</li>
+          </ul>
+          <br/>
+          <h3>鯨</h3>
+          <ul>
+            <li>3급 (부수:魚)</li>
+            <li>음: 경 - ゲイ・ケイ</li>
+            <li>훈: 고래 - くじら</li>
+          </ul>
+          <br/>
+          <h3>腕</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 완 - ワン</li>
+            <li>훈: 팔 - うで・かいな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

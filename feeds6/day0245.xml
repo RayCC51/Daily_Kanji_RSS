@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>館</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 집, 저택 - やかた・たて・たち</li>
+          </ul>
+          <br/>
+          <h3>束</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 속 - ソク</li>
+            <li>훈: 약속, 묶음, 다발 - たば・つか・つか(ねる)</li>
+          </ul>
+          <br/>
+          <h3>誕</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 탄생 - う(まれる)・いつわ(る)・ほしいまま</li>
+          </ul>
+          <br/>
+          <h3>貼</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 첩 - チョウ・テン</li>
+            <li>훈: 바르다 - は(る)・つ(ける)</li>
+          </ul>
+          <br/>
+          <h3>融</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 융 - ユウ</li>
+            <li>훈: 녹다 - と(ける)・とお(る)</li>
+          </ul>
+          <br/>
+          <h3>獣</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 수 - ジュウ</li>
+            <li>훈: 짐승 - けもの・けだもの・しし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

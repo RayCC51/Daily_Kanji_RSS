@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>児</h3>
+          <ul>
+            <li>7급 (부수:儿)</li>
+            <li>음: 아 - ジ・ニ</li>
+            <li>훈: 아이 - こ</li>
+          </ul>
+          <br/>
+          <h3>妹</h3>
+          <ul>
+            <li>9급 (부수:女)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 여동생 - いもうと・いも</li>
+          </ul>
+          <br/>
+          <h3>助</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 조 - ジョ</li>
+            <li>훈: 돕다, 살아나다 - たす(ける)・たす(かる)・すけ</li>
+          </ul>
+          <br/>
+          <h3>蛮</h3>
+          <ul>
+            <li>3급 (부수:虫)</li>
+            <li>음: 만 - バン</li>
+            <li>훈: 오랑캐 - えびす</li>
+          </ul>
+          <br/>
+          <h3>貫</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 관 - カン・ワン</li>
+            <li>훈: 꿰뚫다 - つらぬ(く)・ぬき・ぬ(く)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>仰</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 앙 - ギョウ・コウ</li>
+            <li>훈: 우러르다 - あお(ぐ)・おお(せ)・あおの(く)・の(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

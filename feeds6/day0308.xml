@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>愛</h3>
+          <ul>
+            <li>7급 (부수:心)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 사랑 - め(でる)・お(しむ)・まな・かな(しい)・いと(しい)・う(い)</li>
+          </ul>
+          <br/>
+          <h3>世</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 세 - セイ・セ</li>
+            <li>훈: 세상 - よ</li>
+          </ul>
+          <br/>
+          <h3>穀</h3>
+          <ul>
+            <li>5급 (부수:禾)</li>
+            <li>음: 곡 - コク</li>
+            <li>훈: 곡식 - 無し</li>
+          </ul>
+          <br/>
+          <h3>溺</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 닉 - デキ・ニョウ・ジョウ</li>
+            <li>훈: 빠지다 - おぼ(れる)・ゆばり・いばり</li>
+          </ul>
+          <br/>
+          <h3>籠</h3>
+          <ul>
+            <li>2급 (부수:竹)</li>
+            <li>음: 롱 - ロウ・ル</li>
+            <li>훈: 바구니, 틀어 박히다 - かご・こ(もる)</li>
+          </ul>
+          <br/>
+          <h3>閥</h3>
+          <ul>
+            <li>2.5급 (부수:門)</li>
+            <li>음: 벌 - バツ・ハツ</li>
+            <li>훈: 파벌 - いえがら・いさお</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

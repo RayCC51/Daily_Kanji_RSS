@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>徒</h3>
+          <ul>
+            <li>7급 (부수:彳)</li>
+            <li>음: 도 - ト・ズ</li>
+            <li>훈: 무리 - かち・いたずら(に)・むだ・あだ・ともがら・ただ</li>
+          </ul>
+          <br/>
+          <h3>墓</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 묘 - ボ</li>
+            <li>훈: 무덤 - はか</li>
+          </ul>
+          <br/>
+          <h3>畔</h3>
+          <ul>
+            <li>3급 (부수:田)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 물가 - ほとり・あぜ・くろ・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>鈍</h3>
+          <ul>
+            <li>4급 (부수:金)</li>
+            <li>음: 둔 - ドン・トン</li>
+            <li>훈: 둔하다 - にぶ(い)・にぶ(る)・なま(る)・にび・のろ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

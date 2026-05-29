@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>強</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 강 - キョウ・コウ</li>
+            <li>훈: 강하다, 강요하다 - つよ(い)・つよ(まる)・つよ(める)・し(いる)・こわ(い)・したた(か)・つと(める)</li>
+          </ul>
+          <br/>
+          <h3>聖</h3>
+          <ul>
+            <li>5급 (부수:耳)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 신성 - ひじり</li>
+          </ul>
+          <br/>
+          <h3>佳</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 아름답다 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>邸</h3>
+          <ul>
+            <li>2.5급 (부수:邑)</li>
+            <li>음: 저 - テイ</li>
+            <li>훈: 집 - やしき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

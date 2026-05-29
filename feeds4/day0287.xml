@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>市</h3>
+          <ul>
+            <li>9급 (부수:巾)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 도시 - いち</li>
+          </ul>
+          <br/>
+          <h3>寄</h3>
+          <ul>
+            <li>6급 (부수:宀)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 접근하다, 밀려오다 - よ(る)・よ(せる)</li>
+          </ul>
+          <br/>
+          <h3>婆</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 파 - バ</li>
+            <li>훈: 할머니 - ばば</li>
+          </ul>
+          <br/>
+          <h3>慎</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 삼가다, 조심스럽다 - つつし(む)・つつま(しい)・つつま(しやか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

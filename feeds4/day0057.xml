@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>型</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 형 - ケイ</li>
+            <li>훈: 형식, 모형 - かた</li>
+          </ul>
+          <br/>
+          <h3>場</h3>
+          <ul>
+            <li>9급 (부수:土)</li>
+            <li>음: 장 - ジョウ</li>
+            <li>훈: 마당 - ば</li>
+          </ul>
+          <br/>
+          <h3>隙</h3>
+          <ul>
+            <li>2급 (부수:阜)</li>
+            <li>음: 극 - ゲキ・ケキ</li>
+            <li>훈: 틈 - すき・ひま</li>
+          </ul>
+          <br/>
+          <h3>累</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 여러 - しば(る)・かさ(ねる)・かさ(なる)・しき(りに)・わずら(わす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

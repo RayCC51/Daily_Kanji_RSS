@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>抱</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 안다, 감싸다 - だ(く)・いだ(く)・かか(える)</li>
+          </ul>
+          <br/>
+          <h3>稿</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 원고 - したがき・わら</li>
+          </ul>
+          <br/>
+          <h3>遮</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 차 - シャ</li>
+            <li>훈: 차단하다 - さえぎ(る)</li>
+          </ul>
+          <br/>
+          <h3>麓</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 록 - ロク</li>
+            <li>훈: 산기슭 - ふもと</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

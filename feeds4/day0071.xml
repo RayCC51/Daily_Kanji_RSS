@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>乗</h3>
+          <ul>
+            <li>8급 (부수:丿)</li>
+            <li>음: 승 - ジョウ・ショウ</li>
+            <li>훈: 타다 - の(る)・の(せる)</li>
+          </ul>
+          <br/>
+          <h3>消</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 사라지다, 끄다 - き(える)・け(す)</li>
+          </ul>
+          <br/>
+          <h3>疾</h3>
+          <ul>
+            <li>3급 (부수:疒)</li>
+            <li>음: 질 - シツ</li>
+            <li>훈: 질병, 벌써, 빨리 - やまい・や(む)・やま(しい)・にく(む)・はや(い)・と(し)・と(く)</li>
+          </ul>
+          <br/>
+          <h3>薫</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 훈 - クン</li>
+            <li>훈: 향기가 나다 - かお(る)・かおりぐさ・た(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

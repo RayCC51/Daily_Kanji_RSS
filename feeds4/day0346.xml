@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>表</h3>
+          <ul>
+            <li>8급 (부수:衣)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 겉, 나타나다 - おもて・あらわ(す)・あらわ(れる)・しるし</li>
+          </ul>
+          <br/>
+          <h3>察</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 살핌 - あき(らか)・み(る)・し(る)</li>
+          </ul>
+          <br/>
+          <h3>苗</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 묘 - ビョウ・ミョウ</li>
+            <li>훈: 모종 - なえ・なわ・か(り)</li>
+          </ul>
+          <br/>
+          <h3>藤</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 등나무 - ふじ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

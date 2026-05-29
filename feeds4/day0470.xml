@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>訳</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 역 - ヤク・エキ</li>
+            <li>훈: 이유, 번역 - わけ・と(く)</li>
+          </ul>
+          <br/>
+          <h3>皇</h3>
+          <ul>
+            <li>5급 (부수:白)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 임금 - きみ・すめらぎ</li>
+          </ul>
+          <br/>
+          <h3>曇</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 담 - ドン・タン</li>
+            <li>훈: 흐리다 - くも(る)</li>
+          </ul>
+          <br/>
+          <h3>誘</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 권하다, 유인하다 - さそ(う)・いざな(う)・おび(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

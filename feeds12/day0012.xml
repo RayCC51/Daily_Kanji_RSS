@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>頂</h3>
+          <ul>
+            <li>5급 (부수:頁)</li>
+            <li>음: 정 - チョウ・テイ</li>
+            <li>훈: 받다, 모시다, 꼭대기 - いただ(く)・いただき</li>
+          </ul>
+          <br/>
+          <h3>電</h3>
+          <ul>
+            <li>9급 (부수:雨)</li>
+            <li>음: 전 - デン・テン</li>
+            <li>훈: 번개, 전기 - いなずま</li>
+          </ul>
+          <br/>
+          <h3>務</h3>
+          <ul>
+            <li>6급 (부수:力)</li>
+            <li>음: 무 - ム・ブ</li>
+            <li>훈: 맡다, 수행해 내다 - つと(める)・つと(まる)・あなど(る)・あなど(り)</li>
+          </ul>
+          <br/>
+          <h3>否</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 부 - ヒ・フ</li>
+            <li>훈: 아니다 - いな・いや・わる(い)</li>
+          </ul>
+          <br/>
+          <h3>南</h3>
+          <ul>
+            <li>9급 (부수:十)</li>
+            <li>음: 남 - ナン・ナ・ダン</li>
+            <li>훈: 남쪽 - みなみ</li>
+          </ul>
+          <br/>
+          <h3>月</h3>
+          <ul>
+            <li>10급 (부수:月)</li>
+            <li>음: 월 - ゲツ・ガツ</li>
+            <li>훈: 달 - つき</li>
+          </ul>
+          <br/>
+          <h3>肩</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 어깨 - かた</li>
+          </ul>
+          <br/>
+          <h3>畏</h3>
+          <ul>
+            <li>2급 (부수:田)</li>
+            <li>음: 외 - イ</li>
+            <li>훈: 두려워하다 - おそ(れる)・かしこ(い)・かしこ(まる)</li>
+          </ul>
+          <br/>
+          <h3>窟</h3>
+          <ul>
+            <li>2급 (부수:穴)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 굴 - いわや・ほらあな</li>
+          </ul>
+          <br/>
+          <h3>壊</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 괴 - カイ・エ</li>
+            <li>훈: 무너지다, 부수다 - こわ(す)・こわ(れる)・やぶ(る)・やぶ(れる)</li>
+          </ul>
+          <br/>
+          <h3>般</h3>
+          <ul>
+            <li>4급 (부수:舟)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 일반 - たぐい・めぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>升</h3>
+          <ul>
+            <li>2.5급 (부수:十)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 되 - ます・のぼ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

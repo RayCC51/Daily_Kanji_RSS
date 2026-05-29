@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>信</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 믿음 - まこと・まか(せる)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>望</h3>
+          <ul>
+            <li>7급 (부수:月)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 바라다, 바람직하다 - のぞ(む)・もち・うら(む)</li>
+          </ul>
+          <br/>
+          <h3>走</h3>
+          <ul>
+            <li>9급 (부수:走)</li>
+            <li>음: 주 - ソウ</li>
+            <li>훈: 달리다 - はし(る)</li>
+          </ul>
+          <br/>
+          <h3>揺</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 흔들다 - ゆ(れる)・ゆ(る)・ゆ(らぐ)・ゆ(るぐ)・ゆ(する)・ゆ(さぶる)・ゆ(すぶる)</li>
+          </ul>
+          <br/>
+          <h3>垣</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 담 - かき</li>
+          </ul>
+          <br/>
+          <h3>伸</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 자라다, 늘다 - の(びる)・の(ばす)・の(べる)・の(す)・の(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>浦</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 포 - ホ</li>
+            <li>훈: 물가, 포구 - うら</li>
+          </ul>
+          <br/>
+          <h3>拙</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 졸 - セツ</li>
+            <li>훈: 형편없다 - つたな(い)・まず(い)</li>
+          </ul>
+          <br/>
+          <h3>剤</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 제 - ザイ・セイ</li>
+            <li>훈: 약제 - ま(ぜる)</li>
+          </ul>
+          <br/>
+          <h3>泌</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 필, 비 - ヒツ・ヒ</li>
+            <li>훈: 분비 - にじ(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

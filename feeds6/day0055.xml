@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>園</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 동산 - その・にわ</li>
+          </ul>
+          <br/>
+          <h3>供</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 공 - キョウ・ク</li>
+            <li>훈: 바치다 - そな(える)・とも</li>
+          </ul>
+          <br/>
+          <h3>血</h3>
+          <ul>
+            <li>8급 (부수:血)</li>
+            <li>음: 혈 - ケツ・ケチ</li>
+            <li>훈: 피 - ち</li>
+          </ul>
+          <br/>
+          <h3>炉</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 로 - ロ</li>
+            <li>훈: 화로 - いろり・ひばち</li>
+          </ul>
+          <br/>
+          <h3>需</h3>
+          <ul>
+            <li>4급 (부수:雨)</li>
+            <li>음: 수 - ジュ</li>
+            <li>훈: 쓰다 - もと(める)</li>
+          </ul>
+          <br/>
+          <h3>滞</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 밀리다, 막히다, 머무르다 - とどこお(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

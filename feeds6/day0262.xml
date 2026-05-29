@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>茨</h3>
+          <ul>
+            <li>7급 (부수:艸)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 가시나무 - いばら・くさぶき</li>
+          </ul>
+          <br/>
+          <h3>迷</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 미 - メイ</li>
+            <li>훈: 헤매다 - まよ(う)・まど(う)</li>
+          </ul>
+          <br/>
+          <h3>田</h3>
+          <ul>
+            <li>10급 (부수:田)</li>
+            <li>음: 전 - デン</li>
+            <li>훈: 밭 - た・か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>頑</h3>
+          <ul>
+            <li>2.5급 (부수:頁)</li>
+            <li>음: 완 - ガン</li>
+            <li>훈: 완고하다 - かたくな</li>
+          </ul>
+          <br/>
+          <h3>黙</h3>
+          <ul>
+            <li>4급 (부수:黒)</li>
+            <li>음: 묵 - モク・ボク</li>
+            <li>훈: 말하지 않다 - だま(る)・だんま(り)・もだ(す)</li>
+          </ul>
+          <br/>
+          <h3>克</h3>
+          <ul>
+            <li>3급 (부수:儿)</li>
+            <li>음: 극 - コク</li>
+            <li>훈: 극복하다 - か(つ)・よ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

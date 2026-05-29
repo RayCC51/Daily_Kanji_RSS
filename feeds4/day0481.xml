@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>単</h3>
+          <ul>
+            <li>7급 (부수:ツ)</li>
+            <li>음: 단 - タン・ゼン</li>
+            <li>훈: 홑 - ひと(つ)・ひとえ</li>
+          </ul>
+          <br/>
+          <h3>牛</h3>
+          <ul>
+            <li>9급 (부수:牛)</li>
+            <li>음: 우 - ギュウ・ゴ</li>
+            <li>훈: 소리 - うし</li>
+          </ul>
+          <br/>
+          <h3>頻</h3>
+          <ul>
+            <li>2.5급 (부수:頁)</li>
+            <li>음: 빈 - ヒン・ビン</li>
+            <li>훈: 자주 - しき(る)・しき(りに)</li>
+          </ul>
+          <br/>
+          <h3>徹</h3>
+          <ul>
+            <li>2.5급 (부수:彳)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 통하다 - とお(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>夢</h3>
+          <ul>
+            <li>6급 (부수:夕)</li>
+            <li>음: 몽 - ム・ボウ</li>
+            <li>훈: 꿈 - ゆめ</li>
+          </ul>
+          <br/>
+          <h3>真</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 진짜 - ま・まこと</li>
+          </ul>
+          <br/>
+          <h3>社</h3>
+          <ul>
+            <li>9급 (부수:示)</li>
+            <li>음: 사 - シャ・ジャ</li>
+            <li>훈: 모이다, 신사 - やしろ</li>
+          </ul>
+          <br/>
+          <h3>漠</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 막 - バク・マク</li>
+            <li>훈: 넓다 - すなはら・ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>勃</h3>
+          <ul>
+            <li>2급 (부수:力)</li>
+            <li>음: 발 - ボツ・ホツ</li>
+            <li>훈: 일어나다 - お(こる)・にわ(かに)</li>
+          </ul>
+          <br/>
+          <h3>泥</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 니 - デイ</li>
+            <li>훈: 진흙 - どろ・なず(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

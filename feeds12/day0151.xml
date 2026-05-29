@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>県</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 현 - ケン</li>
+            <li>훈: 고을 - あがた</li>
+          </ul>
+          <br/>
+          <h3>初</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 초 - ショ・ソ</li>
+            <li>훈: 처음 - はじ(め)・はじ(めて)・はつ・うい・そ(める)・うぶ</li>
+          </ul>
+          <br/>
+          <h3>角</h3>
+          <ul>
+            <li>9급 (부수:角)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 모서리, 뿔 - かど・つの・すみ・くら(べる)</li>
+          </ul>
+          <br/>
+          <h3>誠</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 성의, 정성 - まこと</li>
+          </ul>
+          <br/>
+          <h3>常</h3>
+          <ul>
+            <li>6급 (부수:巾)</li>
+            <li>음: 상 - ジョウ</li>
+            <li>훈: 항상 - つね・とこ</li>
+          </ul>
+          <br/>
+          <h3>板</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 판 - ハン・バン</li>
+            <li>훈: 판자 - いた</li>
+          </ul>
+          <br/>
+          <h3>軸</h3>
+          <ul>
+            <li>3급 (부수:車)</li>
+            <li>음: 축 - ジク・チク</li>
+            <li>훈: 축 - しんぎ</li>
+          </ul>
+          <br/>
+          <h3>蜂</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 벌 - はち・むら(がる)</li>
+          </ul>
+          <br/>
+          <h3>頒</h3>
+          <ul>
+            <li>2.5급 (부수:頁)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 나누다 - わ(ける)・し(く)・まだら</li>
+          </ul>
+          <br/>
+          <h3>邪</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 사 - ジャ・シャ・ヤ</li>
+            <li>훈: 간사하다 - よこしま</li>
+          </ul>
+          <br/>
+          <h3>捻</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 념 - ネン・デン</li>
+            <li>훈: 삐다, 비틀다 - ねじ(る)・ひね(る)</li>
+          </ul>
+          <br/>
+          <h3>垣</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 담 - かき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

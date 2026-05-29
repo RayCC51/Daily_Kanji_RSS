@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>阜</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 언덕 - おか・ゆた(か)</li>
+          </ul>
+          <br/>
+          <h3>欠</h3>
+          <ul>
+            <li>7급 (부수:欠)</li>
+            <li>음: 결 - ケツ</li>
+            <li>훈: 부족하다 - か(ける)・か(く)</li>
+          </ul>
+          <br/>
+          <h3>硫</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 유황 - 無し</li>
+          </ul>
+          <br/>
+          <h3>顎</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 악 - ガク</li>
+            <li>훈: 턱 - あご</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

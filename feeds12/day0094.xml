@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>聖</h3>
+          <ul>
+            <li>5급 (부수:耳)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 신성 - ひじり</li>
+          </ul>
+          <br/>
+          <h3>敗</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 패 - ハイ</li>
+            <li>훈: 패배하다 - やぶ(れる)・やぶ(る)</li>
+          </ul>
+          <br/>
+          <h3>回</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 회 - カイ・エ</li>
+            <li>훈: 돌다 - まわ(る)・まわ(す)・めぐ(らす)</li>
+          </ul>
+          <br/>
+          <h3>二</h3>
+          <ul>
+            <li>10급 (부수:二)</li>
+            <li>음: 이 - ニ・ジ</li>
+            <li>훈: 2, 둘 - ふた・ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>悪</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 악, 오 - アク・オ</li>
+            <li>훈: 나쁘다, 미워하다 - わる(い)・あ(し)・にく(む)・いずく(んぞ)</li>
+          </ul>
+          <br/>
+          <h3>様</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 모양, 님 - さま</li>
+          </ul>
+          <br/>
+          <h3>凶</h3>
+          <ul>
+            <li>4급 (부수:凵)</li>
+            <li>음: 흉 - キョウ</li>
+            <li>훈: 흉하다 - わざわ(い)・わる(い)・おそ(れる)</li>
+          </ul>
+          <br/>
+          <h3>痕</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 흔 - コン</li>
+            <li>훈: 흔적 - あと</li>
+          </ul>
+          <br/>
+          <h3>拉</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 랍 - ラ・ラツ・ロウ</li>
+            <li>훈: 압도하다 - くじ(く)・ひし(ぐ)・ひしゃ(げる)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>圏</h3>
+          <ul>
+            <li>4급 (부수:囗)</li>
+            <li>음: 권 - ケン</li>
+            <li>훈: 우리 - かこ(い)</li>
+          </ul>
+          <br/>
+          <h3>塔</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 탑 - トウ</li>
+            <li>훈: 탑 - 無し</li>
+          </ul>
+          <br/>
+          <h3>卓</h3>
+          <ul>
+            <li>3급 (부수:十)</li>
+            <li>음: 탁 - タク・シツ</li>
+            <li>훈: 책상 - つくえ・すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>磁</h3>
+          <ul>
+            <li>5급 (부수:石)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 자석 - やきもの</li>
+          </ul>
+          <br/>
+          <h3>述</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 술 - ジュツ</li>
+            <li>훈: 말하다 - の(べる)</li>
+          </ul>
+          <br/>
+          <h3>億</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 100000000 - おしはか(る)</li>
+          </ul>
+          <br/>
+          <h3>殴</h3>
+          <ul>
+            <li>3급 (부수:殳)</li>
+            <li>음: 구 - オウ</li>
+            <li>훈: 때리다 - なぐ(る)・う(つ)・たた(く)</li>
+          </ul>
+          <br/>
+          <h3>衰</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 쇠 - スイ・サイ</li>
+            <li>훈: 쇠퇴하다 - おとろ(える)</li>
+          </ul>
+          <br/>
+          <h3>覇</h3>
+          <ul>
+            <li>2.5급 (부수:襾)</li>
+            <li>음: 패 - ハ</li>
+            <li>훈: 으뜸 - はたがしら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

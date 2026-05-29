@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>収</h3>
+          <ul>
+            <li>5급 (부수:又)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 넣다, 거두다, 수습되다 - おさ(める)・おさ(まる)</li>
+          </ul>
+          <br/>
+          <h3>田</h3>
+          <ul>
+            <li>10급 (부수:田)</li>
+            <li>음: 전 - デン</li>
+            <li>훈: 밭 - た・か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>嫌</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 혐 - ケン・ゲン</li>
+            <li>훈: 싫다 - きら(う)・いや・うたが(う)</li>
+          </ul>
+          <br/>
+          <h3>遷</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 옮기다 - うつ(る)・うつ(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>省</h3>
+          <ul>
+            <li>7급 (부수:目)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 줄이다, 반성하다 - かえり(みる)・はぶ(く)</li>
+          </ul>
+          <br/>
+          <h3>寺</h3>
+          <ul>
+            <li>9급 (부수:寸)</li>
+            <li>음: 사 - ジ</li>
+            <li>훈: 절 - てら</li>
+          </ul>
+          <br/>
+          <h3>再</h3>
+          <ul>
+            <li>6급 (부수:冂)</li>
+            <li>음: 재 - サイ・サ</li>
+            <li>훈: 다시 - ふたた(び)</li>
+          </ul>
+          <br/>
+          <h3>皆</h3>
+          <ul>
+            <li>4급 (부수:白)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 모두 - みな</li>
+          </ul>
+          <br/>
+          <h3>搾</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 착 - サク</li>
+            <li>훈: 짜내다, 착취하다 - しぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>睡</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 졸음 - ねむ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

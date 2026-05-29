@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>績</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 적 - セキ</li>
+            <li>훈: 업적 - つむ(ぐ)・う(む)・いさお</li>
+          </ul>
+          <br/>
+          <h3>肥</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 살찌다 - こ(える)・こえ・こ(やす)・こ(やし)・ふと(る)</li>
+          </ul>
+          <br/>
+          <h3>診</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 진찰하다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>膨</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 팽 - ボウ・ホウ</li>
+            <li>훈: 부풀다 - ふく(らむ)・ふく(れる)・ふく(よか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

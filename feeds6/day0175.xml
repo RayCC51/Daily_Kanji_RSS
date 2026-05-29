@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>豊</h3>
+          <ul>
+            <li>6급 (부수:豆)</li>
+            <li>음: 풍 - ホウ</li>
+            <li>훈: 풍부함 - ゆた(か)・とよ</li>
+          </ul>
+          <br/>
+          <h3>展</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 펴다 - の(べる)・ひろ(げる)・つら(ねる)</li>
+          </ul>
+          <br/>
+          <h3>資</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 재물 - たから・もと・たす(ける)・たち</li>
+          </ul>
+          <br/>
+          <h3>是</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 시 - ゼ・シ</li>
+            <li>훈: 옳다 - これ・こ(の)・ただ(しい)</li>
+          </ul>
+          <br/>
+          <h3>渇</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 갈 - カツ</li>
+            <li>훈: 목마르다 - かわ(く)・むさぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>爽</h3>
+          <ul>
+            <li>2급 (부수:大)</li>
+            <li>음: 상 - ソウ</li>
+            <li>훈: 산뜻하다 - さわ(やか)・あき(らか)・たが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

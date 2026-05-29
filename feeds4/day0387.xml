@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>秘</h3>
+          <ul>
+            <li>5급 (부수:禾)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 숨기다 - ひ(める)・かく(す)・ひそ(か)</li>
+          </ul>
+          <br/>
+          <h3>困</h3>
+          <ul>
+            <li>5급 (부수:囗)</li>
+            <li>음: 곤 - コン</li>
+            <li>훈: 곤란하다 - こま(る)・くる(しむ)</li>
+          </ul>
+          <br/>
+          <h3>轄</h3>
+          <ul>
+            <li>2.5급 (부수:車)</li>
+            <li>음: 할 - カツ</li>
+            <li>훈: 다스리다 - くさび・とりし(まる)</li>
+          </ul>
+          <br/>
+          <h3>緊</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 긴 - キン</li>
+            <li>훈: 긴장, 팽팽하다 - かた(い)・し(める)・ちぢ(む)・きび(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

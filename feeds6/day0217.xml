@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>兆</h3>
+          <ul>
+            <li>7급 (부수:儿)</li>
+            <li>음: 조 - チョウ・ジョウ</li>
+            <li>훈: 1,000,000,000,000, 징조, 싹트다 - きざ(す)・きざ(し)・うらな(い)</li>
+          </ul>
+          <br/>
+          <h3>極</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 극 - キョク・ゴク</li>
+            <li>훈: 극도 - きわ(める)・きわ(まる)・きわ(み)・き(める)・き(まる)</li>
+          </ul>
+          <br/>
+          <h3>鉄</h3>
+          <ul>
+            <li>8급 (부수:金)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철 - くろがね・かね</li>
+          </ul>
+          <br/>
+          <h3>凹</h3>
+          <ul>
+            <li>2.5급 (부수:凵)</li>
+            <li>음: 요 - オウ</li>
+            <li>훈: 오목하다 - くぼ(む)・へこ(む)・へこ(ます)</li>
+          </ul>
+          <br/>
+          <h3>尼</h3>
+          <ul>
+            <li>2.5급 (부수:尸)</li>
+            <li>음: 니 - ニ・ジ</li>
+            <li>훈: 여승 - あま</li>
+          </ul>
+          <br/>
+          <h3>狩</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 수 - シュ</li>
+            <li>훈: 사냥하다 - か(る)・か(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

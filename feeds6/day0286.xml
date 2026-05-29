@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拾</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 습, 십 - シュウ・ジュウ</li>
+            <li>훈: 줍다, 10 - ひろ(う)・とお</li>
+          </ul>
+          <br/>
+          <h3>系</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 이어매다 - つな(ぐ)・すじ</li>
+          </ul>
+          <br/>
+          <h3>丁</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 정 - チョウ・テイ・トウ</li>
+            <li>훈: 정중함 - ひのと・あ(たる)</li>
+          </ul>
+          <br/>
+          <h3>該</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 해 - ガイ・カイ</li>
+            <li>훈: 갖추다 - か(ねる)・そな(わる)・そ(の)</li>
+          </ul>
+          <br/>
+          <h3>勾</h3>
+          <ul>
+            <li>2급 (부수:勹)</li>
+            <li>음: 구 - コウ</li>
+            <li>훈: 굽다 - ま(がる)・とら(える)</li>
+          </ul>
+          <br/>
+          <h3>峡</h3>
+          <ul>
+            <li>3급 (부수:山)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 골짜기 - はざま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>酒</h3>
+          <ul>
+            <li>8급 (부수:酉)</li>
+            <li>음: 주 - シュ</li>
+            <li>훈: 술 - さけ・さか</li>
+          </ul>
+          <br/>
+          <h3>織</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 직 - ショク・シキ</li>
+            <li>훈: 짜다 - お(る)</li>
+          </ul>
+          <br/>
+          <h3>卒</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 졸 - ソツ・シュツ</li>
+            <li>훈: 마침 - しもべ・お(わる)・お(える)・にわ(かに)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>傲</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 오 - ゴウ</li>
+            <li>훈: 오만하다 - おご(る)・あなど(る)・あそ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>卓</h3>
+          <ul>
+            <li>3급 (부수:十)</li>
+            <li>음: 탁 - タク・シツ</li>
+            <li>훈: 책상 - つくえ・すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>艦</h3>
+          <ul>
+            <li>2.5급 (부수:舟)</li>
+            <li>음: 함 - カン</li>
+            <li>훈: 배 - いくさぶね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

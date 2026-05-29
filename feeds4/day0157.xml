@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>具</h3>
+          <ul>
+            <li>8급 (부수:八)</li>
+            <li>음: 구 - グ</li>
+            <li>훈: 갖춤 - そな(わる)・そな(える)・つぶさ(に)・つま</li>
+          </ul>
+          <br/>
+          <h3>取</h3>
+          <ul>
+            <li>8급 (부수:又)</li>
+            <li>음: 취 - シュ</li>
+            <li>훈: 잡다 - と(る)</li>
+          </ul>
+          <br/>
+          <h3>是</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 시 - ゼ・シ</li>
+            <li>훈: 옳다 - これ・こ(の)・ただ(しい)</li>
+          </ul>
+          <br/>
+          <h3>励</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 힘쓰다, 격려하다 - はげ(む)・はげ(ます)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

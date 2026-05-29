@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>者</h3>
+          <ul>
+            <li>8급 (부수:耂)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 사람 - もの</li>
+          </ul>
+          <br/>
+          <h3>酸</h3>
+          <ul>
+            <li>6급 (부수:酉)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 시다 - す(い)・す・つら(い)</li>
+          </ul>
+          <br/>
+          <h3>帰</h3>
+          <ul>
+            <li>9급 (부수:巾)</li>
+            <li>음: 귀 - キ</li>
+            <li>훈: 돌아가다, 돌아오다, 돌려보내다 - かえ(る)・かえ(す)・とつ(ぐ)・おく(る)</li>
+          </ul>
+          <br/>
+          <h3>尿</h3>
+          <ul>
+            <li>3급 (부수:尸)</li>
+            <li>음: 뇨 - ニョウ</li>
+            <li>훈: 오줌 - いばり・ゆばり・しと</li>
+          </ul>
+          <br/>
+          <h3>審</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 살피다 - つまび(らか)</li>
+          </ul>
+          <br/>
+          <h3>賓</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 빈 - ヒン</li>
+            <li>훈: 손님 - まろうど・したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>英</h3>
+          <ul>
+            <li>7급 (부수:艸)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 꽃부리, 영국 - はなぶさ・はな・ひい(でる)</li>
+          </ul>
+          <br/>
+          <h3>里</h3>
+          <ul>
+            <li>9급 (부수:里)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 마을 - さと</li>
+          </ul>
+          <br/>
+          <h3>刷</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 쇄 - サツ</li>
+            <li>훈: 인쇄하다 - す(る)・は(く)</li>
+          </ul>
+          <br/>
+          <h3>塊</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 괴 - カイ</li>
+            <li>훈: 덩어리 - かたまり・つちくれ</li>
+          </ul>
+          <br/>
+          <h3>僕</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 복 - ボク</li>
+            <li>훈: 나, 하인 - しもべ・やつがれ</li>
+          </ul>
+          <br/>
+          <h3>誘</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 권하다, 유인하다 - さそ(う)・いざな(う)・おび(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

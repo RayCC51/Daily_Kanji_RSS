@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>勝</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 이기다, 우수하다 - か(つ)・まさ(る)・すぐ(れる)・た(える)</li>
+          </ul>
+          <br/>
+          <h3>倍</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 배 - バイ・ハイ</li>
+            <li>훈: 곱 - ま(す)・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>好</h3>
+          <ul>
+            <li>7급 (부수:女)</li>
+            <li>음: 호 - コウ</li>
+            <li>훈: 좋아하다 - この(む)・す(く)・よ(い)・よしみ</li>
+          </ul>
+          <br/>
+          <h3>源</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 원 - ゲン</li>
+            <li>훈: 근원 - みなもと</li>
+          </ul>
+          <br/>
+          <h3>蚕</h3>
+          <ul>
+            <li>5급 (부수:虫)</li>
+            <li>음: 잠 - サン</li>
+            <li>훈: 누에 - かいこ・こ</li>
+          </ul>
+          <br/>
+          <h3>識</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 식 - シキ・シ・ショク</li>
+            <li>훈: 알다 - し(る)・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>搭</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 탑 - トウ</li>
+            <li>훈: 타다 - の(る)・の(せる)</li>
+          </ul>
+          <br/>
+          <h3>嚇</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 혁 - カク</li>
+            <li>훈: 성내다 - いか(る)・おど(す)・おど(かす)</li>
+          </ul>
+          <br/>
+          <h3>杉</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 삼 - サン</li>
+            <li>훈: 삼나무 - すぎ</li>
+          </ul>
+          <br/>
+          <h3>湧</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 용 - ユウ・ヨウ</li>
+            <li>훈: 솟다, 끓게 하다 - わ(く)</li>
+          </ul>
+          <br/>
+          <h3>茂</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 무 - モ・ボウ</li>
+            <li>훈: 우거지다 - しげ(る)・すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>侵</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 침범하다 - おか(す)・みにく(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

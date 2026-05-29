@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>相</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 상 - ソウ・ショウ</li>
+            <li>훈: 서로 - あい・さが・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>実</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 실 - ジツ</li>
+            <li>훈: 열매 - み・みの(る)・み(ちる)・まこと・さね・まめ</li>
+          </ul>
+          <br/>
+          <h3>豚</h3>
+          <ul>
+            <li>3급 (부수:豕)</li>
+            <li>음: 돈 - トン</li>
+            <li>훈: 돼지 - ぶた</li>
+          </ul>
+          <br/>
+          <h3>瞭</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 밝다 - あき(らか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

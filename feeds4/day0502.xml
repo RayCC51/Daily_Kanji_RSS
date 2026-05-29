@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>孫</h3>
+          <ul>
+            <li>7급 (부수:子)</li>
+            <li>음: 손 - ソン</li>
+            <li>훈: 손자 - まご</li>
+          </ul>
+          <br/>
+          <h3>簡</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 간 - カン・ケン</li>
+            <li>훈: 간단 - ふだ・えら(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>匠</h3>
+          <ul>
+            <li>3급 (부수:匚)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 장인 - たくみ</li>
+          </ul>
+          <br/>
+          <h3>帆</h3>
+          <ul>
+            <li>3급 (부수:巾)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 돛 - ほ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

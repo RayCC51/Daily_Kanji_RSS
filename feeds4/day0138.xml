@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>告</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 고 - コク</li>
+            <li>훈: 알리다 - つ(げる)</li>
+          </ul>
+          <br/>
+          <h3>演</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 공연 - の(べる)・おこな(う)</li>
+          </ul>
+          <br/>
+          <h3>販</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 팔다 - あきな(う)・ひさ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>陰</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 음 - イン・オン・アン</li>
+            <li>훈: 그늘 - かげ・かげ(る)・くら(い)・ひそ(か)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

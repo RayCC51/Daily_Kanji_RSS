@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>域</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 역 - イキ</li>
+            <li>훈: 구역 - さかい・ところ</li>
+          </ul>
+          <br/>
+          <h3>媛</h3>
+          <ul>
+            <li>7급 (부수:女)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 여자 - ひめ</li>
+          </ul>
+          <br/>
+          <h3>減</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 감 - ゲン</li>
+            <li>훈: 빼다, 줄다 - へ(る)・へ(らす)</li>
+          </ul>
+          <br/>
+          <h3>奴</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 노 - ド・ヌ</li>
+            <li>훈: 하인, 녀석 - やっこ・やつ</li>
+          </ul>
+          <br/>
+          <h3>遭</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 만나다 - あ(う)</li>
+          </ul>
+          <br/>
+          <h3>遣</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 고용하다, 파견하다 - つか(う)・つか(わす)・や(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

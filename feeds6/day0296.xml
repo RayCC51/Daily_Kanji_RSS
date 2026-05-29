@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>駅</h3>
+          <ul>
+            <li>8급 (부수:馬)</li>
+            <li>음: 역 - エキ</li>
+            <li>훈: 정거장 - うまや</li>
+          </ul>
+          <br/>
+          <h3>荷</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 짐 - に・にな(う)・はす</li>
+          </ul>
+          <br/>
+          <h3>亡</h3>
+          <ul>
+            <li>5급 (부수:亠)</li>
+            <li>음: 망 - ボウ・モウ・ム・ブ</li>
+            <li>훈: 죽다 - な(い)・ほろ(びる)・うしな(う)・に(げる)</li>
+          </ul>
+          <br/>
+          <h3>顧</h3>
+          <ul>
+            <li>3급 (부수:頁)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 뒤돌아보다 - かえり(みる)</li>
+          </ul>
+          <br/>
+          <h3>削</h3>
+          <ul>
+            <li>3급 (부수:刀)</li>
+            <li>음: 삭 - サク</li>
+            <li>훈: 깎다 - けず(る)・そ(ぐ)・はつ(る)</li>
+          </ul>
+          <br/>
+          <h3>輩</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 무리 - ともがら・やから</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

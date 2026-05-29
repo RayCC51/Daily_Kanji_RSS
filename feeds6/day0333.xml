@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>孫</h3>
+          <ul>
+            <li>7급 (부수:子)</li>
+            <li>음: 손 - ソン</li>
+            <li>훈: 손자 - まご</li>
+          </ul>
+          <br/>
+          <h3>笛</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 적 - テキ・ジャク</li>
+            <li>훈: 피리 - ふえ</li>
+          </ul>
+          <br/>
+          <h3>良</h3>
+          <ul>
+            <li>7급 (부수:艮)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 좋다 - よ(い)・やや</li>
+          </ul>
+          <br/>
+          <h3>枠</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 화 - 無し</li>
+            <li>훈: 틀, 테두리 - わく</li>
+          </ul>
+          <br/>
+          <h3>恋</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 련 - レン</li>
+            <li>훈: 사랑, 그리워하다 - こ(う)・こい・こい(しい)</li>
+          </ul>
+          <br/>
+          <h3>畝</h3>
+          <ul>
+            <li>2.5급 (부수:田)</li>
+            <li>음: 묘 - ホ・ボウ</li>
+            <li>훈: 밭두둑 - うね・せ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

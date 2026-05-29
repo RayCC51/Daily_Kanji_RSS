@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>者</h3>
+          <ul>
+            <li>8급 (부수:耂)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 사람 - もの</li>
+          </ul>
+          <br/>
+          <h3>第</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 제 - ダイ・テイ</li>
+            <li>훈: 차례 - つい(で)・やしき</li>
+          </ul>
+          <br/>
+          <h3>崎</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 곶 - さき</li>
+          </ul>
+          <br/>
+          <h3>応</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 응 - オウ</li>
+            <li>훈: 응하다 - こた(える)・まさ(に…べし)</li>
+          </ul>
+          <br/>
+          <h3>井</h3>
+          <ul>
+            <li>7급 (부수:二)</li>
+            <li>음: 정 - セイ・ショウ</li>
+            <li>훈: 우물 - い・いげた</li>
+          </ul>
+          <br/>
+          <h3>臣</h3>
+          <ul>
+            <li>7급 (부수:臣)</li>
+            <li>음: 신 - シン・ジン</li>
+            <li>훈: 신하 - おみ</li>
+          </ul>
+          <br/>
+          <h3>礎</h3>
+          <ul>
+            <li>3급 (부수:石)</li>
+            <li>음: 초 - ソ</li>
+            <li>훈: 주춧돌 - いしずえ</li>
+          </ul>
+          <br/>
+          <h3>巧</h3>
+          <ul>
+            <li>3급 (부수:工)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 계략 - たく(み)・たく(む)・うま(い)</li>
+          </ul>
+          <br/>
+          <h3>斉</h3>
+          <ul>
+            <li>2.5급 (부수:斉)</li>
+            <li>음: 제 - セイ・サイ</li>
+            <li>훈: 가지런하다 - ととの(える)・ひと(しい)・ものいみ</li>
+          </ul>
+          <br/>
+          <h3>艦</h3>
+          <ul>
+            <li>2.5급 (부수:舟)</li>
+            <li>음: 함 - カン</li>
+            <li>훈: 배 - いくさぶね</li>
+          </ul>
+          <br/>
+          <h3>玄</h3>
+          <ul>
+            <li>4급 (부수:玄)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 검정 - くろ・くろ(い)</li>
+          </ul>
+          <br/>
+          <h3>貼</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 첩 - チョウ・テン</li>
+            <li>훈: 바르다 - は(る)・つ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

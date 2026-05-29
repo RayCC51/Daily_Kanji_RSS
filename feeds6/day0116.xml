@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>茶</h3>
+          <ul>
+            <li>9급 (부수:艸)</li>
+            <li>음: 다, 차 - チャ・サ</li>
+            <li>훈: 차 - 無し</li>
+          </ul>
+          <br/>
+          <h3>眼</h3>
+          <ul>
+            <li>6급 (부수:目)</li>
+            <li>음: 안 - ガン・ゲン</li>
+            <li>훈: 눈 - まなこ・め</li>
+          </ul>
+          <br/>
+          <h3>指</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 손가락, 가리키다 - ゆび・さ(す)</li>
+          </ul>
+          <br/>
+          <h3>超</h3>
+          <ul>
+            <li>3급 (부수:走)</li>
+            <li>음: 초 - チョウ</li>
+            <li>훈: 넘다 - こ(える)・こ(す)</li>
+          </ul>
+          <br/>
+          <h3>濯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 탁 - タク</li>
+            <li>훈: 씻다 - あら(う)・すす(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>猫</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 묘 - ビョウ・ミョウ</li>
+            <li>훈: 고양이 - ねこ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

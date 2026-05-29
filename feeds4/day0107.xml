@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>針</h3>
+          <ul>
+            <li>5급 (부수:金)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 바늘 - はり</li>
+          </ul>
+          <br/>
+          <h3>政</h3>
+          <ul>
+            <li>6급 (부수:攵)</li>
+            <li>음: 정 - セイ・ショウ</li>
+            <li>훈: 국정 - まつりごと</li>
+          </ul>
+          <br/>
+          <h3>捕</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 포 - ホ・ブ</li>
+            <li>훈: 잡다 - と(らえる)・と(らわれる)・と(る)・つか(まえる)・つか(まる)</li>
+          </ul>
+          <br/>
+          <h3>巾</h3>
+          <ul>
+            <li>2급 (부수:巾)</li>
+            <li>음: 건 - キン</li>
+            <li>훈: 수건 - きれ・ふきん</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

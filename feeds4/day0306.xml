@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>南</h3>
+          <ul>
+            <li>9급 (부수:十)</li>
+            <li>음: 남 - ナン・ナ・ダン</li>
+            <li>훈: 남쪽 - みなみ</li>
+          </ul>
+          <br/>
+          <h3>念</h3>
+          <ul>
+            <li>7급 (부수:心)</li>
+            <li>음: 념 - ネン</li>
+            <li>훈: 생각 - おも(う)</li>
+          </ul>
+          <br/>
+          <h3>堆</h3>
+          <ul>
+            <li>2급 (부수:土)</li>
+            <li>음: 퇴 - タイ・ツイ</li>
+            <li>훈: 쌓이다 - うずたか(い)</li>
+          </ul>
+          <br/>
+          <h3>捗</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 척 - チョク</li>
+            <li>훈: 진척 - はかど(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

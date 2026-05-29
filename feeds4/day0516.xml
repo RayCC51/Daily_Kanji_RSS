@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>桑</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 상 - ソウ</li>
+            <li>훈: 뽕나무 - くわ</li>
+          </ul>
+          <br/>
+          <h3>勧</h3>
+          <ul>
+            <li>4급 (부수:力)</li>
+            <li>음: 권 - カン・ケン</li>
+            <li>훈: 권하다 - すす(める)</li>
+          </ul>
+          <br/>
+          <h3>爪</h3>
+          <ul>
+            <li>2급 (부수:爪)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 손톱 - つめ・つま</li>
+          </ul>
+          <br/>
+          <h3>掘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 파다 - ほ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

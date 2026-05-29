@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>我</h3>
+          <ul>
+            <li>5급 (부수:戈)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 나 - われ・わ</li>
+          </ul>
+          <br/>
+          <h3>街</h3>
+          <ul>
+            <li>7급 (부수:行)</li>
+            <li>음: 가 - ガイ・カイ</li>
+            <li>훈: 거리 - まち・ちまた</li>
+          </ul>
+          <br/>
+          <h3>憲</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 헌 - ケン</li>
+            <li>훈: 헌법 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>戸</h3>
+          <ul>
+            <li>9급 (부수:戸)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 문 - と・へ</li>
+          </ul>
+          <br/>
+          <h3>姿</h3>
+          <ul>
+            <li>5급 (부수:女)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 모습 - すがた</li>
+          </ul>
+          <br/>
+          <h3>過</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 지나다, 보내다, 잘못하다 - す(ぎる)・す(ごす)・あやま(つ)・あやま(ち)・よぎ(る)・とが</li>
+          </ul>
+          <br/>
+          <h3>更</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 경, 갱 - コウ</li>
+            <li>훈: 더욱, 깊어지다, 고치다 - さら・ふ(ける)・ふ(かす)・か(える)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>戴</h3>
+          <ul>
+            <li>2급 (부수:戈)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 이다 - いただ(く)</li>
+          </ul>
+          <br/>
+          <h3>艇</h3>
+          <ul>
+            <li>2.5급 (부수:舟)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 배 - こぶね</li>
+          </ul>
+          <br/>
+          <h3>抱</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 안다, 감싸다 - だ(く)・いだ(く)・かか(える)</li>
+          </ul>
+          <br/>
+          <h3>逃</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 도망치다, 놓아주다 - に(げる)・に(がす)・のが(す)・のが(れる)</li>
+          </ul>
+          <br/>
+          <h3>窮</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 궁 - キュウ</li>
+            <li>훈: 끝까지 가다, 다하다 - きわ(める)・きわ(まる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

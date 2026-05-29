@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>圧</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 압 - アツ・オウ</li>
+            <li>훈: 누르다 - お(さえる)・お(す)・へ(す)</li>
+          </ul>
+          <br/>
+          <h3>住</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 주 - ジュウ</li>
+            <li>훈: 살다 - す(む)・す(まう)・とど(まる)</li>
+          </ul>
+          <br/>
+          <h3>縛</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 박 - バク・ハク</li>
+            <li>훈: 묶다 - しば(る)・いまし(める)</li>
+          </ul>
+          <br/>
+          <h3>捜</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 수 - ソウ</li>
+            <li>훈: 찾다 - さが(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

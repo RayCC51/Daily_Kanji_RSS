@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>座</h3>
+          <ul>
+            <li>5급 (부수:广)</li>
+            <li>음: 좌 - ザ</li>
+            <li>훈: 자리, 앉다 - すわ(る)・いま(す)</li>
+          </ul>
+          <br/>
+          <h3>水</h3>
+          <ul>
+            <li>10급 (부수:水)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 물 - みず</li>
+          </ul>
+          <br/>
+          <h3>賛</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 찬 - サン</li>
+            <li>훈: 찬성 - たす(ける)・ほ(める)・たた(える)</li>
+          </ul>
+          <br/>
+          <h3>知</h3>
+          <ul>
+            <li>9급 (부수:矢)</li>
+            <li>음: 지 - チ</li>
+            <li>훈: 알다 - し(る)・し(らせる)</li>
+          </ul>
+          <br/>
+          <h3>星</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 별 - ほし</li>
+          </ul>
+          <br/>
+          <h3>欲</h3>
+          <ul>
+            <li>5급 (부수:欠)</li>
+            <li>음: 욕 - ヨク</li>
+            <li>훈: 원하다 - ほっ(する)・ほ(しい)</li>
+          </ul>
+          <br/>
+          <h3>充</h3>
+          <ul>
+            <li>2.5급 (부수:儿)</li>
+            <li>음: 충 - ジュウ・シュウ</li>
+            <li>훈: 충당하다, 가득 차다 - あ(てる)・み(ちる)・み(たす)・み(つ)</li>
+          </ul>
+          <br/>
+          <h3>缶</h3>
+          <ul>
+            <li>2.5급 (부수:缶)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 통 - かま</li>
+          </ul>
+          <br/>
+          <h3>概</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 개 - ガイ・カイ</li>
+            <li>훈: 대개 - おおむ(ね)</li>
+          </ul>
+          <br/>
+          <h3>肪</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 살찌다 - あぶら</li>
+          </ul>
+          <br/>
+          <h3>閥</h3>
+          <ul>
+            <li>2.5급 (부수:門)</li>
+            <li>음: 벌 - バツ・ハツ</li>
+            <li>훈: 파벌 - いえがら・いさお</li>
+          </ul>
+          <br/>
+          <h3>沼</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 늪 - ぬま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

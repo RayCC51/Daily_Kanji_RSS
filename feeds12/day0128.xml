@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>翌</h3>
+          <ul>
+            <li>5급 (부수:羽)</li>
+            <li>음: 익 - ヨク</li>
+            <li>훈: 다음 - 無し</li>
+          </ul>
+          <br/>
+          <h3>複</h3>
+          <ul>
+            <li>6급 (부수:衣)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 여러 - かさ(ねる)</li>
+          </ul>
+          <br/>
+          <h3>共</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 공 - キョウ</li>
+            <li>훈: 함께 - とも</li>
+          </ul>
+          <br/>
+          <h3>格</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 격 - カク・コウ・キャク・ゴウ</li>
+            <li>훈: 격식 - いた(る)・ただ(す)・う(つ)</li>
+          </ul>
+          <br/>
+          <h3>競</h3>
+          <ul>
+            <li>7급 (부수:立)</li>
+            <li>음: 경 - キョウ・ケイ</li>
+            <li>훈: 다투다, 겨루다 - きそ(う)・せ(る)・きお(う)・くら(べる)</li>
+          </ul>
+          <br/>
+          <h3>覚</h3>
+          <ul>
+            <li>7급 (부수:見)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 외우다, 느끼다, 깨다 - おぼ(える)・さ(ます)・さ(める)・さと(る)・さと(り)</li>
+          </ul>
+          <br/>
+          <h3>菓</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 과자 - くだもの</li>
+          </ul>
+          <br/>
+          <h3>遅</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 지 - チ</li>
+            <li>훈: 늦다 - おく(れる)・おく(らす)・おそ(い)</li>
+          </ul>
+          <br/>
+          <h3>胆</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 담 - タン・トウ</li>
+            <li>훈: 쓸개 - きも</li>
+          </ul>
+          <br/>
+          <h3>謄</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 베끼다 - うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>扉</h3>
+          <ul>
+            <li>2.5급 (부수:戸)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 문 - とびら</li>
+          </ul>
+          <br/>
+          <h3>妊</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

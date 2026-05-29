@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>訳</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 역 - ヤク・エキ</li>
+            <li>훈: 이유, 번역 - わけ・と(く)</li>
+          </ul>
+          <br/>
+          <h3>白</h3>
+          <ul>
+            <li>10급 (부수:白)</li>
+            <li>음: 백 - ハク・ビャク</li>
+            <li>훈: 하양 - しろ・しら・しろ(い)・あき(らか)・もう(す)・せりふ</li>
+          </ul>
+          <br/>
+          <h3>象</h3>
+          <ul>
+            <li>6급 (부수:豕)</li>
+            <li>음: 상 - ショウ・ゾウ</li>
+            <li>훈: 코끼리, 대상 - かたち・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>薫</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 훈 - クン</li>
+            <li>훈: 향기가 나다 - かお(る)・かおりぐさ・た(く)</li>
+          </ul>
+          <br/>
+          <h3>藍</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 람 - ラン</li>
+            <li>훈: 쪽 - あい</li>
+          </ul>
+          <br/>
+          <h3>攻</h3>
+          <ul>
+            <li>4급 (부수:攵)</li>
+            <li>음: 공 - コウ</li>
+            <li>훈: 공격하다 - せ(める)・みが(く)・おさ(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>始</h3>
+          <ul>
+            <li>8급 (부수:女)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시작하다 - はじ(める)・はじ(まる)</li>
+          </ul>
+          <br/>
+          <h3>副</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 부 - フク・フウ</li>
+            <li>훈: 버금 - そ(う)</li>
+          </ul>
+          <br/>
+          <h3>若</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 약 - ジャク・ニャク・ニャ</li>
+            <li>훈: 젊다, 혹은 - わか(い)・も(しくは)・し(く)・ごと(し)・も(し)・なんじ</li>
+          </ul>
+          <br/>
+          <h3>舟</h3>
+          <ul>
+            <li>4급 (부수:舟)</li>
+            <li>음: 주 - シュウ・シュ</li>
+            <li>훈: 배 - ふね・ふな</li>
+          </ul>
+          <br/>
+          <h3>勘</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 헤아리다 - かんが(える)</li>
+          </ul>
+          <br/>
+          <h3>蹴</h3>
+          <ul>
+            <li>2급 (부수:足)</li>
+            <li>음: 축 - シュウ・シュク</li>
+            <li>훈: 차다 - け(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>以</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 이상, 이하, 이내, 이외 등 - もっ(て)・もち(いる)</li>
+          </ul>
+          <br/>
+          <h3>同</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 같음 - おな(じ)・とも(に)</li>
+          </ul>
+          <br/>
+          <h3>天</h3>
+          <ul>
+            <li>10급 (부수:大)</li>
+            <li>음: 천 - テン</li>
+            <li>훈: 하늘 - あめ・あま・そら</li>
+          </ul>
+          <br/>
+          <h3>医</h3>
+          <ul>
+            <li>8급 (부수:匸)</li>
+            <li>음: 의 - イ</li>
+            <li>훈: 의학 - い(やす)・くすし</li>
+          </ul>
+          <br/>
+          <h3>権</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 권 - ケン・ゴン</li>
+            <li>훈: 권리 - いきお(い)・おもり・はか(る)・かり</li>
+          </ul>
+          <br/>
+          <h3>集</h3>
+          <ul>
+            <li>8급 (부수:隹)</li>
+            <li>음: 집 - シュウ</li>
+            <li>훈: 모이다 - あつ(まる)・あつ(める)・つど(う)・すだ(く)・たか(る)</li>
+          </ul>
+          <br/>
+          <h3>漬</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 담그다, 익다 - つ(ける)・つ(かる)</li>
+          </ul>
+          <br/>
+          <h3>曖</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 애매하다 - かげ(る)・くら(い)・おお(う)</li>
+          </ul>
+          <br/>
+          <h3>凸</h3>
+          <ul>
+            <li>2.5급 (부수:凵)</li>
+            <li>음: 철 - トツ</li>
+            <li>훈: 볼록하다 - でこ</li>
+          </ul>
+          <br/>
+          <h3>酔</h3>
+          <ul>
+            <li>3급 (부수:酉)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 취하다 - よ(う)</li>
+          </ul>
+          <br/>
+          <h3>倒</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 넘어지다 - たお(れる)・たお(す)・さかさま・こ(ける)</li>
+          </ul>
+          <br/>
+          <h3>堤</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 제 - テイ</li>
+            <li>훈: 둑 - つつみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>幹</h3>
+          <ul>
+            <li>6급 (부수:干)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 줄기 - みき・から・わざ</li>
+          </ul>
+          <br/>
+          <h3>卵</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 란 - ラン</li>
+            <li>훈: 계란, 알 - たまご</li>
+          </ul>
+          <br/>
+          <h3>馬</h3>
+          <ul>
+            <li>9급 (부수:馬)</li>
+            <li>음: 마 - バ・メ・マ</li>
+            <li>훈: 말 - うま・ま</li>
+          </ul>
+          <br/>
+          <h3>被</h3>
+          <ul>
+            <li>4급 (부수:衣)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 입다, 받다, 쓰다 - こうむ(る)・おお(う)・かぶ(る)・かぶ(せる)・かず(ける)</li>
+          </ul>
+          <br/>
+          <h3>妥</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 타당 - やす(らか)・おだ(やか)</li>
+          </ul>
+          <br/>
+          <h3>診</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 진찰하다 - み(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

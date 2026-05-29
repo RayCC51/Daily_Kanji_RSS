@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>旅</h3>
+          <ul>
+            <li>8급 (부수:方)</li>
+            <li>음: 려 - リョ・ロ</li>
+            <li>훈: 여행 - たび・いくさ</li>
+          </ul>
+          <br/>
+          <h3>多</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 다 - タ</li>
+            <li>훈: 많다 - おお(い)</li>
+          </ul>
+          <br/>
+          <h3>串</h3>
+          <ul>
+            <li>2급 (부수:丨)</li>
+            <li>음: 관 - セン・カン</li>
+            <li>훈: 꼬챙이 - くし・つらぬ(く)・な(れる)</li>
+          </ul>
+          <br/>
+          <h3>僅</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 겨우, 근소함 - わず(か)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

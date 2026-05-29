@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>親</h3>
+          <ul>
+            <li>9급 (부수:見)</li>
+            <li>음: 친 - シン</li>
+            <li>훈: 부모, 친하다 - おや・した(しい)・した(しむ)・みずか(ら)</li>
+          </ul>
+          <br/>
+          <h3>以</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 이상, 이하, 이내, 이외 등 - もっ(て)・もち(いる)</li>
+          </ul>
+          <br/>
+          <h3>漢</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한자 - おとこ・から</li>
+          </ul>
+          <br/>
+          <h3>既</h3>
+          <ul>
+            <li>3급 (부수:无)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 이미, 벌써 - すで(に)</li>
+          </ul>
+          <br/>
+          <h3>悔</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 회 - カイ・ケ</li>
+            <li>훈: 후회하다, 뉘우치다, 분하다 - く(いる)・く(やむ)・くや(しい)</li>
+          </ul>
+          <br/>
+          <h3>膚</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 살갗, 피부 - はだ・はだえ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

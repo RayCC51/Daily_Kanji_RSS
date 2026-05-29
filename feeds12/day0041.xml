@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>忘</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 잊다 - わす(れる)</li>
+          </ul>
+          <br/>
+          <h3>誤</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 틀리다 - あやま(る)・まど(わす)</li>
+          </ul>
+          <br/>
+          <h3>屋</h3>
+          <ul>
+            <li>8급 (부수:尸)</li>
+            <li>음: 옥 - オク</li>
+            <li>훈: 집 - や・いえ・やね</li>
+          </ul>
+          <br/>
+          <h3>今</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 금 - コン・キン</li>
+            <li>훈: 지금 - いま</li>
+          </ul>
+          <br/>
+          <h3>阜</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 언덕 - おか・ゆた(か)</li>
+          </ul>
+          <br/>
+          <h3>丁</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 정 - チョウ・テイ・トウ</li>
+            <li>훈: 정중함 - ひのと・あ(たる)</li>
+          </ul>
+          <br/>
+          <h3>又</h3>
+          <ul>
+            <li>3급 (부수:又)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 또 - また・ふたた(び)</li>
+          </ul>
+          <br/>
+          <h3>紳</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 띠 - おおおび</li>
+          </ul>
+          <br/>
+          <h3>乏</h3>
+          <ul>
+            <li>3급 (부수:丿)</li>
+            <li>음: 핍 - ボウ・ホウ</li>
+            <li>훈: 부족하다 - とぼ(しい)</li>
+          </ul>
+          <br/>
+          <h3>謁</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 알 - エツ</li>
+            <li>훈: 뵈다 - まみ(える)</li>
+          </ul>
+          <br/>
+          <h3>抑</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 억 - ヨク</li>
+            <li>훈: 누르다, 억제하다 - おさ(える)・ふさ(ぐ)・そもそも</li>
+          </ul>
+          <br/>
+          <h3>忙</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 바쁘다 - いそが(しい)・せわ(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

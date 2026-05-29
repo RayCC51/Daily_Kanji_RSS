@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>賞</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상금 - ほ(める)・め(でる)</li>
+          </ul>
+          <br/>
+          <h3>仁</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 인 - ジン・ニ・ニン</li>
+            <li>훈: 어질다 - 無し</li>
+          </ul>
+          <br/>
+          <h3>枚</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 낱, 장 - ひら</li>
+          </ul>
+          <br/>
+          <h3>沈</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 침 - チン・ジン</li>
+            <li>훈: 가라앉다, 지다 - しず(む)・しず(める)</li>
+          </ul>
+          <br/>
+          <h3>旺</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 왕성 - さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>釈</h3>
+          <ul>
+            <li>4급 (부수:釆)</li>
+            <li>음: 석 - シャク・セキ</li>
+            <li>훈: 풀다 - と(く)・ゆる(す)・と(かす)・お(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

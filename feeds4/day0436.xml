@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>帳</h3>
+          <ul>
+            <li>8급 (부수:巾)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 수첩 - とばり</li>
+          </ul>
+          <br/>
+          <h3>答</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 답 - トウ</li>
+            <li>훈: 대답, 대답하다 - こた(える)・こた(え)</li>
+          </ul>
+          <br/>
+          <h3>甲</h3>
+          <ul>
+            <li>3급 (부수:田)</li>
+            <li>음: 갑 - コウ・カン</li>
+            <li>훈: 갑, 투구 - つめ・きのえ・よろい・かぶと</li>
+          </ul>
+          <br/>
+          <h3>奉</h3>
+          <ul>
+            <li>3급 (부수:大)</li>
+            <li>음: 봉 - ホウ・ブ</li>
+            <li>훈: 모시다, 받들다 - たてまつ(る)・まつ(る)・うけたまわ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

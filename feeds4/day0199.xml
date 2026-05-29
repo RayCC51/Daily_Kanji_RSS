@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>勤</h3>
+          <ul>
+            <li>5급 (부수:力)</li>
+            <li>음: 근 - キン・ゴン</li>
+            <li>훈: 근무하다 - つと(める)・つと(まる)・いそ(しむ)</li>
+          </ul>
+          <br/>
+          <h3>仮</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 가 - カ・ケ</li>
+            <li>훈: 거짓, 만약 - かり・か(す)</li>
+          </ul>
+          <br/>
+          <h3>択</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 택 - タク</li>
+            <li>훈: 고르다 - えら(ぶ)・よ(る)</li>
+          </ul>
+          <br/>
+          <h3>衝</h3>
+          <ul>
+            <li>3급 (부수:行)</li>
+            <li>음: 충 - ショウ</li>
+            <li>훈: 찌르다, 부딪히다 - つ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

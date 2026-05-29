@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>奥</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 오 - オウ</li>
+            <li>훈: 속, 부인 - おく・くま</li>
+          </ul>
+          <br/>
+          <h3>捻</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 념 - ネン・デン</li>
+            <li>훈: 삐다, 비틀다 - ねじ(る)・ひね(る)</li>
+          </ul>
+          <br/>
+          <h3>僚</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 동료 - とも・つかさ</li>
+          </ul>
+          <br/>
+          <h3>拶</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 인사하다 - せま(る)</li>
+          </ul>
+          <br/>
+          <h3>謡</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 가사, 노래하다 - うたい・うた(う)</li>
+          </ul>
+          <br/>
+          <h3>房</h3>
+          <ul>
+            <li>3급 (부수:戸)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 송이, 방 - ふさ・へや・いえ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

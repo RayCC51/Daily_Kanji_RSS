@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>手</h3>
+          <ul>
+            <li>10급 (부수:手)</li>
+            <li>음: 수 - シュ・ズ</li>
+            <li>훈: 손 - て・た</li>
+          </ul>
+          <br/>
+          <h3>盛</h3>
+          <ul>
+            <li>5급 (부수:皿)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 쌓아 올리다, 활발하다 - も(る)・さか(る)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>雷</h3>
+          <ul>
+            <li>4급 (부수:雨)</li>
+            <li>음: 뢰 - ライ</li>
+            <li>훈: 천둥, 우레 - かみなり・いかずち</li>
+          </ul>
+          <br/>
+          <h3>括</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 괄 - カツ</li>
+            <li>훈: 묶다 - くく(る)・くび(る)・くび(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

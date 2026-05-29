@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>創</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 만들다 - つく(る)・はじ(める)・きず</li>
+          </ul>
+          <br/>
+          <h3>皮</h3>
+          <ul>
+            <li>8급 (부수:皮)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 가죽 - かわ</li>
+          </ul>
+          <br/>
+          <h3>曹</h3>
+          <ul>
+            <li>2.5급 (부수:曰)</li>
+            <li>음: 조 - ソウ・ゾウ</li>
+            <li>훈: 무리 - つかさ・ともがら</li>
+          </ul>
+          <br/>
+          <h3>勘</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 헤아리다 - かんが(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

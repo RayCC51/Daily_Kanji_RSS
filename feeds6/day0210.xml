@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>歴</h3>
+          <ul>
+            <li>6급 (부수:止)</li>
+            <li>음: 력 - レキ・リャク</li>
+            <li>훈: 역사 - へ(る)</li>
+          </ul>
+          <br/>
+          <h3>配</h3>
+          <ul>
+            <li>8급 (부수:酉)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 나누다, 알다 - くば(る)・なら(ぶ)・つれあい・なが(す)</li>
+          </ul>
+          <br/>
+          <h3>困</h3>
+          <ul>
+            <li>5급 (부수:囗)</li>
+            <li>음: 곤 - コン</li>
+            <li>훈: 곤란하다 - こま(る)・くる(しむ)</li>
+          </ul>
+          <br/>
+          <h3>津</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 나루터, 진액 - つ・しる</li>
+          </ul>
+          <br/>
+          <h3>藻</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 해초, 수초 - も・あや</li>
+          </ul>
+          <br/>
+          <h3>帆</h3>
+          <ul>
+            <li>3급 (부수:巾)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 돛 - ほ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

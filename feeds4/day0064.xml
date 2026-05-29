@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貯</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 저 - チョ</li>
+            <li>훈: 쌓다 - たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>賞</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상금 - ほ(める)・め(でる)</li>
+          </ul>
+          <br/>
+          <h3>房</h3>
+          <ul>
+            <li>3급 (부수:戸)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 송이, 방 - ふさ・へや・いえ</li>
+          </ul>
+          <br/>
+          <h3>渦</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 와 - カ</li>
+            <li>훈: 소용돌이 - うず</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

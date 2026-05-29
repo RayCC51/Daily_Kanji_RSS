@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>痛</h3>
+          <ul>
+            <li>5급 (부수:疒)</li>
+            <li>음: 통 - ツウ・トウ</li>
+            <li>훈: 아프다, 괴롭다 - いた(い)・いた(む)・いた(める)・いた(わしい)・や(める)</li>
+          </ul>
+          <br/>
+          <h3>納</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 납 - ノウ・ナッ・ナ・ナン・トウ</li>
+            <li>훈: 들이다 - おさ(める)・おさ(まる)・い(れる)</li>
+          </ul>
+          <br/>
+          <h3>雰</h3>
+          <ul>
+            <li>2.5급 (부수:雨)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 날리다 - きり</li>
+          </ul>
+          <br/>
+          <h3>依</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 의 - イ・エ</li>
+            <li>훈: 의지하다 - よ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

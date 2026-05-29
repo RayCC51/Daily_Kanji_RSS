@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刷</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 쇄 - サツ</li>
+            <li>훈: 인쇄하다 - す(る)・は(く)</li>
+          </ul>
+          <br/>
+          <h3>面</h3>
+          <ul>
+            <li>8급 (부수:面)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 얼굴, 가면 - おも・おもて・つら・も</li>
+          </ul>
+          <br/>
+          <h3>卸</h3>
+          <ul>
+            <li>3급 (부수:卩)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 도매하다 - おろ(す)・おろし</li>
+          </ul>
+          <br/>
+          <h3>怒</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 노 - ド・ヌ</li>
+            <li>훈: 화내다 - いか(る)・おこ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

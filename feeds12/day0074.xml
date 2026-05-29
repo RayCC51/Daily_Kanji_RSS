@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>保</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 보 - ホ・ホウ</li>
+            <li>훈: 지키다 - たも(つ)・も(つ)・やす(んじる)</li>
+          </ul>
+          <br/>
+          <h3>洗</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 세 - セン</li>
+            <li>훈: 씻다 - あら(う)</li>
+          </ul>
+          <br/>
+          <h3>当</h3>
+          <ul>
+            <li>9급 (부수:小)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 맞다, 맞히다 - あ(たる)・あ(てる)・まさ(に…べし)</li>
+          </ul>
+          <br/>
+          <h3>確</h3>
+          <ul>
+            <li>6급 (부수:石)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 확실, 확인하다 - たし(か)・たし(かめる)・しか(と)・しっか(り)・かた(い)</li>
+          </ul>
+          <br/>
+          <h3>銀</h3>
+          <ul>
+            <li>8급 (부수:金)</li>
+            <li>음: 은 - ギン</li>
+            <li>훈: 은 - しろがね</li>
+          </ul>
+          <br/>
+          <h3>参</h3>
+          <ul>
+            <li>7급 (부수:厶)</li>
+            <li>음: 참, 삼 - サン・シン</li>
+            <li>훈: 참여하다, 가다, 오다, 곤란하다, 3 - まい(る)・まじ(わる)</li>
+          </ul>
+          <br/>
+          <h3>薪</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 장작 - たきぎ・まき</li>
+          </ul>
+          <br/>
+          <h3>販</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 팔다 - あきな(う)・ひさ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>壱</h3>
+          <ul>
+            <li>4급 (부수:士)</li>
+            <li>음: 일 - イチ・イツ</li>
+            <li>훈: 1 - ひと(つ)</li>
+          </ul>
+          <br/>
+          <h3>爪</h3>
+          <ul>
+            <li>2급 (부수:爪)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 손톱 - つめ・つま</li>
+          </ul>
+          <br/>
+          <h3>却</h3>
+          <ul>
+            <li>4급 (부수:卩)</li>
+            <li>음: 각 - キャク</li>
+            <li>훈: 물리치다 - しりぞ(く)・しりぞ(ける)・かえ(って)</li>
+          </ul>
+          <br/>
+          <h3>汗</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 땀 - あせ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

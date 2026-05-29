@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>健</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 건 - ケン</li>
+            <li>훈: 건강, 건강하다 - すこ(やか)・たけ(し)・したた(か)</li>
+          </ul>
+          <br/>
+          <h3>垂</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 늘어지다 - た(れる)・た(らす)・しだ(れる)・しで・なんなん(とする)</li>
+          </ul>
+          <br/>
+          <h3>券</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 권 - ケン</li>
+            <li>훈: 문서 - てがた・わりふ</li>
+          </ul>
+          <br/>
+          <h3>付</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 붙다 - つ(ける)・つ(く)・あた(える)</li>
+          </ul>
+          <br/>
+          <h3>読</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 독 - ドク・トク・トウ</li>
+            <li>훈: 읽다 - よ(む)</li>
+          </ul>
+          <br/>
+          <h3>治</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 치 - ジ・チ</li>
+            <li>훈: 다스리다, 고치다, 낫다 - おさ(める)・おさ(まる)・なお(る)・なお(す)</li>
+          </ul>
+          <br/>
+          <h3>藻</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 해초, 수초 - も・あや</li>
+          </ul>
+          <br/>
+          <h3>疫</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 역 - エキ・ヤク</li>
+            <li>훈: 전염병 - 無し</li>
+          </ul>
+          <br/>
+          <h3>姓</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 성씨 - かばね</li>
+          </ul>
+          <br/>
+          <h3>拶</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 인사하다 - せま(る)</li>
+          </ul>
+          <br/>
+          <h3>耐</h3>
+          <ul>
+            <li>4급 (부수:而)</li>
+            <li>음: 내 - タイ</li>
+            <li>훈: 견디다 - た(える)</li>
+          </ul>
+          <br/>
+          <h3>菌</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 균 - キン</li>
+            <li>훈: 세균 - きのこ・たけ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

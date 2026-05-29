@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>様</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 모양, 님 - さま</li>
+          </ul>
+          <br/>
+          <h3>俳</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 배우 - わざおぎ・たわむ(れ)</li>
+          </ul>
+          <br/>
+          <h3>奇</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기이하다 - めずら(しい)・く(し)・あや(しい)</li>
+          </ul>
+          <br/>
+          <h3>胆</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 담 - タン・トウ</li>
+            <li>훈: 쓸개 - きも</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

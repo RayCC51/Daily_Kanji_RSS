@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>岡</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 산등성이 - おか</li>
+          </ul>
+          <br/>
+          <h3>毎</h3>
+          <ul>
+            <li>9급 (부수:毋)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 매번 - ごと・つね・むさぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>豊</h3>
+          <ul>
+            <li>6급 (부수:豆)</li>
+            <li>음: 풍 - ホウ</li>
+            <li>훈: 풍부함 - ゆた(か)・とよ</li>
+          </ul>
+          <br/>
+          <h3>位</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 지위, 정도 - くらい</li>
+          </ul>
+          <br/>
+          <h3>団</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 단 - ダン・トン・タン</li>
+            <li>훈: 단체 - まる(い)・かたまり</li>
+          </ul>
+          <br/>
+          <h3>劇</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 극 - ゲキ</li>
+            <li>훈: 연극 - はげ(しい)</li>
+          </ul>
+          <br/>
+          <h3>献</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 헌 - ケン・コン</li>
+            <li>훈: 드리다 - ささ(げる)・たてまつ(る)・まつ(る)</li>
+          </ul>
+          <br/>
+          <h3>罵</h3>
+          <ul>
+            <li>2급 (부수:网)</li>
+            <li>음: 매 - バ</li>
+            <li>훈: 욕하다 - ののし(る)</li>
+          </ul>
+          <br/>
+          <h3>稲</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 벼 - いね・いな</li>
+          </ul>
+          <br/>
+          <h3>斎</h3>
+          <ul>
+            <li>2.5급 (부수:斉)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재계, 집 - ものいみ・つつし(む)・いつ(く)・とき</li>
+          </ul>
+          <br/>
+          <h3>丙</h3>
+          <ul>
+            <li>2.5급 (부수:一)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 세 번째 - ひのえ</li>
+          </ul>
+          <br/>
+          <h3>癒</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 병 낫다 - い(える)・い(やす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>官</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 벼슬 - つかさ・おおやけ</li>
+          </ul>
+          <br/>
+          <h3>温</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 온 - オン・ウン</li>
+            <li>훈: 따뜻하다 - あたた(か)・あたた(かい)・あたた(まる)・あたた(める)・ぬく(い)・ぬる(い)・ぬく(める)・ぬく(まる)・たず(ねる)・つつ(む)</li>
+          </ul>
+          <br/>
+          <h3>玄</h3>
+          <ul>
+            <li>4급 (부수:玄)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 검정 - くろ・くろ(い)</li>
+          </ul>
+          <br/>
+          <h3>賭</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 내기, 걸다 - か(ける)・かけ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

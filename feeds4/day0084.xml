@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>潟</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 갯벌 - かた</li>
+          </ul>
+          <br/>
+          <h3>求</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 구 - キュウ・グ</li>
+            <li>훈: 구하다, 바라다 - もと(める)</li>
+          </ul>
+          <br/>
+          <h3>箇</h3>
+          <ul>
+            <li>4급 (부수:竹)</li>
+            <li>음: 개 - カ・コ</li>
+            <li>훈: 낱 - 無し</li>
+          </ul>
+          <br/>
+          <h3>徴</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 징 - チョウ・チ</li>
+            <li>훈: 부르다 - しるし・め(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

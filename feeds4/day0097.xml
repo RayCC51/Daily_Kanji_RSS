@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>球</h3>
+          <ul>
+            <li>8급 (부수:玉)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 공 - たま</li>
+          </ul>
+          <br/>
+          <h3>武</h3>
+          <ul>
+            <li>6급 (부수:止)</li>
+            <li>음: 무 - ブ・ム</li>
+            <li>훈: 무력 - たけ(し)・もののふ</li>
+          </ul>
+          <br/>
+          <h3>爵</h3>
+          <ul>
+            <li>2.5급 (부수:爪)</li>
+            <li>음: 작 - シャク</li>
+            <li>훈: 벼슬 - さかずき</li>
+          </ul>
+          <br/>
+          <h3>柳</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 류 - リュウ</li>
+            <li>훈: 버드나무 - やなぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

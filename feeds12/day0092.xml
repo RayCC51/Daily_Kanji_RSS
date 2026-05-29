@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>浅</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 얕다 - あさ(い)</li>
+          </ul>
+          <br/>
+          <h3>紙</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 종이 - かみ</li>
+          </ul>
+          <br/>
+          <h3>打</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 타 - ダ・チョウ・テイ</li>
+            <li>훈: 때리다 - う(つ)・ぶ(つ)・ダース</li>
+          </ul>
+          <br/>
+          <h3>改</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 고치다 - あらた(める)・あらた(まる)</li>
+          </ul>
+          <br/>
+          <h3>西</h3>
+          <ul>
+            <li>9급 (부수:襾)</li>
+            <li>음: 서 - セイ・サイ・スイ</li>
+            <li>훈: 서쪽 - にし</li>
+          </ul>
+          <br/>
+          <h3>六</h3>
+          <ul>
+            <li>10급 (부수:八)</li>
+            <li>음: 륙, 육 - ロク・リク</li>
+            <li>훈: 6, 여섯 - む・む(つ)・むっ(つ)・むい</li>
+          </ul>
+          <br/>
+          <h3>珍</h3>
+          <ul>
+            <li>4급 (부수:玉)</li>
+            <li>음: 진 - チン</li>
+            <li>훈: 드물다 - めずら(しい)</li>
+          </ul>
+          <br/>
+          <h3>逐</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 축 - チク・ジク</li>
+            <li>훈: 차례로 - お(う)</li>
+          </ul>
+          <br/>
+          <h3>犠</h3>
+          <ul>
+            <li>3급 (부수:牛)</li>
+            <li>음: 희 - ギ・キ</li>
+            <li>훈: 희생 - いけにえ</li>
+          </ul>
+          <br/>
+          <h3>郎</h3>
+          <ul>
+            <li>4급 (부수:邑)</li>
+            <li>음: 랑 - ロウ</li>
+            <li>훈: 사내 - おとこ</li>
+          </ul>
+          <br/>
+          <h3>幣</h3>
+          <ul>
+            <li>2.5급 (부수:巾)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 화폐 - ぜに・ぬさ・みてぐら</li>
+          </ul>
+          <br/>
+          <h3>猟</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 렵 - リョウ</li>
+            <li>훈: 사냥 - か(る)・か(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

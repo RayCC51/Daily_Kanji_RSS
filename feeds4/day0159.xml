@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>装</h3>
+          <ul>
+            <li>5급 (부수:衣)</li>
+            <li>음: 장 - ソウ・ショウ</li>
+            <li>훈: 꾸미다 - よそお(う)・よそ(う)</li>
+          </ul>
+          <br/>
+          <h3>競</h3>
+          <ul>
+            <li>7급 (부수:立)</li>
+            <li>음: 경 - キョウ・ケイ</li>
+            <li>훈: 다투다, 겨루다 - きそ(う)・せ(る)・きお(う)・くら(べる)</li>
+          </ul>
+          <br/>
+          <h3>窃</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 절 - セツ</li>
+            <li>훈: 훔치다 - ぬす(む)・ひそ(かに)</li>
+          </ul>
+          <br/>
+          <h3>涼</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 선선하다 - すず(しい)・すず(む)・うす(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

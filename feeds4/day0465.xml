@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>列</h3>
+          <ul>
+            <li>8급 (부수:刀)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 행렬 - つら(ねる)・つら(なる)・なら(べる)</li>
+          </ul>
+          <br/>
+          <h3>米</h3>
+          <ul>
+            <li>9급 (부수:米)</li>
+            <li>음: 미 - ベイ・マイ・メ</li>
+            <li>훈: 쌀, 미터 - こめ・よね・メートル</li>
+          </ul>
+          <br/>
+          <h3>弧</h3>
+          <ul>
+            <li>3급 (부수:弓)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 활 - きゆみ</li>
+          </ul>
+          <br/>
+          <h3>斥</h3>
+          <ul>
+            <li>3급 (부수:斤)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 물리치다 - しりぞ(ける)・うかが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

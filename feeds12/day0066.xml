@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>伝</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 전 - デン</li>
+            <li>훈: 전하다 - つた(わる)・つた(える)・つた(う)・つて</li>
+          </ul>
+          <br/>
+          <h3>開</h3>
+          <ul>
+            <li>8급 (부수:門)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 열다 - ひら(く)・ひら(ける)・あ(く)・あ(ける)・はだ(かる)・はだ(ける)</li>
+          </ul>
+          <br/>
+          <h3>銅</h3>
+          <ul>
+            <li>6급 (부수:金)</li>
+            <li>음: 동 - ドウ</li>
+            <li>훈: 구리 - あかがね</li>
+          </ul>
+          <br/>
+          <h3>受</h3>
+          <ul>
+            <li>8급 (부수:又)</li>
+            <li>음: 수 - ジュ・ズ</li>
+            <li>훈: 받다, 붙다 - う(ける)・う(かる)</li>
+          </ul>
+          <br/>
+          <h3>版</h3>
+          <ul>
+            <li>6급 (부수:片)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 판목 - ふだ・いた</li>
+          </ul>
+          <br/>
+          <h3>沖</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 먼바다 - おき・と(ぶ)・むな(しい)</li>
+          </ul>
+          <br/>
+          <h3>姻</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 혼인 - とつ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>眠</h3>
+          <ul>
+            <li>4급 (부수:目)</li>
+            <li>음: 면 - ミン・ベン</li>
+            <li>훈: 자다, 졸리다 - ねむ(る)・ねむ(い)</li>
+          </ul>
+          <br/>
+          <h3>慌</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 황 - コウ</li>
+            <li>훈: 당황하다 - あわ(てる)・あわ(ただしい)</li>
+          </ul>
+          <br/>
+          <h3>煮</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 삶다, 끓이다 - に(る)・に(える)・に(やす)</li>
+          </ul>
+          <br/>
+          <h3>畳</h3>
+          <ul>
+            <li>4급 (부수:田)</li>
+            <li>음: 첩 - ジョウ・チョウ</li>
+            <li>훈: 개다, 다다미 - たた(む)・たたみ・かさ(ねる)</li>
+          </ul>
+          <br/>
+          <h3>芝</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 잔디 - しば</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

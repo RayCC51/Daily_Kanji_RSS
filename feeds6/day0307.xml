@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>捨</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 버리다 - す(てる)・ほどこ(す)</li>
+          </ul>
+          <br/>
+          <h3>混</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 혼 - コン</li>
+            <li>훈: 섞다, 붐비다 - ま(じる)・ま(ざる)・ま(ぜる)・こ(む)</li>
+          </ul>
+          <br/>
+          <h3>投</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 투 - トウ</li>
+            <li>훈: 던지다 - な(げる)</li>
+          </ul>
+          <br/>
+          <h3>瑠</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 류 - ル</li>
+            <li>훈: 유리 - 無し</li>
+          </ul>
+          <br/>
+          <h3>替</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 체 - タイ・テイ</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+          <h3>剥</h3>
+          <ul>
+            <li>2급 (부수:刀)</li>
+            <li>음: 박 - ハク・ホク</li>
+            <li>훈: 벗기다, 까다 - は(がす)・は(ぐ)・は(がれる)・は(げる)・む(く)・と(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

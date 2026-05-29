@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>号</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 호 - ゴウ</li>
+            <li>훈: 호칭 - さけ(ぶ)・よびな</li>
+          </ul>
+          <br/>
+          <h3>油</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 유 - ユ・ユウ</li>
+            <li>훈: 기름 - あぶら</li>
+          </ul>
+          <br/>
+          <h3>載</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 놓다, 싣다 - の(せる)・の(る)・しる(す)・とし</li>
+          </ul>
+          <br/>
+          <h3>緒</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 서 - ショ・チョ</li>
+            <li>훈: 줄, 끈, 실 - お・いとぐち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

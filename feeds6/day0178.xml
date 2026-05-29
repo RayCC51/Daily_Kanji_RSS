@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>引</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 끌다, 내키지 않다 - ひ(く)・ひ(ける)</li>
+          </ul>
+          <br/>
+          <h3>朝</h3>
+          <ul>
+            <li>9급 (부수:月)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 아침 - あさ・あした</li>
+          </ul>
+          <br/>
+          <h3>圧</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 압 - アツ・オウ</li>
+            <li>훈: 누르다 - お(さえる)・お(す)・へ(す)</li>
+          </ul>
+          <br/>
+          <h3>凍</h3>
+          <ul>
+            <li>3급 (부수:冫)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 얼다 - こお(る)・こご(える)・い(てる)・し(みる)</li>
+          </ul>
+          <br/>
+          <h3>執</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 집 - シツ・シュウ</li>
+            <li>훈: 쥐다 - と(る)・とら(える)</li>
+          </ul>
+          <br/>
+          <h3>坪</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 평 - ヘイ</li>
+            <li>훈: 넓이 - つぼ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

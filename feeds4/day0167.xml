@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>登</h3>
+          <ul>
+            <li>8급 (부수:癶)</li>
+            <li>음: 등 - トウ・ト</li>
+            <li>훈: 오르다, 올라가다 - のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>笛</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 적 - テキ・ジャク</li>
+            <li>훈: 피리 - ふえ</li>
+          </ul>
+          <br/>
+          <h3>桟</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 잔 - サン</li>
+            <li>훈: 사다리 - かけはし・たな</li>
+          </ul>
+          <br/>
+          <h3>朴</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 박 - ボク・ハク</li>
+            <li>훈: 순박 - すなお・ほお</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

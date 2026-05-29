@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>庭</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 정원 - にわ</li>
+          </ul>
+          <br/>
+          <h3>創</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 만들다 - つく(る)・はじ(める)・きず</li>
+          </ul>
+          <br/>
+          <h3>詞</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 말 - ことば</li>
+          </ul>
+          <br/>
+          <h3>盛</h3>
+          <ul>
+            <li>5급 (부수:皿)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 쌓아 올리다, 활발하다 - も(る)・さか(る)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>舌</h3>
+          <ul>
+            <li>5급 (부수:舌)</li>
+            <li>음: 설 - ゼツ・セツ</li>
+            <li>훈: 혀 - した・ことば</li>
+          </ul>
+          <br/>
+          <h3>余</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 여 - ヨ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・ほか</li>
+          </ul>
+          <br/>
+          <h3>吹</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 불다, 뿜다 - ふ(く)</li>
+          </ul>
+          <br/>
+          <h3>仰</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 앙 - ギョウ・コウ</li>
+            <li>훈: 우러르다 - あお(ぐ)・おお(せ)・あおの(く)・の(く)</li>
+          </ul>
+          <br/>
+          <h3>渡</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 건너다, 건네다 - わた(る)・わた(す)</li>
+          </ul>
+          <br/>
+          <h3>尽</h3>
+          <ul>
+            <li>4급 (부수:尸)</li>
+            <li>음: 진 - ジン</li>
+            <li>훈: 다하다, 바닥나다, 없어지다 - つ(くす)・つ(きる)・つ(かす)・すが(れる)・ことごと(く)</li>
+          </ul>
+          <br/>
+          <h3>跡</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 적 - セキ・シャク</li>
+            <li>훈: 자취 - あと</li>
+          </ul>
+          <br/>
+          <h3>堕</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 타 - ダ</li>
+            <li>훈: 떨어지다 - お(ちる)・こぼ(つ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

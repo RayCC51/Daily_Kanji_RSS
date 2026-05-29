@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>沖</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 먼바다 - おき・と(ぶ)・むな(しい)</li>
+          </ul>
+          <br/>
+          <h3>胃</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위 - 無し</li>
+          </ul>
+          <br/>
+          <h3>件</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 건 - ケン</li>
+            <li>훈: 물건 - くだり・くだん</li>
+          </ul>
+          <br/>
+          <h3>吉</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 길 - チキ・キツ</li>
+            <li>훈: 길하다 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>宴</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 잔치 - うたげ・たの(しむ)</li>
+          </ul>
+          <br/>
+          <h3>丘</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 언덕 - おか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

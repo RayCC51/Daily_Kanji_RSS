@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>争</h3>
+          <ul>
+            <li>7급 (부수:亅)</li>
+            <li>음: 쟁 - ソウ</li>
+            <li>훈: 다투다 - あらそ(う)・いさ(める)</li>
+          </ul>
+          <br/>
+          <h3>詩</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시 - うた</li>
+          </ul>
+          <br/>
+          <h3>摯</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 잡다 - まこと・と(る)・にえ・あら(い)</li>
+          </ul>
+          <br/>
+          <h3>監</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 감 - カン・ケン</li>
+            <li>훈: 보다 - み(る)・かんがみ(る)・しら(べる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

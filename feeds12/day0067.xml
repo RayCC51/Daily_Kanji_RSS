@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>枝</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 가지 - えだ</li>
+          </ul>
+          <br/>
+          <h3>気</h3>
+          <ul>
+            <li>10급 (부수:气)</li>
+            <li>음: 기 - キ・ケ</li>
+            <li>훈: 기운, 기체 - いき</li>
+          </ul>
+          <br/>
+          <h3>着</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 착 - チャク・ジャク</li>
+            <li>훈: 옷, 입다, 도착하다 - き(る)・き(せる)・つ(く)・つ(ける)</li>
+          </ul>
+          <br/>
+          <h3>額</h3>
+          <ul>
+            <li>6급 (부수:頁)</li>
+            <li>음: 액 - ガク</li>
+            <li>훈: 이마 - ひたい・ぬか(ずく)</li>
+          </ul>
+          <br/>
+          <h3>歌</h3>
+          <ul>
+            <li>9급 (부수:欠)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 노래 - うた・うた(う)</li>
+          </ul>
+          <br/>
+          <h3>晩</h3>
+          <ul>
+            <li>5급 (부수:日)</li>
+            <li>음: 만 - バン</li>
+            <li>훈: 밤 - く(れ)・おそ(い)</li>
+          </ul>
+          <br/>
+          <h3>吏</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 벼슬 - つかさ</li>
+          </ul>
+          <br/>
+          <h3>欧</h3>
+          <ul>
+            <li>3급 (부수:欠)</li>
+            <li>음: 구 - オウ</li>
+            <li>훈: 유럽 - は(く)</li>
+          </ul>
+          <br/>
+          <h3>粒</h3>
+          <ul>
+            <li>4급 (부수:米)</li>
+            <li>음: 립 - リュウ</li>
+            <li>훈: 낱알 - つぶ</li>
+          </ul>
+          <br/>
+          <h3>症</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 증 - ショウ</li>
+            <li>훈: 증세 - しるし</li>
+          </ul>
+          <br/>
+          <h3>幅</h3>
+          <ul>
+            <li>4급 (부수:巾)</li>
+            <li>음: 폭 - フク</li>
+            <li>훈: 폭 - はば</li>
+          </ul>
+          <br/>
+          <h3>悦</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 열 - エツ</li>
+            <li>훈: 기쁘다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

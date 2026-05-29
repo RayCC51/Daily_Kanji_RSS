@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>録</h3>
+          <ul>
+            <li>7급 (부수:金)</li>
+            <li>음: 록 - ロク・リョク</li>
+            <li>훈: 기록 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>確</h3>
+          <ul>
+            <li>6급 (부수:石)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 확실, 확인하다 - たし(か)・たし(かめる)・しか(と)・しっか(り)・かた(い)</li>
+          </ul>
+          <br/>
+          <h3>技</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 기 - ギ</li>
+            <li>훈: 재주, 기술 - わざ</li>
+          </ul>
+          <br/>
+          <h3>暦</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 력 - レキ・リャク</li>
+            <li>훈: 달력 - こよみ</li>
+          </ul>
+          <br/>
+          <h3>猶</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 오히려 - なお・なお…(ごとし)</li>
+          </ul>
+          <br/>
+          <h3>吹</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 불다, 뿜다 - ふ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

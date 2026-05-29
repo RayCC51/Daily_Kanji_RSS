@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>川</h3>
+          <ul>
+            <li>10급 (부수:川)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 강 - かわ</li>
+          </ul>
+          <br/>
+          <h3>家</h3>
+          <ul>
+            <li>9급 (부수:宀)</li>
+            <li>음: 가 - カ・ケ</li>
+            <li>훈: 집 - いえ・や・うち</li>
+          </ul>
+          <br/>
+          <h3>除</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 제 - ジョ・ジ</li>
+            <li>훈: 제외하다 - のぞ(く)・はら(う)・の(ける)・よ(ける)・つ(きる)</li>
+          </ul>
+          <br/>
+          <h3>正</h3>
+          <ul>
+            <li>10급 (부수:止)</li>
+            <li>음: 정 - セイ・ショウ</li>
+            <li>훈: 바르다 - ただ(しい)・ただ(す)・まさ</li>
+          </ul>
+          <br/>
+          <h3>私</h3>
+          <ul>
+            <li>5급 (부수:禾)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 나 - わたくし・わたし・ひそ(か)</li>
+          </ul>
+          <br/>
+          <h3>段</h3>
+          <ul>
+            <li>5급 (부수:殳)</li>
+            <li>음: 단 - ダン・タン</li>
+            <li>훈: 층계 - きざはし</li>
+          </ul>
+          <br/>
+          <h3>牲</h3>
+          <ul>
+            <li>3급 (부수:牛)</li>
+            <li>음: 생 - セイ</li>
+            <li>훈: 희생 - いけにえ</li>
+          </ul>
+          <br/>
+          <h3>霜</h3>
+          <ul>
+            <li>2.5급 (부수:雨)</li>
+            <li>음: 상 - ソウ</li>
+            <li>훈: 서리 - しも</li>
+          </ul>
+          <br/>
+          <h3>滝</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 롱 - ロウ</li>
+            <li>훈: 적시다 - たき</li>
+          </ul>
+          <br/>
+          <h3>距</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 거리 - へだ(てる)・けづめ・ふせ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>朱</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 주 - シュ・ス</li>
+            <li>훈: 빨강 - あか・あけ</li>
+          </ul>
+          <br/>
+          <h3>賜</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 주시다 - たまわ(る)・たま(う)・たまもの</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>創</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 만들다 - つく(る)・はじ(める)・きず</li>
+          </ul>
+          <br/>
+          <h3>誠</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 성의, 정성 - まこと</li>
+          </ul>
+          <br/>
+          <h3>権</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 권 - ケン・ゴン</li>
+            <li>훈: 권리 - いきお(い)・おもり・はか(る)・かり</li>
+          </ul>
+          <br/>
+          <h3>搬</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 옮기다 - はこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>氾</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 넘치다 - ひろ(がる)・あふ(れる)</li>
+          </ul>
+          <br/>
+          <h3>堅</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 단단하다 - かた(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

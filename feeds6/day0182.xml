@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>反</h3>
+          <ul>
+            <li>8급 (부수:又)</li>
+            <li>음: 반 - ハン・ホン・タン</li>
+            <li>훈: 반대, 뒤집히다 - そ(る)・そ(らす)・かえ(る)・かえ(す)・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>都</h3>
+          <ul>
+            <li>8급 (부수:邑)</li>
+            <li>음: 도 - ト・ツ</li>
+            <li>훈: 수도 - みやこ・すべ(て)</li>
+          </ul>
+          <br/>
+          <h3>席</h3>
+          <ul>
+            <li>7급 (부수:巾)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 자리 - むしろ</li>
+          </ul>
+          <br/>
+          <h3>励</h3>
+          <ul>
+            <li>3급 (부수:力)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 힘쓰다, 격려하다 - はげ(む)・はげ(ます)</li>
+          </ul>
+          <br/>
+          <h3>冗</h3>
+          <ul>
+            <li>3급 (부수:冖)</li>
+            <li>음: 용 - ジョウ</li>
+            <li>훈: 쓸데 없음 - むだ</li>
+          </ul>
+          <br/>
+          <h3>升</h3>
+          <ul>
+            <li>2.5급 (부수:十)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 되 - ます・のぼ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

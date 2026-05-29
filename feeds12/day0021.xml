@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>鏡</h3>
+          <ul>
+            <li>7급 (부수:金)</li>
+            <li>음: 경 - キョウ</li>
+            <li>훈: 거울 - かがみ</li>
+          </ul>
+          <br/>
+          <h3>然</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 연 - ゼン・ネン</li>
+            <li>훈: 당연 - しか(り)・しか(し)・しか(も)・も(える)</li>
+          </ul>
+          <br/>
+          <h3>勉</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 면 - ベン</li>
+            <li>훈: 힘쓰다 - つと(める)</li>
+          </ul>
+          <br/>
+          <h3>香</h3>
+          <ul>
+            <li>7급 (부수:香)</li>
+            <li>음: 향 - コウ・キョウ</li>
+            <li>훈: 향기, 향기나다 - か・かお(り)・かお(る)・かんば(しい)</li>
+          </ul>
+          <br/>
+          <h3>側</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 측 - ソク・ショク</li>
+            <li>훈: 측, 쪽 - がわ・そば・はた・かたわ(ら)</li>
+          </ul>
+          <br/>
+          <h3>副</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 부 - フク・フウ</li>
+            <li>훈: 버금 - そ(う)</li>
+          </ul>
+          <br/>
+          <h3>砕</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 쇄 - サイ</li>
+            <li>훈: 부수다, 깨지다 - くだ(く)・くだ(ける)</li>
+          </ul>
+          <br/>
+          <h3>叙</h3>
+          <ul>
+            <li>2.5급 (부수:又)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 서술하다 - の(べる)</li>
+          </ul>
+          <br/>
+          <h3>詐</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 사 - サ</li>
+            <li>훈: 속이다 - いつわ(る)</li>
+          </ul>
+          <br/>
+          <h3>箸</h3>
+          <ul>
+            <li>2급 (부수:竹)</li>
+            <li>음: 저 - チョ</li>
+            <li>훈: 젓가락 - はし</li>
+          </ul>
+          <br/>
+          <h3>雅</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 맑다 - みやび・みやび(やか)・つね</li>
+          </ul>
+          <br/>
+          <h3>顎</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 악 - ガク</li>
+            <li>훈: 턱 - あご</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

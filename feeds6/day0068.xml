@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>父</h3>
+          <ul>
+            <li>9급 (부수:父)</li>
+            <li>음: 부 - フ・ホ</li>
+            <li>훈: 아빠 - ちち</li>
+          </ul>
+          <br/>
+          <h3>百</h3>
+          <ul>
+            <li>10급 (부수:白)</li>
+            <li>음: 백 - ヒャク・ハク</li>
+            <li>훈: 100 - もも</li>
+          </ul>
+          <br/>
+          <h3>星</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 별 - ほし</li>
+          </ul>
+          <br/>
+          <h3>誓</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 서 - セイ・ゼイ</li>
+            <li>훈: 맹세하다 - ちか(う)</li>
+          </ul>
+          <br/>
+          <h3>坊</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 방 - ボウ・ボッ・ホウ</li>
+            <li>훈: 도련님 - まち・へや</li>
+          </ul>
+          <br/>
+          <h3>愉</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 즐겁다 - たの(しい)・たの(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

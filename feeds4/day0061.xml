@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>中</h3>
+          <ul>
+            <li>10급 (부수:丨)</li>
+            <li>음: 중 - チュウ・ジュウ</li>
+            <li>훈: 가운데, 안 - なか・あ(たる)・あ(てる)</li>
+          </ul>
+          <br/>
+          <h3>初</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 초 - ショ・ソ</li>
+            <li>훈: 처음 - はじ(め)・はじ(めて)・はつ・うい・そ(める)・うぶ</li>
+          </ul>
+          <br/>
+          <h3>込</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 입 - 無し</li>
+            <li>훈: 담다, 채우다, 붐비다 - こ(む)・こ(める)</li>
+          </ul>
+          <br/>
+          <h3>尉</h3>
+          <ul>
+            <li>2.5급 (부수:寸)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 벼슬 - じょう</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

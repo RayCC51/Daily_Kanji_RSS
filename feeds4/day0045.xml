@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>従</h3>
+          <ul>
+            <li>5급 (부수:彳)</li>
+            <li>음: 종 - ジュウ・ショウ・ジュ</li>
+            <li>훈: 따르다 - したが(う)・したが(える)</li>
+          </ul>
+          <br/>
+          <h3>傷</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상처, 상하다 - きず・いた(む)・いた(める)・そこ(なう)</li>
+          </ul>
+          <br/>
+          <h3>錬</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 련 - レン</li>
+            <li>훈: 단련하다 - ね(る)</li>
+          </ul>
+          <br/>
+          <h3>影</h3>
+          <ul>
+            <li>4급 (부수:彡)</li>
+            <li>음: 영 - エイ・ヨウ</li>
+            <li>훈: 그림자 - かげ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

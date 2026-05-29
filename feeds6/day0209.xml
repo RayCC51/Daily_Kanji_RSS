@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>難</h3>
+          <ul>
+            <li>5급 (부수:隹)</li>
+            <li>음: 난 - ナン・ダン</li>
+            <li>훈: 어렵다 - かた(い)・むずか(しい)・にく(い)</li>
+          </ul>
+          <br/>
+          <h3>流</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 흐르다 - なが(れる)・なが(す)</li>
+          </ul>
+          <br/>
+          <h3>絵</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 회 - カイ・エ</li>
+            <li>훈: 그림 - 無し</li>
+          </ul>
+          <br/>
+          <h3>勅</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 칙 - チョク</li>
+            <li>훈: 칙명 - みことのり</li>
+          </ul>
+          <br/>
+          <h3>悼</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 애도하다 - いた(む)</li>
+          </ul>
+          <br/>
+          <h3>侯</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 후 - コウ</li>
+            <li>훈: 제후 - まと・きみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

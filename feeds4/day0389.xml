@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>理</h3>
+          <ul>
+            <li>9급 (부수:玉)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 다스리다 - ことわり・すじ・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>暴</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 폭 - ボウ・バク</li>
+            <li>훈: 파헤치다, 난폭하다 - あば(く)・あば(れる)・あら(い)・にわ(か)・あら(わす)・さら(す)</li>
+          </ul>
+          <br/>
+          <h3>砕</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 쇄 - サイ</li>
+            <li>훈: 부수다, 깨지다 - くだ(く)・くだ(ける)</li>
+          </ul>
+          <br/>
+          <h3>拓</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 척, 탁 - タク</li>
+            <li>훈: 넓히다 - ひら(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

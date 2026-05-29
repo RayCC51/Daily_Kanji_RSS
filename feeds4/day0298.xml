@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>解</h3>
+          <ul>
+            <li>6급 (부수:角)</li>
+            <li>음: 해 - カイ・ゲ</li>
+            <li>훈: 풀다 - と(く)・と(かす)・と(ける)・ほど(く)・ほど(ける)・ほぐ(れる)・ほつ(れる)・さと(る)・わか(る)</li>
+          </ul>
+          <br/>
+          <h3>辞</h3>
+          <ul>
+            <li>7급 (부수:辛)</li>
+            <li>음: 사 - ジ</li>
+            <li>훈: 말씀, 그만두다 - や(める)・ことば・ことわる</li>
+          </ul>
+          <br/>
+          <h3>湿</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 습 - シツ</li>
+            <li>훈: 습하다, 적시다 - しめ(る)・しめ(す)・うるお(い)・うるお(す)</li>
+          </ul>
+          <br/>
+          <h3>膜</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 막 - マク・バク</li>
+            <li>훈: 막 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

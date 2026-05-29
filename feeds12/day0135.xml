@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>呼</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 부르다 - よ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>男</h3>
+          <ul>
+            <li>10급 (부수:田)</li>
+            <li>음: 남 - ダン・ナン</li>
+            <li>훈: 남자 - おとこ・おのこ</li>
+          </ul>
+          <br/>
+          <h3>究</h3>
+          <ul>
+            <li>8급 (부수:穴)</li>
+            <li>음: 구 - キュウ・ク</li>
+            <li>훈: 연구, 파헤치다 - きわ(める)・きわ(まる)</li>
+          </ul>
+          <br/>
+          <h3>適</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 적 - テキ・セキ</li>
+            <li>훈: 맞다 - かな(う)・ゆ(く)・たまたま</li>
+          </ul>
+          <br/>
+          <h3>暑</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 덥다 - あつ(い)</li>
+          </ul>
+          <br/>
+          <h3>関</h3>
+          <ul>
+            <li>7급 (부수:門)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관계 - せき・かか(わる)・からくり・かんぬき</li>
+          </ul>
+          <br/>
+          <h3>越</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 월 - エツ・オチ・オツ</li>
+            <li>훈: 넘다 - こ(す)・こ(える)・こし</li>
+          </ul>
+          <br/>
+          <h3>勃</h3>
+          <ul>
+            <li>2급 (부수:力)</li>
+            <li>음: 발 - ボツ・ホツ</li>
+            <li>훈: 일어나다 - お(こる)・にわ(かに)</li>
+          </ul>
+          <br/>
+          <h3>猛</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 맹 - モウ</li>
+            <li>훈: 사납다 - たけ(し)</li>
+          </ul>
+          <br/>
+          <h3>陰</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 음 - イン・オン・アン</li>
+            <li>훈: 그늘 - かげ・かげ(る)・くら(い)・ひそ(か)</li>
+          </ul>
+          <br/>
+          <h3>奔</h3>
+          <ul>
+            <li>2.5급 (부수:大)</li>
+            <li>음: 분 - ホン</li>
+            <li>훈: 달리다 - はし(る)</li>
+          </ul>
+          <br/>
+          <h3>幾</h3>
+          <ul>
+            <li>4급 (부수:幺)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 얼마 - いく・ほとん(ど)・きざ(し)・こいねが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

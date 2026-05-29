@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>雲</h3>
+          <ul>
+            <li>9급 (부수:雨)</li>
+            <li>음: 운 - ウン</li>
+            <li>훈: 구름 - くも</li>
+          </ul>
+          <br/>
+          <h3>桜</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 앵 - オウ</li>
+            <li>훈: 벚꽃, 앵두 - さくら</li>
+          </ul>
+          <br/>
+          <h3>勤</h3>
+          <ul>
+            <li>5급 (부수:力)</li>
+            <li>음: 근 - キン・ゴン</li>
+            <li>훈: 근무하다 - つと(める)・つと(まる)・いそ(しむ)</li>
+          </ul>
+          <br/>
+          <h3>葛</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 갈 - カツ</li>
+            <li>훈: 칡 - くず・かたびら・かずら・つづら</li>
+          </ul>
+          <br/>
+          <h3>宜</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 마땅 - よろ(しい)・よ(い)・むべ・よろ(しく…べし)</li>
+          </ul>
+          <br/>
+          <h3>歓</h3>
+          <ul>
+            <li>4급 (부수:欠)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 기쁘다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

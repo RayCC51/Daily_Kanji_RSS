@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>笑</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 웃다 - わら(う)・え(む)</li>
+          </ul>
+          <br/>
+          <h3>聖</h3>
+          <ul>
+            <li>5급 (부수:耳)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 신성 - ひじり</li>
+          </ul>
+          <br/>
+          <h3>進</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 나아가다 - すす(む)・すす(める)</li>
+          </ul>
+          <br/>
+          <h3>歳</h3>
+          <ul>
+            <li>4급 (부수:止)</li>
+            <li>음: 세 - サイ・セイ</li>
+            <li>훈: 나이, 해 - とし・とせ・よわい</li>
+          </ul>
+          <br/>
+          <h3>准</h3>
+          <ul>
+            <li>2.5급 (부수:冫)</li>
+            <li>음: 준 - ジュン・シュン</li>
+            <li>훈: 준하다 - なぞら(える)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>脱</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 탈 - ダツ・タツ</li>
+            <li>훈: 벗다 - ぬ(ぐ)・ぬ(げる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>迷</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 미 - メイ</li>
+            <li>훈: 헤매다 - まよ(う)・まど(う)</li>
+          </ul>
+          <br/>
+          <h3>覧</h3>
+          <ul>
+            <li>5급 (부수:見)</li>
+            <li>음: 람 - ラン</li>
+            <li>훈: 보다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>眠</h3>
+          <ul>
+            <li>4급 (부수:目)</li>
+            <li>음: 면 - ミン・ベン</li>
+            <li>훈: 자다, 졸리다 - ねむ(る)・ねむ(い)</li>
+          </ul>
+          <br/>
+          <h3>阻</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 막다 - はば(む)・けわ(しい)・へだ(たる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

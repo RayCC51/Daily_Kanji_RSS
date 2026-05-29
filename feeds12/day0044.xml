@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>旅</h3>
+          <ul>
+            <li>8급 (부수:方)</li>
+            <li>음: 려 - リョ・ロ</li>
+            <li>훈: 여행 - たび・いくさ</li>
+          </ul>
+          <br/>
+          <h3>序</h3>
+          <ul>
+            <li>6급 (부수:广)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 차례 - つい(で)・はしがき・まなびや</li>
+          </ul>
+          <br/>
+          <h3>何</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 무엇 - なに・なん・いず(れ)・いず(く)</li>
+          </ul>
+          <br/>
+          <h3>策</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 책 - サク</li>
+            <li>훈: 꾀 - はかりごと・むち・つえ・ふだ</li>
+          </ul>
+          <br/>
+          <h3>層</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 층 - ソウ</li>
+            <li>훈: 층 - かさ(なる)</li>
+          </ul>
+          <br/>
+          <h3>衛</h3>
+          <ul>
+            <li>6급 (부수:行)</li>
+            <li>음: 위 - エイ・エ</li>
+            <li>훈: 지키다 - まも(る)</li>
+          </ul>
+          <br/>
+          <h3>振</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 흔들다 - ふ(る)・ふ(るう)・ふ(れる)・すく(う)</li>
+          </ul>
+          <br/>
+          <h3>端</h3>
+          <ul>
+            <li>4급 (부수:立)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 끝 - はし・は・はた・ただ(しい)・はな・はじ(め)・はした</li>
+          </ul>
+          <br/>
+          <h3>嫌</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 혐 - ケン・ゲン</li>
+            <li>훈: 싫다 - きら(う)・いや・うたが(う)</li>
+          </ul>
+          <br/>
+          <h3>劣</h3>
+          <ul>
+            <li>4급 (부수:力)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 뒤떨어지다 - おと(る)・いや(しい)</li>
+          </ul>
+          <br/>
+          <h3>既</h3>
+          <ul>
+            <li>3급 (부수:无)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 이미, 벌써 - すで(に)</li>
+          </ul>
+          <br/>
+          <h3>傘</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 우산 - かさ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

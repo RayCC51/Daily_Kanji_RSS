@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>絶</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 절 - ゼツ・ゼチ・セツ</li>
+            <li>훈: 끊다, 끝나다 - た(える)・た(やす)・た(つ)・はなは(だ)・わた(る)</li>
+          </ul>
+          <br/>
+          <h3>貿</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 무 - ボウ</li>
+            <li>훈: 무역 - あきな(う)</li>
+          </ul>
+          <br/>
+          <h3>償</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 갚다 - つぐな(う)</li>
+          </ul>
+          <br/>
+          <h3>栓</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 마개 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

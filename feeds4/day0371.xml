@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>飛</h3>
+          <ul>
+            <li>7급 (부수:飛)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 날다 - と(ぶ)・と(ばす)</li>
+          </ul>
+          <br/>
+          <h3>批</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비평하다 - う(つ)・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>猟</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 렵 - リョウ</li>
+            <li>훈: 사냥 - か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>偉</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 훌륭하다, 위대하다 - えら(い)・すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

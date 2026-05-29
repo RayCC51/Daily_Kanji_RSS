@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>灯</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 등 - トウ・ドン・チン・チョウ・テイ</li>
+            <li>훈: 등불, 비추다 - ひ・ともしび・あかり・あかし・とも(す)・とぼ(す)・ともし・とぼし</li>
+          </ul>
+          <br/>
+          <h3>耳</h3>
+          <ul>
+            <li>10급 (부수:耳)</li>
+            <li>음: 이 - ジ</li>
+            <li>훈: 귀 - みみ・のみ</li>
+          </ul>
+          <br/>
+          <h3>脅</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 위협하다, 협박하다, 겁내다 - おびや(かす)・おど(す)・おど(かす)・おび(える)</li>
+          </ul>
+          <br/>
+          <h3>璧</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 옥, 흠이 없음 - たま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

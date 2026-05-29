@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>律</h3>
+          <ul>
+            <li>5급 (부수:彳)</li>
+            <li>음: 률 - リツ・リチ</li>
+            <li>훈: 법칙 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>岐</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 기 - キ・ギ</li>
+            <li>훈: 갈림길 - わか(れる)・ちまた</li>
+          </ul>
+          <br/>
+          <h3>煙</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 연기 - けむ(る)・けむり・けむ(い)・けぶ(る)・けむ</li>
+          </ul>
+          <br/>
+          <h3>怖</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 포 - フ</li>
+            <li>훈: 무섭다 - こわ(い)・おそ(れる)・お(じける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

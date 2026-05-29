@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>身</h3>
+          <ul>
+            <li>8급 (부수:身)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 몸 - み</li>
+          </ul>
+          <br/>
+          <h3>益</h3>
+          <ul>
+            <li>6급 (부수:皿)</li>
+            <li>음: 익 - エキ・ヤク</li>
+            <li>훈: 이익 - ま(す)・ますます</li>
+          </ul>
+          <br/>
+          <h3>芽</h3>
+          <ul>
+            <li>7급 (부수:艸)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 싹 - め・めぐ(む)</li>
+          </ul>
+          <br/>
+          <h3>搭</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 탑 - トウ</li>
+            <li>훈: 타다 - の(る)・の(せる)</li>
+          </ul>
+          <br/>
+          <h3>占</h3>
+          <ul>
+            <li>4급 (부수:卜)</li>
+            <li>음: 점 - セン</li>
+            <li>훈: 점치다, 차지하다 - し(める)・うらな(う)</li>
+          </ul>
+          <br/>
+          <h3>襲</h3>
+          <ul>
+            <li>4급 (부수:衣)</li>
+            <li>음: 습 - シュウ</li>
+            <li>훈: 덮치다, 습격하다 - おそ(う)・つ(ぐ)・かさ(ねる)・かさね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

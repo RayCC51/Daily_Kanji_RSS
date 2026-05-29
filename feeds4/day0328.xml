@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>第</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 제 - ダイ・テイ</li>
+            <li>훈: 차례 - つい(で)・やしき</li>
+          </ul>
+          <br/>
+          <h3>閣</h3>
+          <ul>
+            <li>5급 (부수:門)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 집 - たかどの・たな</li>
+          </ul>
+          <br/>
+          <h3>隣</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 린 - リン</li>
+            <li>훈: 이웃, 옆 - とな(る)・となり</li>
+          </ul>
+          <br/>
+          <h3>丙</h3>
+          <ul>
+            <li>2.5급 (부수:一)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 세 번째 - ひのえ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

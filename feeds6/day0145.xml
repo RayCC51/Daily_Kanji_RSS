@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>使</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 사용하다 - つか(う)・つか(わす)</li>
+          </ul>
+          <br/>
+          <h3>貸</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 빌려주다 - か(す)</li>
+          </ul>
+          <br/>
+          <h3>聞</h3>
+          <ul>
+            <li>9급 (부수:耳)</li>
+            <li>음: 문 - ブン・モン</li>
+            <li>훈: 듣다, 들리다 - き(く)・き(こえる)</li>
+          </ul>
+          <br/>
+          <h3>叙</h3>
+          <ul>
+            <li>2.5급 (부수:又)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 서술하다 - の(べる)</li>
+          </ul>
+          <br/>
+          <h3>涙</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 눈물 - なみだ</li>
+          </ul>
+          <br/>
+          <h3>匿</h3>
+          <ul>
+            <li>3급 (부수:匸)</li>
+            <li>음: 닉 - トク・ジョク</li>
+            <li>훈: 숨기다 - かく(れる)・かくま(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

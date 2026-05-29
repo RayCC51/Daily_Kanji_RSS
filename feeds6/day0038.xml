@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>両</h3>
+          <ul>
+            <li>8급 (부수:一)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 둘 - ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>対</h3>
+          <ul>
+            <li>8급 (부수:寸)</li>
+            <li>음: 대 - タイ・ツイ</li>
+            <li>훈: 대하다 - む(かう)・つれあい・こた(える)・そろ(い)</li>
+          </ul>
+          <br/>
+          <h3>池</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 지 - チ</li>
+            <li>훈: 연못 - いけ</li>
+          </ul>
+          <br/>
+          <h3>践</h3>
+          <ul>
+            <li>2.5급 (부수:足)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 밟다 - ふ(む)</li>
+          </ul>
+          <br/>
+          <h3>及</h3>
+          <ul>
+            <li>4급 (부수:又)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 미치다, 이르다 - およ(ぶ)・およ(び)・およ(ばす)</li>
+          </ul>
+          <br/>
+          <h3>峠</h3>
+          <ul>
+            <li>4급 (부수:山)</li>
+            <li>음: 상 - 無し</li>
+            <li>훈: 고개 - とうげ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

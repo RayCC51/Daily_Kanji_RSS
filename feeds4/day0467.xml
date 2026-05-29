@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>滋</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 불다 - し(げる)・ま(す)</li>
+          </ul>
+          <br/>
+          <h3>管</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관리 - くだ・ふえ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>墜</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 추 - ツイ</li>
+            <li>훈: 떨어지다 - お(ちる)</li>
+          </ul>
+          <br/>
+          <h3>況</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 황 - キョウ</li>
+            <li>훈: 상황 - ありさま・いわ(んや)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

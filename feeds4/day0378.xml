@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宮</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 궁 - キュウ・グウ・ク</li>
+            <li>훈: 왕궁 - みや・いえ</li>
+          </ul>
+          <br/>
+          <h3>聞</h3>
+          <ul>
+            <li>9급 (부수:耳)</li>
+            <li>음: 문 - ブン・モン</li>
+            <li>훈: 듣다, 들리다 - き(く)・き(こえる)</li>
+          </ul>
+          <br/>
+          <h3>弊</h3>
+          <ul>
+            <li>2.5급 (부수:廾)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 폐단, 해지다 - やぶ(れる)・つい(える)・つか(れる)</li>
+          </ul>
+          <br/>
+          <h3>栽</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 심다 - う(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

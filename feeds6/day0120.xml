@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>庭</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 정원 - にわ</li>
+          </ul>
+          <br/>
+          <h3>岩</h3>
+          <ul>
+            <li>9급 (부수:山)</li>
+            <li>음: 암 - ガン</li>
+            <li>훈: 바위 - いわ</li>
+          </ul>
+          <br/>
+          <h3>多</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 다 - タ</li>
+            <li>훈: 많다 - おお(い)</li>
+          </ul>
+          <br/>
+          <h3>禍</h3>
+          <ul>
+            <li>2.5급 (부수:示)</li>
+            <li>음: 화 - カ</li>
+            <li>훈: 재앙 - わざわ(い)・まが</li>
+          </ul>
+          <br/>
+          <h3>喩</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 깨우치다 - たと(える)・さと(す)・よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>鍵</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 건 - ケン</li>
+            <li>훈: 열쇠, 자물쇠 - かぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

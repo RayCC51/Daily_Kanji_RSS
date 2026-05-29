@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>少</h3>
+          <ul>
+            <li>9급 (부수:小)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 적다, 조금 - すく(ない)・すこ(し)・わか(い)・しばら(く)・まれ</li>
+          </ul>
+          <br/>
+          <h3>書</h3>
+          <ul>
+            <li>9급 (부수:曰)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 글, 쓰다 - か(く)・ふみ</li>
+          </ul>
+          <br/>
+          <h3>住</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 주 - ジュウ</li>
+            <li>훈: 살다 - す(む)・す(まう)・とど(まる)</li>
+          </ul>
+          <br/>
+          <h3>包</h3>
+          <ul>
+            <li>7급 (부수:勹)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 포장하다 - つつ(む)・くる(む)</li>
+          </ul>
+          <br/>
+          <h3>誕</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 탄생 - う(まれる)・いつわ(る)・ほしいまま</li>
+          </ul>
+          <br/>
+          <h3>手</h3>
+          <ul>
+            <li>10급 (부수:手)</li>
+            <li>음: 수 - シュ・ズ</li>
+            <li>훈: 손 - て・た</li>
+          </ul>
+          <br/>
+          <h3>渦</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 와 - カ</li>
+            <li>훈: 소용돌이 - うず</li>
+          </ul>
+          <br/>
+          <h3>孤</h3>
+          <ul>
+            <li>3급 (부수:子)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 외롭다 - みなしご・ひと(り)・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>押</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 압 - オウ</li>
+            <li>훈: 누르다 - お(す)・お(さえる)</li>
+          </ul>
+          <br/>
+          <h3>弦</h3>
+          <ul>
+            <li>2.5급 (부수:弓)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 활시위, 줄 - つる</li>
+          </ul>
+          <br/>
+          <h3>聴</h3>
+          <ul>
+            <li>3급 (부수:耳)</li>
+            <li>음: 청 - チョウ・テイ</li>
+            <li>훈: 듣다 - き(く)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>枕</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 침 - チン・シン</li>
+            <li>훈: 베개 - まくら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

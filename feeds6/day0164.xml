@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>句</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 구 - ク・コウ</li>
+            <li>훈: 글귀 - あ(たる)・ま(がる)</li>
+          </ul>
+          <br/>
+          <h3>入</h3>
+          <ul>
+            <li>10급 (부수:入)</li>
+            <li>음: 입 - ニュウ・ジュウ・ジュ</li>
+            <li>훈: 들어가다, 넣다 - い(る)・い(れる)・はい(る)・しお</li>
+          </ul>
+          <br/>
+          <h3>沿</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 물을 따르다 - そ(う)・ふち</li>
+          </ul>
+          <br/>
+          <h3>堀</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 굴 - クツ・コツ</li>
+            <li>훈: 수로 - ほり・あな</li>
+          </ul>
+          <br/>
+          <h3>鶏</h3>
+          <ul>
+            <li>3급 (부수:鳥)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 닭 - にわとり・とり</li>
+          </ul>
+          <br/>
+          <h3>鎮</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 진 - チン</li>
+            <li>훈: 진정하다 - しず(める)・しず(まる)・おさ(え)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

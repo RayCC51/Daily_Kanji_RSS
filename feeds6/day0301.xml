@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>舌</h3>
+          <ul>
+            <li>5급 (부수:舌)</li>
+            <li>음: 설 - ゼツ・セツ</li>
+            <li>훈: 혀 - した・ことば</li>
+          </ul>
+          <br/>
+          <h3>額</h3>
+          <ul>
+            <li>6급 (부수:頁)</li>
+            <li>음: 액 - ガク</li>
+            <li>훈: 이마 - ひたい・ぬか(ずく)</li>
+          </ul>
+          <br/>
+          <h3>段</h3>
+          <ul>
+            <li>5급 (부수:殳)</li>
+            <li>음: 단 - ダン・タン</li>
+            <li>훈: 층계 - きざはし</li>
+          </ul>
+          <br/>
+          <h3>惰</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 게으르다 - おこた(る)</li>
+          </ul>
+          <br/>
+          <h3>牲</h3>
+          <ul>
+            <li>3급 (부수:牛)</li>
+            <li>음: 생 - セイ</li>
+            <li>훈: 희생 - いけにえ</li>
+          </ul>
+          <br/>
+          <h3>矛</h3>
+          <ul>
+            <li>4급 (부수:矛)</li>
+            <li>음: 모 - ム・ボウ</li>
+            <li>훈: 창 - ほこ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

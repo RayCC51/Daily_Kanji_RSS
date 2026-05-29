@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>材</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 재 - ザイ・サイ</li>
+            <li>훈: 재료 - まるた</li>
+          </ul>
+          <br/>
+          <h3>光</h3>
+          <ul>
+            <li>9급 (부수:儿)</li>
+            <li>음: 광 - コウ</li>
+            <li>훈: 빛, 빛나다 - ひか(る)・ひかり</li>
+          </ul>
+          <br/>
+          <h3>悟</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 깨닫다 - さと(る)</li>
+          </ul>
+          <br/>
+          <h3>圏</h3>
+          <ul>
+            <li>4급 (부수:囗)</li>
+            <li>음: 권 - ケン</li>
+            <li>훈: 우리 - かこ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

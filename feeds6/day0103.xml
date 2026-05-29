@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>汽</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 김 - ゆげ</li>
+          </ul>
+          <br/>
+          <h3>布</h3>
+          <ul>
+            <li>6급 (부수:巾)</li>
+            <li>음: 포, 보 - フ・ホ</li>
+            <li>훈: 베 - ぬの・し(く)</li>
+          </ul>
+          <br/>
+          <h3>派</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 파 - ハ・ハイ</li>
+            <li>훈: 갈래 - わ(かれる)・つか(わす)</li>
+          </ul>
+          <br/>
+          <h3>賜</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 주시다 - たまわ(る)・たま(う)・たまもの</li>
+          </ul>
+          <br/>
+          <h3>累</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 여러 - しば(る)・かさ(ねる)・かさ(なる)・しき(りに)・わずら(わす)</li>
+          </ul>
+          <br/>
+          <h3>煮</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 삶다, 끓이다 - に(る)・に(える)・に(やす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

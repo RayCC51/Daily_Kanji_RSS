@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>検</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 검 - ケン</li>
+            <li>훈: 검사 - しら(べる)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>宗</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 종 - シュウ・ソウ</li>
+            <li>훈: 종교 - むね</li>
+          </ul>
+          <br/>
+          <h3>災</h3>
+          <ul>
+            <li>6급 (부수:火)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재앙 - わざわ(い)</li>
+          </ul>
+          <br/>
+          <h3>拒</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 거절하다 - こば(む)・ふせ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>藤</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 등나무 - ふじ</li>
+          </ul>
+          <br/>
+          <h3>淡</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 담 - タン</li>
+            <li>훈: 연하다, 담담함 - あわ(い)・うす(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>錯</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 착 - サク・ソ</li>
+            <li>훈: 어긋나다 - ま(じる)・あやま(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>勲</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 훈 - クン</li>
+            <li>훈: 공훈 - いさお・いさおし</li>
+          </ul>
+          <br/>
+          <h3>越</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 월 - エツ・オチ・オツ</li>
+            <li>훈: 넘다 - こ(す)・こ(える)・こし</li>
+          </ul>
+          <br/>
+          <h3>瞳</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 눈동자 - ひとみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

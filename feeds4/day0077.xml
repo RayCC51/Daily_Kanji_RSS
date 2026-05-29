@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>均</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 균 - キン</li>
+            <li>훈: 고르다 - ひと(しい)・なら(す)・ととの(える)</li>
+          </ul>
+          <br/>
+          <h3>富</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 부 - フ・フウ</li>
+            <li>훈: 재산, 풍부하다 - と(む)・とみ</li>
+          </ul>
+          <br/>
+          <h3>崩</h3>
+          <ul>
+            <li>3급 (부수:山)</li>
+            <li>음: 붕 - ホウ</li>
+            <li>훈: 무너지다 - くず(れる)・くず(す)</li>
+          </ul>
+          <br/>
+          <h3>迫</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 다가오다 - せま(る)・せ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>率</h3>
+          <ul>
+            <li>6급 (부수:玄)</li>
+            <li>음: 솔, 율 - ソツ・リツ・スイ・シュツ</li>
+            <li>훈: 이끌다, 비율 - ひき(いる)・したが(う)・おおむ(ね)・わりあい・かしら</li>
+          </ul>
+          <br/>
+          <h3>罪</h3>
+          <ul>
+            <li>6급 (부수:网)</li>
+            <li>음: 죄 - ザイ</li>
+            <li>훈: 죄 - つみ</li>
+          </ul>
+          <br/>
+          <h3>像</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 상 - ゾウ・ショウ</li>
+            <li>훈: 모양 - かたち・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>喉</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 후 - コウ</li>
+            <li>훈: 목구멍 - のど</li>
+          </ul>
+          <br/>
+          <h3>眉</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 눈썹 - まゆ・ふち・としよ(り)</li>
+          </ul>
+          <br/>
+          <h3>剰</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 잉 - ジョウ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・あまつさ(え)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

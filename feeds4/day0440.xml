@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>値</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 치 - チ・チョク</li>
+            <li>훈: 가치가 있다 - ね・あたい・あ(う)</li>
+          </ul>
+          <br/>
+          <h3>動</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 움직이다 - うご(く)・うご(かす)・やや(もすれば)</li>
+          </ul>
+          <br/>
+          <h3>煮</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 자 - シャ</li>
+            <li>훈: 삶다, 끓이다 - に(る)・に(える)・に(やす)</li>
+          </ul>
+          <br/>
+          <h3>欄</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 란 - ラン</li>
+            <li>훈: 난간 - わく・てすり・おばしま・おり</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

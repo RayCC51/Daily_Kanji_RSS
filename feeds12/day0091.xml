@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>帯</h3>
+          <ul>
+            <li>7급 (부수:巾)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 띠, 차다 - お(びる)・おび</li>
+          </ul>
+          <br/>
+          <h3>番</h3>
+          <ul>
+            <li>9급 (부수:田)</li>
+            <li>음: 번 - バン・ハン・ハ</li>
+            <li>훈: 차례 - つが(い)・つが(う)・つが(える)</li>
+          </ul>
+          <br/>
+          <h3>三</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 삼 - サン</li>
+            <li>훈: 3, 셋 - み・み(つ)・み(っつ)</li>
+          </ul>
+          <br/>
+          <h3>返</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 반 - ヘン・ハン・ホン</li>
+            <li>훈: 돌려주다, 돌아가다, 돌아오다 - かえ(す)・かえ(る)</li>
+          </ul>
+          <br/>
+          <h3>中</h3>
+          <ul>
+            <li>10급 (부수:丨)</li>
+            <li>음: 중 - チュウ・ジュウ</li>
+            <li>훈: 가운데, 안 - なか・あ(たる)・あ(てる)</li>
+          </ul>
+          <br/>
+          <h3>雑</h3>
+          <ul>
+            <li>6급 (부수:隹)</li>
+            <li>음: 잡 - ザツ・ゾウ</li>
+            <li>훈: 섞이다 - ま(じる)・ま(ぜる)</li>
+          </ul>
+          <br/>
+          <h3>矛</h3>
+          <ul>
+            <li>4급 (부수:矛)</li>
+            <li>음: 모 - ム・ボウ</li>
+            <li>훈: 창 - ほこ</li>
+          </ul>
+          <br/>
+          <h3>䇳</h3>
+          <ul>
+            <li>2급 (부수:竹)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 기록하다 - ふだ・はりふだ・なふだ・ときあ(かし)・てがみ・かきもの</li>
+          </ul>
+          <br/>
+          <h3>綻</h3>
+          <ul>
+            <li>2급 (부수:糸)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 터지다 - ほころ(びる)</li>
+          </ul>
+          <br/>
+          <h3>愉</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 즐겁다 - たの(しい)・たの(しむ)</li>
+          </ul>
+          <br/>
+          <h3>銃</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 총 - ジュウ</li>
+            <li>훈: 총 - つつ</li>
+          </ul>
+          <br/>
+          <h3>据</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 설치하다, 안정되다 - す(える)・す(わる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

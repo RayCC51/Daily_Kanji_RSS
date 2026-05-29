@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>蔵</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 장 - ゾウ・ソウ</li>
+            <li>훈: 창고 - くら・おさ(める)・かく(れる)</li>
+          </ul>
+          <br/>
+          <h3>阪</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 언덕, 비탈 - さか</li>
+          </ul>
+          <br/>
+          <h3>紀</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 벼리 - のり・しる(す)・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>資</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 재물 - たから・もと・たす(ける)・たち</li>
+          </ul>
+          <br/>
+          <h3>行</h3>
+          <ul>
+            <li>9급 (부수:行)</li>
+            <li>음: 행, 항 - コウ・ギョウ・アン</li>
+            <li>훈: 가다, 실시하다 - い(く)・ゆ(く)・おこな(う)・や(る)・みち</li>
+          </ul>
+          <br/>
+          <h3>青</h3>
+          <ul>
+            <li>10급 (부수:青)</li>
+            <li>음: 청 - セイ・ショウ</li>
+            <li>훈: 파랑 - あお・あお(い)</li>
+          </ul>
+          <br/>
+          <h3>歳</h3>
+          <ul>
+            <li>4급 (부수:止)</li>
+            <li>음: 세 - サイ・セイ</li>
+            <li>훈: 나이, 해 - とし・とせ・よわい</li>
+          </ul>
+          <br/>
+          <h3>塁</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 보루 - とりで・かさ(ねる)</li>
+          </ul>
+          <br/>
+          <h3>誉</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 명예 - ほま(れ)・ほ(める)</li>
+          </ul>
+          <br/>
+          <h3>冗</h3>
+          <ul>
+            <li>3급 (부수:冖)</li>
+            <li>음: 용 - ジョウ</li>
+            <li>훈: 쓸데 없음 - むだ</li>
+          </ul>
+          <br/>
+          <h3>盲</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 맹 - モウ・ボウ</li>
+            <li>훈: 눈이 멀다 - くら(い)</li>
+          </ul>
+          <br/>
+          <h3>普</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 보 - フ</li>
+            <li>훈: 보통 - あまね(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

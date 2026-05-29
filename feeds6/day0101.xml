@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>競</h3>
+          <ul>
+            <li>7급 (부수:立)</li>
+            <li>음: 경 - キョウ・ケイ</li>
+            <li>훈: 다투다, 겨루다 - きそ(う)・せ(る)・きお(う)・くら(べる)</li>
+          </ul>
+          <br/>
+          <h3>奏</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 주 - ソウ</li>
+            <li>훈: 연주하다 - かな(でる)・すす(める)</li>
+          </ul>
+          <br/>
+          <h3>承</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 듣다, 받다 - うけたまわ(る)・う(ける)</li>
+          </ul>
+          <br/>
+          <h3>阻</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 막다 - はば(む)・けわ(しい)・へだ(たる)</li>
+          </ul>
+          <br/>
+          <h3>宛</h3>
+          <ul>
+            <li>2급 (부수:宀)</li>
+            <li>음: 완 - エン</li>
+            <li>훈: 앞으로 보내다 - あ(てる)・あて・ずつ・あたか(も)・さなが(ら)</li>
+          </ul>
+          <br/>
+          <h3>蚊</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 문 - ブン</li>
+            <li>훈: 모기 - か</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

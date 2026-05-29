@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>序</h3>
+          <ul>
+            <li>6급 (부수:广)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 차례 - つい(で)・はしがき・まなびや</li>
+          </ul>
+          <br/>
+          <h3>散</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 흩어지다, 떨어지다 - ち(る)・ち(らす)・ち(らかす)・ち(らかる)・ばら</li>
+          </ul>
+          <br/>
+          <h3>衷</h3>
+          <ul>
+            <li>2.5급 (부수:衣)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 속마음 - うち・こころ・まこと</li>
+          </ul>
+          <br/>
+          <h3>慈</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 자 - ジ</li>
+            <li>훈: 사랑하다 - いつく(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

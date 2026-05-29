@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>鉱</h3>
+          <ul>
+            <li>6급 (부수:金)</li>
+            <li>음: 광 - コウ</li>
+            <li>훈: 광물 - あらがね</li>
+          </ul>
+          <br/>
+          <h3>提</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 제 - テイ・ダイ・チョウ</li>
+            <li>훈: 제공, 들다 - さ(げる)・ひっさ(げる)・ひさげ</li>
+          </ul>
+          <br/>
+          <h3>走</h3>
+          <ul>
+            <li>9급 (부수:走)</li>
+            <li>음: 주 - ソウ</li>
+            <li>훈: 달리다 - はし(る)</li>
+          </ul>
+          <br/>
+          <h3>昔</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 석 - セキ・シャク</li>
+            <li>훈: 옛날 - むかし</li>
+          </ul>
+          <br/>
+          <h3>歴</h3>
+          <ul>
+            <li>6급 (부수:止)</li>
+            <li>음: 력 - レキ・リャク</li>
+            <li>훈: 역사 - へ(る)</li>
+          </ul>
+          <br/>
+          <h3>体</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 체 - タイ・テイ</li>
+            <li>훈: 몸 - からだ</li>
+          </ul>
+          <br/>
+          <h3>扱</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 급 - キュウ・ソウ</li>
+            <li>훈: 다루다, 취급하다 - あつか(う)・こ(く)・しご(く)</li>
+          </ul>
+          <br/>
+          <h3>鋳</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 주 - チュウ・シュ</li>
+            <li>훈: 주조하다 - い(る)</li>
+          </ul>
+          <br/>
+          <h3>滴</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 물방울 - しずく・したた(る)・た(れる)</li>
+          </ul>
+          <br/>
+          <h3>掲</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 게 - ケイ</li>
+            <li>훈: 걸다, 매달다 - かか(げる)</li>
+          </ul>
+          <br/>
+          <h3>暇</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 틈, 시간 - ひま・いとま</li>
+          </ul>
+          <br/>
+          <h3>描</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 묘 - ビョウ</li>
+            <li>훈: 그리다 - えが(く)・か(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

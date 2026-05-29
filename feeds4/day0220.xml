@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>筋</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 근육 - すじ</li>
+          </ul>
+          <br/>
+          <h3>湖</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 호수 - みずうみ</li>
+          </ul>
+          <br/>
+          <h3>跳</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 뛰다 - は(ねる)・と(ぶ)・おど(る)</li>
+          </ul>
+          <br/>
+          <h3>潤</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 윤 - ジュン</li>
+            <li>훈: 축축해지다 - うるお(う)・うるお(す)・うる(む)・ほと(びる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

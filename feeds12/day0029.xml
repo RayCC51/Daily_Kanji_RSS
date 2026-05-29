@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>浴</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 욕 - ヨク</li>
+            <li>훈: 목욕, 뒤집어쓰다, 퍼부어지다, 끼얹다 - あ(びる)・あ(びせる)・ゆあみ</li>
+          </ul>
+          <br/>
+          <h3>視</h3>
+          <ul>
+            <li>5급 (부수:見)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 보다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>慣</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 익숙하다 - な(れる)・な(らす)・ならわし</li>
+          </ul>
+          <br/>
+          <h3>太</h3>
+          <ul>
+            <li>9급 (부수:大)</li>
+            <li>음: 태 - タイ・タ・ダイ</li>
+            <li>훈: 굵다, 살찌다 - ふと(い)・ふと(る)・はなは(だ)</li>
+          </ul>
+          <br/>
+          <h3>流</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 흐르다 - なが(れる)・なが(す)</li>
+          </ul>
+          <br/>
+          <h3>存</h3>
+          <ul>
+            <li>5급 (부수:子)</li>
+            <li>음: 존 - ソン・ゾン</li>
+            <li>훈: 있다 - あ(る)・たも(つ)・ながら(える)・と(う)</li>
+          </ul>
+          <br/>
+          <h3>剛</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 강 - ゴウ・コウ</li>
+            <li>훈: 굳세다 - つよ(い)・かた(い)</li>
+          </ul>
+          <br/>
+          <h3>占</h3>
+          <ul>
+            <li>4급 (부수:卜)</li>
+            <li>음: 점 - セン</li>
+            <li>훈: 점치다, 차지하다 - し(める)・うらな(う)</li>
+          </ul>
+          <br/>
+          <h3>猫</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 묘 - ビョウ・ミョウ</li>
+            <li>훈: 고양이 - ねこ</li>
+          </ul>
+          <br/>
+          <h3>穂</h3>
+          <ul>
+            <li>3급 (부수:禾)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 이삭 - ほ</li>
+          </ul>
+          <br/>
+          <h3>酬</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 갚다 - むく(いる)</li>
+          </ul>
+          <br/>
+          <h3>御</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 어 - ギョ・ゴ</li>
+            <li>훈: 높임말 - おん・お・み・おさ(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

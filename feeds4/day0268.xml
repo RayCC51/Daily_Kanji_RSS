@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>羊</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 양 - ひつじ</li>
+          </ul>
+          <br/>
+          <h3>大</h3>
+          <ul>
+            <li>10급 (부수:大)</li>
+            <li>음: 대 - ダイ・タイ・タ・ダ</li>
+            <li>훈: 크다 - おお・おお(きい)・おお(いに)</li>
+          </ul>
+          <br/>
+          <h3>窟</h3>
+          <ul>
+            <li>2급 (부수:穴)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 굴 - いわや・ほらあな</li>
+          </ul>
+          <br/>
+          <h3>宴</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 잔치 - うたげ・たの(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

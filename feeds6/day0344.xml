@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>懐</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 회 - カイ</li>
+            <li>훈: 마음속, 그립다, 따르다 - ふところ・なつ(かしい)・なつ(かしむ)・なつ(く)・なつ(ける)・おも(う)・いだ(く)</li>
+          </ul>
+          <br/>
+          <h3>梗</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 경 - コウ・キョウ</li>
+            <li>훈: 줄기 - おおむ(ね)・ふさ(がる)・かた(い)・つよ(い)・でく</li>
+          </ul>
+          <br/>
+          <h3>威</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위엄, 협박하다 - おど(す)</li>
+          </ul>
+          <br/>
+          <h3>抽</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 추 - チュウ</li>
+            <li>훈: 뽑다 - ひ(く)・ぬ(く)</li>
+          </ul>
+          <br/>
+          <h3>怪</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 괴 - カイ・ケ</li>
+            <li>훈: 수상하다, 의심하다 - あや(しい)・あや(しむ)</li>
+          </ul>
+          <br/>
+          <h3>跳</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 뛰다 - は(ねる)・と(ぶ)・おど(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

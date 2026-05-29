@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刀</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 칼 - かたな</li>
+          </ul>
+          <br/>
+          <h3>音</h3>
+          <ul>
+            <li>10급 (부수:音)</li>
+            <li>음: 음 - オン・イン</li>
+            <li>훈: 소리 - おと・ね・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>界</h3>
+          <ul>
+            <li>8급 (부수:田)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 지경 - さかい</li>
+          </ul>
+          <br/>
+          <h3>涯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 생애 - みぎわ・はて</li>
+          </ul>
+          <br/>
+          <h3>芝</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 잔디 - しば</li>
+          </ul>
+          <br/>
+          <h3>殉</h3>
+          <ul>
+            <li>2.5급 (부수:歹)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 죽다 - したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

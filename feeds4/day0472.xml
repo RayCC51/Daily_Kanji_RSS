@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>友</h3>
+          <ul>
+            <li>9급 (부수:又)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 친구 - とも</li>
+          </ul>
+          <br/>
+          <h3>経</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 경 - ケイ・キョウ・キン</li>
+            <li>훈: 지나다, 거치다 - へ(る)・たていと・た(つ)・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>斬</h3>
+          <ul>
+            <li>2급 (부수:斤)</li>
+            <li>음: 참 - ザン・サン</li>
+            <li>훈: 베다 - き(る)</li>
+          </ul>
+          <br/>
+          <h3>債</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 채 - サイ</li>
+            <li>훈: 빚 - か(り)・か(し)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

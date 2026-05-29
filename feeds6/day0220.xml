@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>認</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 인 - ニン・ジン</li>
+            <li>훈: 인정하다 - みと(める)・したた(める)</li>
+          </ul>
+          <br/>
+          <h3>初</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 초 - ショ・ソ</li>
+            <li>훈: 처음 - はじ(め)・はじ(めて)・はつ・うい・そ(める)・うぶ</li>
+          </ul>
+          <br/>
+          <h3>矢</h3>
+          <ul>
+            <li>9급 (부수:矢)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 화살 - や</li>
+          </ul>
+          <br/>
+          <h3>刺</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 자 - シ・セキ</li>
+            <li>훈: 찌르다 - さ(す)・さ(さる)・そし(る)・とげ・なふだ</li>
+          </ul>
+          <br/>
+          <h3>啓</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 열다 - ひら(く)・もう(す)</li>
+          </ul>
+          <br/>
+          <h3>寛</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 너그럽다 - ひろ(い)・ゆる(やか)・くつろ(ぐ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

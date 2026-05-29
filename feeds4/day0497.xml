@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>若</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 약 - ジャク・ニャク・ニャ</li>
+            <li>훈: 젊다, 혹은 - わか(い)・も(しくは)・し(く)・ごと(し)・も(し)・なんじ</li>
+          </ul>
+          <br/>
+          <h3>冊</h3>
+          <ul>
+            <li>5급 (부수:冂)</li>
+            <li>음: 책 - サツ・サク</li>
+            <li>훈: 책 - ふみ・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>瓦</h3>
+          <ul>
+            <li>2급 (부수:瓦)</li>
+            <li>음: 와 - ガ</li>
+            <li>훈: 기와, 그램 - かわら・かわらけ・グラム</li>
+          </ul>
+          <br/>
+          <h3>獄</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 옥 - ゴク</li>
+            <li>훈: 감옥 - ひとや・うった(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

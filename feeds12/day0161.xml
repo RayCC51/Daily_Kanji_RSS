@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>預</h3>
+          <ul>
+            <li>5급 (부수:頁)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 맡기다, 떠맡다 - あず(ける)・あず(かる)・あらかじ(め)</li>
+          </ul>
+          <br/>
+          <h3>背</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 키, 등, 돌리다 - せ・せい・そむ(く)・そむ(ける)・うしろ</li>
+          </ul>
+          <br/>
+          <h3>答</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 답 - トウ</li>
+            <li>훈: 대답, 대답하다 - こた(える)・こた(え)</li>
+          </ul>
+          <br/>
+          <h3>陽</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 볕, 해 - ひ・ひなた・いつわ(る)</li>
+          </ul>
+          <br/>
+          <h3>雲</h3>
+          <ul>
+            <li>9급 (부수:雨)</li>
+            <li>음: 운 - ウン</li>
+            <li>훈: 구름 - くも</li>
+          </ul>
+          <br/>
+          <h3>発</h3>
+          <ul>
+            <li>8급 (부수:癶)</li>
+            <li>음: 발 - ハツ・ホツ</li>
+            <li>훈: 피다 - はな(つ)・た(つ)・ひら(く)・あば(く)</li>
+          </ul>
+          <br/>
+          <h3>倫</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 륜 - リン</li>
+            <li>훈: 윤리 - みち・たぐい・つい(で)</li>
+          </ul>
+          <br/>
+          <h3>尼</h3>
+          <ul>
+            <li>2.5급 (부수:尸)</li>
+            <li>음: 니 - ニ・ジ</li>
+            <li>훈: 여승 - あま</li>
+          </ul>
+          <br/>
+          <h3>紫</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 보라 - むらさき</li>
+          </ul>
+          <br/>
+          <h3>裂</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 찟다 - さ(く)・さ(ける)・きれ</li>
+          </ul>
+          <br/>
+          <h3>侮</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 모 - ブ</li>
+            <li>훈: 깔보다 - あなど(る)</li>
+          </ul>
+          <br/>
+          <h3>緯</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위도, 경위 - よこいと・ぬき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

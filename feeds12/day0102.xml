@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>均</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 균 - キン</li>
+            <li>훈: 고르다 - ひと(しい)・なら(す)・ととの(える)</li>
+          </ul>
+          <br/>
+          <h3>遠</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 멀다 - とお(い)・おち</li>
+          </ul>
+          <br/>
+          <h3>条</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 조 - ジョウ</li>
+            <li>훈: 조건 - えだ・すじ</li>
+          </ul>
+          <br/>
+          <h3>任</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 맡기다 - まか(せる)・まか(す)</li>
+          </ul>
+          <br/>
+          <h3>向</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 향 - コウ・キョウ</li>
+            <li>훈: 향하다 - む(く)・む(ける)・む(かう)・む(こう)・さき(に)</li>
+          </ul>
+          <br/>
+          <h3>仲</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 중 - チュウ</li>
+            <li>훈: 사이 - なか</li>
+          </ul>
+          <br/>
+          <h3>携</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 휴 - ケイ</li>
+            <li>훈: 휴대하다, 관여하다 - たずさ(える)・たずさ(わる)・はな(れる)</li>
+          </ul>
+          <br/>
+          <h3>儀</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 의례 - のり・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>璃</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 유리 - 無し</li>
+          </ul>
+          <br/>
+          <h3>酷</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 혹 - コク</li>
+            <li>훈: 심하다 - きび(しい)・むご(い)・はなは(だしい)</li>
+          </ul>
+          <br/>
+          <h3>添</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 첨 - テン</li>
+            <li>훈: 곁들이다, 따르다 - そ(える)・そ(う)</li>
+          </ul>
+          <br/>
+          <h3>款</h3>
+          <ul>
+            <li>2.5급 (부수:欠)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 항목 - まこと・よろこ(ぶ)・たた(く)・しる(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>延</h3>
+          <ul>
+            <li>5급 (부수:廴)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 길어지다, 늦추다, 늘이다 - の(びる)・の(べる)・の(ばす)・ひ(く)・は(え)</li>
+          </ul>
+          <br/>
+          <h3>四</h3>
+          <ul>
+            <li>10급 (부수:囗)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 4, 넷 - よ・よ(つ)・よっ(つ)・よん</li>
+          </ul>
+          <br/>
+          <h3>潟</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 갯벌 - かた</li>
+          </ul>
+          <br/>
+          <h3>芳</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 향기롭다 - かんば(しい)・かお(り)・かぐわ(しい)</li>
+          </ul>
+          <br/>
+          <h3>繁</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 번 - ハン</li>
+            <li>훈: 번성하다, 우거지다 - しげ(る)・わずら(わしい)</li>
+          </ul>
+          <br/>
+          <h3>赦</h3>
+          <ul>
+            <li>3급 (부수:赤)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 용서하다 - ゆる(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

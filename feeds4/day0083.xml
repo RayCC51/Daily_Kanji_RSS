@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>前</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 전 - ゼン・セン</li>
+            <li>훈: 앞 - まえ・さき</li>
+          </ul>
+          <br/>
+          <h3>氏</h3>
+          <ul>
+            <li>7급 (부수:氏)</li>
+            <li>음: 씨 - シ</li>
+            <li>훈: 성, 씨 - うじ</li>
+          </ul>
+          <br/>
+          <h3>凶</h3>
+          <ul>
+            <li>4급 (부수:凵)</li>
+            <li>음: 흉 - キョウ</li>
+            <li>훈: 흉하다 - わざわ(い)・わる(い)・おそ(れる)</li>
+          </ul>
+          <br/>
+          <h3>腐</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 썩다 - くさ(る)・くさ(れる)・くさ(らす)・くさ(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

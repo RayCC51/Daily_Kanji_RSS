@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>二</h3>
+          <ul>
+            <li>10급 (부수:二)</li>
+            <li>음: 이 - ニ・ジ</li>
+            <li>훈: 2, 둘 - ふた・ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>室</h3>
+          <ul>
+            <li>9급 (부수:宀)</li>
+            <li>음: 실 - シツ</li>
+            <li>훈: 방 - むろ・へや・つま・いえ</li>
+          </ul>
+          <br/>
+          <h3>六</h3>
+          <ul>
+            <li>10급 (부수:八)</li>
+            <li>음: 륙, 육 - ロク・リク</li>
+            <li>훈: 6, 여섯 - む・む(つ)・むっ(つ)・むい</li>
+          </ul>
+          <br/>
+          <h3>鋭</h3>
+          <ul>
+            <li>4급 (부수:金)</li>
+            <li>음: 예 - エイ</li>
+            <li>훈: 날카롭다, 예리하다 - するど(い)・はや(い)</li>
+          </ul>
+          <br/>
+          <h3>汗</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 땀 - あせ</li>
+          </ul>
+          <br/>
+          <h3>謹</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 삼가다 - つつし(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

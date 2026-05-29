@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>標</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 표준 - しるし・しるべ・しめ・しる(す)・こずえ</li>
+          </ul>
+          <br/>
+          <h3>週</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 주 - シュウ</li>
+            <li>훈: 주, 7일 - めぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>宮</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 궁 - キュウ・グウ・ク</li>
+            <li>훈: 왕궁 - みや・いえ</li>
+          </ul>
+          <br/>
+          <h3>原</h3>
+          <ul>
+            <li>9급 (부수:厂)</li>
+            <li>음: 원 - ゲン</li>
+            <li>훈: 언덕, 근원 - はら・もと・たず(ねる)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>種</h3>
+          <ul>
+            <li>7급 (부수:禾)</li>
+            <li>음: 종 - シュ・ショウ</li>
+            <li>훈: 씨앗, 종류 - たね・う(える)・くさ</li>
+          </ul>
+          <br/>
+          <h3>北</h3>
+          <ul>
+            <li>9급 (부수:匕)</li>
+            <li>음: 북, 배 - ホク</li>
+            <li>훈: 북쪽, 지다 - きた・に(げる)・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>駒</h3>
+          <ul>
+            <li>2급 (부수:馬)</li>
+            <li>음: 구 - ク</li>
+            <li>훈: 망아지 - こま</li>
+          </ul>
+          <br/>
+          <h3>誇</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 과 - コ</li>
+            <li>훈: 자랑하다 - ほこ(る)</li>
+          </ul>
+          <br/>
+          <h3>筒</h3>
+          <ul>
+            <li>2.5급 (부수:竹)</li>
+            <li>음: 통 - トウ</li>
+            <li>훈: 통 - つつ</li>
+          </ul>
+          <br/>
+          <h3>鈴</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 령 - レイ・リン</li>
+            <li>훈: 방울 - すず</li>
+          </ul>
+          <br/>
+          <h3>咲</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 꽃 피다 - さ(く)</li>
+          </ul>
+          <br/>
+          <h3>峠</h3>
+          <ul>
+            <li>4급 (부수:山)</li>
+            <li>음: 상 - 無し</li>
+            <li>훈: 고개 - とうげ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

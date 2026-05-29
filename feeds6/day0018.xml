@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>糖</h3>
+          <ul>
+            <li>5급 (부수:米)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 엿 - あめ</li>
+          </ul>
+          <br/>
+          <h3>志</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 뜻 - こころざ(す)・こころざし・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>蒸</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 증 - ジョウ</li>
+            <li>훈: 증기, 무덥다, 뜸들다 - む(す)・む(れる)・む(らす)・ふ(かす)・ふ(ける)・おお(い)</li>
+          </ul>
+          <br/>
+          <h3>滅</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 멸 - メツ・ベツ</li>
+            <li>훈: 망하다, 없애다 - ほろ(びる)・ほろ(ぼす)</li>
+          </ul>
+          <br/>
+          <h3>溶</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 녹다, 풀다 - と(ける)・と(かす)・と(く)</li>
+          </ul>
+          <br/>
+          <h3>忌</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기피하다, 꺼림칙하다 - い(む)・い(まわしい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

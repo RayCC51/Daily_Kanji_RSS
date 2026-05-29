@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>美</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 아름답다 - うつく(しい)・よ(い)・ほ(める)</li>
+          </ul>
+          <br/>
+          <h3>討</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 토 - トウ</li>
+            <li>훈: 토의, 토벌하다 - う(つ)・たず(ねる)</li>
+          </ul>
+          <br/>
+          <h3>酔</h3>
+          <ul>
+            <li>3급 (부수:酉)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 취하다 - よ(う)</li>
+          </ul>
+          <br/>
+          <h3>揺</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 흔들다 - ゆ(れる)・ゆ(る)・ゆ(らぐ)・ゆ(るぐ)・ゆ(する)・ゆ(さぶる)・ゆ(すぶる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

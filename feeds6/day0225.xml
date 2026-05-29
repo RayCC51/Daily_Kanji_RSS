@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>熊</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 웅 - ユウ</li>
+            <li>훈: 곰 - くま</li>
+          </ul>
+          <br/>
+          <h3>福</h3>
+          <ul>
+            <li>8급 (부수:示)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 복 - さいわ(い)</li>
+          </ul>
+          <br/>
+          <h3>痛</h3>
+          <ul>
+            <li>5급 (부수:疒)</li>
+            <li>음: 통 - ツウ・トウ</li>
+            <li>훈: 아프다, 괴롭다 - いた(い)・いた(む)・いた(める)・いた(わしい)・や(める)</li>
+          </ul>
+          <br/>
+          <h3>斥</h3>
+          <ul>
+            <li>3급 (부수:斤)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 물리치다 - しりぞ(ける)・うかが(う)</li>
+          </ul>
+          <br/>
+          <h3>棟</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 용마루 - むね・むな・かしら</li>
+          </ul>
+          <br/>
+          <h3>鐘</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 종 - ショウ・シュ</li>
+            <li>훈: 종 - かね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

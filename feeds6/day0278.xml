@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>勉</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 면 - ベン</li>
+            <li>훈: 힘쓰다 - つと(める)</li>
+          </ul>
+          <br/>
+          <h3>退</h3>
+          <ul>
+            <li>5급 (부수:辵)</li>
+            <li>음: 퇴 - タイ</li>
+            <li>훈: 물러나다, 물리치다 - しりぞ(く)・しりぞ(ける)・の(く)・の(ける)・すさ(る)・しさ(る)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>博</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 박 - ハク・バク</li>
+            <li>훈: 넓음 - ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>拭</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 식 - シュク・シキ</li>
+            <li>훈: 닦다 - ふ(く)・ぬぐ(う)</li>
+          </ul>
+          <br/>
+          <h3>薪</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 장작 - たきぎ・まき</li>
+          </ul>
+          <br/>
+          <h3>逐</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 축 - チク・ジク</li>
+            <li>훈: 차례로 - お(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

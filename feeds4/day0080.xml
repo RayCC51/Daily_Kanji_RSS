@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>新</h3>
+          <ul>
+            <li>9급 (부수:斤)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 새롭다 - あたら(しい)・あら(た)・にい・さら</li>
+          </ul>
+          <br/>
+          <h3>広</h3>
+          <ul>
+            <li>9급 (부수:广)</li>
+            <li>음: 광 - コウ</li>
+            <li>훈: 넓다 - ひろ(い)・ひろ(まる)・ひろ(める)・ひろ(がる)・ひろ(げる)</li>
+          </ul>
+          <br/>
+          <h3>披</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 펼치다 - ひら(く)</li>
+          </ul>
+          <br/>
+          <h3>枯</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 시들다 - か(れる)・か(らす)・から(びる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>右</h3>
+          <ul>
+            <li>10급 (부수:口)</li>
+            <li>음: 우 - ウ・ユウ</li>
+            <li>훈: 오른쪽 - みぎ・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>察</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 살핌 - あき(らか)・み(る)・し(る)</li>
+          </ul>
+          <br/>
+          <h3>帳</h3>
+          <ul>
+            <li>8급 (부수:巾)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 수첩 - とばり</li>
+          </ul>
+          <br/>
+          <h3>乏</h3>
+          <ul>
+            <li>3급 (부수:丿)</li>
+            <li>음: 핍 - ボウ・ホウ</li>
+            <li>훈: 부족하다 - とぼ(しい)</li>
+          </ul>
+          <br/>
+          <h3>嫁</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 며느리, 시집가다 - よめ・とつ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>爆</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 폭 - バク・ハク・ホウ</li>
+            <li>훈: 터지다 - は(ぜる)・さ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>校</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 교 - コウ・キョウ</li>
+            <li>훈: 학교 - くら(べる)・かんが(える)・かせ・あぜ</li>
+          </ul>
+          <br/>
+          <h3>誠</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 성의, 정성 - まこと</li>
+          </ul>
+          <br/>
+          <h3>諭</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 타이르다 - さと(す)</li>
+          </ul>
+          <br/>
+          <h3>滝</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 롱 - ロウ</li>
+            <li>훈: 적시다 - たき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

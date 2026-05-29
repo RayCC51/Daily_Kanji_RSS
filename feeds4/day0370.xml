@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>切</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 절, 체 - セツ・サイ</li>
+            <li>훈: 끊다, 자르다 - き(る)・き(れる)</li>
+          </ul>
+          <br/>
+          <h3>橋</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 교 - キョウ</li>
+            <li>훈: 다리 - はし</li>
+          </ul>
+          <br/>
+          <h3>迎</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 영 - ゲイ・ギョウ・ゴウ</li>
+            <li>훈: 맞이하다 - むか(える)</li>
+          </ul>
+          <br/>
+          <h3>蹴</h3>
+          <ul>
+            <li>2급 (부수:足)</li>
+            <li>음: 축 - シュウ・シュク</li>
+            <li>훈: 차다 - け(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

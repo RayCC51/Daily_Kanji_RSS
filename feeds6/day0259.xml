@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貧</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 빈 - ヒン・ビン</li>
+            <li>훈: 가난하다, 적다 - まず(しい)</li>
+          </ul>
+          <br/>
+          <h3>政</h3>
+          <ul>
+            <li>6급 (부수:攵)</li>
+            <li>음: 정 - セイ・ショウ</li>
+            <li>훈: 국정 - まつりごと</li>
+          </ul>
+          <br/>
+          <h3>外</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 외 - ガイ・ゲ・ウイ</li>
+            <li>훈: 바깥, 다른 것, 빼다 - そと・ほか・はず(す)・はず(れる)・と</li>
+          </ul>
+          <br/>
+          <h3>粧</h3>
+          <ul>
+            <li>2.5급 (부수:米)</li>
+            <li>음: 장 - ショウ・ソウ</li>
+            <li>훈: 단장 - よそお(う)・めか(す)</li>
+          </ul>
+          <br/>
+          <h3>潜</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 잠 - セン</li>
+            <li>훈: 숨다, 잠수하다 - ひそ(む)・もぐ(る)・くぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>鈴</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 령 - レイ・リン</li>
+            <li>훈: 방울 - すず</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>今</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 금 - コン・キン</li>
+            <li>훈: 지금 - いま</li>
+          </ul>
+          <br/>
+          <h3>喜</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 희 - キ</li>
+            <li>훈: 기뻐하다 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>鳥</h3>
+          <ul>
+            <li>9급 (부수:鳥)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 새 - とり</li>
+          </ul>
+          <br/>
+          <h3>玩</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 완 - ガン</li>
+            <li>훈: 즐기다 - もてあそ(ぶ)・あじ(わう)</li>
+          </ul>
+          <br/>
+          <h3>麗</h3>
+          <ul>
+            <li>4급 (부수:鹿)</li>
+            <li>음: 려 - レイ・リ</li>
+            <li>훈: 곱다 - うるわ(しい)・うら(ら)・うら(らか)・なら(ぶ)・つら(なる)</li>
+          </ul>
+          <br/>
+          <h3>徹</h3>
+          <ul>
+            <li>2.5급 (부수:彳)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 통하다 - とお(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>郵</h3>
+          <ul>
+            <li>5급 (부수:邑)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 우편 - しゅくば</li>
+          </ul>
+          <br/>
+          <h3>縄</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 승 - ジョウ</li>
+            <li>훈: 새끼줄 - なわ・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>砂</h3>
+          <ul>
+            <li>5급 (부수:石)</li>
+            <li>음: 사 - サ・シャ</li>
+            <li>훈: 모래 - すな・いさご</li>
+          </ul>
+          <br/>
+          <h3>渦</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 와 - カ</li>
+            <li>훈: 소용돌이 - うず</li>
+          </ul>
+          <br/>
+          <h3>捗</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 척 - チョク</li>
+            <li>훈: 진척 - はかど(る)</li>
+          </ul>
+          <br/>
+          <h3>又</h3>
+          <ul>
+            <li>3급 (부수:又)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 또 - また・ふたた(び)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

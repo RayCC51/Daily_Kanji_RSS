@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>京</h3>
+          <ul>
+            <li>9급 (부수:亠)</li>
+            <li>음: 경 - キョウ・ケイ・キン</li>
+            <li>훈: 서울 - みやこ</li>
+          </ul>
+          <br/>
+          <h3>玉</h3>
+          <ul>
+            <li>10급 (부수:玉)</li>
+            <li>음: 옥 - ギョク</li>
+            <li>훈: 구슬 - たま</li>
+          </ul>
+          <br/>
+          <h3>府</h3>
+          <ul>
+            <li>7급 (부수:广)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 마을 - くら・みやこ</li>
+          </ul>
+          <br/>
+          <h3>賂</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 뢰 - ロ</li>
+            <li>훈: 뇌물 - まいな(う)・まいな(い)</li>
+          </ul>
+          <br/>
+          <h3>杉</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 삼 - サン</li>
+            <li>훈: 삼나무 - すぎ</li>
+          </ul>
+          <br/>
+          <h3>蜜</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 밀 - ミツ</li>
+            <li>훈: 꿀 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

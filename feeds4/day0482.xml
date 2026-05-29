@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>引</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 끌다, 내키지 않다 - ひ(く)・ひ(ける)</li>
+          </ul>
+          <br/>
+          <h3>操</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 절조, 조종하다 - みさお・あやつ(る)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>憩</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 게 - ケイ</li>
+            <li>훈: 쉬다 - いこ(い)・いこ(う)</li>
+          </ul>
+          <br/>
+          <h3>江</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 강 - え</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

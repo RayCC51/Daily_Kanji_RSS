@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>事</h3>
+          <ul>
+            <li>8급 (부수:亅)</li>
+            <li>음: 사 - ジ・ズ</li>
+            <li>훈: 일 - こと・つか(える)</li>
+          </ul>
+          <br/>
+          <h3>短</h3>
+          <ul>
+            <li>8급 (부수:矢)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 짧다 - みじか(い)</li>
+          </ul>
+          <br/>
+          <h3>張</h3>
+          <ul>
+            <li>6급 (부수:弓)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 뻗다, 팽팽해지다 - は(る)</li>
+          </ul>
+          <br/>
+          <h3>再</h3>
+          <ul>
+            <li>6급 (부수:冂)</li>
+            <li>음: 재 - サイ・サ</li>
+            <li>훈: 다시 - ふたた(び)</li>
+          </ul>
+          <br/>
+          <h3>至</h3>
+          <ul>
+            <li>5급 (부수:至)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 이르다 - いた(る)</li>
+          </ul>
+          <br/>
+          <h3>秋</h3>
+          <ul>
+            <li>9급 (부수:禾)</li>
+            <li>음: 추 - シュウ</li>
+            <li>훈: 가을 - あき・とき</li>
+          </ul>
+          <br/>
+          <h3>嫡</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 적 - チャク・テキ</li>
+            <li>훈: 정실 - よつぎ</li>
+          </ul>
+          <br/>
+          <h3>逸</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 일 - イツ・イチ</li>
+            <li>훈: 편안하다, 빗나가다, 놓치다 - はし(る)・うしな(う)・そ(れる)・そ(らす)・はぐ(れる)・すぐ(れる)・はや(る)</li>
+          </ul>
+          <br/>
+          <h3>征</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 정 - セイ</li>
+            <li>훈: 치다 - ゆ(く)・う(つ)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>恋</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 련 - レン</li>
+            <li>훈: 사랑, 그리워하다 - こ(う)・こい・こい(しい)</li>
+          </ul>
+          <br/>
+          <h3>搾</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 착 - サク</li>
+            <li>훈: 짜내다, 착취하다 - しぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>含</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 함 - ガン・カン・ゴン</li>
+            <li>훈: 포함하다 - ふく(む)・ふく(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>言</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 언 - ゲン・ゴン</li>
+            <li>훈: 말, 말하다 - い(う)・こと・ことば</li>
+          </ul>
+          <br/>
+          <h3>演</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 공연 - の(べる)・おこな(う)</li>
+          </ul>
+          <br/>
+          <h3>模</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 모 - モ・ボ</li>
+            <li>훈: 본뜨다 - かた・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>柿</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 감 - かき</li>
+          </ul>
+          <br/>
+          <h3>葬</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 장 - ソウ</li>
+            <li>훈: 매장하다, 장례 - ほうむ(る)</li>
+          </ul>
+          <br/>
+          <h3>癖</h3>
+          <ul>
+            <li>3급 (부수:疒)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 버릇, 습관 - くせ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

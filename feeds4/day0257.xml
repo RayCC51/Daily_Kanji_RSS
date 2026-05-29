@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>群</h3>
+          <ul>
+            <li>7급 (부수:羊)</li>
+            <li>음: 군 - グン</li>
+            <li>훈: 무리, 모이다 - む(れる)・む(れ)・むら</li>
+          </ul>
+          <br/>
+          <h3>都</h3>
+          <ul>
+            <li>8급 (부수:邑)</li>
+            <li>음: 도 - ト・ツ</li>
+            <li>훈: 수도 - みやこ・すべ(て)</li>
+          </ul>
+          <br/>
+          <h3>嘆</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 한탄하다 - なげ(く)・なげ(かわしい)</li>
+          </ul>
+          <br/>
+          <h3>汗</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 땀 - あせ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

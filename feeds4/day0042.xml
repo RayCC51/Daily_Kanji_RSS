@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>血</h3>
+          <ul>
+            <li>8급 (부수:血)</li>
+            <li>음: 혈 - ケツ・ケチ</li>
+            <li>훈: 피 - ち</li>
+          </ul>
+          <br/>
+          <h3>塩</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 염 - エン・アン</li>
+            <li>훈: 소금 - しお</li>
+          </ul>
+          <br/>
+          <h3>赦</h3>
+          <ul>
+            <li>3급 (부수:赤)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 용서하다 - ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>泰</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 태 - タイ</li>
+            <li>훈: 태연하다 - やす(い)・やす(らか)・おご(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

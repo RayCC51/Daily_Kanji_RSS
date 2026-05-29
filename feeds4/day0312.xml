@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>染</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 염 - セン・ゼン</li>
+            <li>훈: 물들다, 번지다 - そ(める)・そ(まる)・し(みる)・し(み)</li>
+          </ul>
+          <br/>
+          <h3>域</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 역 - イキ</li>
+            <li>훈: 구역 - さかい・ところ</li>
+          </ul>
+          <br/>
+          <h3>辱</h3>
+          <ul>
+            <li>3급 (부수:辰)</li>
+            <li>음: 욕 - ジョク・ニク</li>
+            <li>훈: 모욕하다 - はずかし(める)・はじ・はずかし(め)・かたじけな(い)</li>
+          </ul>
+          <br/>
+          <h3>蛍</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 형 - ケイ</li>
+            <li>훈: 반딧불이 - ほたる</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

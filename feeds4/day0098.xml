@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>竹</h3>
+          <ul>
+            <li>10급 (부수:竹)</li>
+            <li>음: 죽 - チク</li>
+            <li>훈: 대나무 - たけ</li>
+          </ul>
+          <br/>
+          <h3>声</h3>
+          <ul>
+            <li>9급 (부수:士)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 소리 - こえ・こわ</li>
+          </ul>
+          <br/>
+          <h3>宛</h3>
+          <ul>
+            <li>2급 (부수:宀)</li>
+            <li>음: 완 - エン</li>
+            <li>훈: 앞으로 보내다 - あ(てる)・あて・ずつ・あたか(も)・さなが(ら)</li>
+          </ul>
+          <br/>
+          <h3>滅</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 멸 - メツ・ベツ</li>
+            <li>훈: 망하다, 없애다 - ほろ(びる)・ほろ(ぼす)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

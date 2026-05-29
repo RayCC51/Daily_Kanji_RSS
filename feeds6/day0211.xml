@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>姉</h3>
+          <ul>
+            <li>9급 (부수:女)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 누나, 언니 - あね</li>
+          </ul>
+          <br/>
+          <h3>禁</h3>
+          <ul>
+            <li>6급 (부수:示)</li>
+            <li>음: 금 - キン</li>
+            <li>훈: 금지 - とど(める)・い(む)・いさ(める)</li>
+          </ul>
+          <br/>
+          <h3>度</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 도 - ド・ト・タク</li>
+            <li>훈: 때, 정도 - たび・のり・めもり・わた(る)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>縁</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 테두리, 인연 - ふち・へり・よ(る)・えにし・ゆかり・よすが</li>
+          </ul>
+          <br/>
+          <h3>滑</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 활, 골 - カツ・コツ</li>
+            <li>훈: 미끄럽다 - すべ(る)・なめ(らか)・ぬめ(る)</li>
+          </ul>
+          <br/>
+          <h3>綻</h3>
+          <ul>
+            <li>2급 (부수:糸)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 터지다 - ほころ(びる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

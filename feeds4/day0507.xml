@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>河</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 물 - かわ</li>
+          </ul>
+          <br/>
+          <h3>玉</h3>
+          <ul>
+            <li>10급 (부수:玉)</li>
+            <li>음: 옥 - ギョク</li>
+            <li>훈: 구슬 - たま</li>
+          </ul>
+          <br/>
+          <h3>遣</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 고용하다, 파견하다 - つか(う)・つか(わす)・や(る)</li>
+          </ul>
+          <br/>
+          <h3>茂</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 무 - モ・ボウ</li>
+            <li>훈: 우거지다 - しげ(る)・すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

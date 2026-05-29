@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>七</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 칠 - シチ・シツ</li>
+            <li>훈: 7, 일곱 - なな・なな(つ)・なの</li>
+          </ul>
+          <br/>
+          <h3>顔</h3>
+          <ul>
+            <li>9급 (부수:頁)</li>
+            <li>음: 안 - ガン</li>
+            <li>훈: 얼굴 - かお・かんばせ</li>
+          </ul>
+          <br/>
+          <h3>登</h3>
+          <ul>
+            <li>8급 (부수:癶)</li>
+            <li>음: 등 - トウ・ト</li>
+            <li>훈: 오르다, 올라가다 - のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>自</h3>
+          <ul>
+            <li>9급 (부수:自)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 스스로, 저절로 - みずか(ら)・おのずか(ら)・よ(り)</li>
+          </ul>
+          <br/>
+          <h3>他</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 타 - タ</li>
+            <li>훈: 다른 것 - ほか</li>
+          </ul>
+          <br/>
+          <h3>注</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 쏟다, 붓다, 따르다 - そそ(ぐ)・つ(ぐ)・さ(す)</li>
+          </ul>
+          <br/>
+          <h3>煩</h3>
+          <ul>
+            <li>2.5급 (부수:火)</li>
+            <li>음: 번 - ハン・ボン</li>
+            <li>훈: 괴로워하다, 괴롭히다, 귀찮다 - わずら(う)・わずら(わす)・うるさ(い)</li>
+          </ul>
+          <br/>
+          <h3>瑠</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 류 - ル</li>
+            <li>훈: 유리 - 無し</li>
+          </ul>
+          <br/>
+          <h3>墜</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 추 - ツイ</li>
+            <li>훈: 떨어지다 - お(ちる)</li>
+          </ul>
+          <br/>
+          <h3>涯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 생애 - みぎわ・はて</li>
+          </ul>
+          <br/>
+          <h3>苗</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 묘 - ビョウ・ミョウ</li>
+            <li>훈: 모종 - なえ・なわ・か(り)</li>
+          </ul>
+          <br/>
+          <h3>齢</h3>
+          <ul>
+            <li>4급 (부수:歯)</li>
+            <li>음: 령 - レイ</li>
+            <li>훈: 나이 - よわい・とし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

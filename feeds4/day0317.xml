@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>奮</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 떨치다 - ふる(う)</li>
+          </ul>
+          <br/>
+          <h3>孝</h3>
+          <ul>
+            <li>5급 (부수:子)</li>
+            <li>음: 효 - コウ・キョウ</li>
+            <li>훈: 효도 - 無し</li>
+          </ul>
+          <br/>
+          <h3>汚</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 오 - オ</li>
+            <li>훈: 더럽다 - けが(す)・けが(れる)・けが(らわしい)・よご(す)・よご(れる)・きたな(い)</li>
+          </ul>
+          <br/>
+          <h3>露</h3>
+          <ul>
+            <li>4급 (부수:雨)</li>
+            <li>음: 로 - ロ・ロウ</li>
+            <li>훈: 이슬, 드러내다 - つゆ・あらわ(れる)・あらわ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

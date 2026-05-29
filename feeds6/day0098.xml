@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>念</h3>
+          <ul>
+            <li>7급 (부수:心)</li>
+            <li>음: 념 - ネン</li>
+            <li>훈: 생각 - おも(う)</li>
+          </ul>
+          <br/>
+          <h3>洗</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 세 - セン</li>
+            <li>훈: 씻다 - あら(う)</li>
+          </ul>
+          <br/>
+          <h3>整</h3>
+          <ul>
+            <li>8급 (부수:攵)</li>
+            <li>음: 정 - セイ</li>
+            <li>훈: 정리하다 - ととの(える)・ととの(う)</li>
+          </ul>
+          <br/>
+          <h3>窒</h3>
+          <ul>
+            <li>3급 (부수:穴)</li>
+            <li>음: 질 - チツ</li>
+            <li>훈: 막히다 - ふさ(がる)</li>
+          </ul>
+          <br/>
+          <h3>塞</h3>
+          <ul>
+            <li>2급 (부수:土)</li>
+            <li>음: 색 - サイ・ソク</li>
+            <li>훈: 막다 - ふさ(ぐ)・ふさ(がる)・せ(く)・とりで・み(ちる)</li>
+          </ul>
+          <br/>
+          <h3>塔</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 탑 - トウ</li>
+            <li>훈: 탑 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

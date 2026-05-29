@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>作</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 작 - サク・サ</li>
+            <li>훈: 만들다 - つく(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>臣</h3>
+          <ul>
+            <li>7급 (부수:臣)</li>
+            <li>음: 신 - シン・ジン</li>
+            <li>훈: 신하 - おみ</li>
+          </ul>
+          <br/>
+          <h3>軒</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 헌 - ケン</li>
+            <li>훈: 처마, 집 - のき・くるま・てすり・と(ぶ)・たか(い)</li>
+          </ul>
+          <br/>
+          <h3>循</h3>
+          <ul>
+            <li>2.5급 (부수:彳)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 돌다 - したが(う)・めぐ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

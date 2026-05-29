@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宝</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 보 - ホウ</li>
+            <li>훈: 보물 - たから</li>
+          </ul>
+          <br/>
+          <h3>制</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 제 - セイ</li>
+            <li>훈: 절제 - おさ(える)</li>
+          </ul>
+          <br/>
+          <h3>売</h3>
+          <ul>
+            <li>9급 (부수:士)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 팔다 - う(る)・う(れる)</li>
+          </ul>
+          <br/>
+          <h3>寡</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 적다 - すく(ない)・やもめ</li>
+          </ul>
+          <br/>
+          <h3>虜</h3>
+          <ul>
+            <li>2.5급 (부수:虍)</li>
+            <li>음: 로 - リョ・ロ</li>
+            <li>훈: 사로잡다 - とりこ・しもべ・えびす</li>
+          </ul>
+          <br/>
+          <h3>祥</h3>
+          <ul>
+            <li>2.5급 (부수:示)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 상서 - さいわ(い)・さち・きざ(し)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

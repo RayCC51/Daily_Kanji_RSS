@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>色</h3>
+          <ul>
+            <li>9급 (부수:色)</li>
+            <li>음: 색 - ショク・シキ</li>
+            <li>훈: 색 - いろ</li>
+          </ul>
+          <br/>
+          <h3>蒸</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 증 - ジョウ</li>
+            <li>훈: 증기, 무덥다, 뜸들다 - む(す)・む(れる)・む(らす)・ふ(かす)・ふ(ける)・おお(い)</li>
+          </ul>
+          <br/>
+          <h3>侍</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 시 - ジ・シ</li>
+            <li>훈: 무사, 모시다 - さむらい・はべ(る)・さぶら(う)</li>
+          </ul>
+          <br/>
+          <h3>惧</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 구 - グ・ク</li>
+            <li>훈: 두려워하다 - おそ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

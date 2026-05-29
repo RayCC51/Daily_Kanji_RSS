@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>備</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 비 - ビ・ヒ</li>
+            <li>훈: 대비하다, 갖추다 - そな(える)・そな(わる)・つぶさ(に)</li>
+          </ul>
+          <br/>
+          <h3>動</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 움직이다 - うご(く)・うご(かす)・やや(もすれば)</li>
+          </ul>
+          <br/>
+          <h3>共</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 공 - キョウ</li>
+            <li>훈: 함께 - とも</li>
+          </ul>
+          <br/>
+          <h3>荘</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 장 - ソウ・ショウ</li>
+            <li>훈: 별장, 씩씩하다 - おごそ(か)・しもやしき</li>
+          </ul>
+          <br/>
+          <h3>範</h3>
+          <ul>
+            <li>4급 (부수:竹)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 법, 본보기 - のり・いがた</li>
+          </ul>
+          <br/>
+          <h3>逮</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 잡다 - およ(ぶ)・とら(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

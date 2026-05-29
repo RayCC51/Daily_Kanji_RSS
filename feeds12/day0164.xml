@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>使</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 사용하다 - つか(う)・つか(わす)</li>
+          </ul>
+          <br/>
+          <h3>刷</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 쇄 - サツ</li>
+            <li>훈: 인쇄하다 - す(る)・は(く)</li>
+          </ul>
+          <br/>
+          <h3>和</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 화 - ワ・オ・カ</li>
+            <li>훈: 평화, 누그러지다, 진정시키다 - やわ(らぐ)・やわ(らげる)・なご(む)・なご(やか)・な(ぐ)・あ(える)</li>
+          </ul>
+          <br/>
+          <h3>奏</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 주 - ソウ</li>
+            <li>훈: 연주하다 - かな(でる)・すす(める)</li>
+          </ul>
+          <br/>
+          <h3>妻</h3>
+          <ul>
+            <li>6급 (부수:女)</li>
+            <li>음: 처 - サイ・セイ</li>
+            <li>훈: 아내 - つま・めあ(わす)</li>
+          </ul>
+          <br/>
+          <h3>材</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 재 - ザイ・サイ</li>
+            <li>훈: 재료 - まるた</li>
+          </ul>
+          <br/>
+          <h3>壇</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 단 - ダン・タン</li>
+            <li>훈: 단 - 無し</li>
+          </ul>
+          <br/>
+          <h3>排</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 빼다 - おしの(ける)・つら(ねる)</li>
+          </ul>
+          <br/>
+          <h3>俸</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 봉급 - ふち</li>
+          </ul>
+          <br/>
+          <h3>購</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 구 - コウ</li>
+            <li>훈: 사다 - あがな(う)</li>
+          </ul>
+          <br/>
+          <h3>鼓</h3>
+          <ul>
+            <li>4급 (부수:鼓)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 타악기, 울리다 - つづみ</li>
+          </ul>
+          <br/>
+          <h3>膨</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 팽 - ボウ・ホウ</li>
+            <li>훈: 부풀다 - ふく(らむ)・ふく(れる)・ふく(よか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

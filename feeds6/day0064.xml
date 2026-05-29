@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>裁</h3>
+          <ul>
+            <li>5급 (부수:衣)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재단하다, 재판하다 - た(つ)・さば(く)</li>
+          </ul>
+          <br/>
+          <h3>因</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 원인 - よ(る)・ちな(む)・ちなみ・よすが</li>
+          </ul>
+          <br/>
+          <h3>組</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 짜다 - く(む)・くみ・くみひも</li>
+          </ul>
+          <br/>
+          <h3>裂</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 찟다 - さ(く)・さ(ける)・きれ</li>
+          </ul>
+          <br/>
+          <h3>棄</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 버리다 - す(てる)</li>
+          </ul>
+          <br/>
+          <h3>誰</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 누구 - だれ・たれ・た</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

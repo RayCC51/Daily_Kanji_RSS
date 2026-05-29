@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>障</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 거슬리다 - さわ(る)・へだ(てる)・ふせ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>委</h3>
+          <ul>
+            <li>8급 (부수:女)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 맡기다 - ゆだ(ねる)・まか(せる)・くわ(しい)・お(く)・す(てる)</li>
+          </ul>
+          <br/>
+          <h3>当</h3>
+          <ul>
+            <li>9급 (부수:小)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 맞다, 맞히다 - あ(たる)・あ(てる)・まさ(に…べし)</li>
+          </ul>
+          <br/>
+          <h3>寮</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 기숙사 - つかさ</li>
+          </ul>
+          <br/>
+          <h3>駄</h3>
+          <ul>
+            <li>2.5급 (부수:馬)</li>
+            <li>음: 태 - ダ・タ</li>
+            <li>훈: 헛됨 - の(せる)</li>
+          </ul>
+          <br/>
+          <h3>巡</h3>
+          <ul>
+            <li>4급 (부수:川)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 돌다 - めぐ(る)・まわ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>問</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 문 - モン・ブン</li>
+            <li>훈: 묻다 - と(う)・と(い)・とん・たず(ねる)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>五</h3>
+          <ul>
+            <li>10급 (부수:二)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 5, 다섯 - いつ・いつ(つ)</li>
+          </ul>
+          <br/>
+          <h3>訳</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 역 - ヤク・エキ</li>
+            <li>훈: 이유, 번역 - わけ・と(く)</li>
+          </ul>
+          <br/>
+          <h3>係</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 관계, 관계되다 - かか(る)・かかり・かか(わる)・つな(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>府</h3>
+          <ul>
+            <li>7급 (부수:广)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 마을 - くら・みやこ</li>
+          </ul>
+          <br/>
+          <h3>死</h3>
+          <ul>
+            <li>8급 (부수:歹)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 죽다 - し(ぬ)</li>
+          </ul>
+          <br/>
+          <h3>痘</h3>
+          <ul>
+            <li>3급 (부수:疒)</li>
+            <li>음: 두 - トウ</li>
+            <li>훈: 병 - もがさ</li>
+          </ul>
+          <br/>
+          <h3>勧</h3>
+          <ul>
+            <li>4급 (부수:力)</li>
+            <li>음: 권 - カン・ケン</li>
+            <li>훈: 권하다 - すす(める)</li>
+          </ul>
+          <br/>
+          <h3>呈</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 드리다 - しめ(す)</li>
+          </ul>
+          <br/>
+          <h3>坑</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 갱 - コウ</li>
+            <li>훈: 구덩이 - あな</li>
+          </ul>
+          <br/>
+          <h3>悔</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 회 - カイ・ケ</li>
+            <li>훈: 후회하다, 뉘우치다, 분하다 - く(いる)・く(やむ)・くや(しい)</li>
+          </ul>
+          <br/>
+          <h3>誓</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 서 - セイ・ゼイ</li>
+            <li>훈: 맹세하다 - ちか(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

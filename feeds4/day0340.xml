@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>目</h3>
+          <ul>
+            <li>10급 (부수:目)</li>
+            <li>음: 목 - モク・ボク</li>
+            <li>훈: 눈 - め・ま・まなこ・かなめ</li>
+          </ul>
+          <br/>
+          <h3>認</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 인 - ニン・ジン</li>
+            <li>훈: 인정하다 - みと(める)・したた(める)</li>
+          </ul>
+          <br/>
+          <h3>䇳</h3>
+          <ul>
+            <li>2급 (부수:竹)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 기록하다 - ふだ・はりふだ・なふだ・ときあ(かし)・てがみ・かきもの</li>
+          </ul>
+          <br/>
+          <h3>飢</h3>
+          <ul>
+            <li>2.5급 (부수:食)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 굶주리다 - う(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

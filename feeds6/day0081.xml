@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>昭</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 밝다, 일본 연호 - あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>悪</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 악, 오 - アク・オ</li>
+            <li>훈: 나쁘다, 미워하다 - わる(い)・あ(し)・にく(む)・いずく(んぞ)</li>
+          </ul>
+          <br/>
+          <h3>軽</h3>
+          <ul>
+            <li>8급 (부수:車)</li>
+            <li>음: 경 - ケイ・キン</li>
+            <li>훈: 가볍다 - かる(い)・かろ(やか)</li>
+          </ul>
+          <br/>
+          <h3>菊</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 국 - キク</li>
+            <li>훈: 국화 - 無し</li>
+          </ul>
+          <br/>
+          <h3>姫</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 희 - キ</li>
+            <li>훈: 공주 - ひめ</li>
+          </ul>
+          <br/>
+          <h3>寿</h3>
+          <ul>
+            <li>3급 (부수:寸)</li>
+            <li>음: 수 - ジュ・ス</li>
+            <li>훈: 목숨, 축하하다 - ことぶき・ことほ(ぐ)・とし・ひさ(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

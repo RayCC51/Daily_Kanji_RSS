@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>去</h3>
+          <ul>
+            <li>8급 (부수:厶)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 떠나다 - さ(る)・ゆ(く)・のぞ(く)</li>
+          </ul>
+          <br/>
+          <h3>械</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 기계 - からくり・かせ</li>
+          </ul>
+          <br/>
+          <h3>陸</h3>
+          <ul>
+            <li>7급 (부수:阜)</li>
+            <li>음: 륙 - リク・ロク</li>
+            <li>훈: 땅, 6 - おか・くが</li>
+          </ul>
+          <br/>
+          <h3>課</h3>
+          <ul>
+            <li>7급 (부수:言)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 공부 - わりあ(てる)・はか(る)・こころ(みる)</li>
+          </ul>
+          <br/>
+          <h3>革</h3>
+          <ul>
+            <li>5급 (부수:革)</li>
+            <li>음: 혁 - カク</li>
+            <li>훈: 가죽, 혁명 - かわ・あらた(まる)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>麦</h3>
+          <ul>
+            <li>9급 (부수:麦)</li>
+            <li>음: 맥 - バク</li>
+            <li>훈: 보리 - むぎ</li>
+          </ul>
+          <br/>
+          <h3>択</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 택 - タク</li>
+            <li>훈: 고르다 - えら(ぶ)・よ(る)</li>
+          </ul>
+          <br/>
+          <h3>岳</h3>
+          <ul>
+            <li>3급 (부수:山)</li>
+            <li>음: 악 - ガク</li>
+            <li>훈: 산악 - たけ</li>
+          </ul>
+          <br/>
+          <h3>索</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 색 - サク</li>
+            <li>훈: 찾다 - なわ・つな・もと(める)・さが(す)</li>
+          </ul>
+          <br/>
+          <h3>貫</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 관 - カン・ワン</li>
+            <li>훈: 꿰뚫다 - つらぬ(く)・ぬき・ぬ(く)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>澄</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 징 - チョウ</li>
+            <li>훈: 맑다 - す(む)・す(ます)</li>
+          </ul>
+          <br/>
+          <h3>宛</h3>
+          <ul>
+            <li>2급 (부수:宀)</li>
+            <li>음: 완 - エン</li>
+            <li>훈: 앞으로 보내다 - あ(てる)・あて・ずつ・あたか(も)・さなが(ら)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

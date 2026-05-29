@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>墓</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 묘 - ボ</li>
+            <li>훈: 무덤 - はか</li>
+          </ul>
+          <br/>
+          <h3>招</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 초대하다 - まね(く)</li>
+          </ul>
+          <br/>
+          <h3>庁</h3>
+          <ul>
+            <li>5급 (부수:广)</li>
+            <li>음: 청 - チョウ・テイ</li>
+            <li>훈: 관청 - 無し</li>
+          </ul>
+          <br/>
+          <h3>伐</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 벌 - バツ・ハツ</li>
+            <li>훈: 토벌하다 - き(る)・う(つ)・ほこ(る)</li>
+          </ul>
+          <br/>
+          <h3>監</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 감 - カン・ケン</li>
+            <li>훈: 보다 - み(る)・かんがみ(る)・しら(べる)</li>
+          </ul>
+          <br/>
+          <h3>萎</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 시들다 - な(える)・しお(れる)・しな(びる)・しぼ(む)・つか(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>変</h3>
+          <ul>
+            <li>7급 (부수:夂)</li>
+            <li>음: 변 - ヘン</li>
+            <li>훈: 변하다, 바꾸다 - か(わる)・か(える)</li>
+          </ul>
+          <br/>
+          <h3>内</h3>
+          <ul>
+            <li>9급 (부수:入)</li>
+            <li>음: 내 - ナイ・ダイ・ノウ・ドウ</li>
+            <li>훈: 안 - うち・い(る)</li>
+          </ul>
+          <br/>
+          <h3>地</h3>
+          <ul>
+            <li>9급 (부수:土)</li>
+            <li>음: 지 - チ・ジ</li>
+            <li>훈: 땅 - つち・ところ</li>
+          </ul>
+          <br/>
+          <h3>宵</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 밤 - よい</li>
+          </ul>
+          <br/>
+          <h3>餓</h3>
+          <ul>
+            <li>3급 (부수:食)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 굶주리다 - う(える)</li>
+          </ul>
+          <br/>
+          <h3>婆</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 파 - バ</li>
+            <li>훈: 할머니 - ばば</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

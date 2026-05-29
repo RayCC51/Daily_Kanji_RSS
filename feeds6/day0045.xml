@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>犬</h3>
+          <ul>
+            <li>10급 (부수:犬)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 개 - いぬ</li>
+          </ul>
+          <br/>
+          <h3>比</h3>
+          <ul>
+            <li>6급 (부수:比)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비교하다 - くら(べる)・なら(ぶ)・たぐい・ころ</li>
+          </ul>
+          <br/>
+          <h3>曜</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 요일 - かがや(く)</li>
+          </ul>
+          <br/>
+          <h3>症</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 증 - ショウ</li>
+            <li>훈: 증세 - しるし</li>
+          </ul>
+          <br/>
+          <h3>嘱</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 촉 - ショク</li>
+            <li>훈: 부탁하다 - たの(む)</li>
+          </ul>
+          <br/>
+          <h3>廉</h3>
+          <ul>
+            <li>3급 (부수:广)</li>
+            <li>음: 렴 - レン</li>
+            <li>훈: 청렴 - いさぎよ(い)・やす(い)・かど</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

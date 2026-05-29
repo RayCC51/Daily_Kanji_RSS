@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>屋</h3>
+          <ul>
+            <li>8급 (부수:尸)</li>
+            <li>음: 옥 - オク</li>
+            <li>훈: 집 - や・いえ・やね</li>
+          </ul>
+          <br/>
+          <h3>図</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 도 - ズ・ト</li>
+            <li>훈: 그림 - はか(る)・え</li>
+          </ul>
+          <br/>
+          <h3>急</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 급하다, 서두르다, 조급해지다, 재촉하다 - いそ(ぐ)・せ(く)</li>
+          </ul>
+          <br/>
+          <h3>怖</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 포 - フ</li>
+            <li>훈: 무섭다 - こわ(い)・おそ(れる)・お(じける)</li>
+          </ul>
+          <br/>
+          <h3>徴</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 징 - チョウ・チ</li>
+            <li>훈: 부르다 - しるし・め(す)</li>
+          </ul>
+          <br/>
+          <h3>朽</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 후 - キュウ</li>
+            <li>훈: 썩다 - く(ちる)・すた(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

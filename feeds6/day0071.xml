@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>重</h3>
+          <ul>
+            <li>8급 (부수:里)</li>
+            <li>음: 중 - ジュウ・チョウ</li>
+            <li>훈: 무겁다, 겹치다 - え・おも(い)・かさ(ねる)・かさ(なる)</li>
+          </ul>
+          <br/>
+          <h3>答</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 답 - トウ</li>
+            <li>훈: 대답, 대답하다 - こた(える)・こた(え)</li>
+          </ul>
+          <br/>
+          <h3>題</h3>
+          <ul>
+            <li>8급 (부수:頁)</li>
+            <li>음: 제 - ダイ・テイ</li>
+            <li>훈: 제목 - 無し</li>
+          </ul>
+          <br/>
+          <h3>膳</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 선 - ゼン・セン</li>
+            <li>훈: 밥상 - そな(える)・かしわ</li>
+          </ul>
+          <br/>
+          <h3>恥</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 부끄럽다 - は(じる)・はじ・は(じらう)・は(ずかしい)</li>
+          </ul>
+          <br/>
+          <h3>丈</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 장 - ジョウ</li>
+            <li>훈: 키, 길이 - たけ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

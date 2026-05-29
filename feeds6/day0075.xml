@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>採</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 채 - サイ</li>
+            <li>훈: 뽑다, 채용하다 - と(る)</li>
+          </ul>
+          <br/>
+          <h3>湖</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 호수 - みずうみ</li>
+          </ul>
+          <br/>
+          <h3>富</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 부 - フ・フウ</li>
+            <li>훈: 재산, 풍부하다 - と(む)・とみ</li>
+          </ul>
+          <br/>
+          <h3>挨</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 인사하다 - お(す)・ひら(く)</li>
+          </ul>
+          <br/>
+          <h3>摘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 따다, 뜯다, 골라내다 - つ(む)・つま(む)</li>
+          </ul>
+          <br/>
+          <h3>拍</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 박 - ハク・ヒョウ</li>
+            <li>훈: 박자 - う(つ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

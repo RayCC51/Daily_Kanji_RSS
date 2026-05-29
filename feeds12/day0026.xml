@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>静</h3>
+          <ul>
+            <li>7급 (부수:青)</li>
+            <li>음: 정 - セイ・ジョウ</li>
+            <li>훈: 조용하다, 가라앉다 - しず・しず(か)・しず(まる)・しず(める)</li>
+          </ul>
+          <br/>
+          <h3>巣</h3>
+          <ul>
+            <li>7급 (부수:ツ)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 둥지 - す</li>
+          </ul>
+          <br/>
+          <h3>言</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 언 - ゲン・ゴン</li>
+            <li>훈: 말, 말하다 - い(う)・こと・ことば</li>
+          </ul>
+          <br/>
+          <h3>円</h3>
+          <ul>
+            <li>10급 (부수:冂)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 둥글다, 화폐 단위 - まる(い)・まど(か)・つぶら(か)・まろ(やか)</li>
+          </ul>
+          <br/>
+          <h3>往</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 가다 - ゆ(く)・いにしえ</li>
+          </ul>
+          <br/>
+          <h3>鳥</h3>
+          <ul>
+            <li>9급 (부수:鳥)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 새 - とり</li>
+          </ul>
+          <br/>
+          <h3>豪</h3>
+          <ul>
+            <li>4급 (부수:豕)</li>
+            <li>음: 호 - ゴウ・コウ</li>
+            <li>훈: 호걸 - つよ(い)・えら(い)</li>
+          </ul>
+          <br/>
+          <h3>闘</h3>
+          <ul>
+            <li>4급 (부수:門)</li>
+            <li>음: 투 - トウ</li>
+            <li>훈: 싸우다 - たたか(う)</li>
+          </ul>
+          <br/>
+          <h3>裾</h3>
+          <ul>
+            <li>2급 (부수:衣)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 옷자락 - すそ</li>
+          </ul>
+          <br/>
+          <h3>悼</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 애도하다 - いた(む)</li>
+          </ul>
+          <br/>
+          <h3>酌</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 작 - シャク</li>
+            <li>훈: 술 마시다 - く(む)</li>
+          </ul>
+          <br/>
+          <h3>汎</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 범 - ハン・フウ・ホウ</li>
+            <li>훈: 넓다 - ひろ(い)・う(かぶ)・あふ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

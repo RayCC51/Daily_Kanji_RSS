@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>虐</h3>
+          <ul>
+            <li>3급 (부수:虍)</li>
+            <li>음: 학 - ギャク</li>
+            <li>훈: 학대하다 - しいた(げる)・むご(い)</li>
+          </ul>
+          <br/>
+          <h3>露</h3>
+          <ul>
+            <li>4급 (부수:雨)</li>
+            <li>음: 로 - ロ・ロウ</li>
+            <li>훈: 이슬, 드러내다 - つゆ・あらわ(れる)・あらわ</li>
+          </ul>
+          <br/>
+          <h3>賦</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부세 - みつぎ・わか(つ)</li>
+          </ul>
+          <br/>
+          <h3>陳</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 진 - チン・ジン</li>
+            <li>훈: 진치다 - つら(ねる)・の(べる)・ひ(ねる)・ふる(い)</li>
+          </ul>
+          <br/>
+          <h3>絡</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 락 - ラク</li>
+            <li>훈: 잇다, 얽히다 - から(む)・から(まる)・から(める)・まと(う)・から(げる)・つな(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>継</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 잇다 - つ(ぐ)・まま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

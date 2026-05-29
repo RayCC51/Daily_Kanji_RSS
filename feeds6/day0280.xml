@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>総</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 총 - ソウ</li>
+            <li>훈: 거느리다 - す(べる)・すべ(て)・ふさ</li>
+          </ul>
+          <br/>
+          <h3>字</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 자 - ジ</li>
+            <li>훈: 글자 - あざ・あざな</li>
+          </ul>
+          <br/>
+          <h3>刻</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 각 - コク</li>
+            <li>훈: 새기다 - きざ(む)・とき</li>
+          </ul>
+          <br/>
+          <h3>譲</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 양보하다, 주다 - ゆず(る)・せ(める)</li>
+          </ul>
+          <br/>
+          <h3>諾</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 낙 - ダク</li>
+            <li>훈: 받아들이다 - うべな(う)</li>
+          </ul>
+          <br/>
+          <h3>苗</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 묘 - ビョウ・ミョウ</li>
+            <li>훈: 모종 - なえ・なわ・か(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

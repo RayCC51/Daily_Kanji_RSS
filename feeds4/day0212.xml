@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>態</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 태 - タイ・テイ</li>
+            <li>훈: 모습 - さま・わざ(と)</li>
+          </ul>
+          <br/>
+          <h3>豆</h3>
+          <ul>
+            <li>8급 (부수:豆)</li>
+            <li>음: 두 - トウ・ズ</li>
+            <li>훈: 콩 - まめ・たかつき</li>
+          </ul>
+          <br/>
+          <h3>艶</h3>
+          <ul>
+            <li>2급 (부수:色)</li>
+            <li>음: 염 - エン</li>
+            <li>훈: 광택, 애교, 곱다 - つや・なまめ(かしい)・あで(やか)・うらや(む)</li>
+          </ul>
+          <br/>
+          <h3>掲</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 게 - ケイ</li>
+            <li>훈: 걸다, 매달다 - かか(げる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

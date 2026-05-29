@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>http://localhost:8080</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>http://localhost:8080/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>本</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 본 - ホン</li>
+            <li>훈: 책, 근본 - もと</li>
+          </ul>
+          <br/>
+          <h3>賀</h3>
+          <ul>
+            <li>7급 (부수:貝)</li>
+            <li>음: 하 - ガ</li>
+            <li>훈: 축하 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>券</h3>
+          <ul>
+            <li>5급 (부수:刀)</li>
+            <li>음: 권 - ケン</li>
+            <li>훈: 문서 - てがた・わりふ</li>
+          </ul>
+          <br/>
+          <h3>堪</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 감 - カン・タン</li>
+            <li>훈: 견디다, 참다 - た(える)・こら(える)・こた(える)・たま(る)</li>
+          </ul>
+          <br/>
+          <h3>符</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부호 - わりふ</li>
+          </ul>
+          <br/>
+          <h3>菌</h3>
+          <ul>
+            <li>2.5급 (부수:艸)</li>
+            <li>음: 균 - キン</li>
+            <li>훈: 세균 - きのこ・たけ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>Fri, 29 May 2026 01:05:08 +0000</pubDate>
+      <guid>http://localhost:8080/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

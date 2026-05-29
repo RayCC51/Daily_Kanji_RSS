@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>自</h3>
+          <ul>
+            <li>9급 (부수:自)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 스스로, 저절로 - みずか(ら)・おのずか(ら)・よ(り)</li>
+          </ul>
+          <br/>
+          <h3>逆</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 역 - ギャク・ゲキ</li>
+            <li>훈: 거스르다 - さか・さか(らう)・むか(える)・あらかじ(め)</li>
+          </ul>
+          <br/>
+          <h3>搬</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 옮기다 - はこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>漂</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 떠다니다 - ただよ(う)・さら(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

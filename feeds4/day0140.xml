@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>層</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 층 - ソウ</li>
+            <li>훈: 층 - かさ(なる)</li>
+          </ul>
+          <br/>
+          <h3>専</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 오로지 - もっぱ(ら)・ほしいまま</li>
+          </ul>
+          <br/>
+          <h3>排</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 빼다 - おしの(ける)・つら(ねる)</li>
+          </ul>
+          <br/>
+          <h3>炎</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 염 - エン</li>
+            <li>훈: 화염 - ほのお・も(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

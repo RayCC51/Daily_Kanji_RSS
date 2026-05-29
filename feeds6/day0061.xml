@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>経</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 경 - ケイ・キョウ・キン</li>
+            <li>훈: 지나다, 거치다 - へ(る)・たていと・た(つ)・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>速</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 속 - ソク</li>
+            <li>훈: 빠르다 - はや(い)・はや(める)・はや(まる)・すみ(やか)</li>
+          </ul>
+          <br/>
+          <h3>出</h3>
+          <ul>
+            <li>10급 (부수:凵)</li>
+            <li>음: 출 - シュツ・スイ</li>
+            <li>훈: 나가다, 꺼내다 - で(る)・だ(す)・いだ(す)・い(づ)</li>
+          </ul>
+          <br/>
+          <h3>庶</h3>
+          <ul>
+            <li>2.5급 (부수:广)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 여러 - もろもろ・おお(い)・こいねが(う)</li>
+          </ul>
+          <br/>
+          <h3>控</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 공 - コウ</li>
+            <li>훈: 대기하다 - ひか(える)・のぞ(く)・つ(げる)</li>
+          </ul>
+          <br/>
+          <h3>陣</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 진 - ジン・チン</li>
+            <li>훈: 풀다 - じんだて</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

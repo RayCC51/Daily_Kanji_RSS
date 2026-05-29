@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>幼</h3>
+          <ul>
+            <li>5급 (부수:幺)</li>
+            <li>음: 유 - ヨウ・ユウ</li>
+            <li>훈: 어리다 - おさな(い)・いとけな(い)</li>
+          </ul>
+          <br/>
+          <h3>寸</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 촌 - スン・ソン</li>
+            <li>훈: 마디 - わず(か)・き</li>
+          </ul>
+          <br/>
+          <h3>談</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 담 - ダン・タン</li>
+            <li>훈: 말씀 - かた(る)</li>
+          </ul>
+          <br/>
+          <h3>瓶</h3>
+          <ul>
+            <li>2.5급 (부수:瓦)</li>
+            <li>음: 병 - ビン・ヘイ</li>
+            <li>훈: 병 - かめ</li>
+          </ul>
+          <br/>
+          <h3>噴</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 분 - フン・ホン</li>
+            <li>훈: 뿜다, 솟아나다 - ふ(く)・は(く)</li>
+          </ul>
+          <br/>
+          <h3>且</h3>
+          <ul>
+            <li>2.5급 (부수:一)</li>
+            <li>음: 차 - ショ</li>
+            <li>훈: 게다가 - か(つ)・しばら(く)・まさ(に…す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

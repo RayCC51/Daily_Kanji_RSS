@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>矢</h3>
+          <ul>
+            <li>9급 (부수:矢)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 화살 - や</li>
+          </ul>
+          <br/>
+          <h3>許</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 허 - キョ・コ</li>
+            <li>훈: 용서하다, 허락하다 - ゆる(す)・ばか(り)・もと</li>
+          </ul>
+          <br/>
+          <h3>岩</h3>
+          <ul>
+            <li>9급 (부수:山)</li>
+            <li>음: 암 - ガン</li>
+            <li>훈: 바위 - いわ</li>
+          </ul>
+          <br/>
+          <h3>本</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 본 - ホン</li>
+            <li>훈: 책, 근본 - もと</li>
+          </ul>
+          <br/>
+          <h3>乱</h3>
+          <ul>
+            <li>5급 (부수:乙)</li>
+            <li>음: 란 - ラン・ロン</li>
+            <li>훈: 어지러지다 - みだ(れる)・みだ(す)・みだ(りに)</li>
+          </ul>
+          <br/>
+          <h3>左</h3>
+          <ul>
+            <li>10급 (부수:工)</li>
+            <li>음: 좌 - サ</li>
+            <li>훈: 왼쪽 - ひだり</li>
+          </ul>
+          <br/>
+          <h3>驚</h3>
+          <ul>
+            <li>4급 (부수:馬)</li>
+            <li>음: 경 - キョウ</li>
+            <li>훈: 놀라다 - おどろ(く)・おどろ(かす)</li>
+          </ul>
+          <br/>
+          <h3>娘</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 낭 - ジョウ・ニョウ</li>
+            <li>훈: 딸 - むすめ・こ</li>
+          </ul>
+          <br/>
+          <h3>庸</h3>
+          <ul>
+            <li>2.5급 (부수:广)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 뽑다 - もち(いる)・つね・おろ(か)・なん(ぞ)</li>
+          </ul>
+          <br/>
+          <h3>耗</h3>
+          <ul>
+            <li>2.5급 (부수:耒)</li>
+            <li>음: 모 - モウ・コウ</li>
+            <li>훈: 소모 - へ(る)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>譜</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 보 - フ</li>
+            <li>훈: 족보, 악보 - しる(す)・つづ(く)</li>
+          </ul>
+          <br/>
+          <h3>羞</h3>
+          <ul>
+            <li>2급 (부수:羊)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 부끄럽다 - は(じる)・はずかし(める)・はじ・はずかし(め)・すす(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>鉄</h3>
+          <ul>
+            <li>8급 (부수:金)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철 - くろがね・かね</li>
+          </ul>
+          <br/>
+          <h3>潔</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 결 - ケツ</li>
+            <li>훈: 깨끗하다 - いさぎよ(い)・きよ(い)</li>
+          </ul>
+          <br/>
+          <h3>壊</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 괴 - カイ・エ</li>
+            <li>훈: 무너지다, 부수다 - こわ(す)・こわ(れる)・やぶ(る)・やぶ(れる)</li>
+          </ul>
+          <br/>
+          <h3>宜</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 마땅 - よろ(しい)・よ(い)・むべ・よろ(しく…べし)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

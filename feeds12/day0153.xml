@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>皿</h3>
+          <ul>
+            <li>8급 (부수:皿)</li>
+            <li>음: 명 - ベイ</li>
+            <li>훈: 접시 - さら</li>
+          </ul>
+          <br/>
+          <h3>映</h3>
+          <ul>
+            <li>5급 (부수:日)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 비치다, 빛나다 - うつ(る)・うつ(す)・は(える)・は(やす)</li>
+          </ul>
+          <br/>
+          <h3>族</h3>
+          <ul>
+            <li>8급 (부수:方)</li>
+            <li>음: 족 - ゾク</li>
+            <li>훈: 겨례 - やから</li>
+          </ul>
+          <br/>
+          <h3>芽</h3>
+          <ul>
+            <li>7급 (부수:艸)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 싹 - め・めぐ(む)</li>
+          </ul>
+          <br/>
+          <h3>孝</h3>
+          <ul>
+            <li>5급 (부수:子)</li>
+            <li>음: 효 - コウ・キョウ</li>
+            <li>훈: 효도 - 無し</li>
+          </ul>
+          <br/>
+          <h3>災</h3>
+          <ul>
+            <li>6급 (부수:火)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재앙 - わざわ(い)</li>
+          </ul>
+          <br/>
+          <h3>賦</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부세 - みつぎ・わか(つ)</li>
+          </ul>
+          <br/>
+          <h3>焦</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 타다, 그을다, 안달하다 - こ(げる)・こ(がす)・こ(がれる)・あせ(る)・や(く)・じ(らす)・じ(れる)</li>
+          </ul>
+          <br/>
+          <h3>債</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 채 - サイ</li>
+            <li>훈: 빚 - か(り)・か(し)</li>
+          </ul>
+          <br/>
+          <h3>雇</h3>
+          <ul>
+            <li>3급 (부수:隹)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 고용하다 - やと(う)</li>
+          </ul>
+          <br/>
+          <h3>埋</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 매 - マイ</li>
+            <li>훈: 묻다 - う(める)・う(まる)・う(もれる)・うず(もれる)・うず(まる)・い(ける)</li>
+          </ul>
+          <br/>
+          <h3>皆</h3>
+          <ul>
+            <li>4급 (부수:白)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 모두 - みな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

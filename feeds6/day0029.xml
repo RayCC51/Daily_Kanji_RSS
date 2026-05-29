@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>所</h3>
+          <ul>
+            <li>8급 (부수:戸)</li>
+            <li>음: 소 - ショ・ソ</li>
+            <li>훈: 장소 - ところ</li>
+          </ul>
+          <br/>
+          <h3>選</h3>
+          <ul>
+            <li>7급 (부수:辵)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 고르다 - えら(ぶ)・え(る)・よ(る)・すぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>強</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 강 - キョウ・コウ</li>
+            <li>훈: 강하다, 강요하다 - つよ(い)・つよ(まる)・つよ(める)・し(いる)・こわ(い)・したた(か)・つと(める)</li>
+          </ul>
+          <br/>
+          <h3>伺</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 여쭙다 - うかが(う)</li>
+          </ul>
+          <br/>
+          <h3>滝</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 롱 - ロウ</li>
+            <li>훈: 적시다 - たき</li>
+          </ul>
+          <br/>
+          <h3>括</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 괄 - カツ</li>
+            <li>훈: 묶다 - くく(る)・くび(る)・くび(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

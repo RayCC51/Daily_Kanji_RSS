@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>料</h3>
+          <ul>
+            <li>7급 (부수:斗)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 요금, 재료 - はか(る)</li>
+          </ul>
+          <br/>
+          <h3>測</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 측 - ソク</li>
+            <li>훈: 측정하다 - はか(る)</li>
+          </ul>
+          <br/>
+          <h3>校</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 교 - コウ・キョウ</li>
+            <li>훈: 학교 - くら(べる)・かんが(える)・かせ・あぜ</li>
+          </ul>
+          <br/>
+          <h3>墨</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 묵 - ボク・モク</li>
+            <li>훈: 먹 - すみ</li>
+          </ul>
+          <br/>
+          <h3>宰</h3>
+          <ul>
+            <li>2.5급 (부수:宀)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 재상 - つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>陵</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 릉 - リョウ</li>
+            <li>훈: 언덕 - みささぎ・おか・しの(ぐ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

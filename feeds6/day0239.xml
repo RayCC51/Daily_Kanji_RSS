@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>態</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 태 - タイ・テイ</li>
+            <li>훈: 모습 - さま・わざ(と)</li>
+          </ul>
+          <br/>
+          <h3>人</h3>
+          <ul>
+            <li>10급 (부수:人)</li>
+            <li>음: 인 - ジン・ニン</li>
+            <li>훈: 사람 - ひと</li>
+          </ul>
+          <br/>
+          <h3>郷</h3>
+          <ul>
+            <li>5급 (부수:邑)</li>
+            <li>음: 향 - キョウ・ゴウ</li>
+            <li>훈: 시골 - さと</li>
+          </ul>
+          <br/>
+          <h3>肯</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 긍 - コウ</li>
+            <li>훈: 긍정 - うなず(く)・がえん(じる)・うべな(う)・あ(えて)</li>
+          </ul>
+          <br/>
+          <h3>稲</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 벼 - いね・いな</li>
+          </ul>
+          <br/>
+          <h3>抗</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 저항 - あらが(う)・はりあ(う)・ふせ(ぐ)・こば(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

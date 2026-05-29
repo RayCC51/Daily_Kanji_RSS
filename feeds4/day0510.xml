@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>警</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 경계하다 - いまし(める)</li>
+          </ul>
+          <br/>
+          <h3>服</h3>
+          <ul>
+            <li>8급 (부수:月)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 옷 - きもの・き(る)・したが(う)・の(む)</li>
+          </ul>
+          <br/>
+          <h3>賊</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 적 - ゾク</li>
+            <li>훈: 도둑 - そこ(なう)・わるもの</li>
+          </ul>
+          <br/>
+          <h3>奥</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 오 - オウ</li>
+            <li>훈: 속, 부인 - おく・くま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

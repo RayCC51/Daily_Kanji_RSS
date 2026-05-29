@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>絹</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 비단 - きぬ</li>
+          </ul>
+          <br/>
+          <h3>活</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 활 - カツ</li>
+            <li>훈: 살다 - い(きる)・い(ける)・い(かす)</li>
+          </ul>
+          <br/>
+          <h3>型</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 형 - ケイ</li>
+            <li>훈: 형식, 모형 - かた</li>
+          </ul>
+          <br/>
+          <h3>鶴</h3>
+          <ul>
+            <li>2급 (부수:鳥)</li>
+            <li>음: 학 - カク</li>
+            <li>훈: 학 - つる</li>
+          </ul>
+          <br/>
+          <h3>悟</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 깨닫다 - さと(る)</li>
+          </ul>
+          <br/>
+          <h3>魅</h3>
+          <ul>
+            <li>3급 (부수:鬼)</li>
+            <li>음: 매 - ミ・ビ</li>
+            <li>훈: 매혹하다 - もののけ・すだま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

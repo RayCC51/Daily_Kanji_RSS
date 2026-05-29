@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>辞</h3>
+          <ul>
+            <li>7급 (부수:辛)</li>
+            <li>음: 사 - ジ</li>
+            <li>훈: 말씀, 그만두다 - や(める)・ことば・ことわる</li>
+          </ul>
+          <br/>
+          <h3>吸</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 흡 - キュウ</li>
+            <li>훈: 마시다 - す(う)</li>
+          </ul>
+          <br/>
+          <h3>平</h3>
+          <ul>
+            <li>8급 (부수:干)</li>
+            <li>음: 평 - ヘイ・ビョウ・ヒョウ</li>
+            <li>훈: 평평함 - たい(ら)・ひら</li>
+          </ul>
+          <br/>
+          <h3>畏</h3>
+          <ul>
+            <li>2급 (부수:田)</li>
+            <li>음: 외 - イ</li>
+            <li>훈: 두려워하다 - おそ(れる)・かしこ(い)・かしこ(まる)</li>
+          </ul>
+          <br/>
+          <h3>邸</h3>
+          <ul>
+            <li>2.5급 (부수:邑)</li>
+            <li>음: 저 - テイ</li>
+            <li>훈: 집 - やしき</li>
+          </ul>
+          <br/>
+          <h3>叫</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 규 - キョウ</li>
+            <li>훈: 외치다 - さけ(ぶ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

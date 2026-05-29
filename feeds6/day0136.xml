@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>台</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 대, 태 - ダイ・タイ</li>
+            <li>훈: 대, 태 - うてな・しもべ</li>
+          </ul>
+          <br/>
+          <h3>七</h3>
+          <ul>
+            <li>10급 (부수:一)</li>
+            <li>음: 칠 - シチ・シツ</li>
+            <li>훈: 7, 일곱 - なな・なな(つ)・なの</li>
+          </ul>
+          <br/>
+          <h3>書</h3>
+          <ul>
+            <li>9급 (부수:曰)</li>
+            <li>음: 서 - ショ</li>
+            <li>훈: 글, 쓰다 - か(く)・ふみ</li>
+          </ul>
+          <br/>
+          <h3>鍛</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 단련하다 - きた(える)</li>
+          </ul>
+          <br/>
+          <h3>壱</h3>
+          <ul>
+            <li>4급 (부수:士)</li>
+            <li>음: 일 - イチ・イツ</li>
+            <li>훈: 1 - ひと(つ)</li>
+          </ul>
+          <br/>
+          <h3>窯</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 가마 - かま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

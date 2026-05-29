@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貨</h3>
+          <ul>
+            <li>7급 (부수:貝)</li>
+            <li>음: 화 - カ</li>
+            <li>훈: 재물 - たから</li>
+          </ul>
+          <br/>
+          <h3>黒</h3>
+          <ul>
+            <li>9급 (부수:黒)</li>
+            <li>음: 흑 - コク</li>
+            <li>훈: 검정 - くろ・くろ(い)</li>
+          </ul>
+          <br/>
+          <h3>毛</h3>
+          <ul>
+            <li>9급 (부수:毛)</li>
+            <li>음: 모 - モウ・ボウ</li>
+            <li>훈: 털 - け</li>
+          </ul>
+          <br/>
+          <h3>乾</h3>
+          <ul>
+            <li>4급 (부수:乙)</li>
+            <li>음: 건 - カン・ケン</li>
+            <li>훈: 마르다 - かわ(く)・かわ(かす)・ほ(す)・ひ・いぬい</li>
+          </ul>
+          <br/>
+          <h3>随</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 수 - ズイ</li>
+            <li>훈: 따르다 - したが(う)</li>
+          </ul>
+          <br/>
+          <h3>閲</h3>
+          <ul>
+            <li>3급 (부수:門)</li>
+            <li>음: 열 - エツ</li>
+            <li>훈: 보다 - けみ(する)・へ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

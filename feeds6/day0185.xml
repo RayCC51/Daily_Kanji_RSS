@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>畑</h3>
+          <ul>
+            <li>8급 (부수:田)</li>
+            <li>음: 전 - 無し</li>
+            <li>훈: 밭 - はた・はたけ</li>
+          </ul>
+          <br/>
+          <h3>鹿</h3>
+          <ul>
+            <li>7급 (부수:鹿)</li>
+            <li>음: 록 - ロク</li>
+            <li>훈: 사슴 - しか・か</li>
+          </ul>
+          <br/>
+          <h3>蔵</h3>
+          <ul>
+            <li>5급 (부수:艸)</li>
+            <li>음: 장 - ゾウ・ソウ</li>
+            <li>훈: 창고 - くら・おさ(める)・かく(れる)</li>
+          </ul>
+          <br/>
+          <h3>謙</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 겸 - ケン</li>
+            <li>훈: 겸손 - へりくだ(る)</li>
+          </ul>
+          <br/>
+          <h3>孔</h3>
+          <ul>
+            <li>3급 (부수:子)</li>
+            <li>음: 공 - コウ・ク</li>
+            <li>훈: 구멍 - あな・はなは(だ)</li>
+          </ul>
+          <br/>
+          <h3>昧</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 애매하다 - くら(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>真</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 진짜 - ま・まこと</li>
+          </ul>
+          <br/>
+          <h3>候</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 후 - コウ</li>
+            <li>훈: 후보, 기후 - そうろう・うかが(う)・ま(つ)・さぶら(う)</li>
+          </ul>
+          <br/>
+          <h3>漢</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한자 - おとこ・から</li>
+          </ul>
+          <br/>
+          <h3>図</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 도 - ズ・ト</li>
+            <li>훈: 그림 - はか(る)・え</li>
+          </ul>
+          <br/>
+          <h3>泳</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 헤엄치다 - およ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>兵</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 병 - ヘイ・ヒョウ</li>
+            <li>훈: 병사 - つわもの・いくさ</li>
+          </ul>
+          <br/>
+          <h3>狂</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 광 - キョウ</li>
+            <li>훈: 미치다 - くる(う)・くる(おしい)・ふ(れる)</li>
+          </ul>
+          <br/>
+          <h3>阻</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 막다 - はば(む)・けわ(しい)・へだ(たる)</li>
+          </ul>
+          <br/>
+          <h3>戻</h3>
+          <ul>
+            <li>2.5급 (부수:戸)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 되돌리다, 돌려주다 - もど(す)・もど(る)・もと(る)・いた(る)</li>
+          </ul>
+          <br/>
+          <h3>叫</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 규 - キョウ</li>
+            <li>훈: 외치다 - さけ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>鎖</h3>
+          <ul>
+            <li>4급 (부수:金)</li>
+            <li>음: 쇄 - サ</li>
+            <li>훈: 사슬 - くさり・とざ(す)・さ(す)</li>
+          </ul>
+          <br/>
+          <h3>舶</h3>
+          <ul>
+            <li>2.5급 (부수:舟)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 배 - おおぶね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

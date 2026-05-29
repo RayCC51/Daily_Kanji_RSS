@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>問</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 문 - モン・ブン</li>
+            <li>훈: 묻다 - と(う)・と(い)・とん・たず(ねる)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>鼻</h3>
+          <ul>
+            <li>8급 (부수:鼻)</li>
+            <li>음: 비 - ビ</li>
+            <li>훈: 코 - はな・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>陽</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 볕, 해 - ひ・ひなた・いつわ(る)</li>
+          </ul>
+          <br/>
+          <h3>訴</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 소 - ソ</li>
+            <li>훈: 호소하다 - うった(える)</li>
+          </ul>
+          <br/>
+          <h3>堤</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 제 - テイ</li>
+            <li>훈: 둑 - つつみ</li>
+          </ul>
+          <br/>
+          <h3>伏</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 복 - フク・ブク</li>
+            <li>훈: 숙이다, 숨기다 - ふ(せる)・ふ(す)・かく(れる)・したが(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

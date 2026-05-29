@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>店</h3>
+          <ul>
+            <li>9급 (부수:广)</li>
+            <li>음: 점 - テン</li>
+            <li>훈: 가게 - みせ・たな</li>
+          </ul>
+          <br/>
+          <h3>球</h3>
+          <ul>
+            <li>8급 (부수:玉)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 공 - たま</li>
+          </ul>
+          <br/>
+          <h3>曜</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 요 - ヨウ</li>
+            <li>훈: 요일 - かがや(く)</li>
+          </ul>
+          <br/>
+          <h3>刊</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 새기다 - けず(る)・きざ(む)</li>
+          </ul>
+          <br/>
+          <h3>奮</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 떨치다 - ふる(う)</li>
+          </ul>
+          <br/>
+          <h3>量</h3>
+          <ul>
+            <li>7급 (부수:里)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 양, 재다 - はか(る)・かさ・ちから</li>
+          </ul>
+          <br/>
+          <h3>抵</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 저 - テイ・シ</li>
+            <li>훈: 막다 - あ(たる)・ふ(れる)・う(つ)</li>
+          </ul>
+          <br/>
+          <h3>渋</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 삽 - ジュウ・シュウ</li>
+            <li>훈: 떫다, 원활하지 않다 - しぶ・しぶ(い)・しぶ(る)</li>
+          </ul>
+          <br/>
+          <h3>芋</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 토란 - いも</li>
+          </ul>
+          <br/>
+          <h3>蚊</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 문 - ブン</li>
+            <li>훈: 모기 - か</li>
+          </ul>
+          <br/>
+          <h3>朕</h3>
+          <ul>
+            <li>2.5급 (부수:月)</li>
+            <li>음: 짐 - チン</li>
+            <li>훈: 나 - われ・きざ(し)</li>
+          </ul>
+          <br/>
+          <h3>影</h3>
+          <ul>
+            <li>4급 (부수:彡)</li>
+            <li>음: 영 - エイ・ヨウ</li>
+            <li>훈: 그림자 - かげ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>種</h3>
+          <ul>
+            <li>7급 (부수:禾)</li>
+            <li>음: 종 - シュ・ショウ</li>
+            <li>훈: 씨앗, 종류 - たね・う(える)・くさ</li>
+          </ul>
+          <br/>
+          <h3>年</h3>
+          <ul>
+            <li>10급 (부수:干)</li>
+            <li>음: 년 - ネン</li>
+            <li>훈: 해, 나이 - とし・とせ</li>
+          </ul>
+          <br/>
+          <h3>把</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 파 - ハ</li>
+            <li>훈: 잡다 - と(る)・にぎ(る)</li>
+          </ul>
+          <br/>
+          <h3>俸</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 봉급 - ふち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

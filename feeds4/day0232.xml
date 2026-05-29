@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>亡</h3>
+          <ul>
+            <li>5급 (부수:亠)</li>
+            <li>음: 망 - ボウ・モウ・ム・ブ</li>
+            <li>훈: 죽다 - な(い)・ほろ(びる)・うしな(う)・に(げる)</li>
+          </ul>
+          <br/>
+          <h3>激</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 격 - ゲキ</li>
+            <li>훈: 심하다 - はげ(しい)・はげ(ます)</li>
+          </ul>
+          <br/>
+          <h3>狩</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 수 - シュ</li>
+            <li>훈: 사냥하다 - か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>卓</h3>
+          <ul>
+            <li>3급 (부수:十)</li>
+            <li>음: 탁 - タク・シツ</li>
+            <li>훈: 책상 - つくえ・すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>給</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 주다 - たま(う)・たまわ(る)</li>
+          </ul>
+          <br/>
+          <h3>熱</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 열 - ネツ</li>
+            <li>훈: 열, 뜨겁다 - あつ(い)・ほて(る)・いき(る)・ほとぼり</li>
+          </ul>
+          <br/>
+          <h3>柄</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 몸집, 품위, 자루 - がら・え・つか・いきお(い)</li>
+          </ul>
+          <br/>
+          <h3>違</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 다르다, 위반하다 - ちが(う)・ちが(える)・たが(う)・たが(える)・さ(る)・よこしま・か(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

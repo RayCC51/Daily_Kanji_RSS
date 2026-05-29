@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>昨</h3>
+          <ul>
+            <li>7급 (부수:日)</li>
+            <li>음: 작 - サク</li>
+            <li>훈: 어제 - きのう</li>
+          </ul>
+          <br/>
+          <h3>代</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 대 - ダイ・タイ</li>
+            <li>훈: 대신하다 - か(わる)・か(える)・よ・しろ</li>
+          </ul>
+          <br/>
+          <h3>冒</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 모 - ボウ・ボク・モウ</li>
+            <li>훈: 무릅쓰다 - おか(す)・おお(う)・むさぼ(る)・ねた(む)</li>
+          </ul>
+          <br/>
+          <h3>屯</h3>
+          <ul>
+            <li>2.5급 (부수:屮)</li>
+            <li>음: 둔 - トン・チュン</li>
+            <li>훈: 두다 - たむろ・なや(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

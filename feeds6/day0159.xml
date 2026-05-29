@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>略</h3>
+          <ul>
+            <li>6급 (부수:田)</li>
+            <li>음: 략 - リャク</li>
+            <li>훈: 줄이다 - はか(る)・はかりごと・おか(す)・はぶ(く)・ほぼ・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>階</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 등급 - きざはし・はしご・しな</li>
+          </ul>
+          <br/>
+          <h3>区</h3>
+          <ul>
+            <li>8급 (부수:匸)</li>
+            <li>음: 구 - ク</li>
+            <li>훈: 구역 - 無し</li>
+          </ul>
+          <br/>
+          <h3>紺</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 감 - コン</li>
+            <li>훈: 감색 - 無し</li>
+          </ul>
+          <br/>
+          <h3>衝</h3>
+          <ul>
+            <li>3급 (부수:行)</li>
+            <li>음: 충 - ショウ</li>
+            <li>훈: 찌르다, 부딪히다 - つ(く)</li>
+          </ul>
+          <br/>
+          <h3>雰</h3>
+          <ul>
+            <li>2.5급 (부수:雨)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 날리다 - きり</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

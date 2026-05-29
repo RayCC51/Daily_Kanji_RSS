@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>村</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 촌 - ソン</li>
+            <li>훈: 마을 - むら</li>
+          </ul>
+          <br/>
+          <h3>造</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 조 - ゾウ</li>
+            <li>훈: 만들다, 짓다 - つく(る)・いた(る)・な(る)・はじ(める)・みやつこ</li>
+          </ul>
+          <br/>
+          <h3>航</h3>
+          <ul>
+            <li>6급 (부수:舟)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 배 - わた(る)</li>
+          </ul>
+          <br/>
+          <h3>脂</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 기름 - あぶら・やに・べに</li>
+          </ul>
+          <br/>
+          <h3>浪</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 랑 - ロウ・ラン</li>
+            <li>훈: 파도 - なみ・みだ(りに)</li>
+          </ul>
+          <br/>
+          <h3>綱</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 밧줄 - つな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

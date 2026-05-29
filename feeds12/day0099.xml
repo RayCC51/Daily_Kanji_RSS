@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>尊</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 존 - ソン</li>
+            <li>훈: 귀중하다, 존중하다 - たっと(い)・とうと(い)・たっと(ぶ)・とうと(ぶ)・みこと</li>
+          </ul>
+          <br/>
+          <h3>美</h3>
+          <ul>
+            <li>8급 (부수:羊)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 아름답다 - うつく(しい)・よ(い)・ほ(める)</li>
+          </ul>
+          <br/>
+          <h3>卵</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 란 - ラン</li>
+            <li>훈: 계란, 알 - たまご</li>
+          </ul>
+          <br/>
+          <h3>近</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 근 - キン・コン</li>
+            <li>훈: 가깝다 - ちか(い)</li>
+          </ul>
+          <br/>
+          <h3>拾</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 습, 십 - シュウ・ジュウ</li>
+            <li>훈: 줍다, 10 - ひろ(う)・とお</li>
+          </ul>
+          <br/>
+          <h3>皮</h3>
+          <ul>
+            <li>8급 (부수:皮)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 가죽 - かわ</li>
+          </ul>
+          <br/>
+          <h3>稽</h3>
+          <ul>
+            <li>2급 (부수:禾)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 머무르다 - かんが(える)・とど(める)・とどこお(る)</li>
+          </ul>
+          <br/>
+          <h3>暦</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 력 - レキ・リャク</li>
+            <li>훈: 달력 - こよみ</li>
+          </ul>
+          <br/>
+          <h3>某</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 모 - ボウ</li>
+            <li>훈: 아무 - それがし・なにがし</li>
+          </ul>
+          <br/>
+          <h3>慰</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위로하다, 위안이 되다 - なぐさ(める)・なぐさ(む)</li>
+          </ul>
+          <br/>
+          <h3>畿</h3>
+          <ul>
+            <li>2급 (부수:田)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 수도 주변 - みやこ</li>
+          </ul>
+          <br/>
+          <h3>酎</h3>
+          <ul>
+            <li>2급 (부수:酉)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 술 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

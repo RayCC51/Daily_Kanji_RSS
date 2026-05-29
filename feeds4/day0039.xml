@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>泳</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 헤엄치다 - およ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>識</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 식 - シキ・シ・ショク</li>
+            <li>훈: 알다 - し(る)・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>巨</h3>
+          <ul>
+            <li>4급 (부수:工)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 크다 - おお(きい)・おお(い)</li>
+          </ul>
+          <br/>
+          <h3>娘</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 낭 - ジョウ・ニョウ</li>
+            <li>훈: 딸 - むすめ・こ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

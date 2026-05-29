@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>奏</h3>
+          <ul>
+            <li>5급 (부수:大)</li>
+            <li>음: 주 - ソウ</li>
+            <li>훈: 연주하다 - かな(でる)・すす(める)</li>
+          </ul>
+          <br/>
+          <h3>兆</h3>
+          <ul>
+            <li>7급 (부수:儿)</li>
+            <li>음: 조 - チョウ・ジョウ</li>
+            <li>훈: 1,000,000,000,000, 징조, 싹트다 - きざ(す)・きざ(し)・うらな(い)</li>
+          </ul>
+          <br/>
+          <h3>掛</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 괘 - 無し</li>
+            <li>훈: 걸다 - か(ける)・か(かる)・かかり</li>
+          </ul>
+          <br/>
+          <h3>邪</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 사 - ジャ・シャ・ヤ</li>
+            <li>훈: 간사하다 - よこしま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

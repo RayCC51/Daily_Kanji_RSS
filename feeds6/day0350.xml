@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>迎</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 영 - ゲイ・ギョウ・ゴウ</li>
+            <li>훈: 맞이하다 - むか(える)</li>
+          </ul>
+          <br/>
+          <h3>戴</h3>
+          <ul>
+            <li>2급 (부수:戈)</li>
+            <li>음: 대 - タイ</li>
+            <li>훈: 이다 - いただ(く)</li>
+          </ul>
+          <br/>
+          <h3>紳</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 띠 - おおおび</li>
+          </ul>
+          <br/>
+          <h3>凸</h3>
+          <ul>
+            <li>2.5급 (부수:凵)</li>
+            <li>음: 철 - トツ</li>
+            <li>훈: 볼록하다 - でこ</li>
+          </ul>
+          <br/>
+          <h3>鎌</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 겸 - レン</li>
+            <li>훈: 낫 - かま</li>
+          </ul>
+          <br/>
+          <h3>壇</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 단 - ダン・タン</li>
+            <li>훈: 단 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

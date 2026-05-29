@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>源</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 원 - ゲン</li>
+            <li>훈: 근원 - みなもと</li>
+          </ul>
+          <br/>
+          <h3>岐</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 기 - キ・ギ</li>
+            <li>훈: 갈림길 - わか(れる)・ちまた</li>
+          </ul>
+          <br/>
+          <h3>十</h3>
+          <ul>
+            <li>10급 (부수:十)</li>
+            <li>음: 십 - ジュウ・ジッ</li>
+            <li>훈: 10, 열 - とお・と</li>
+          </ul>
+          <br/>
+          <h3>項</h3>
+          <ul>
+            <li>4급 (부수:頁)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 항목 - うなじ</li>
+          </ul>
+          <br/>
+          <h3>押</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 압 - オウ</li>
+            <li>훈: 누르다 - お(す)・お(さえる)</li>
+          </ul>
+          <br/>
+          <h3>軟</h3>
+          <ul>
+            <li>2.5급 (부수:車)</li>
+            <li>음: 연 - ナン・ゼン・ネン</li>
+            <li>훈: 유연하다, 부드럽다 - やわ(らか)・やわ(らかい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

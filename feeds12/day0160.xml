@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>植</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 식 - ショク・チ</li>
+            <li>훈: 심다 - う(える)・う(わる)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>汽</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 김 - ゆげ</li>
+          </ul>
+          <br/>
+          <h3>声</h3>
+          <ul>
+            <li>9급 (부수:士)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 소리 - こえ・こわ</li>
+          </ul>
+          <br/>
+          <h3>減</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 감 - ゲン</li>
+            <li>훈: 빼다, 줄다 - へ(る)・へ(らす)</li>
+          </ul>
+          <br/>
+          <h3>運</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 운 - ウン</li>
+            <li>훈: 옮기다 - はこ(ぶ)・めぐ(る)・さだめ</li>
+          </ul>
+          <br/>
+          <h3>労</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 로 - ロウ</li>
+            <li>훈: 일, 위로하다, 치하하다 - はたら(く)・つか(れる)・いたわ(る)・ねぎら(う)</li>
+          </ul>
+          <br/>
+          <h3>掃</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 쓸다 - は(く)・はら(う)</li>
+          </ul>
+          <br/>
+          <h3>譲</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 양보하다, 주다 - ゆず(る)・せ(める)</li>
+          </ul>
+          <br/>
+          <h3>絞</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 짜다, 조르다, 죄이다 - しぼ(る)・し(める)・し(まる)・くび(る)</li>
+          </ul>
+          <br/>
+          <h3>漸</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 점 - ゼン・ザン</li>
+            <li>훈: 점차 - ようや(く)・すす(む)・やや</li>
+          </ul>
+          <br/>
+          <h3>遭</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 만나다 - あ(う)</li>
+          </ul>
+          <br/>
+          <h3>卸</h3>
+          <ul>
+            <li>3급 (부수:卩)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 도매하다 - おろ(す)・おろし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

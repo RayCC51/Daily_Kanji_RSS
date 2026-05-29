@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>河</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 물 - かわ</li>
+          </ul>
+          <br/>
+          <h3>梅</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 매화 - うめ</li>
+          </ul>
+          <br/>
+          <h3>液</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 액 - エキ</li>
+            <li>훈: 액체 - しる・わき</li>
+          </ul>
+          <br/>
+          <h3>頓</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 돈 - トン・トツ</li>
+            <li>훈: 조아리다 - ぬか(ずく)・とど(まる)・つまず(く)・くる(しむ)・つか(れる)・とみ(に)・ひたぶる</li>
+          </ul>
+          <br/>
+          <h3>憶</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 생각하다 - おぼ(える)・おも(う)</li>
+          </ul>
+          <br/>
+          <h3>帥</h3>
+          <ul>
+            <li>2.5급 (부수:巾)</li>
+            <li>음: 수 - スイ・ソツ</li>
+            <li>훈: 장수, 머리 - ひき(いる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

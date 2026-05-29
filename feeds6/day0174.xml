@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>約</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 약 - ヤク</li>
+            <li>훈: 약속 - ちか(う)・つづ(める)・つづま(やか)・つま(しい)</li>
+          </ul>
+          <br/>
+          <h3>古</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 옛, 오래되다 - ふる(い)・ふる(す)・いにしえ</li>
+          </ul>
+          <br/>
+          <h3>付</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 붙다 - つ(ける)・つ(く)・あた(える)</li>
+          </ul>
+          <br/>
+          <h3>卑</h3>
+          <ul>
+            <li>3급 (부수:十)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 미천하다, 경멸하다, 무시하다 - いや(しい)・いや(しむ)・いや(しめる)・ひく(い)</li>
+          </ul>
+          <br/>
+          <h3>彙</h3>
+          <ul>
+            <li>2급 (부수:彐)</li>
+            <li>음: 휘 - イ</li>
+            <li>훈: 무리 - あつ(める)・たぐい・はりねずみ</li>
+          </ul>
+          <br/>
+          <h3>凡</h3>
+          <ul>
+            <li>4급 (부수:几)</li>
+            <li>음: 범 - ボン・ハン</li>
+            <li>훈: 무릇 - すべ(て)・なみ・およ(そ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

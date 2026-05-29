@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>適</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 적 - テキ・セキ</li>
+            <li>훈: 맞다 - かな(う)・ゆ(く)・たまたま</li>
+          </ul>
+          <br/>
+          <h3>詩</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시 - うた</li>
+          </ul>
+          <br/>
+          <h3>住</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 주 - ジュウ</li>
+            <li>훈: 살다 - す(む)・す(まう)・とど(まる)</li>
+          </ul>
+          <br/>
+          <h3>薄</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 얇다, 연하다 - うす(い)・うす(める)・うす(まる)・うす(らぐ)・うす(れる)・せま(る)・すすき</li>
+          </ul>
+          <br/>
+          <h3>艶</h3>
+          <ul>
+            <li>2급 (부수:色)</li>
+            <li>음: 염 - エン</li>
+            <li>훈: 광택, 애교, 곱다 - つや・なまめ(かしい)・あで(やか)・うらや(む)</li>
+          </ul>
+          <br/>
+          <h3>嘲</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 조 - チョウ・トウ</li>
+            <li>훈: 비웃다 - あざけ(る)・からか(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

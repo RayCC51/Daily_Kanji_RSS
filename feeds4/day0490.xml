@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>砂</h3>
+          <ul>
+            <li>5급 (부수:石)</li>
+            <li>음: 사 - サ・シャ</li>
+            <li>훈: 모래 - すな・いさご</li>
+          </ul>
+          <br/>
+          <h3>飲</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 음 - イン・オン</li>
+            <li>훈: 마시다 - の(む)</li>
+          </ul>
+          <br/>
+          <h3>替</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 체 - タイ・テイ</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+          <h3>緩</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 완 - カン</li>
+            <li>훈: 느슨하다, 완화하다, 늦추다 - ゆる(い)・ゆる(やか)・ゆる(む)・ゆる(める)・ぬる(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

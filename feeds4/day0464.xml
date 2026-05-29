@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>起</h3>
+          <ul>
+            <li>8급 (부수:走)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 일어나다, 일으키다 - お(きる)・お(こる)・お(こす)・た(つ)</li>
+          </ul>
+          <br/>
+          <h3>容</h3>
+          <ul>
+            <li>6급 (부수:宀)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 얼굴 - かたち・い(れる)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>壌</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 흙 - つち</li>
+          </ul>
+          <br/>
+          <h3>訟</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 송 - ショウ・ジュ</li>
+            <li>훈: 소송 - うった(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

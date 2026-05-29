@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>香</h3>
+          <ul>
+            <li>7급 (부수:香)</li>
+            <li>음: 향 - コウ・キョウ</li>
+            <li>훈: 향기, 향기나다 - か・かお(り)・かお(る)・かんば(しい)</li>
+          </ul>
+          <br/>
+          <h3>周</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 주 - シュウ・ス</li>
+            <li>훈: 주위 - まわ(り)・めぐ(る)・あまね(く)</li>
+          </ul>
+          <br/>
+          <h3>情</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 정 - ジョウ・セイ</li>
+            <li>훈: 정 - なさ(け)・こころ・おもむき</li>
+          </ul>
+          <br/>
+          <h3>唄</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 패 - バイ</li>
+            <li>훈: 노래 - うた</li>
+          </ul>
+          <br/>
+          <h3>猟</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 렵 - リョウ</li>
+            <li>훈: 사냥 - か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>錠</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 정 - ジョウ・テイ</li>
+            <li>훈: 덩이 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

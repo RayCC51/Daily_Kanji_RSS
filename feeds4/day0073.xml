@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>統</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 통 - トウ</li>
+            <li>훈: 총괄하다 - す(べる)・おさ(める)・すじ</li>
+          </ul>
+          <br/>
+          <h3>敬</h3>
+          <ul>
+            <li>5급 (부수:攵)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 존경하다 - うやま(う)・つつし(む)</li>
+          </ul>
+          <br/>
+          <h3>窒</h3>
+          <ul>
+            <li>3급 (부수:穴)</li>
+            <li>음: 질 - チツ</li>
+            <li>훈: 막히다 - ふさ(がる)</li>
+          </ul>
+          <br/>
+          <h3>与</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 여 - ヨ</li>
+            <li>훈: 주다 - あた(える)・くみ(する)・あずか(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

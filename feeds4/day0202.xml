@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>税</h3>
+          <ul>
+            <li>6급 (부수:禾)</li>
+            <li>음: 세 - ゼイ・セイ</li>
+            <li>훈: 세금 - みつぎ</li>
+          </ul>
+          <br/>
+          <h3>枚</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 매 - マイ・バイ</li>
+            <li>훈: 낱, 장 - ひら</li>
+          </ul>
+          <br/>
+          <h3>粋</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 순수, 세련되다 - いき</li>
+          </ul>
+          <br/>
+          <h3>懸</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 현 - ケン・ケ</li>
+            <li>훈: 걸다 - か(ける)・か(かる)・へだ(たる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

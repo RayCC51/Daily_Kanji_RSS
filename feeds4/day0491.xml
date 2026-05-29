@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>洋</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 큰 바다, 서양 - うみ・なだ・ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>胸</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 흉 - キョウ</li>
+            <li>훈: 가슴 - むね・むな・こころ</li>
+          </ul>
+          <br/>
+          <h3>丘</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 언덕 - おか</li>
+          </ul>
+          <br/>
+          <h3>被</h3>
+          <ul>
+            <li>4급 (부수:衣)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 입다, 받다, 쓰다 - こうむ(る)・おお(う)・かぶ(る)・かぶ(せる)・かず(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

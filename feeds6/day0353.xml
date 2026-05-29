@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>奉</h3>
+          <ul>
+            <li>3급 (부수:大)</li>
+            <li>음: 봉 - ホウ・ブ</li>
+            <li>훈: 모시다, 받들다 - たてまつ(る)・まつ(る)・うけたまわ(る)</li>
+          </ul>
+          <br/>
+          <h3>譜</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 보 - フ</li>
+            <li>훈: 족보, 악보 - しる(す)・つづ(く)</li>
+          </ul>
+          <br/>
+          <h3>畜</h3>
+          <ul>
+            <li>3급 (부수:田)</li>
+            <li>음: 축 - チク・キク</li>
+            <li>훈: 짐승 - やしな(う)・か(う)・たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>燥</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 마르다 - かわ(く)・はしゃ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>嘆</h3>
+          <ul>
+            <li>4급 (부수:口)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 한탄하다 - なげ(く)・なげ(かわしい)</li>
+          </ul>
+          <br/>
+          <h3>抱</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 안다, 감싸다 - だ(く)・いだ(く)・かか(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

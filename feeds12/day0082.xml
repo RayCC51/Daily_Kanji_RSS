@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>効</h3>
+          <ul>
+            <li>6급 (부수:力)</li>
+            <li>음: 효 - コウ</li>
+            <li>훈: 효과 - き(く)・かい・いた(す)・なら(う)</li>
+          </ul>
+          <br/>
+          <h3>切</h3>
+          <ul>
+            <li>9급 (부수:刀)</li>
+            <li>음: 절, 체 - セツ・サイ</li>
+            <li>훈: 끊다, 자르다 - き(る)・き(れる)</li>
+          </ul>
+          <br/>
+          <h3>夫</h3>
+          <ul>
+            <li>7급 (부수:大)</li>
+            <li>음: 부 - フ・フウ・ブ</li>
+            <li>훈: 남편 - おっと・おとこ・それ</li>
+          </ul>
+          <br/>
+          <h3>混</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 혼 - コン</li>
+            <li>훈: 섞다, 붐비다 - ま(じる)・ま(ざる)・ま(ぜる)・こ(む)</li>
+          </ul>
+          <br/>
+          <h3>兄</h3>
+          <ul>
+            <li>9급 (부수:儿)</li>
+            <li>음: 형 - ケイ・キョウ</li>
+            <li>훈: 형, 오빠 - あに・え</li>
+          </ul>
+          <br/>
+          <h3>客</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 객 - キャク・カク</li>
+            <li>훈: 손님 - まろうど</li>
+          </ul>
+          <br/>
+          <h3>菊</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 국 - キク</li>
+            <li>훈: 국화 - 無し</li>
+          </ul>
+          <br/>
+          <h3>剖</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 부 - ボウ・ホウ</li>
+            <li>훈: 쪼개다 - わ(ける)・さ(く)</li>
+          </ul>
+          <br/>
+          <h3>嗅</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 후 - キュウ</li>
+            <li>훈: 냄새 맡다 - か(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>惜</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 석 - セキ・シャク</li>
+            <li>훈: 아깝다 - お(しい)・お(しむ)</li>
+          </ul>
+          <br/>
+          <h3>竜</h3>
+          <ul>
+            <li>2.5급 (부수:竜)</li>
+            <li>음: 룡 - リュウ・リョウ・リン</li>
+            <li>훈: 용 - たつ</li>
+          </ul>
+          <br/>
+          <h3>楼</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 루 - ロウ</li>
+            <li>훈: 다락 - たかどの・やぐら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

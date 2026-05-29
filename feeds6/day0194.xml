@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>末</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 말 - マツ・バツ</li>
+            <li>훈: 끝 - すえ・うら</li>
+          </ul>
+          <br/>
+          <h3>年</h3>
+          <ul>
+            <li>10급 (부수:干)</li>
+            <li>음: 년 - ネン</li>
+            <li>훈: 해, 나이 - とし・とせ</li>
+          </ul>
+          <br/>
+          <h3>欠</h3>
+          <ul>
+            <li>7급 (부수:欠)</li>
+            <li>음: 결 - ケツ</li>
+            <li>훈: 부족하다 - か(ける)・か(く)</li>
+          </ul>
+          <br/>
+          <h3>忙</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 바쁘다 - いそが(しい)・せわ(しい)</li>
+          </ul>
+          <br/>
+          <h3>鬱</h3>
+          <ul>
+            <li>2급 (부수:鬯)</li>
+            <li>음: 울 - ウツ</li>
+            <li>훈: 우울하다 - しげ(る)・ふさ(ぐ)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>昇</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 오르다 - のぼ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

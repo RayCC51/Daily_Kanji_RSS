@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>綿</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 면 - メン・ベン</li>
+            <li>훈: 솜, 목화 - わた・つら(なる)</li>
+          </ul>
+          <br/>
+          <h3>乳</h3>
+          <ul>
+            <li>5급 (부수:乙)</li>
+            <li>음: 유 - ニュウ・ジュ・ニュ</li>
+            <li>훈: 젖 - ちち・ち</li>
+          </ul>
+          <br/>
+          <h3>扇</h3>
+          <ul>
+            <li>4급 (부수:戸)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 부채 - おうぎ・あお(ぐ)・おだ(てる)</li>
+          </ul>
+          <br/>
+          <h3>稲</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 벼 - いね・いな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

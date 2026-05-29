@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拡</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 넑히다 - ひろ(がる)・ひろ(げる)</li>
+          </ul>
+          <br/>
+          <h3>祭</h3>
+          <ul>
+            <li>8급 (부수:示)</li>
+            <li>음: 제 - サイ</li>
+            <li>훈: 축제 - まつ(る)・まつ(り)</li>
+          </ul>
+          <br/>
+          <h3>板</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 판 - ハン・バン</li>
+            <li>훈: 판자 - いた</li>
+          </ul>
+          <br/>
+          <h3>拠</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 근거 - よ(る)・よりどころ</li>
+          </ul>
+          <br/>
+          <h3>睦</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 목 - ボク・モク</li>
+            <li>훈: 화목하다 - むつ(まじい)・むつ(む)・むつ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>璽</h3>
+          <ul>
+            <li>2.5급 (부수:玉)</li>
+            <li>음: 새 - ジ</li>
+            <li>훈: 옥새 - しるし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

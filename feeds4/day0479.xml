@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>千</h3>
+          <ul>
+            <li>10급 (부수:十)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 1000 - ち</li>
+          </ul>
+          <br/>
+          <h3>率</h3>
+          <ul>
+            <li>6급 (부수:玄)</li>
+            <li>음: 솔, 율 - ソツ・リツ・スイ・シュツ</li>
+            <li>훈: 이끌다, 비율 - ひき(いる)・したが(う)・おおむ(ね)・わりあい・かしら</li>
+          </ul>
+          <br/>
+          <h3>趣</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 취 - シュ・ソク</li>
+            <li>훈: 뜻, 멋, 느낌, 취향 - おもむき・おもむ(く)・うなが(す)</li>
+          </ul>
+          <br/>
+          <h3>渉</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 섭 - ショウ</li>
+            <li>훈: 건너다 - わた(る)・かか(わる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

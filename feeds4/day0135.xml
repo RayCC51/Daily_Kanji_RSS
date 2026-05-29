@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>液</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 액 - エキ</li>
+            <li>훈: 액체 - しる・わき</li>
+          </ul>
+          <br/>
+          <h3>魚</h3>
+          <ul>
+            <li>9급 (부수:魚)</li>
+            <li>음: 어 - ギョ</li>
+            <li>훈: 물고기 - うお・さかな</li>
+          </ul>
+          <br/>
+          <h3>殿</h3>
+          <ul>
+            <li>4급 (부수:殳)</li>
+            <li>음: 전 - デン・テン</li>
+            <li>훈: 높임말 - との・どの・しんがり</li>
+          </ul>
+          <br/>
+          <h3>潜</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 잠 - セン</li>
+            <li>훈: 숨다, 잠수하다 - ひそ(む)・もぐ(る)・くぐ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

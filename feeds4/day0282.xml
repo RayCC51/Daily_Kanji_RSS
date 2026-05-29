@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>録</h3>
+          <ul>
+            <li>7급 (부수:金)</li>
+            <li>음: 록 - ロク・リョク</li>
+            <li>훈: 기록 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>銅</h3>
+          <ul>
+            <li>6급 (부수:金)</li>
+            <li>음: 동 - ドウ</li>
+            <li>훈: 구리 - あかがね</li>
+          </ul>
+          <br/>
+          <h3>畜</h3>
+          <ul>
+            <li>3급 (부수:田)</li>
+            <li>음: 축 - チク・キク</li>
+            <li>훈: 짐승 - やしな(う)・か(う)・たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>鼓</h3>
+          <ul>
+            <li>4급 (부수:鼓)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 타악기, 울리다 - つづみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

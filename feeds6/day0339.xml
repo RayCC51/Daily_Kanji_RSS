@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>夏</h3>
+          <ul>
+            <li>9급 (부수:夂)</li>
+            <li>음: 하 - カ・ゲ</li>
+            <li>훈: 여름 - なつ</li>
+          </ul>
+          <br/>
+          <h3>場</h3>
+          <ul>
+            <li>9급 (부수:土)</li>
+            <li>음: 장 - ジョウ</li>
+            <li>훈: 마당 - ば</li>
+          </ul>
+          <br/>
+          <h3>視</h3>
+          <ul>
+            <li>5급 (부수:見)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 보다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>如</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 여 - ジョ・ニョ</li>
+            <li>훈: 같다 - し(く)・ごと(し)・ゆ(く)・も(し)</li>
+          </ul>
+          <br/>
+          <h3>耗</h3>
+          <ul>
+            <li>2.5급 (부수:耒)</li>
+            <li>음: 모 - モウ・コウ</li>
+            <li>훈: 소모 - へ(る)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>虹</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 홍 - コウ</li>
+            <li>훈: 무지개 - にじ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

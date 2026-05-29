@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宣</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 베풀다 - の(べる)・のたま(う)</li>
+          </ul>
+          <br/>
+          <h3>安</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 안 - アン</li>
+            <li>훈: 편하다, 싸다 - やす(い)・やす(んじる)・いずく(んぞ)</li>
+          </ul>
+          <br/>
+          <h3>施</h3>
+          <ul>
+            <li>3급 (부수:方)</li>
+            <li>음: 시 - シ・セ</li>
+            <li>훈: 베풀다 - ほどこ(す)・し(く)</li>
+          </ul>
+          <br/>
+          <h3>紋</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 문 - モン・ブン</li>
+            <li>훈: 무늬 - あや</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

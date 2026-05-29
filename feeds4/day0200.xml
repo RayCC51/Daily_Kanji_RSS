@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>因</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 원인 - よ(る)・ちな(む)・ちなみ・よすが</li>
+          </ul>
+          <br/>
+          <h3>能</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 능 - ノウ</li>
+            <li>훈: 능력 - あた(う)・よ(く)・よ(くする)・はたら(き)</li>
+          </ul>
+          <br/>
+          <h3>訃</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부고 - つ(げる)・し(らせ)</li>
+          </ul>
+          <br/>
+          <h3>珍</h3>
+          <ul>
+            <li>4급 (부수:玉)</li>
+            <li>음: 진 - チン</li>
+            <li>훈: 드물다 - めずら(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

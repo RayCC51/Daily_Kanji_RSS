@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>刊</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 새기다 - けず(る)・きざ(む)</li>
+          </ul>
+          <br/>
+          <h3>倉</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 창고 - くら・にわ(か)</li>
+          </ul>
+          <br/>
+          <h3>款</h3>
+          <ul>
+            <li>2.5급 (부수:欠)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 항목 - まこと・よろこ(ぶ)・たた(く)・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>冶</h3>
+          <ul>
+            <li>2급 (부수:冫)</li>
+            <li>음: 야 - ヤ</li>
+            <li>훈: 제련 - と(ける)・い(る)・なまめ(かしい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

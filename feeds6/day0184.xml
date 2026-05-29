@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>構</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 구 - コウ</li>
+            <li>훈: 상관하다, 준비하다 - かま(える)・かま(う)</li>
+          </ul>
+          <br/>
+          <h3>家</h3>
+          <ul>
+            <li>9급 (부수:宀)</li>
+            <li>음: 가 - カ・ケ</li>
+            <li>훈: 집 - いえ・や・うち</li>
+          </ul>
+          <br/>
+          <h3>丸</h3>
+          <ul>
+            <li>9급 (부수:丶)</li>
+            <li>음: 환 - ガン</li>
+            <li>훈: 통째로, 둥글다 - まる・まる(い)・まる(める)・たま</li>
+          </ul>
+          <br/>
+          <h3>雌</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 암컷 - め・めす・めん</li>
+          </ul>
+          <br/>
+          <h3>併</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 합치다 - あわ(せる)・なら(ぶ)・しか(し)</li>
+          </ul>
+          <br/>
+          <h3>封</h3>
+          <ul>
+            <li>3급 (부수:寸)</li>
+            <li>음: 봉 - フウ・ホウ</li>
+            <li>훈: 봉하다 - と(じる)・さかい・ポンド</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>弓</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 궁 - キュウ</li>
+            <li>훈: 활 - ゆみ</li>
+          </ul>
+          <br/>
+          <h3>忠</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 충성 - まごころ</li>
+          </ul>
+          <br/>
+          <h3>群</h3>
+          <ul>
+            <li>7급 (부수:羊)</li>
+            <li>음: 군 - グン</li>
+            <li>훈: 무리, 모이다 - む(れる)・む(れ)・むら</li>
+          </ul>
+          <br/>
+          <h3>浸</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 담그다, 잠기다 - ひた(す)・ひた(る)・つ(く)・つ(かる)・し(みる)</li>
+          </ul>
+          <br/>
+          <h3>飢</h3>
+          <ul>
+            <li>2.5급 (부수:食)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 굶주리다 - う(える)</li>
+          </ul>
+          <br/>
+          <h3>越</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 월 - エツ・オチ・オツ</li>
+            <li>훈: 넘다 - こ(す)・こ(える)・こし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>例</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 례 - レイ</li>
+            <li>훈: 예, 예를 들다 - たと(える)・たぐい・ためし</li>
+          </ul>
+          <br/>
+          <h3>障</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 거슬리다 - さわ(る)・へだ(てる)・ふせ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>瘍</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 헐다 - かさ・できもの</li>
+          </ul>
+          <br/>
+          <h3>殴</h3>
+          <ul>
+            <li>3급 (부수:殳)</li>
+            <li>음: 구 - オウ</li>
+            <li>훈: 때리다 - なぐ(る)・う(つ)・たた(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

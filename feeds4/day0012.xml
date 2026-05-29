@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>駅</h3>
+          <ul>
+            <li>8급 (부수:馬)</li>
+            <li>음: 역 - エキ</li>
+            <li>훈: 정거장 - うまや</li>
+          </ul>
+          <br/>
+          <h3>展</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 펴다 - の(べる)・ひろ(げる)・つら(ねる)</li>
+          </ul>
+          <br/>
+          <h3>嚇</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 혁 - カク</li>
+            <li>훈: 성내다 - いか(る)・おど(す)・おど(かす)</li>
+          </ul>
+          <br/>
+          <h3>肯</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 긍 - コウ</li>
+            <li>훈: 긍정 - うなず(く)・がえん(じる)・うべな(う)・あ(えて)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

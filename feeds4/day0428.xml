@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>支</h3>
+          <ul>
+            <li>6급 (부수:支)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 버티다, 떠받치다 - ささ(える)・つか(える)・か(う)</li>
+          </ul>
+          <br/>
+          <h3>麦</h3>
+          <ul>
+            <li>9급 (부수:麦)</li>
+            <li>음: 맥 - バク</li>
+            <li>훈: 보리 - むぎ</li>
+          </ul>
+          <br/>
+          <h3>搾</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 착 - サク</li>
+            <li>훈: 짜내다, 착취하다 - しぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>拠</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 근거 - よ(る)・よりどころ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>級</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 등급 - しな・くび</li>
+          </ul>
+          <br/>
+          <h3>訪</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 방문하다 - おとず(れる)・たず(ねる)・と(う)・おとな(う)</li>
+          </ul>
+          <br/>
+          <h3>建</h3>
+          <ul>
+            <li>7급 (부수:廴)</li>
+            <li>음: 건 - ケン・コン</li>
+            <li>훈: 세우다, 짓다 - た(てる)・た(つ)・くつがえ(す)</li>
+          </ul>
+          <br/>
+          <h3>錦</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 금 - キン</li>
+            <li>훈: 비단 - にしき</li>
+          </ul>
+          <br/>
+          <h3>抑</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 억 - ヨク</li>
+            <li>훈: 누르다, 억제하다 - おさ(える)・ふさ(ぐ)・そもそも</li>
+          </ul>
+          <br/>
+          <h3>俊</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 준 - シュン</li>
+            <li>훈: 우수하다 - すぐ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

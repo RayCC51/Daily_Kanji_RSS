@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>史</h3>
+          <ul>
+            <li>6급 (부수:口)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 역사 - ふみ</li>
+          </ul>
+          <br/>
+          <h3>湯</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 탕 - トウ・ショウ</li>
+            <li>훈: 뜨거운 물 - ゆ</li>
+          </ul>
+          <br/>
+          <h3>配</h3>
+          <ul>
+            <li>8급 (부수:酉)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 나누다, 알다 - くば(る)・なら(ぶ)・つれあい・なが(す)</li>
+          </ul>
+          <br/>
+          <h3>雨</h3>
+          <ul>
+            <li>10급 (부수:雨)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 비 - あめ・あま</li>
+          </ul>
+          <br/>
+          <h3>休</h3>
+          <ul>
+            <li>10급 (부수:人)</li>
+            <li>음: 휴 - キュウ</li>
+            <li>훈: 쉬다 - やす(む)・やす(まる)・やす(める)・いこ(う)・や(める)・さいわ(い)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>時</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 시 - ジ</li>
+            <li>훈: 때, 시간 - とき</li>
+          </ul>
+          <br/>
+          <h3>透</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 투 - トウ</li>
+            <li>훈: 틈이 생기다, 비치다 - す(く)・す(かす)・す(ける)・とお(る)</li>
+          </ul>
+          <br/>
+          <h3>稼</h3>
+          <ul>
+            <li>2.5급 (부수:禾)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 돈을 벌다 - かせ(ぐ)・みの(り)・う(える)</li>
+          </ul>
+          <br/>
+          <h3>舷</h3>
+          <ul>
+            <li>2급 (부수:舟)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 뱃전 - ふなばた・ふなべり</li>
+          </ul>
+          <br/>
+          <h3>替</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 체 - タイ・テイ</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+          <h3>糧</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 량 - リョウ・ロウ</li>
+            <li>훈: 식량 - かて</li>
+          </ul>
+          <br/>
+          <h3>郊</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 변두리 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>向</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 향 - コウ・キョウ</li>
+            <li>훈: 향하다 - む(く)・む(ける)・む(かう)・む(こう)・さき(に)</li>
+          </ul>
+          <br/>
+          <h3>改</h3>
+          <ul>
+            <li>7급 (부수:攵)</li>
+            <li>음: 개 - カイ</li>
+            <li>훈: 고치다 - あらた(める)・あらた(まる)</li>
+          </ul>
+          <br/>
+          <h3>汁</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 즙 - ジュウ・シュウ</li>
+            <li>훈: 즙 - しる・つゆ</li>
+          </ul>
+          <br/>
+          <h3>妙</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 묘 - ミョウ・ビョウ</li>
+            <li>훈: 매우 뛰어난 - たえ・わか(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

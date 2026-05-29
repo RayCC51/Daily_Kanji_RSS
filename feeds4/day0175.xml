@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>馬</h3>
+          <ul>
+            <li>9급 (부수:馬)</li>
+            <li>음: 마 - バ・メ・マ</li>
+            <li>훈: 말 - うま・ま</li>
+          </ul>
+          <br/>
+          <h3>好</h3>
+          <ul>
+            <li>7급 (부수:女)</li>
+            <li>음: 호 - コウ</li>
+            <li>훈: 좋아하다 - この(む)・す(く)・よ(い)・よしみ</li>
+          </ul>
+          <br/>
+          <h3>晶</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 정 - ショウ</li>
+            <li>훈: 보석 - あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>猶</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 오히려 - なお・なお…(ごとし)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

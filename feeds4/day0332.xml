@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>将</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 장차, 장수 - ひき(いる)・まさ(に…す)・はた</li>
+          </ul>
+          <br/>
+          <h3>字</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 자 - ジ</li>
+            <li>훈: 글자 - あざ・あざな</li>
+          </ul>
+          <br/>
+          <h3>塗</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 도 - ト</li>
+            <li>훈: 칠하다 - ぬ(る)・どろ・まみ(れる)・まぶ(す)・みち</li>
+          </ul>
+          <br/>
+          <h3>猛</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 맹 - モウ</li>
+            <li>훈: 사납다 - たけ(し)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

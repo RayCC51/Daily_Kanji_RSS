@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>最</h3>
+          <ul>
+            <li>7급 (부수:曰)</li>
+            <li>음: 최 - サイ</li>
+            <li>훈: 가장 - もっと(も)・も</li>
+          </ul>
+          <br/>
+          <h3>子</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 자 - シ・ス</li>
+            <li>훈: 아들, 아이 - こ・み・おとこ・ね</li>
+          </ul>
+          <br/>
+          <h3>閣</h3>
+          <ul>
+            <li>5급 (부수:門)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 집 - たかどの・たな</li>
+          </ul>
+          <br/>
+          <h3>丼</h3>
+          <ul>
+            <li>2급 (부수:丶)</li>
+            <li>음: 정 - タン・トン</li>
+            <li>훈: 덮밥 - どんぶり・どん</li>
+          </ul>
+          <br/>
+          <h3>呉</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 주다 - くれ・く(れる)</li>
+          </ul>
+          <br/>
+          <h3>婚</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 혼 - コン</li>
+            <li>훈: 결혼 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

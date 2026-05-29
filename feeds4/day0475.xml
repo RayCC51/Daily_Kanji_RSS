@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>械</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 기계 - からくり・かせ</li>
+          </ul>
+          <br/>
+          <h3>金</h3>
+          <ul>
+            <li>10급 (부수:金)</li>
+            <li>음: 금, 김 - キン・コン</li>
+            <li>훈: 금, 돈 - かね・かな・こがね</li>
+          </ul>
+          <br/>
+          <h3>俺</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 엄 - エン</li>
+            <li>훈: 나 - おれ・われ</li>
+          </ul>
+          <br/>
+          <h3>澄</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 징 - チョウ</li>
+            <li>훈: 맑다 - す(む)・す(ます)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

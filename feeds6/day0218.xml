@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>無</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 무 - ム・ブ</li>
+            <li>훈: 없다, 잃다 - な(い)</li>
+          </ul>
+          <br/>
+          <h3>泣</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 읍 - キュウ</li>
+            <li>훈: 울다 - な(く)</li>
+          </ul>
+          <br/>
+          <h3>天</h3>
+          <ul>
+            <li>10급 (부수:大)</li>
+            <li>음: 천 - テン</li>
+            <li>훈: 하늘 - あめ・あま・そら</li>
+          </ul>
+          <br/>
+          <h3>冥</h3>
+          <ul>
+            <li>2급 (부수:冖)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 어둡다 - くら(い)</li>
+          </ul>
+          <br/>
+          <h3>陶</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 도 - トウ・ヨウ</li>
+            <li>훈: 흙 - すえ</li>
+          </ul>
+          <br/>
+          <h3>曇</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 담 - ドン・タン</li>
+            <li>훈: 흐리다 - くも(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

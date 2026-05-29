@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>速</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 속 - ソク</li>
+            <li>훈: 빠르다 - はや(い)・はや(める)・はや(まる)・すみ(やか)</li>
+          </ul>
+          <br/>
+          <h3>俵</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 가마니 - たわら</li>
+          </ul>
+          <br/>
+          <h3>潰</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 궤 - カイ</li>
+            <li>훈: 부수다, 무너지다 - つぶ(す)・つぶ(れる)・つい(える)・みだ(れる)</li>
+          </ul>
+          <br/>
+          <h3>脂</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 기름 - あぶら・やに・べに</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

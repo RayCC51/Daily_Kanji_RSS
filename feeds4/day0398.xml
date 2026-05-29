@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>像</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 상 - ゾウ・ショウ</li>
+            <li>훈: 모양 - かたち・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>勝</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 이기다, 우수하다 - か(つ)・まさ(る)・すぐ(れる)・た(える)</li>
+          </ul>
+          <br/>
+          <h3>蓄</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 축 - チク</li>
+            <li>훈: 비축하다, 모으다 - たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>貼</h3>
+          <ul>
+            <li>2급 (부수:貝)</li>
+            <li>음: 첩 - チョウ・テン</li>
+            <li>훈: 바르다 - は(る)・つ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

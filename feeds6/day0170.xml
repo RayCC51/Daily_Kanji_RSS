@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>土</h3>
+          <ul>
+            <li>10급 (부수:土)</li>
+            <li>음: 토 - ド・ト</li>
+            <li>훈: 흙 - つち</li>
+          </ul>
+          <br/>
+          <h3>垂</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 늘어지다 - た(れる)・た(らす)・しだ(れる)・しで・なんなん(とする)</li>
+          </ul>
+          <br/>
+          <h3>異</h3>
+          <ul>
+            <li>5급 (부수:田)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 다르다 - こと・あや(しい)</li>
+          </ul>
+          <br/>
+          <h3>柔</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 유 - ジョウ・ニュウ</li>
+            <li>훈: 부드럽다 - やわ(らか)・やわ(らかい)・やさ(しい)・やわ(らげる)</li>
+          </ul>
+          <br/>
+          <h3>邪</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 사 - ジャ・シャ・ヤ</li>
+            <li>훈: 간사하다 - よこしま</li>
+          </ul>
+          <br/>
+          <h3>儀</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 의례 - のり・よ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

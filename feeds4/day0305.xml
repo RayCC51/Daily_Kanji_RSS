@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>豊</h3>
+          <ul>
+            <li>6급 (부수:豆)</li>
+            <li>음: 풍 - ホウ</li>
+            <li>훈: 풍부함 - ゆた(か)・とよ</li>
+          </ul>
+          <br/>
+          <h3>易</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 역, 이 - エキ・イ</li>
+            <li>훈: 쉽다, 바꿈 - やさ(しい)・か(える)・か(わる)・やす(い)・あなど(る)</li>
+          </ul>
+          <br/>
+          <h3>峠</h3>
+          <ul>
+            <li>4급 (부수:山)</li>
+            <li>음: 상 - 無し</li>
+            <li>훈: 고개 - とうげ</li>
+          </ul>
+          <br/>
+          <h3>悔</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 회 - カイ・ケ</li>
+            <li>훈: 후회하다, 뉘우치다, 분하다 - く(いる)・く(やむ)・くや(しい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>店</h3>
+          <ul>
+            <li>9급 (부수:广)</li>
+            <li>음: 점 - テン</li>
+            <li>훈: 가게 - みせ・たな</li>
+          </ul>
+          <br/>
+          <h3>賀</h3>
+          <ul>
+            <li>7급 (부수:貝)</li>
+            <li>음: 하 - ガ</li>
+            <li>훈: 축하 - よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>豪</h3>
+          <ul>
+            <li>4급 (부수:豕)</li>
+            <li>음: 호 - ゴウ・コウ</li>
+            <li>훈: 호걸 - つよ(い)・えら(い)</li>
+          </ul>
+          <br/>
+          <h3>窮</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 궁 - キュウ</li>
+            <li>훈: 끝까지 가다, 다하다 - きわ(める)・きわ(まる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

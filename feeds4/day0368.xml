@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>典</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 법 - ふみ・のり</li>
+          </ul>
+          <br/>
+          <h3>晴</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 청 - セイ</li>
+            <li>훈: 맑다 - は(れる)・は(らす)</li>
+          </ul>
+          <br/>
+          <h3>伏</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 복 - フク・ブク</li>
+            <li>훈: 숙이다, 숨기다 - ふ(せる)・ふ(す)・かく(れる)・したが(う)</li>
+          </ul>
+          <br/>
+          <h3>疫</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 역 - エキ・ヤク</li>
+            <li>훈: 전염병 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

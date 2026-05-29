@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>女</h3>
+          <ul>
+            <li>10급 (부수:女)</li>
+            <li>음: 녀 - ジョ・ニョ・ニョウ</li>
+            <li>훈: 여자 - おんな・め・むすめ・めあ(わせる)・なんじ</li>
+          </ul>
+          <br/>
+          <h3>追</h3>
+          <ul>
+            <li>8급 (부수:辵)</li>
+            <li>음: 추 - ツイ</li>
+            <li>훈: 쫓다 - お(う)</li>
+          </ul>
+          <br/>
+          <h3>折</h3>
+          <ul>
+            <li>7급 (부수:手)</li>
+            <li>음: 절 - セツ・シャク</li>
+            <li>훈: 꺾다 - お(る)・おり・お(れる)・くじ(ける)・さだ(める)</li>
+          </ul>
+          <br/>
+          <h3>怒</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 노 - ド・ヌ</li>
+            <li>훈: 화내다 - いか(る)・おこ(る)</li>
+          </ul>
+          <br/>
+          <h3>痢</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 병 - 無し</li>
+          </ul>
+          <br/>
+          <h3>寂</h3>
+          <ul>
+            <li>4급 (부수:宀)</li>
+            <li>음: 적 - ジャク・セキ</li>
+            <li>훈: 쓸쓸하다 - さび・さび(しい)・さび(れる)・さ(びる)・しず(か)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>権</h3>
+          <ul>
+            <li>5급 (부수:木)</li>
+            <li>음: 권 - ケン・ゴン</li>
+            <li>훈: 권리 - いきお(い)・おもり・はか(る)・かり</li>
+          </ul>
+          <br/>
+          <h3>拾</h3>
+          <ul>
+            <li>8급 (부수:手)</li>
+            <li>음: 습, 십 - シュウ・ジュウ</li>
+            <li>훈: 줍다, 10 - ひろ(う)・とお</li>
+          </ul>
+          <br/>
+          <h3>彼</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 그, 그녀, 남자친구, 여자친구 - かれ・かの</li>
+          </ul>
+          <br/>
+          <h3>匂</h3>
+          <ul>
+            <li>2급 (부수:勹)</li>
+            <li>음: 내 - 無し</li>
+            <li>훈: 냄새 - にお(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

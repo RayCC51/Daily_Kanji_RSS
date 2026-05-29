@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>革</h3>
+          <ul>
+            <li>5급 (부수:革)</li>
+            <li>음: 혁 - カク</li>
+            <li>훈: 가죽, 혁명 - かわ・あらた(まる)・あらた(める)</li>
+          </ul>
+          <br/>
+          <h3>寺</h3>
+          <ul>
+            <li>9급 (부수:寸)</li>
+            <li>음: 사 - ジ</li>
+            <li>훈: 절 - てら</li>
+          </ul>
+          <br/>
+          <h3>丹</h3>
+          <ul>
+            <li>4급 (부수:丶)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 성심 - に・あか・まごころ</li>
+          </ul>
+          <br/>
+          <h3>錠</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 정 - ジョウ・テイ</li>
+            <li>훈: 덩이 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

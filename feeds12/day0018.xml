@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>冬</h3>
+          <ul>
+            <li>9급 (부수:冫)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 겨울 - ふゆ</li>
+          </ul>
+          <br/>
+          <h3>導</h3>
+          <ul>
+            <li>6급 (부수:寸)</li>
+            <li>음: 도 - ドウ</li>
+            <li>훈: 안내하다 - みちび(く)・しるべ</li>
+          </ul>
+          <br/>
+          <h3>算</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 셈 - かぞ(える)・かず</li>
+          </ul>
+          <br/>
+          <h3>卒</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 졸 - ソツ・シュツ</li>
+            <li>훈: 마침 - しもべ・お(わる)・お(える)・にわ(かに)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>承</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 듣다, 받다 - うけたまわ(る)・う(ける)</li>
+          </ul>
+          <br/>
+          <h3>総</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 총 - ソウ</li>
+            <li>훈: 거느리다 - す(べる)・すべ(て)・ふさ</li>
+          </ul>
+          <br/>
+          <h3>握</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 악 - アク</li>
+            <li>훈: 쥐다, 잡다 - にぎ(る)</li>
+          </ul>
+          <br/>
+          <h3>遂</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 이루다, 마침내 - と(げる)・おお(せる)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>唇</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 순 - シン</li>
+            <li>훈: 입술 - くちびる</li>
+          </ul>
+          <br/>
+          <h3>朽</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 후 - キュウ</li>
+            <li>훈: 썩다 - く(ちる)・すた(れる)</li>
+          </ul>
+          <br/>
+          <h3>襲</h3>
+          <ul>
+            <li>4급 (부수:衣)</li>
+            <li>음: 습 - シュウ</li>
+            <li>훈: 덮치다, 습격하다 - おそ(う)・つ(ぐ)・かさ(ねる)・かさね</li>
+          </ul>
+          <br/>
+          <h3>枠</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 화 - 無し</li>
+            <li>훈: 틀, 테두리 - わく</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

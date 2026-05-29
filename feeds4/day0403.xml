@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>院</h3>
+          <ul>
+            <li>8급 (부수:阜)</li>
+            <li>음: 원 - イン</li>
+            <li>훈: 집 - かき・かこい</li>
+          </ul>
+          <br/>
+          <h3>宇</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 집 - のき・いえ</li>
+          </ul>
+          <br/>
+          <h3>措</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 조치 - お(く)・はか(らう)</li>
+          </ul>
+          <br/>
+          <h3>擬</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 비기다, 비교하다 - なぞら(える)・はか(る)・まがい・もどき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

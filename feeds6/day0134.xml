@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>札</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 표 - ふだ・さね・わかじに</li>
+          </ul>
+          <br/>
+          <h3>冬</h3>
+          <ul>
+            <li>9급 (부수:冫)</li>
+            <li>음: 동 - トウ</li>
+            <li>훈: 겨울 - ふゆ</li>
+          </ul>
+          <br/>
+          <h3>討</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 토 - トウ</li>
+            <li>훈: 토의, 토벌하다 - う(つ)・たず(ねる)</li>
+          </ul>
+          <br/>
+          <h3>猿</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 원숭이 - さる・ましら</li>
+          </ul>
+          <br/>
+          <h3>椎</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 추 - ツイ・スイ</li>
+            <li>훈: 망치, 등골 - しい・つち・せぼね・う(つ)</li>
+          </ul>
+          <br/>
+          <h3>獄</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 옥 - ゴク</li>
+            <li>훈: 감옥 - ひとや・うった(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

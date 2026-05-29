@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>翌</h3>
+          <ul>
+            <li>5급 (부수:羽)</li>
+            <li>음: 익 - ヨク</li>
+            <li>훈: 다음 - 無し</li>
+          </ul>
+          <br/>
+          <h3>予</h3>
+          <ul>
+            <li>8급 (부수:亅)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 미리 - あらかじ(め)・かね(て)</li>
+          </ul>
+          <br/>
+          <h3>賠</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 배 - バイ</li>
+            <li>훈: 배상하다 - つぐな(う)</li>
+          </ul>
+          <br/>
+          <h3>刑</h3>
+          <ul>
+            <li>3급 (부수:刀)</li>
+            <li>음: 형 - ケイ・ギョウ</li>
+            <li>훈: 형벌 - しおき</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

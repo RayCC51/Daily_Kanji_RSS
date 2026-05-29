@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>往</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 가다 - ゆ(く)・いにしえ</li>
+          </ul>
+          <br/>
+          <h3>石</h3>
+          <ul>
+            <li>10급 (부수:石)</li>
+            <li>음: 석 - セキ・シャク・コク・ジャク</li>
+            <li>훈: 돌 - いし</li>
+          </ul>
+          <br/>
+          <h3>惨</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 참 - サン・ザン</li>
+            <li>훈: 비참하다 - みじ(め)・いた(む)・いた(ましい)・むご(い)</li>
+          </ul>
+          <br/>
+          <h3>踊</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 춤추다 - おど(る)・おど(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

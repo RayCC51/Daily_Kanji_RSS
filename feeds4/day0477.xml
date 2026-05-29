@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>風</h3>
+          <ul>
+            <li>9급 (부수:風)</li>
+            <li>음: 풍 - フウ・フ</li>
+            <li>훈: 바람 - かぜ・かざ・ならわし・すがた・ふり</li>
+          </ul>
+          <br/>
+          <h3>閉</h3>
+          <ul>
+            <li>5급 (부수:門)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 닫다 - と(じる)・と(ざす)・し(める)・し(まる)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>挑</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 도전하다 - いど(む)</li>
+          </ul>
+          <br/>
+          <h3>帝</h3>
+          <ul>
+            <li>3급 (부수:巾)</li>
+            <li>음: 제 - テイ・タイ</li>
+            <li>훈: 임금 - みかど</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

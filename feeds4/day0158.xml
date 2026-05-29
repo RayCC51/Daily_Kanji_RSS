@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>顔</h3>
+          <ul>
+            <li>9급 (부수:頁)</li>
+            <li>음: 안 - ガン</li>
+            <li>훈: 얼굴 - かお・かんばせ</li>
+          </ul>
+          <br/>
+          <h3>賃</h3>
+          <ul>
+            <li>5급 (부수:貝)</li>
+            <li>음: 임 - チン・ジン</li>
+            <li>훈: 품삯 - やと(う)</li>
+          </ul>
+          <br/>
+          <h3>篤</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 독 - トク</li>
+            <li>훈: 두터이 하다 - あつ(い)</li>
+          </ul>
+          <br/>
+          <h3>尋</h3>
+          <ul>
+            <li>4급 (부수:寸)</li>
+            <li>음: 심 - ジン</li>
+            <li>훈: 묻다 - たず(ねる)・つね・ひろ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

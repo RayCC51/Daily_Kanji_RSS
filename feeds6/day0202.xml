@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>能</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 능 - ノウ</li>
+            <li>훈: 능력 - あた(う)・よ(く)・よ(くする)・はたら(き)</li>
+          </ul>
+          <br/>
+          <h3>用</h3>
+          <ul>
+            <li>9급 (부수:用)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 사용하다 - もち(いる)・はたら(き)・もっ(て)</li>
+          </ul>
+          <br/>
+          <h3>法</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 법 - ホウ・ハッ・ホッ</li>
+            <li>훈: 법 - のり・のっと(る)・フラン</li>
+          </ul>
+          <br/>
+          <h3>廊</h3>
+          <ul>
+            <li>3급 (부수:广)</li>
+            <li>음: 랑 - ロウ</li>
+            <li>훈: 복도 - わたどの</li>
+          </ul>
+          <br/>
+          <h3>彼</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 그, 그녀, 남자친구, 여자친구 - かれ・かの</li>
+          </ul>
+          <br/>
+          <h3>到</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 이르다 - いた(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

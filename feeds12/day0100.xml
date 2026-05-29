@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>滋</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 자 - ジ・シ</li>
+            <li>훈: 불다 - し(げる)・ま(す)</li>
+          </ul>
+          <br/>
+          <h3>則</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 칙 - ソク</li>
+            <li>훈: 법칙 - のり・のっと(る)・すなわ(ち)</li>
+          </ul>
+          <br/>
+          <h3>個</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 개 - コ・カ</li>
+            <li>훈: 낱 - 無し</li>
+          </ul>
+          <br/>
+          <h3>国</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 국 - コク</li>
+            <li>훈: 나라 - くに</li>
+          </ul>
+          <br/>
+          <h3>窓</h3>
+          <ul>
+            <li>5급 (부수:穴)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 창문 - まど</li>
+          </ul>
+          <br/>
+          <h3>輪</h3>
+          <ul>
+            <li>7급 (부수:車)</li>
+            <li>음: 륜 - リン</li>
+            <li>훈: 바퀴 - わ</li>
+          </ul>
+          <br/>
+          <h3>痴</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 어리석다 - おろ(か)・し(れる)・おこ</li>
+          </ul>
+          <br/>
+          <h3>露</h3>
+          <ul>
+            <li>4급 (부수:雨)</li>
+            <li>음: 로 - ロ・ロウ</li>
+            <li>훈: 이슬, 드러내다 - つゆ・あらわ(れる)・あらわ</li>
+          </ul>
+          <br/>
+          <h3>陣</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 진 - ジン・チン</li>
+            <li>훈: 풀다 - じんだて</li>
+          </ul>
+          <br/>
+          <h3>謹</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 근 - キン</li>
+            <li>훈: 삼가다 - つつし(む)</li>
+          </ul>
+          <br/>
+          <h3>褒</h3>
+          <ul>
+            <li>2.5급 (부수:衣)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 기리다, 칭찬하다 - ほ(める)</li>
+          </ul>
+          <br/>
+          <h3>棺</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관 - ひつぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宇</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 집 - のき・いえ</li>
+          </ul>
+          <br/>
+          <h3>児</h3>
+          <ul>
+            <li>7급 (부수:儿)</li>
+            <li>음: 아 - ジ・ニ</li>
+            <li>훈: 아이 - こ</li>
+          </ul>
+          <br/>
+          <h3>解</h3>
+          <ul>
+            <li>6급 (부수:角)</li>
+            <li>음: 해 - カイ・ゲ</li>
+            <li>훈: 풀다 - と(く)・と(かす)・と(ける)・ほど(く)・ほど(ける)・ほぐ(れる)・ほつ(れる)・さと(る)・わか(る)</li>
+          </ul>
+          <br/>
+          <h3>晴</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 청 - セイ</li>
+            <li>훈: 맑다 - は(れる)・は(らす)</li>
+          </ul>
+          <br/>
+          <h3>音</h3>
+          <ul>
+            <li>10급 (부수:音)</li>
+            <li>음: 음 - オン・イン</li>
+            <li>훈: 소리 - おと・ね・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>対</h3>
+          <ul>
+            <li>8급 (부수:寸)</li>
+            <li>음: 대 - タイ・ツイ</li>
+            <li>훈: 대하다 - む(かう)・つれあい・こた(える)・そろ(い)</li>
+          </ul>
+          <br/>
+          <h3>飾</h3>
+          <ul>
+            <li>4급 (부수:食)</li>
+            <li>음: 식 - ショク</li>
+            <li>훈: 꾸미다 - かざ(る)</li>
+          </ul>
+          <br/>
+          <h3>粧</h3>
+          <ul>
+            <li>2.5급 (부수:米)</li>
+            <li>음: 장 - ショウ・ソウ</li>
+            <li>훈: 단장 - よそお(う)・めか(す)</li>
+          </ul>
+          <br/>
+          <h3>亜</h3>
+          <ul>
+            <li>2.5급 (부수:二)</li>
+            <li>음: 아 - ア</li>
+            <li>훈: 버금, 아시아 - つ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>妙</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 묘 - ミョウ・ビョウ</li>
+            <li>훈: 매우 뛰어난 - たえ・わか(い)</li>
+          </ul>
+          <br/>
+          <h3>隆</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 륭 - リュウ</li>
+            <li>훈: 높다 - たか(い)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>冶</h3>
+          <ul>
+            <li>2급 (부수:冫)</li>
+            <li>음: 야 - ヤ</li>
+            <li>훈: 제련 - と(ける)・い(る)・なまめ(かしい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

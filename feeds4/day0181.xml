@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>耕</h3>
+          <ul>
+            <li>6급 (부수:耒)</li>
+            <li>음: 경 - コウ</li>
+            <li>훈: 갈다, 일구다 - たがや(す)</li>
+          </ul>
+          <br/>
+          <h3>形</h3>
+          <ul>
+            <li>9급 (부수:彡)</li>
+            <li>음: 형 - ケイ・ギョウ</li>
+            <li>훈: 모양 - かた・かたち・なり</li>
+          </ul>
+          <br/>
+          <h3>恵</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 혜 - ケイ・エ</li>
+            <li>훈: 베풀다, 타고나다 - めぐ(む)</li>
+          </ul>
+          <br/>
+          <h3>惰</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 게으르다 - おこた(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

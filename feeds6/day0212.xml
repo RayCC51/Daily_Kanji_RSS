@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>后</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 후 - コウ・ゴ</li>
+            <li>훈: 임금 - のち・きさき・きみ</li>
+          </ul>
+          <br/>
+          <h3>算</h3>
+          <ul>
+            <li>9급 (부수:竹)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 셈 - かぞ(える)・かず</li>
+          </ul>
+          <br/>
+          <h3>独</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 독 - ドク・トク</li>
+            <li>훈: 혼자 - ひと(り)</li>
+          </ul>
+          <br/>
+          <h3>了</h3>
+          <ul>
+            <li>3급 (부수:亅)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 마치다 - お(わる)・しま(う)・さと(る)</li>
+          </ul>
+          <br/>
+          <h3>烈</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 뜨겁다 - はげ(しい)</li>
+          </ul>
+          <br/>
+          <h3>喚</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 부르다 - よ(ぶ)・さけ(ぶ)・わめ(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

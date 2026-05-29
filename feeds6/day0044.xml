@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>元</h3>
+          <ul>
+            <li>9급 (부수:儿)</li>
+            <li>음: 원 - ゲン・ガン</li>
+            <li>훈: 으뜸, 원래 - もと・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>州</h3>
+          <ul>
+            <li>8급 (부수:川)</li>
+            <li>음: 주 - シュウ・ス</li>
+            <li>훈: 고을 - す・しま・くに</li>
+          </ul>
+          <br/>
+          <h3>類</h3>
+          <ul>
+            <li>7급 (부수:頁)</li>
+            <li>음: 류 - ルイ</li>
+            <li>훈: 부류 - たぐ(い)・たぐい・たぐ(える)・に(る)</li>
+          </ul>
+          <br/>
+          <h3>壊</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 괴 - カイ・エ</li>
+            <li>훈: 무너지다, 부수다 - こわ(す)・こわ(れる)・やぶ(る)・やぶ(れる)</li>
+          </ul>
+          <br/>
+          <h3>郊</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 변두리 - 無し</li>
+          </ul>
+          <br/>
+          <h3>為</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 하다, 위하다, 행하다 - な(す)・す(る)・ため・つく(る)・な(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

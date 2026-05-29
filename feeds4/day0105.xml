@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>布</h3>
+          <ul>
+            <li>6급 (부수:巾)</li>
+            <li>음: 포, 보 - フ・ホ</li>
+            <li>훈: 베 - ぬの・し(く)</li>
+          </ul>
+          <br/>
+          <h3>方</h3>
+          <ul>
+            <li>9급 (부수:方)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 방향 - かた・かく・ただ(しい)・まさ(に)</li>
+          </ul>
+          <br/>
+          <h3>般</h3>
+          <ul>
+            <li>4급 (부수:舟)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 일반 - たぐい・めぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>刹</h3>
+          <ul>
+            <li>2급 (부수:刀)</li>
+            <li>음: 찰 - サツ・セツ</li>
+            <li>훈: 찰 - てら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

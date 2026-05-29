@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>衛</h3>
+          <ul>
+            <li>6급 (부수:行)</li>
+            <li>음: 위 - エイ・エ</li>
+            <li>훈: 지키다 - まも(る)</li>
+          </ul>
+          <br/>
+          <h3>主</h3>
+          <ul>
+            <li>8급 (부수:丶)</li>
+            <li>음: 주 - シュ・ス</li>
+            <li>훈: 주인 - ぬし・おも・あるじ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>呈</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 드리다 - しめ(す)</li>
+          </ul>
+          <br/>
+          <h3>為</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 하다, 위하다, 행하다 - な(す)・す(る)・ため・つく(る)・な(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

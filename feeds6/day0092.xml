@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拝</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 절하다 - おが(む)</li>
+          </ul>
+          <br/>
+          <h3>絶</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 절 - ゼツ・ゼチ・セツ</li>
+            <li>훈: 끊다, 끝나다 - た(える)・た(やす)・た(つ)・はなは(だ)・わた(る)</li>
+          </ul>
+          <br/>
+          <h3>予</h3>
+          <ul>
+            <li>8급 (부수:亅)</li>
+            <li>음: 예 - ヨ</li>
+            <li>훈: 미리 - あらかじ(め)・かね(て)</li>
+          </ul>
+          <br/>
+          <h3>偉</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 훌륭하다, 위대하다 - えら(い)・すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>采</h3>
+          <ul>
+            <li>2급 (부수:釆)</li>
+            <li>음: 채 - サイ</li>
+            <li>훈: 주사위, 풍채 - と(る)・いろどり・すがた・うね</li>
+          </ul>
+          <br/>
+          <h3>柵</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 책 - サク</li>
+            <li>훈: 울타리 - やらい・しがらみ・とりで</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

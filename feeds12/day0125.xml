@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>話</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 화 - ワ</li>
+            <li>훈: 이야기 - はな(す)・はなし</li>
+          </ul>
+          <br/>
+          <h3>党</h3>
+          <ul>
+            <li>5급 (부수:儿)</li>
+            <li>음: 당 - トウ</li>
+            <li>훈: 무리 - なかま・むら</li>
+          </ul>
+          <br/>
+          <h3>鋼</h3>
+          <ul>
+            <li>5급 (부수:金)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 강철 - はがね</li>
+          </ul>
+          <br/>
+          <h3>年</h3>
+          <ul>
+            <li>10급 (부수:干)</li>
+            <li>음: 년 - ネン</li>
+            <li>훈: 해, 나이 - とし・とせ</li>
+          </ul>
+          <br/>
+          <h3>最</h3>
+          <ul>
+            <li>7급 (부수:曰)</li>
+            <li>음: 최 - サイ</li>
+            <li>훈: 가장 - もっと(も)・も</li>
+          </ul>
+          <br/>
+          <h3>酸</h3>
+          <ul>
+            <li>6급 (부수:酉)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 시다 - す(い)・す・つら(い)</li>
+          </ul>
+          <br/>
+          <h3>賊</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 적 - ゾク</li>
+            <li>훈: 도둑 - そこ(なう)・わるもの</li>
+          </ul>
+          <br/>
+          <h3>療</h3>
+          <ul>
+            <li>4급 (부수:疒)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 치료 - い(やす)</li>
+          </ul>
+          <br/>
+          <h3>轄</h3>
+          <ul>
+            <li>2.5급 (부수:車)</li>
+            <li>음: 할 - カツ</li>
+            <li>훈: 다스리다 - くさび・とりし(まる)</li>
+          </ul>
+          <br/>
+          <h3>促</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 촉 - ソク</li>
+            <li>훈: 재촉하다 - うなが(す)・せま(る)</li>
+          </ul>
+          <br/>
+          <h3>廉</h3>
+          <ul>
+            <li>3급 (부수:广)</li>
+            <li>음: 렴 - レン</li>
+            <li>훈: 청렴 - いさぎよ(い)・やす(い)・かど</li>
+          </ul>
+          <br/>
+          <h3>旦</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 단 - タン・ダン</li>
+            <li>훈: 아침 - あした</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

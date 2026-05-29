@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>炭</h3>
+          <ul>
+            <li>8급 (부수:火)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 숯 - すみ</li>
+          </ul>
+          <br/>
+          <h3>囲</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 둘러싸다 - かこ(む)・かこ(う)</li>
+          </ul>
+          <br/>
+          <h3>虐</h3>
+          <ul>
+            <li>3급 (부수:虍)</li>
+            <li>음: 학 - ギャク</li>
+            <li>훈: 학대하다 - しいた(げる)・むご(い)</li>
+          </ul>
+          <br/>
+          <h3>譲</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 양보하다, 주다 - ゆず(る)・せ(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

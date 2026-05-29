@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貯</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 저 - チョ</li>
+            <li>훈: 쌓다 - たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>城</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 성 - ジョウ・セイ</li>
+            <li>훈: 성 - しろ・き</li>
+          </ul>
+          <br/>
+          <h3>氏</h3>
+          <ul>
+            <li>7급 (부수:氏)</li>
+            <li>음: 씨 - シ</li>
+            <li>훈: 성, 씨 - うじ</li>
+          </ul>
+          <br/>
+          <h3>侶</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 려 - リョ・ロ</li>
+            <li>훈: 짝 - とも</li>
+          </ul>
+          <br/>
+          <h3>飾</h3>
+          <ul>
+            <li>4급 (부수:食)</li>
+            <li>음: 식 - ショク</li>
+            <li>훈: 꾸미다 - かざ(る)</li>
+          </ul>
+          <br/>
+          <h3>拳</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 권 - ケン・ゲン</li>
+            <li>훈: 주먹 - こぶし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

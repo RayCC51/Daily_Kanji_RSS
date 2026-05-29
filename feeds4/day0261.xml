@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>宿</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 숙 - シュク・スク</li>
+            <li>훈: 숙소, 머물다, 품다 - やど・やど(る)・やど(す)</li>
+          </ul>
+          <br/>
+          <h3>王</h3>
+          <ul>
+            <li>10급 (부수:玉)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 임금 - きみ</li>
+          </ul>
+          <br/>
+          <h3>堤</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 제 - テイ</li>
+            <li>훈: 둑 - つつみ</li>
+          </ul>
+          <br/>
+          <h3>抵</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 저 - テイ・シ</li>
+            <li>훈: 막다 - あ(たる)・ふ(れる)・う(つ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

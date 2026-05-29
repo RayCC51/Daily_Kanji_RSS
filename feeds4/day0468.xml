@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>等</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 등 - トウ</li>
+            <li>훈: 같다, 동등하다 - ひと(しい)・ら・など</li>
+          </ul>
+          <br/>
+          <h3>海</h3>
+          <ul>
+            <li>9급 (부수:水)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 바다 - うみ</li>
+          </ul>
+          <br/>
+          <h3>喉</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 후 - コウ</li>
+            <li>훈: 목구멍 - のど</li>
+          </ul>
+          <br/>
+          <h3>哀</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 슬프다, 동정하다 - あわ(れ)・あわ(れむ)・かな(しい)・かな(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

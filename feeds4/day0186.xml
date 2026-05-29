@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>覚</h3>
+          <ul>
+            <li>7급 (부수:見)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 외우다, 느끼다, 깨다 - おぼ(える)・さ(ます)・さ(める)・さと(る)・さと(り)</li>
+          </ul>
+          <br/>
+          <h3>灰</h3>
+          <ul>
+            <li>5급 (부수:火)</li>
+            <li>음: 회 - カイ</li>
+            <li>훈: 재 - はい</li>
+          </ul>
+          <br/>
+          <h3>盗</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 훔치다 - ぬす(む)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>姓</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 성씨 - かばね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

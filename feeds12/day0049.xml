@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>陛</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 폐하 - きざはし</li>
+          </ul>
+          <br/>
+          <h3>善</h3>
+          <ul>
+            <li>5급 (부수:口)</li>
+            <li>음: 선 - ゼン・セン</li>
+            <li>훈: 착하다, 좋다 - よ(い)</li>
+          </ul>
+          <br/>
+          <h3>平</h3>
+          <ul>
+            <li>8급 (부수:干)</li>
+            <li>음: 평 - ヘイ・ビョウ・ヒョウ</li>
+            <li>훈: 평평함 - たい(ら)・ひら</li>
+          </ul>
+          <br/>
+          <h3>仏</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 불 - ブツ・フツ</li>
+            <li>훈: 부처 - ほとけ</li>
+          </ul>
+          <br/>
+          <h3>用</h3>
+          <ul>
+            <li>9급 (부수:用)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 사용하다 - もち(いる)・はたら(き)・もっ(て)</li>
+          </ul>
+          <br/>
+          <h3>薬</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 약 - ヤク</li>
+            <li>훈: 약 - くすり</li>
+          </ul>
+          <br/>
+          <h3>屈</h3>
+          <ul>
+            <li>4급 (부수:尸)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 굽다 - かが(む)・くぐ(まる)・こご(まる)</li>
+          </ul>
+          <br/>
+          <h3>醜</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 추 - シュウ</li>
+            <li>훈: 추하다 - みにく(い)・にく(む)・たぐい・しこ</li>
+          </ul>
+          <br/>
+          <h3>臆</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 가슴, 억지 - おしはか(る)</li>
+          </ul>
+          <br/>
+          <h3>沸</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 불, 비 - フツ・ヒ</li>
+            <li>훈: 끓다 - わ(く)・わ(かす)・た(てる)・にえ</li>
+          </ul>
+          <br/>
+          <h3>邦</h3>
+          <ul>
+            <li>3급 (부수:邑)</li>
+            <li>음: 방 - ホウ</li>
+            <li>훈: 나라 - くに</li>
+          </ul>
+          <br/>
+          <h3>裕</h3>
+          <ul>
+            <li>2.5급 (부수:衣)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 넉넉하다 - ゆた(か)・ひろ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

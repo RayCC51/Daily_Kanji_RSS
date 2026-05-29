@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>先</h3>
+          <ul>
+            <li>10급 (부수:儿)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 먼저 - さき・ま(ず)</li>
+          </ul>
+          <br/>
+          <h3>主</h3>
+          <ul>
+            <li>8급 (부수:丶)</li>
+            <li>음: 주 - シュ・ス</li>
+            <li>훈: 주인 - ぬし・おも・あるじ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>調</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 조 - チョウ</li>
+            <li>훈: 조사하다, 찾다, 성립되다, 갖추다 - しら(べる)・ととの(う)・ととの(える)・やわら(ぐ)・あざけ(る)・みつぎ</li>
+          </ul>
+          <br/>
+          <h3>盆</h3>
+          <ul>
+            <li>4급 (부수:皿)</li>
+            <li>음: 분 - ボン・ホン</li>
+            <li>훈: 쟁반 - はち</li>
+          </ul>
+          <br/>
+          <h3>華</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 화 - カ・ケ・ゲ</li>
+            <li>훈: 꽃, 화려하다 - はな・しろ(い)</li>
+          </ul>
+          <br/>
+          <h3>況</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 황 - キョウ</li>
+            <li>훈: 상황 - ありさま・いわ(んや)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

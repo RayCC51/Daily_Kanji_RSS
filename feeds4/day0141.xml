@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>設</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 설 - セツ・セチ</li>
+            <li>훈: 설치하다 - もう(ける)・しつら(える)</li>
+          </ul>
+          <br/>
+          <h3>承</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 듣다, 받다 - うけたまわ(る)・う(ける)</li>
+          </ul>
+          <br/>
+          <h3>肘</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 주 - チュウ</li>
+            <li>훈: 팔꿈치 - ひじ</li>
+          </ul>
+          <br/>
+          <h3>洞</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 동, 통 - ドウ・トウ</li>
+            <li>훈: 동굴 - ほら・うろ・つらぬ(く)・ふか(い)・うつろ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

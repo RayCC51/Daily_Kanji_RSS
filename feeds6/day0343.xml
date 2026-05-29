@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拷</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 고 - ゴウ・コウ</li>
+            <li>훈: 고문하다 - う(つ)</li>
+          </ul>
+          <br/>
+          <h3>脊</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 척추 - せ・せい</li>
+          </ul>
+          <br/>
+          <h3>恒</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 항상 - つね・つね(に)</li>
+          </ul>
+          <br/>
+          <h3>戻</h3>
+          <ul>
+            <li>2.5급 (부수:戸)</li>
+            <li>음: 려 - レイ</li>
+            <li>훈: 되돌리다, 돌려주다 - もど(す)・もど(る)・もと(る)・いた(る)</li>
+          </ul>
+          <br/>
+          <h3>憎</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 증 - ゾウ・ソウ</li>
+            <li>훈: 밉다, 얄밉다 - にく(む)・にく(い)・にく(らしい)・にく(しみ)</li>
+          </ul>
+          <br/>
+          <h3>隆</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 륭 - リュウ</li>
+            <li>훈: 높다 - たか(い)・さか(ん)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

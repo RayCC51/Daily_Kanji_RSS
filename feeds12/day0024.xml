@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>筆</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 필 - ヒツ</li>
+            <li>훈: 붓 - ふで</li>
+          </ul>
+          <br/>
+          <h3>象</h3>
+          <ul>
+            <li>6급 (부수:豕)</li>
+            <li>음: 상 - ショウ・ゾウ</li>
+            <li>훈: 코끼리, 대상 - かたち・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>価</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 값 - あたい</li>
+          </ul>
+          <br/>
+          <h3>箱</h3>
+          <ul>
+            <li>8급 (부수:竹)</li>
+            <li>음: 상 - ショウ・ソウ</li>
+            <li>훈: 상자 - はこ</li>
+          </ul>
+          <br/>
+          <h3>貧</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 빈 - ヒン・ビン</li>
+            <li>훈: 가난하다, 적다 - まず(しい)</li>
+          </ul>
+          <br/>
+          <h3>風</h3>
+          <ul>
+            <li>9급 (부수:風)</li>
+            <li>음: 풍 - フウ・フ</li>
+            <li>훈: 바람 - かぜ・かざ・ならわし・すがた・ふり</li>
+          </ul>
+          <br/>
+          <h3>坊</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 방 - ボウ・ボッ・ホウ</li>
+            <li>훈: 도련님 - まち・へや</li>
+          </ul>
+          <br/>
+          <h3>弾</h3>
+          <ul>
+            <li>4급 (부수:弓)</li>
+            <li>음: 탄 - ダン</li>
+            <li>훈: 탄알, 연주하다, 튀다 - ひ(く)・はず(む)・たま・はじ(く)・はじ(ける)・はず(み)・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>藩</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 번 - ハン</li>
+            <li>훈: 울타리 - まがき</li>
+          </ul>
+          <br/>
+          <h3>奇</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기이하다 - めずら(しい)・く(し)・あや(しい)</li>
+          </ul>
+          <br/>
+          <h3>僚</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 동료 - とも・つかさ</li>
+          </ul>
+          <br/>
+          <h3>暫</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 잠 - ザン</li>
+            <li>훈: 잠깐 - しばら(く)・しば(し)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

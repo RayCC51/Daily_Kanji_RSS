@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>果</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 열매, 끝, 완수하다, 끝나다 - は(たす)・は(てる)・は(て)・くだもの・おお(せる)・はか</li>
+          </ul>
+          <br/>
+          <h3>巣</h3>
+          <ul>
+            <li>7급 (부수:ツ)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 둥지 - す</li>
+          </ul>
+          <br/>
+          <h3>悲</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 슬프다 - かな(しい)・かな(しむ)</li>
+          </ul>
+          <br/>
+          <h3>妄</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 망 - モウ・ボウ</li>
+            <li>훈: 허망하다 - みだ(りに)</li>
+          </ul>
+          <br/>
+          <h3>崖</h3>
+          <ul>
+            <li>2급 (부수:山)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 벼랑 - がけ</li>
+          </ul>
+          <br/>
+          <h3>秩</h3>
+          <ul>
+            <li>2.5급 (부수:禾)</li>
+            <li>음: 질 - チツ</li>
+            <li>훈: 질서 - つい(で)・ふち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

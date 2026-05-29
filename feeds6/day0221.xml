@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>全</h3>
+          <ul>
+            <li>8급 (부수:入)</li>
+            <li>음: 전 - ゼン・セン</li>
+            <li>훈: 전부, 전혀 - まった(く)・すべ(て)</li>
+          </ul>
+          <br/>
+          <h3>暴</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 폭 - ボウ・バク</li>
+            <li>훈: 파헤치다, 난폭하다 - あば(く)・あば(れる)・あら(い)・にわ(か)・あら(わす)・さら(す)</li>
+          </ul>
+          <br/>
+          <h3>皮</h3>
+          <ul>
+            <li>8급 (부수:皮)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 가죽 - かわ</li>
+          </ul>
+          <br/>
+          <h3>獲</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 획 - カク</li>
+            <li>훈: 획득하다 - え(る)</li>
+          </ul>
+          <br/>
+          <h3>瀬</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 뢰 - ライ</li>
+            <li>훈: 여울 - せ</li>
+          </ul>
+          <br/>
+          <h3>趣</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 취 - シュ・ソク</li>
+            <li>훈: 뜻, 멋, 느낌, 취향 - おもむき・おもむ(く)・うなが(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

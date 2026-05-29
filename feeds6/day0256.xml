@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>浅</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 얕다 - あさ(い)</li>
+          </ul>
+          <br/>
+          <h3>君</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 군 - クン</li>
+            <li>훈: 너, 임금 - きみ</li>
+          </ul>
+          <br/>
+          <h3>虫</h3>
+          <ul>
+            <li>10급 (부수:虫)</li>
+            <li>음: 충 - チュウ</li>
+            <li>훈: 벌레 - むし</li>
+          </ul>
+          <br/>
+          <h3>肩</h3>
+          <ul>
+            <li>4급 (부수:肉)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 어깨 - かた</li>
+          </ul>
+          <br/>
+          <h3>芋</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 토란 - いも</li>
+          </ul>
+          <br/>
+          <h3>缶</h3>
+          <ul>
+            <li>2.5급 (부수:缶)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 통 - かま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

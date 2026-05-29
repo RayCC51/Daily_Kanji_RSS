@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>永</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 영 - エイ・ヨウ</li>
+            <li>훈: 영원하다 - なが(い)・とこしえ</li>
+          </ul>
+          <br/>
+          <h3>利</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 이로움, 발휘하다, 가능하다 - き(く)・するど(い)・と(し)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>掃</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 쓸다 - は(く)・はら(う)</li>
+          </ul>
+          <br/>
+          <h3>霊</h3>
+          <ul>
+            <li>3급 (부수:雨)</li>
+            <li>음: 령 - レイ・リョウ</li>
+            <li>훈: 혼 - たま・たましい・よ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

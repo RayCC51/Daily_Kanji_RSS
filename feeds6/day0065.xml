@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>央</h3>
+          <ul>
+            <li>8급 (부수:大)</li>
+            <li>음: 앙 - オウ</li>
+            <li>훈: 가운데 - なか(ば)</li>
+          </ul>
+          <br/>
+          <h3>残</h3>
+          <ul>
+            <li>7급 (부수:歹)</li>
+            <li>음: 잔 - ザン</li>
+            <li>훈: 남다 - のこ(る)・のこ(す)・そこ(なう)</li>
+          </ul>
+          <br/>
+          <h3>臨</h3>
+          <ul>
+            <li>5급 (부수:臣)</li>
+            <li>음: 림 - リン</li>
+            <li>훈: 임하다 - のぞ(む)</li>
+          </ul>
+          <br/>
+          <h3>頃</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 무렵 - ころ・しばら(く)・かたあし</li>
+          </ul>
+          <br/>
+          <h3>恵</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 혜 - ケイ・エ</li>
+            <li>훈: 베풀다, 타고나다 - めぐ(む)</li>
+          </ul>
+          <br/>
+          <h3>羞</h3>
+          <ul>
+            <li>2급 (부수:羊)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 부끄럽다 - は(じる)・はずかし(める)・はじ・はずかし(め)・すす(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

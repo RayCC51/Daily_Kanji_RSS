@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>子</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 자 - シ・ス</li>
+            <li>훈: 아들, 아이 - こ・み・おとこ・ね</li>
+          </ul>
+          <br/>
+          <h3>岡</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 산등성이 - おか</li>
+          </ul>
+          <br/>
+          <h3>跡</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 적 - セキ・シャク</li>
+            <li>훈: 자취 - あと</li>
+          </ul>
+          <br/>
+          <h3>擦</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 문지르다, 스치다 - す(る)・す(れる)・こす(る)・かす(れる)・さす(る)・なす(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

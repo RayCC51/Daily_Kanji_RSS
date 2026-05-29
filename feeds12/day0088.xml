@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貨</h3>
+          <ul>
+            <li>7급 (부수:貝)</li>
+            <li>음: 화 - カ</li>
+            <li>훈: 재물 - たから</li>
+          </ul>
+          <br/>
+          <h3>料</h3>
+          <ul>
+            <li>7급 (부수:斗)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 요금, 재료 - はか(る)</li>
+          </ul>
+          <br/>
+          <h3>簡</h3>
+          <ul>
+            <li>5급 (부수:竹)</li>
+            <li>음: 간 - カン・ケン</li>
+            <li>훈: 간단 - ふだ・えら(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>足</h3>
+          <ul>
+            <li>10급 (부수:足)</li>
+            <li>음: 족 - ソク</li>
+            <li>훈: 발, 충분하다, 만족하다, 더하다 - あし・た(りる)・た(る)・た(す)</li>
+          </ul>
+          <br/>
+          <h3>毛</h3>
+          <ul>
+            <li>9급 (부수:毛)</li>
+            <li>음: 모 - モウ・ボウ</li>
+            <li>훈: 털 - け</li>
+          </ul>
+          <br/>
+          <h3>田</h3>
+          <ul>
+            <li>10급 (부수:田)</li>
+            <li>음: 전 - デン</li>
+            <li>훈: 밭 - た・か(る)・か(り)</li>
+          </ul>
+          <br/>
+          <h3>淑</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 숙 - シュク</li>
+            <li>훈: 정숙하다 - しと(やか)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>須</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 수 - ス・シュ</li>
+            <li>훈: 모름지기 - ま(つ)・もち(いる)・もと(める)・すべか(らく…べし)・しばら(く)</li>
+          </ul>
+          <br/>
+          <h3>怨</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 원망하다 - うら(む)・うら(み)</li>
+          </ul>
+          <br/>
+          <h3>漏</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 루 - ロウ</li>
+            <li>훈: 새다 - も(る)・も(れる)・も(らす)</li>
+          </ul>
+          <br/>
+          <h3>肢</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 팔다리 - てあし</li>
+          </ul>
+          <br/>
+          <h3>屯</h3>
+          <ul>
+            <li>2.5급 (부수:屮)</li>
+            <li>음: 둔 - トン・チュン</li>
+            <li>훈: 두다 - たむろ・なや(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

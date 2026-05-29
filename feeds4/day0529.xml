@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>没</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 몰 - ボツ・モツ</li>
+            <li>훈: 빠지다 - しず(む)・おぼ(れる)・し(ぬ)・な(い)</li>
+          </ul>
+          <br/>
+          <h3>浸</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 담그다, 잠기다 - ひた(す)・ひた(る)・つ(く)・つ(かる)・し(みる)</li>
+          </ul>
+          <br/>
+          <h3>媒</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 매개 - なかだち</li>
+          </ul>
+          <br/>
+          <h3>妊</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

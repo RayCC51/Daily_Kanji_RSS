@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>卵</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 란 - ラン</li>
+            <li>훈: 계란, 알 - たまご</li>
+          </ul>
+          <br/>
+          <h3>死</h3>
+          <ul>
+            <li>8급 (부수:歹)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 죽다 - し(ぬ)</li>
+          </ul>
+          <br/>
+          <h3>胎</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 태 - タイ</li>
+            <li>훈: 아이배다 - はら(む)</li>
+          </ul>
+          <br/>
+          <h3>伸</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 자라다, 늘다 - の(びる)・の(ばす)・の(べる)・の(す)・の(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

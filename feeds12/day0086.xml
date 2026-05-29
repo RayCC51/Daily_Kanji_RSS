@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>砂</h3>
+          <ul>
+            <li>5급 (부수:石)</li>
+            <li>음: 사 - サ・シャ</li>
+            <li>훈: 모래 - すな・いさご</li>
+          </ul>
+          <br/>
+          <h3>決</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 결 - ケツ</li>
+            <li>훈: 정하다 - き(める)・き(まる)</li>
+          </ul>
+          <br/>
+          <h3>潟</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 갯벌 - かた</li>
+          </ul>
+          <br/>
+          <h3>像</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 상 - ゾウ・ショウ</li>
+            <li>훈: 모양 - かたち・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>置</h3>
+          <ul>
+            <li>7급 (부수:网)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 놓다 - お(く)</li>
+          </ul>
+          <br/>
+          <h3>築</h3>
+          <ul>
+            <li>6급 (부수:竹)</li>
+            <li>음: 축 - チク</li>
+            <li>훈: 쌓다 - きず(く)・つ(く)</li>
+          </ul>
+          <br/>
+          <h3>飢</h3>
+          <ul>
+            <li>2.5급 (부수:食)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 굶주리다 - う(える)</li>
+          </ul>
+          <br/>
+          <h3>獄</h3>
+          <ul>
+            <li>3급 (부수:犬)</li>
+            <li>음: 옥 - ゴク</li>
+            <li>훈: 감옥 - ひとや・うった(える)</li>
+          </ul>
+          <br/>
+          <h3>藍</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 람 - ラン</li>
+            <li>훈: 쪽 - あい</li>
+          </ul>
+          <br/>
+          <h3>紋</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 문 - モン・ブン</li>
+            <li>훈: 무늬 - あや</li>
+          </ul>
+          <br/>
+          <h3>剥</h3>
+          <ul>
+            <li>2급 (부수:刀)</li>
+            <li>음: 박 - ハク・ホク</li>
+            <li>훈: 벗기다, 까다 - は(がす)・は(ぐ)・は(がれる)・は(げる)・む(く)・と(る)</li>
+          </ul>
+          <br/>
+          <h3>載</h3>
+          <ul>
+            <li>4급 (부수:車)</li>
+            <li>음: 재 - サイ</li>
+            <li>훈: 놓다, 싣다 - の(せる)・の(る)・しる(す)・とし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

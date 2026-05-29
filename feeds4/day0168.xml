@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>通</h3>
+          <ul>
+            <li>9급 (부수:辵)</li>
+            <li>음: 통 - ツウ・ツ</li>
+            <li>훈: 지나가다, 뚫다, 다니다 - とお(る)・とお(す)・かよ(う)</li>
+          </ul>
+          <br/>
+          <h3>弁</h3>
+          <ul>
+            <li>6급 (부수:廾)</li>
+            <li>음: 변 - ベン</li>
+            <li>훈: 고깔 - わきま(える)・わ(ける)・はなびら・と(く)・かた(る)</li>
+          </ul>
+          <br/>
+          <h3>喩</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 깨우치다 - たと(える)・さと(す)・よろこ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>憎</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 증 - ゾウ・ソウ</li>
+            <li>훈: 밉다, 얄밉다 - にく(む)・にく(い)・にく(らしい)・にく(しみ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

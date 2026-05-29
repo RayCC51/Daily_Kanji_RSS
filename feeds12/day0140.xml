@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>命</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 목숨 - いのち・おお(せ)・みこと</li>
+          </ul>
+          <br/>
+          <h3>人</h3>
+          <ul>
+            <li>10급 (부수:人)</li>
+            <li>음: 인 - ジン・ニン</li>
+            <li>훈: 사람 - ひと</li>
+          </ul>
+          <br/>
+          <h3>奈</h3>
+          <ul>
+            <li>7급 (부수:大)</li>
+            <li>음: 나 - ナ・ナイ・ダイ</li>
+            <li>훈: 어찌 - いかん・いかん(ぞ)・なん(ぞ)</li>
+          </ul>
+          <br/>
+          <h3>女</h3>
+          <ul>
+            <li>10급 (부수:女)</li>
+            <li>음: 녀 - ジョ・ニョ・ニョウ</li>
+            <li>훈: 여자 - おんな・め・むすめ・めあ(わせる)・なんじ</li>
+          </ul>
+          <br/>
+          <h3>里</h3>
+          <ul>
+            <li>9급 (부수:里)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 마을 - さと</li>
+          </ul>
+          <br/>
+          <h3>万</h3>
+          <ul>
+            <li>9급 (부수:一)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 10000 - よろず</li>
+          </ul>
+          <br/>
+          <h3>洞</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 동, 통 - ドウ・トウ</li>
+            <li>훈: 동굴 - ほら・うろ・つらぬ(く)・ふか(い)・うつろ</li>
+          </ul>
+          <br/>
+          <h3>塊</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 괴 - カイ</li>
+            <li>훈: 덩어리 - かたまり・つちくれ</li>
+          </ul>
+          <br/>
+          <h3>蓋</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 개 - ガイ・コウ</li>
+            <li>훈: 뚜껑 - ふた・おお(う)・おお(い)・かさ・けだ(し)</li>
+          </ul>
+          <br/>
+          <h3>訃</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부고 - つ(げる)・し(らせ)</li>
+          </ul>
+          <br/>
+          <h3>醸</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 양조하다, 담그다 - かも(す)</li>
+          </ul>
+          <br/>
+          <h3>厄</h3>
+          <ul>
+            <li>2.5급 (부수:厂)</li>
+            <li>음: 액 - ヤク</li>
+            <li>훈: 재난 - わざわ(い)・くる(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

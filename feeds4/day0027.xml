@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>合</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 합 - ゴウ・ガッ・カッ・コウ</li>
+            <li>훈: 맞다, 합치다 - あ(う)・あ(わす)・あ(わせる)</li>
+          </ul>
+          <br/>
+          <h3>委</h3>
+          <ul>
+            <li>8급 (부수:女)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 맡기다 - ゆだ(ねる)・まか(せる)・くわ(しい)・お(く)・す(てる)</li>
+          </ul>
+          <br/>
+          <h3>嘲</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 조 - チョウ・トウ</li>
+            <li>훈: 비웃다 - あざけ(る)・からか(う)</li>
+          </ul>
+          <br/>
+          <h3>遂</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 이루다, 마침내 - と(げる)・おお(せる)・つい(に)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

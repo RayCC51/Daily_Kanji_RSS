@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>加</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 더하다 - くわ(える)・くわ(わる)</li>
+          </ul>
+          <br/>
+          <h3>敬</h3>
+          <ul>
+            <li>5급 (부수:攵)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 존경하다 - うやま(う)・つつし(む)</li>
+          </ul>
+          <br/>
+          <h3>時</h3>
+          <ul>
+            <li>9급 (부수:日)</li>
+            <li>음: 시 - ジ</li>
+            <li>훈: 때, 시간 - とき</li>
+          </ul>
+          <br/>
+          <h3>緊</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 긴 - キン</li>
+            <li>훈: 긴장, 팽팽하다 - かた(い)・し(める)・ちぢ(む)・きび(しい)</li>
+          </ul>
+          <br/>
+          <h3>斗</h3>
+          <ul>
+            <li>3급 (부수:斗)</li>
+            <li>음: 두 - ト・トウ</li>
+            <li>훈: 말 - ます・ひしゃく</li>
+          </ul>
+          <br/>
+          <h3>奨</h3>
+          <ul>
+            <li>2.5급 (부수:大)</li>
+            <li>음: 장 - ショウ・ソウ</li>
+            <li>훈: 장려하다 - すす(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

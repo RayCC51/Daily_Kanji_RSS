@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>寒</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 춥다 - さむ(い)・さび(しい)・まず(しい)・いや(しい)</li>
+          </ul>
+          <br/>
+          <h3>化</h3>
+          <ul>
+            <li>8급 (부수:匕)</li>
+            <li>음: 화 - カ・ケ</li>
+            <li>훈: 되다, 둔갑하다, 홀리다, 괴물 - ば(ける)・ば(かす)・か(わる)・か(える)</li>
+          </ul>
+          <br/>
+          <h3>恩</h3>
+          <ul>
+            <li>5급 (부수:心)</li>
+            <li>음: 은 - オン</li>
+            <li>훈: 은혜 - めぐ(み)</li>
+          </ul>
+          <br/>
+          <h3>罵</h3>
+          <ul>
+            <li>2급 (부수:网)</li>
+            <li>음: 매 - バ</li>
+            <li>훈: 욕하다 - ののし(る)</li>
+          </ul>
+          <br/>
+          <h3>羅</h3>
+          <ul>
+            <li>2.5급 (부수:网)</li>
+            <li>음: 라 - ラ</li>
+            <li>훈: 벌이다 - あみ・つら(なる)・うすぎぬ</li>
+          </ul>
+          <br/>
+          <h3>弄</h3>
+          <ul>
+            <li>2급 (부수:廾)</li>
+            <li>음: 롱 - ロウ</li>
+            <li>훈: 가지고 놀다, 희롱하다 - もてあそ(ぶ)・いじ(る)・いじく(る)・いら(う)・あなど(る)・たわむ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

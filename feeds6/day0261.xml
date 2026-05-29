@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>勇</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 용 - ユウ・ヨウ</li>
+            <li>훈: 날래다, 기운이 솟다, 용감하다, 활발하다 - いさ(む)・つよ(い)</li>
+          </ul>
+          <br/>
+          <h3>純</h3>
+          <ul>
+            <li>5급 (부수:糸)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 순수 - きいと</li>
+          </ul>
+          <br/>
+          <h3>典</h3>
+          <ul>
+            <li>7급 (부수:八)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 법 - ふみ・のり</li>
+          </ul>
+          <br/>
+          <h3>胞</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 세포 - はら</li>
+          </ul>
+          <br/>
+          <h3>袋</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 대 - タイ・テイ</li>
+            <li>훈: 주머니 - ふくろ</li>
+          </ul>
+          <br/>
+          <h3>淫</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 음 - イン</li>
+            <li>훈: 음란하다 - みだ(ら)・あふ(れる)・ふけ(る)・ほしいまま・みだ(す)・みだら・おお(きい)・ながあめ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>限</h3>
+          <ul>
+            <li>6급 (부수:阜)</li>
+            <li>음: 한 - ゲン</li>
+            <li>훈: 제한하다 - かぎ(る)・きり</li>
+          </ul>
+          <br/>
+          <h3>栃</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 회 - 無し</li>
+            <li>훈: 상수리나무 - とち</li>
+          </ul>
+          <br/>
+          <h3>悼</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 애도하다 - いた(む)</li>
+          </ul>
+          <br/>
+          <h3>嬢</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 아가씨 - むすめ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

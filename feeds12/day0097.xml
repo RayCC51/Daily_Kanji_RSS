@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>画</h3>
+          <ul>
+            <li>9급 (부수:田)</li>
+            <li>음: 화, 획 - ガ・カク</li>
+            <li>훈: 그림 - え・えが(く)・か(く)・かぎ(る)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>講</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 강의 - 無し</li>
+          </ul>
+          <br/>
+          <h3>倉</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 창고 - くら・にわ(か)</li>
+          </ul>
+          <br/>
+          <h3>意</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 의 - イ</li>
+            <li>훈: 뜻 - こころ・おも(う)</li>
+          </ul>
+          <br/>
+          <h3>皇</h3>
+          <ul>
+            <li>5급 (부수:白)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 임금 - きみ・すめらぎ</li>
+          </ul>
+          <br/>
+          <h3>来</h3>
+          <ul>
+            <li>9급 (부수:木)</li>
+            <li>음: 래 - ライ</li>
+            <li>훈: 오다, 초래하다 - く(る)・きた(る)・きた(す)・こ(し)・き(し)</li>
+          </ul>
+          <br/>
+          <h3>凄</h3>
+          <ul>
+            <li>2급 (부수:冫)</li>
+            <li>음: 처 - セイ</li>
+            <li>훈: 처참하다, 굉장하다 - すさ(まじい)・すご(い)・すご(む)・さむ(い)</li>
+          </ul>
+          <br/>
+          <h3>晶</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 정 - ショウ</li>
+            <li>훈: 보석 - あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>准</h3>
+          <ul>
+            <li>2.5급 (부수:冫)</li>
+            <li>음: 준 - ジュン・シュン</li>
+            <li>훈: 준하다 - なぞら(える)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>墳</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 무덤 - はか</li>
+          </ul>
+          <br/>
+          <h3>騎</h3>
+          <ul>
+            <li>3급 (부수:馬)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 말 타다 - の(る)</li>
+          </ul>
+          <br/>
+          <h3>抹</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 말 - マツ・バツ</li>
+            <li>훈: 지우다 - す(る)・け(す)・こな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

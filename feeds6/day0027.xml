@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>糸</h3>
+          <ul>
+            <li>10급 (부수:糸)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 실 - いと</li>
+          </ul>
+          <br/>
+          <h3>陛</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 폐하 - きざはし</li>
+          </ul>
+          <br/>
+          <h3>植</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 식 - ショク・チ</li>
+            <li>훈: 심다 - う(える)・う(わる)・た(てる)</li>
+          </ul>
+          <br/>
+          <h3>駐</h3>
+          <ul>
+            <li>3급 (부수:馬)</li>
+            <li>음: 주 - チュウ・チュ</li>
+            <li>훈: 머무르다 - とど(まる)</li>
+          </ul>
+          <br/>
+          <h3>崇</h3>
+          <ul>
+            <li>2.5급 (부수:山)</li>
+            <li>음: 숭 - スウ・シュウ</li>
+            <li>훈: 높다 - たか(い)・たっと(ぶ)・とうと(ぶ)・あが(める)・お(わる)</li>
+          </ul>
+          <br/>
+          <h3>排</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 배 - ハイ</li>
+            <li>훈: 빼다 - おしの(ける)・つら(ねる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

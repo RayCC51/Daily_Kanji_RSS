@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>交</h3>
+          <ul>
+            <li>9급 (부수:亠)</li>
+            <li>음: 교 - コウ</li>
+            <li>훈: 사귀다, 섞다, 주고받다 - まじ(わる)・まじ(える)・ま(じる)・ま(ざる)・ま(ぜる)・か(う)・か(わす)・こもごも</li>
+          </ul>
+          <br/>
+          <h3>牛</h3>
+          <ul>
+            <li>9급 (부수:牛)</li>
+            <li>음: 우 - ギュウ・ゴ</li>
+            <li>훈: 소리 - うし</li>
+          </ul>
+          <br/>
+          <h3>然</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 연 - ゼン・ネン</li>
+            <li>훈: 당연 - しか(り)・しか(し)・しか(も)・も(える)</li>
+          </ul>
+          <br/>
+          <h3>蓄</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 축 - チク</li>
+            <li>훈: 비축하다, 모으다 - たくわ(える)</li>
+          </ul>
+          <br/>
+          <h3>妙</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 묘 - ミョウ・ビョウ</li>
+            <li>훈: 매우 뛰어난 - たえ・わか(い)</li>
+          </ul>
+          <br/>
+          <h3>督</h3>
+          <ul>
+            <li>2.5급 (부수:目)</li>
+            <li>음: 독 - トク</li>
+            <li>훈: 감독 - み(る)・ただ(す)・ひき(いる)・うなが(す)・かしら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

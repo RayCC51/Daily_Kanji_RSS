@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>朗</h3>
+          <ul>
+            <li>5급 (부수:月)</li>
+            <li>음: 랑 - ロウ</li>
+            <li>훈: 밝다 - ほが(らか)・あき(らか)・たか(らか)</li>
+          </ul>
+          <br/>
+          <h3>記</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기록하다 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>例</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 례 - レイ</li>
+            <li>훈: 예, 예를 들다 - たと(える)・たぐい・ためし</li>
+          </ul>
+          <br/>
+          <h3>瘍</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 헐다 - かさ・できもの</li>
+          </ul>
+          <br/>
+          <h3>剖</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 부 - ボウ・ホウ</li>
+            <li>훈: 쪼개다 - わ(ける)・さ(く)</li>
+          </ul>
+          <br/>
+          <h3>窃</h3>
+          <ul>
+            <li>2.5급 (부수:穴)</li>
+            <li>음: 절 - セツ</li>
+            <li>훈: 훔치다 - ぬす(む)・ひそ(かに)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

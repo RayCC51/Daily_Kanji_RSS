@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>肉</h3>
+          <ul>
+            <li>9급 (부수:肉)</li>
+            <li>음: 육 - ニク・ジク</li>
+            <li>훈: 고기 - しし</li>
+          </ul>
+          <br/>
+          <h3>歯</h3>
+          <ul>
+            <li>8급 (부수:歯)</li>
+            <li>음: 치 - シ</li>
+            <li>훈: 이 - は・よわい</li>
+          </ul>
+          <br/>
+          <h3>求</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 구 - キュウ・グ</li>
+            <li>훈: 구하다, 바라다 - もと(める)</li>
+          </ul>
+          <br/>
+          <h3>針</h3>
+          <ul>
+            <li>5급 (부수:金)</li>
+            <li>음: 침 - シン</li>
+            <li>훈: 바늘 - はり</li>
+          </ul>
+          <br/>
+          <h3>墓</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 묘 - ボ</li>
+            <li>훈: 무덤 - はか</li>
+          </ul>
+          <br/>
+          <h3>味</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 미 - ミ・ビ</li>
+            <li>훈: 맛 - あじ・あじ(わう)</li>
+          </ul>
+          <br/>
+          <h3>串</h3>
+          <ul>
+            <li>2급 (부수:丨)</li>
+            <li>음: 관 - セン・カン</li>
+            <li>훈: 꼬챙이 - くし・つらぬ(く)・な(れる)</li>
+          </ul>
+          <br/>
+          <h3>娠</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+          <h3>迎</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 영 - ゲイ・ギョウ・ゴウ</li>
+            <li>훈: 맞이하다 - むか(える)</li>
+          </ul>
+          <br/>
+          <h3>籍</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 적 - セキ・ジャク</li>
+            <li>훈: 문서 - ふみ・し(く)・ふ(む)</li>
+          </ul>
+          <br/>
+          <h3>訟</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 송 - ショウ・ジュ</li>
+            <li>훈: 소송 - うった(える)</li>
+          </ul>
+          <br/>
+          <h3>軟</h3>
+          <ul>
+            <li>2.5급 (부수:車)</li>
+            <li>음: 연 - ナン・ゼン・ネン</li>
+            <li>훈: 유연하다, 부드럽다 - やわ(らか)・やわ(らかい)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

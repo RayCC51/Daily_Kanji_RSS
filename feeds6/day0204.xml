@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>色</h3>
+          <ul>
+            <li>9급 (부수:色)</li>
+            <li>음: 색 - ショク・シキ</li>
+            <li>훈: 색 - いろ</li>
+          </ul>
+          <br/>
+          <h3>続</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 속 - ゾク・ショク</li>
+            <li>훈: 계속하다 - つづ(く)・つづ(ける)・つ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>風</h3>
+          <ul>
+            <li>9급 (부수:風)</li>
+            <li>음: 풍 - フウ・フ</li>
+            <li>훈: 바람 - かぜ・かざ・ならわし・すがた・ふり</li>
+          </ul>
+          <br/>
+          <h3>痩</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 수 - ソウ・シュウ</li>
+            <li>훈: 야위다, 살 빠지다 - や(せる)・ほそ(い)・こ(ける)</li>
+          </ul>
+          <br/>
+          <h3>弥</h3>
+          <ul>
+            <li>2급 (부수:弓)</li>
+            <li>음: 미 - ビ・ミ</li>
+            <li>훈: 점점 - や・あまね(し)・ひさ(しい)・わた(る)・つくろ(う)・いよいよ・いや</li>
+          </ul>
+          <br/>
+          <h3>帝</h3>
+          <ul>
+            <li>3급 (부수:巾)</li>
+            <li>음: 제 - テイ・タイ</li>
+            <li>훈: 임금 - みかど</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

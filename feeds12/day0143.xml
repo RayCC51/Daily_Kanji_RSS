@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>長</h3>
+          <ul>
+            <li>9급 (부수:長)</li>
+            <li>음: 장 - チョウ・ジョウ</li>
+            <li>훈: 길다, 윗 사람 - なが(い)・た(ける)・おさ</li>
+          </ul>
+          <br/>
+          <h3>全</h3>
+          <ul>
+            <li>8급 (부수:入)</li>
+            <li>음: 전 - ゼン・セン</li>
+            <li>훈: 전부, 전혀 - まった(く)・すべ(て)</li>
+          </ul>
+          <br/>
+          <h3>媛</h3>
+          <ul>
+            <li>7급 (부수:女)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 여자 - ひめ</li>
+          </ul>
+          <br/>
+          <h3>十</h3>
+          <ul>
+            <li>10급 (부수:十)</li>
+            <li>음: 십 - ジュウ・ジッ</li>
+            <li>훈: 10, 열 - とお・と</li>
+          </ul>
+          <br/>
+          <h3>貿</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 무 - ボウ</li>
+            <li>훈: 무역 - あきな(う)</li>
+          </ul>
+          <br/>
+          <h3>各</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 각각 - おのおの</li>
+          </ul>
+          <br/>
+          <h3>虹</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 홍 - コウ</li>
+            <li>훈: 무지개 - にじ</li>
+          </ul>
+          <br/>
+          <h3>喚</h3>
+          <ul>
+            <li>3급 (부수:口)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 부르다 - よ(ぶ)・さけ(ぶ)・わめ(く)</li>
+          </ul>
+          <br/>
+          <h3>渓</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 계곡 - たに</li>
+          </ul>
+          <br/>
+          <h3>牙</h3>
+          <ul>
+            <li>2급 (부수:牙)</li>
+            <li>음: 아 - ガ・ゲ</li>
+            <li>훈: 어금니 - きば・は・さいとり</li>
+          </ul>
+          <br/>
+          <h3>瀬</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 뢰 - ライ</li>
+            <li>훈: 여울 - せ</li>
+          </ul>
+          <br/>
+          <h3>床</h3>
+          <ul>
+            <li>4급 (부수:广)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 마루 - とこ・ゆか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

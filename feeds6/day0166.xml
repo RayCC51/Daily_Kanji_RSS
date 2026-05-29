@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>形</h3>
+          <ul>
+            <li>9급 (부수:彡)</li>
+            <li>음: 형 - ケイ・ギョウ</li>
+            <li>훈: 모양 - かた・かたち・なり</li>
+          </ul>
+          <br/>
+          <h3>勝</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 이기다, 우수하다 - か(つ)・まさ(る)・すぐ(れる)・た(える)</li>
+          </ul>
+          <br/>
+          <h3>思</h3>
+          <ul>
+            <li>9급 (부수:心)</li>
+            <li>음: 사 - シン</li>
+            <li>훈: 생각하다 - おも(う)・おぼ(しい)</li>
+          </ul>
+          <br/>
+          <h3>𠮟</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 질 - シツ・シチ</li>
+            <li>훈: 꾸짖다 - しか(る)</li>
+          </ul>
+          <br/>
+          <h3>嫌</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 혐 - ケン・ゲン</li>
+            <li>훈: 싫다 - きら(う)・いや・うたが(う)</li>
+          </ul>
+          <br/>
+          <h3>棚</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 붕 - ホウ</li>
+            <li>훈: 선반 - たな</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

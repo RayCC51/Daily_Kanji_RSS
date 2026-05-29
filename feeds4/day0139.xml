@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>垂</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 늘어지다 - た(れる)・た(らす)・しだ(れる)・しで・なんなん(とする)</li>
+          </ul>
+          <br/>
+          <h3>沿</h3>
+          <ul>
+            <li>5급 (부수:水)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 물을 따르다 - そ(う)・ふち</li>
+          </ul>
+          <br/>
+          <h3>膝</h3>
+          <ul>
+            <li>2급 (부수:肉)</li>
+            <li>음: 슬 - シツ</li>
+            <li>훈: 무릎 - ひざ</li>
+          </ul>
+          <br/>
+          <h3>旨</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 취지, 맛있다 - むね・うま(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

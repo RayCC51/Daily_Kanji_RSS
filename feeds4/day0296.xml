@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>性</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 성품 - さが・たち</li>
+          </ul>
+          <br/>
+          <h3>確</h3>
+          <ul>
+            <li>6급 (부수:石)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 확실, 확인하다 - たし(か)・たし(かめる)・しか(と)・しっか(り)・かた(い)</li>
+          </ul>
+          <br/>
+          <h3>浜</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 빈 - ヒン</li>
+            <li>훈: 물가 - はま</li>
+          </ul>
+          <br/>
+          <h3>託</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 탁 - タク</li>
+            <li>훈: 부탁, 한탄하다 - ことづ(かる)・かこつ(ける)・かこ(つ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

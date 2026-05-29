@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>仁</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 인 - ジン・ニ・ニン</li>
+            <li>훈: 어질다 - 無し</li>
+          </ul>
+          <br/>
+          <h3>付</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 붙다 - つ(ける)・つ(く)・あた(える)</li>
+          </ul>
+          <br/>
+          <h3>威</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위엄, 협박하다 - おど(す)</li>
+          </ul>
+          <br/>
+          <h3>贈</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 증 - ゾウ・ソウ</li>
+            <li>훈: 주다 - おく(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

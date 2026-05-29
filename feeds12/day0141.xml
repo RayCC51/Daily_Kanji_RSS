@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>広</h3>
+          <ul>
+            <li>9급 (부수:广)</li>
+            <li>음: 광 - コウ</li>
+            <li>훈: 넓다 - ひろ(い)・ひろ(まる)・ひろ(める)・ひろ(がる)・ひろ(げる)</li>
+          </ul>
+          <br/>
+          <h3>法</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 법 - ホウ・ハッ・ホッ</li>
+            <li>훈: 법 - のり・のっと(る)・フラン</li>
+          </ul>
+          <br/>
+          <h3>記</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 기록하다 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>塩</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 염 - エン・アン</li>
+            <li>훈: 소금 - しお</li>
+          </ul>
+          <br/>
+          <h3>島</h3>
+          <ul>
+            <li>8급 (부수:山)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 섬 - しま</li>
+          </ul>
+          <br/>
+          <h3>緑</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 록 - リョク・ロク</li>
+            <li>훈: 초록 - みどり</li>
+          </ul>
+          <br/>
+          <h3>詮</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 설명하다 - あきらか・しら(べる)・そな(わる)・えら(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>趣</h3>
+          <ul>
+            <li>4급 (부수:走)</li>
+            <li>음: 취 - シュ・ソク</li>
+            <li>훈: 뜻, 멋, 느낌, 취향 - おもむき・おもむ(く)・うなが(す)</li>
+          </ul>
+          <br/>
+          <h3>翼</h3>
+          <ul>
+            <li>4급 (부수:羽)</li>
+            <li>음: 익 - ヨク</li>
+            <li>훈: 날개, 쪽 - つばさ・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>黙</h3>
+          <ul>
+            <li>4급 (부수:黒)</li>
+            <li>음: 묵 - モク・ボク</li>
+            <li>훈: 말하지 않다 - だま(る)・だんま(り)・もだ(す)</li>
+          </ul>
+          <br/>
+          <h3>緻</h3>
+          <ul>
+            <li>2급 (부수:糸)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 빽빽하다 - こま(かい)</li>
+          </ul>
+          <br/>
+          <h3>宴</h3>
+          <ul>
+            <li>3급 (부수:宀)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 잔치 - うたげ・たの(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

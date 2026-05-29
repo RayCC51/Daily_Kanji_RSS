@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>拳</h3>
+          <ul>
+            <li>2급 (부수:手)</li>
+            <li>음: 권 - ケン・ゲン</li>
+            <li>훈: 주먹 - こぶし</li>
+          </ul>
+          <br/>
+          <h3>韓</h3>
+          <ul>
+            <li>2급 (부수:韋)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한국 - から</li>
+          </ul>
+          <br/>
+          <h3>傍</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 곁 - かたわ(ら)・そば・はた・わき・そ(う)</li>
+          </ul>
+          <br/>
+          <h3>壇</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 단 - ダン・タン</li>
+            <li>훈: 단 - 無し</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

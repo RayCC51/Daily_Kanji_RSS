@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>銀</h3>
+          <ul>
+            <li>8급 (부수:金)</li>
+            <li>음: 은 - ギン</li>
+            <li>훈: 은 - しろがね</li>
+          </ul>
+          <br/>
+          <h3>居</h3>
+          <ul>
+            <li>6급 (부수:尸)</li>
+            <li>음: 거 - キョ・コ</li>
+            <li>훈: 거주, 있다 - い(る)・お(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>誤</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 틀리다 - あやま(る)・まど(わす)</li>
+          </ul>
+          <br/>
+          <h3>醸</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 양조하다, 담그다 - かも(す)</li>
+          </ul>
+          <br/>
+          <h3>逓</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 체 - テイ</li>
+            <li>훈: 갈리다 - か(わる)・たが(いに)</li>
+          </ul>
+          <br/>
+          <h3>撮</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 촬 - サツ</li>
+            <li>훈: 사진 찍다 - と(る)・つま(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>流</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 흐르다 - なが(れる)・なが(す)</li>
+          </ul>
+          <br/>
+          <h3>士</h3>
+          <ul>
+            <li>6급 (부수:士)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 선비 - さむらい</li>
+          </ul>
+          <br/>
+          <h3>陳</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 진 - チン・ジン</li>
+            <li>훈: 진치다 - つら(ねる)・の(べる)・ひ(ねる)・ふる(い)</li>
+          </ul>
+          <br/>
+          <h3>占</h3>
+          <ul>
+            <li>4급 (부수:卜)</li>
+            <li>음: 점 - セン</li>
+            <li>훈: 점치다, 차지하다 - し(める)・うらな(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

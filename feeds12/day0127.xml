@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>鉄</h3>
+          <ul>
+            <li>8급 (부수:金)</li>
+            <li>음: 철 - テツ</li>
+            <li>훈: 철 - くろがね・かね</li>
+          </ul>
+          <br/>
+          <h3>域</h3>
+          <ul>
+            <li>5급 (부수:土)</li>
+            <li>음: 역 - イキ</li>
+            <li>훈: 구역 - さかい・ところ</li>
+          </ul>
+          <br/>
+          <h3>弱</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 약 - ジャク・ニャク</li>
+            <li>훈: 약하다 - よわ(い)・よわ(る)・よわ(まる)・よわ(める)</li>
+          </ul>
+          <br/>
+          <h3>果</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 열매, 끝, 완수하다, 끝나다 - は(たす)・は(てる)・は(て)・くだもの・おお(せる)・はか</li>
+          </ul>
+          <br/>
+          <h3>加</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 더하다 - くわ(える)・くわ(わる)</li>
+          </ul>
+          <br/>
+          <h3>熊</h3>
+          <ul>
+            <li>7급 (부수:火)</li>
+            <li>음: 웅 - ユウ</li>
+            <li>훈: 곰 - くま</li>
+          </ul>
+          <br/>
+          <h3>楷</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 본보기 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>肌</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 피부 - はだ・はだえ</li>
+          </ul>
+          <br/>
+          <h3>煙</h3>
+          <ul>
+            <li>4급 (부수:火)</li>
+            <li>음: 연 - エン</li>
+            <li>훈: 연기 - けむ(る)・けむり・けむ(い)・けぶ(る)・けむ</li>
+          </ul>
+          <br/>
+          <h3>踊</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 춤추다 - おど(る)・おど(り)</li>
+          </ul>
+          <br/>
+          <h3>旨</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 취지, 맛있다 - むね・うま(い)</li>
+          </ul>
+          <br/>
+          <h3>蓄</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 축 - チク</li>
+            <li>훈: 비축하다, 모으다 - たくわ(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

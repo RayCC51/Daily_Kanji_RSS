@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>輸</h3>
+          <ul>
+            <li>6급 (부수:車)</li>
+            <li>음: 수 - ユ・シュ</li>
+            <li>훈: 보내다 - おく(る)・うつ(す)・いた(す)・ま(ける)</li>
+          </ul>
+          <br/>
+          <h3>静</h3>
+          <ul>
+            <li>7급 (부수:青)</li>
+            <li>음: 정 - セイ・ジョウ</li>
+            <li>훈: 조용하다, 가라앉다 - しず・しず(か)・しず(まる)・しず(める)</li>
+          </ul>
+          <br/>
+          <h3>養</h3>
+          <ul>
+            <li>7급 (부수:食)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 기르다 - やしな(う)</li>
+          </ul>
+          <br/>
+          <h3>掘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 파다 - ほ(る)</li>
+          </ul>
+          <br/>
+          <h3>蜂</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 봉 - ホウ</li>
+            <li>훈: 벌 - はち・むら(がる)</li>
+          </ul>
+          <br/>
+          <h3>暁</h3>
+          <ul>
+            <li>2.5급 (부수:日)</li>
+            <li>음: 효 - ギョウ</li>
+            <li>훈: 새벽 - あかつき・さと(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

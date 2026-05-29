@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>則</h3>
+          <ul>
+            <li>6급 (부수:刀)</li>
+            <li>음: 칙 - ソク</li>
+            <li>훈: 법칙 - のり・のっと(る)・すなわ(ち)</li>
+          </ul>
+          <br/>
+          <h3>盛</h3>
+          <ul>
+            <li>5급 (부수:皿)</li>
+            <li>음: 성 - セイ・ジョウ</li>
+            <li>훈: 쌓아 올리다, 활발하다 - も(る)・さか(る)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>満</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 차다, 채우다 - み(ちる)・み(たす)</li>
+          </ul>
+          <br/>
+          <h3>据</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 거 - キョ</li>
+            <li>훈: 설치하다, 안정되다 - す(える)・す(わる)</li>
+          </ul>
+          <br/>
+          <h3>紛</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 혼동되다 - まぎ(れる)・まぎ(らす)・まぎ(らわす)・まぎ(らわしい)・みだ(れる)・まが(う)・まぐ(れ)</li>
+          </ul>
+          <br/>
+          <h3>剣</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 검 - ケン</li>
+            <li>훈: 칼 - つるぎ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

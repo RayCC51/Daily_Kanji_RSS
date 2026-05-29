@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>黄</h3>
+          <ul>
+            <li>9급 (부수:黄)</li>
+            <li>음: 황 - コウ・オウ</li>
+            <li>훈: 노랑 - き・こ</li>
+          </ul>
+          <br/>
+          <h3>巻</h3>
+          <ul>
+            <li>5급 (부수:卩)</li>
+            <li>음: 권 - カン・ケン</li>
+            <li>훈: 책, 말다 - ま(く)・まき</li>
+          </ul>
+          <br/>
+          <h3>坑</h3>
+          <ul>
+            <li>3급 (부수:土)</li>
+            <li>음: 갱 - コウ</li>
+            <li>훈: 구덩이 - あな</li>
+          </ul>
+          <br/>
+          <h3>槽</h3>
+          <ul>
+            <li>2.5급 (부수:木)</li>
+            <li>음: 조 - ソウ</li>
+            <li>훈: 물통 - かいばおけ・おけ・ふね</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

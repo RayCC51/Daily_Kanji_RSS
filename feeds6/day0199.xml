@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>働</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 동 - ドウ</li>
+            <li>훈: 일하다 - はたら(く)</li>
+          </ul>
+          <br/>
+          <h3>銭</h3>
+          <ul>
+            <li>5급 (부수:金)</li>
+            <li>음: 전 - セン・ゼン</li>
+            <li>훈: 돈 - ぜに・すき</li>
+          </ul>
+          <br/>
+          <h3>紀</h3>
+          <ul>
+            <li>6급 (부수:糸)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 벼리 - のり・しる(す)・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>卸</h3>
+          <ul>
+            <li>3급 (부수:卩)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 도매하다 - おろ(す)・おろし</li>
+          </ul>
+          <br/>
+          <h3>遷</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 천 - セン</li>
+            <li>훈: 옮기다 - うつ(る)・うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>遮</h3>
+          <ul>
+            <li>2.5급 (부수:辵)</li>
+            <li>음: 차 - シャ</li>
+            <li>훈: 차단하다 - さえぎ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

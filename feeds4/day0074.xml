@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>提</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 제 - テイ・ダイ・チョウ</li>
+            <li>훈: 제공, 들다 - さ(げる)・ひっさ(げる)・ひさげ</li>
+          </ul>
+          <br/>
+          <h3>差</h3>
+          <ul>
+            <li>7급 (부수:工)</li>
+            <li>음: 차 - サ・シ</li>
+            <li>훈: 다름, 비치다, 쓰다, 끼우다, 받치다 - さ(す)・たが(う)・つか(わす)</li>
+          </ul>
+          <br/>
+          <h3>拐</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 괴 - カイ</li>
+            <li>훈: 유괴 - かた(る)・かどわか(す)</li>
+          </ul>
+          <br/>
+          <h3>裂</h3>
+          <ul>
+            <li>3급 (부수:衣)</li>
+            <li>음: 렬 - レツ</li>
+            <li>훈: 찟다 - さ(く)・さ(ける)・きれ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

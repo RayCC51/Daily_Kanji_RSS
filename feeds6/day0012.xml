@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>倍</h3>
+          <ul>
+            <li>8급 (부수:人)</li>
+            <li>음: 배 - バイ・ハイ</li>
+            <li>훈: 곱 - ま(す)・そむ(く)</li>
+          </ul>
+          <br/>
+          <h3>気</h3>
+          <ul>
+            <li>10급 (부수:气)</li>
+            <li>음: 기 - キ・ケ</li>
+            <li>훈: 기운, 기체 - いき</li>
+          </ul>
+          <br/>
+          <h3>飲</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 음 - イン・オン</li>
+            <li>훈: 마시다 - の(む)</li>
+          </ul>
+          <br/>
+          <h3>踏</h3>
+          <ul>
+            <li>4급 (부수:足)</li>
+            <li>음: 답 - トウ</li>
+            <li>훈: 밟다 - ふ(む)・ふ(まえる)</li>
+          </ul>
+          <br/>
+          <h3>芯</h3>
+          <ul>
+            <li>2급 (부수:艸)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 심지 - とうしんぐさ</li>
+          </ul>
+          <br/>
+          <h3>匠</h3>
+          <ul>
+            <li>3급 (부수:匚)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 장인 - たくみ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

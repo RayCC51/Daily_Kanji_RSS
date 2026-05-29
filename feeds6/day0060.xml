@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>頂</h3>
+          <ul>
+            <li>5급 (부수:頁)</li>
+            <li>음: 정 - チョウ・テイ</li>
+            <li>훈: 받다, 모시다, 꼭대기 - いただ(く)・いただき</li>
+          </ul>
+          <br/>
+          <h3>守</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 수 - シュ・ス</li>
+            <li>훈: 지키다 - まも(る)・も(り)・かみ</li>
+          </ul>
+          <br/>
+          <h3>様</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 모양, 님 - さま</li>
+          </ul>
+          <br/>
+          <h3>敏</h3>
+          <ul>
+            <li>4급 (부수:攵)</li>
+            <li>음: 민 - ビン</li>
+            <li>훈: 민감하다 - と(し)・さと(い)</li>
+          </ul>
+          <br/>
+          <h3>瞬</h3>
+          <ul>
+            <li>4급 (부수:目)</li>
+            <li>음: 순 - シュン</li>
+            <li>훈: 반짝, 깜박이다 - またた(く)・まばた(く)・まじろ(ぐ)・しばた(く)・しばたた(く)</li>
+          </ul>
+          <br/>
+          <h3>致</h3>
+          <ul>
+            <li>4급 (부수:至)</li>
+            <li>음: 치 - チ</li>
+            <li>훈: 이르게 하다 - いた(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

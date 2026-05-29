@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>業</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 업 - ギョウ・ゴウ</li>
+            <li>훈: 행위, 업 - わざ</li>
+          </ul>
+          <br/>
+          <h3>考</h3>
+          <ul>
+            <li>9급 (부수:耂)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 생각하다 - かんが(える)</li>
+          </ul>
+          <br/>
+          <h3>恣</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 방자하다 - ほしいまま</li>
+          </ul>
+          <br/>
+          <h3>奴</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 노 - ド・ヌ</li>
+            <li>훈: 하인, 녀석 - やっこ・やつ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

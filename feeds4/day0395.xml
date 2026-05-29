@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>桜</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 앵 - オウ</li>
+            <li>훈: 벚꽃, 앵두 - さくら</li>
+          </ul>
+          <br/>
+          <h3>完</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 완 - カン</li>
+            <li>훈: 완전 - まっと(うする)</li>
+          </ul>
+          <br/>
+          <h3>斜</h3>
+          <ul>
+            <li>4급 (부수:斗)</li>
+            <li>음: 사 - シャ</li>
+            <li>훈: 비스듬함 - なな(め)・はす</li>
+          </ul>
+          <br/>
+          <h3>殻</h3>
+          <ul>
+            <li>2.5급 (부수:殳)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 껍질 - から</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

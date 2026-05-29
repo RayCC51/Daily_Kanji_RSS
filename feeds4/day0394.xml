@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>心</h3>
+          <ul>
+            <li>9급 (부수:心)</li>
+            <li>음: 심 - シン</li>
+            <li>훈: 마음 - こころ・うら</li>
+          </ul>
+          <br/>
+          <h3>良</h3>
+          <ul>
+            <li>7급 (부수:艮)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 좋다 - よ(い)・やや</li>
+          </ul>
+          <br/>
+          <h3>滞</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 밀리다, 막히다, 머무르다 - とどこお(る)</li>
+          </ul>
+          <br/>
+          <h3>傲</h3>
+          <ul>
+            <li>2급 (부수:人)</li>
+            <li>음: 오 - ゴウ</li>
+            <li>훈: 오만하다 - おご(る)・あなど(る)・あそ(ぶ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>私</h3>
+          <ul>
+            <li>5급 (부수:禾)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 나 - わたくし・わたし・ひそ(か)</li>
+          </ul>
+          <br/>
+          <h3>鼻</h3>
+          <ul>
+            <li>8급 (부수:鼻)</li>
+            <li>음: 비 - ビ</li>
+            <li>훈: 코 - はな・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>詳</h3>
+          <ul>
+            <li>4급 (부수:言)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 자세하다 - くわ(しい)・つまび(らか)</li>
+          </ul>
+          <br/>
+          <h3>綻</h3>
+          <ul>
+            <li>2급 (부수:糸)</li>
+            <li>음: 탄 - タン</li>
+            <li>훈: 터지다 - ほころ(びる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

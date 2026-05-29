@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>失</h3>
+          <ul>
+            <li>7급 (부수:大)</li>
+            <li>음: 실 - シツ</li>
+            <li>훈: 잃다 - うしな(う)・う(せる)</li>
+          </ul>
+          <br/>
+          <h3>賃</h3>
+          <ul>
+            <li>5급 (부수:貝)</li>
+            <li>음: 임 - チン・ジン</li>
+            <li>훈: 품삯 - やと(う)</li>
+          </ul>
+          <br/>
+          <h3>弟</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 제 - テイ・ダイ・デ</li>
+            <li>훈: 남동생 - おとうと</li>
+          </ul>
+          <br/>
+          <h3>娘</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 낭 - ジョウ・ニョウ</li>
+            <li>훈: 딸 - むすめ・こ</li>
+          </ul>
+          <br/>
+          <h3>桃</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 복숭아, 분홍 - もも</li>
+          </ul>
+          <br/>
+          <h3>汎</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 범 - ハン・フウ・ホウ</li>
+            <li>훈: 넓다 - ひろ(い)・う(かぶ)・あふ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

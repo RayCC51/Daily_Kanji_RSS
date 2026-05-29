@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>助</h3>
+          <ul>
+            <li>8급 (부수:力)</li>
+            <li>음: 조 - ジョ</li>
+            <li>훈: 돕다, 살아나다 - たす(ける)・たす(かる)・すけ</li>
+          </ul>
+          <br/>
+          <h3>産</h3>
+          <ul>
+            <li>7급 (부수:生)</li>
+            <li>음: 산 - サン</li>
+            <li>훈: 낳다, 태어나다 - う(む)・う(まれる)・うぶ</li>
+          </ul>
+          <br/>
+          <h3>抗</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 저항 - あらが(う)・はりあ(う)・ふせ(ぐ)・こば(む)</li>
+          </ul>
+          <br/>
+          <h3>餓</h3>
+          <ul>
+            <li>3급 (부수:食)</li>
+            <li>음: 아 - ガ</li>
+            <li>훈: 굶주리다 - う(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

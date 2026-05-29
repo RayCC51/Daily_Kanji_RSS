@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>窓</h3>
+          <ul>
+            <li>5급 (부수:穴)</li>
+            <li>음: 창 - ソウ</li>
+            <li>훈: 창문 - まど</li>
+          </ul>
+          <br/>
+          <h3>名</h3>
+          <ul>
+            <li>10급 (부수:口)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 이름 - な</li>
+          </ul>
+          <br/>
+          <h3>銘</h3>
+          <ul>
+            <li>2.5급 (부수:金)</li>
+            <li>음: 명 - メイ・ミョウ</li>
+            <li>훈: 새기다 - しる(す)</li>
+          </ul>
+          <br/>
+          <h3>伐</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 벌 - バツ・ハツ</li>
+            <li>훈: 토벌하다 - き(る)・う(つ)・ほこ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

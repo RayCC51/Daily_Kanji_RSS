@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>従</h3>
+          <ul>
+            <li>5급 (부수:彳)</li>
+            <li>음: 종 - ジュウ・ショウ・ジュ</li>
+            <li>훈: 따르다 - したが(う)・したが(える)</li>
+          </ul>
+          <br/>
+          <h3>路</h3>
+          <ul>
+            <li>8급 (부수:足)</li>
+            <li>음: 로 - ロ</li>
+            <li>훈: 길 - じ・みち・くるま</li>
+          </ul>
+          <br/>
+          <h3>射</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 사 - シャ・セキ・ヤ</li>
+            <li>훈: 쏘다 - い(る)・う(つ)・さ(す)・あ(てる)</li>
+          </ul>
+          <br/>
+          <h3>釜</h3>
+          <ul>
+            <li>2급 (부수:金)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 가마솥 - かま</li>
+          </ul>
+          <br/>
+          <h3>訂</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 바로잡다 - ただ(す)・さだ(める)</li>
+          </ul>
+          <br/>
+          <h3>抵</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 저 - テイ・シ</li>
+            <li>훈: 막다 - あ(たる)・ふ(れる)・う(つ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

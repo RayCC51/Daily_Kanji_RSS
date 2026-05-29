@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>満</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 차다, 채우다 - み(ちる)・み(たす)</li>
+          </ul>
+          <br/>
+          <h3>英</h3>
+          <ul>
+            <li>7급 (부수:艸)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 꽃부리, 영국 - はなぶさ・はな・ひい(でる)</li>
+          </ul>
+          <br/>
+          <h3>脈</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 맥 - ミャク・バク</li>
+            <li>훈: 줄기 - すじ</li>
+          </ul>
+          <br/>
+          <h3>色</h3>
+          <ul>
+            <li>9급 (부수:色)</li>
+            <li>음: 색 - ショク・シキ</li>
+            <li>훈: 색 - いろ</li>
+          </ul>
+          <br/>
+          <h3>季</h3>
+          <ul>
+            <li>7급 (부수:子)</li>
+            <li>음: 계 - キ</li>
+            <li>훈: 계절 - すえ</li>
+          </ul>
+          <br/>
+          <h3>宿</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 숙 - シュク・スク</li>
+            <li>훈: 숙소, 머물다, 품다 - やど・やど(る)・やど(す)</li>
+          </ul>
+          <br/>
+          <h3>華</h3>
+          <ul>
+            <li>3급 (부수:艸)</li>
+            <li>음: 화 - カ・ケ・ゲ</li>
+            <li>훈: 꽃, 화려하다 - はな・しろ(い)</li>
+          </ul>
+          <br/>
+          <h3>撃</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 격 - ゲキ・ケキ</li>
+            <li>훈: 치다, 쏘다 - う(つ)</li>
+          </ul>
+          <br/>
+          <h3>鮮</h3>
+          <ul>
+            <li>4급 (부수:魚)</li>
+            <li>음: 선 - セン</li>
+            <li>훈: 선명함 - あざ(やか)・あたら(しい)・すく(ない)</li>
+          </ul>
+          <br/>
+          <h3>換</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+          <h3>漠</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 막 - バク・マク</li>
+            <li>훈: 넓다 - すなはら・ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>劾</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 핵 - ガイ</li>
+            <li>훈: 꾸짖다 - しら(べる)・あば(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

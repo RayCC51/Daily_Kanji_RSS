@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>値</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 치 - チ・チョク</li>
+            <li>훈: 가치가 있다 - ね・あたい・あ(う)</li>
+          </ul>
+          <br/>
+          <h3>皿</h3>
+          <ul>
+            <li>8급 (부수:皿)</li>
+            <li>음: 명 - ベイ</li>
+            <li>훈: 접시 - さら</li>
+          </ul>
+          <br/>
+          <h3>術</h3>
+          <ul>
+            <li>6급 (부수:行)</li>
+            <li>음: 술 - ジュツ・シュツ・スイ</li>
+            <li>훈: 재주 - わざ・すべ</li>
+          </ul>
+          <br/>
+          <h3>刑</h3>
+          <ul>
+            <li>3급 (부수:刀)</li>
+            <li>음: 형 - ケイ・ギョウ</li>
+            <li>훈: 형벌 - しおき</li>
+          </ul>
+          <br/>
+          <h3>販</h3>
+          <ul>
+            <li>4급 (부수:貝)</li>
+            <li>음: 판 - ハン</li>
+            <li>훈: 팔다 - あきな(う)・ひさ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>妊</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 임 - ニン・ジン</li>
+            <li>훈: 임신 - はら(む)・みごも(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

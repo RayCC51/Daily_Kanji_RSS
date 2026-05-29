@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>曲</h3>
+          <ul>
+            <li>8급 (부수:曰)</li>
+            <li>음: 곡 - キョク</li>
+            <li>훈: 굽다, 기울다 - ま(がる)・ま(げる)・くま・くせ・まが・かね</li>
+          </ul>
+          <br/>
+          <h3>約</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 약 - ヤク</li>
+            <li>훈: 약속 - ちか(う)・つづ(める)・つづま(やか)・つま(しい)</li>
+          </ul>
+          <br/>
+          <h3>想</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 상 - ソウ・ソ</li>
+            <li>훈: 생각 - おも(う)</li>
+          </ul>
+          <br/>
+          <h3>官</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 벼슬 - つかさ・おおやけ</li>
+          </ul>
+          <br/>
+          <h3>台</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 대, 태 - ダイ・タイ</li>
+            <li>훈: 대, 태 - うてな・しもべ</li>
+          </ul>
+          <br/>
+          <h3>拡</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 넑히다 - ひろ(がる)・ひろ(げる)</li>
+          </ul>
+          <br/>
+          <h3>愁</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 상심하다, 걱정하다 - うれ(える)・うれ(い)</li>
+          </ul>
+          <br/>
+          <h3>濯</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 탁 - タク</li>
+            <li>훈: 씻다 - あら(う)・すす(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>丈</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 장 - ジョウ</li>
+            <li>훈: 키, 길이 - たけ</li>
+          </ul>
+          <br/>
+          <h3>鍛</h3>
+          <ul>
+            <li>3급 (부수:金)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 단련하다 - きた(える)</li>
+          </ul>
+          <br/>
+          <h3>摘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 따다, 뜯다, 골라내다 - つ(む)・つま(む)</li>
+          </ul>
+          <br/>
+          <h3>怪</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 괴 - カイ・ケ</li>
+            <li>훈: 수상하다, 의심하다 - あや(しい)・あや(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

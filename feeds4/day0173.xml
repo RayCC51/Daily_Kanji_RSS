@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>崎</h3>
+          <ul>
+            <li>7급 (부수:山)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 곶 - さき</li>
+          </ul>
+          <br/>
+          <h3>夢</h3>
+          <ul>
+            <li>6급 (부수:夕)</li>
+            <li>음: 몽 - ム・ボウ</li>
+            <li>훈: 꿈 - ゆめ</li>
+          </ul>
+          <br/>
+          <h3>揚</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 양 - ヨウ</li>
+            <li>훈: 튀기다 - あ(げる)・あ(がる)</li>
+          </ul>
+          <br/>
+          <h3>妥</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 타당 - やす(らか)・おだ(やか)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

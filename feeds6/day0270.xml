@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>旗</h3>
+          <ul>
+            <li>7급 (부수:方)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 깃발 - はた</li>
+          </ul>
+          <br/>
+          <h3>旅</h3>
+          <ul>
+            <li>8급 (부수:方)</li>
+            <li>음: 려 - リョ・ロ</li>
+            <li>훈: 여행 - たび・いくさ</li>
+          </ul>
+          <br/>
+          <h3>仮</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 가 - カ・ケ</li>
+            <li>훈: 거짓, 만약 - かり・か(す)</li>
+          </ul>
+          <br/>
+          <h3>憤</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 분 - フン</li>
+            <li>훈: 분하다 - いきどお(る)・むずか(る)</li>
+          </ul>
+          <br/>
+          <h3>免</h3>
+          <ul>
+            <li>3급 (부수:儿)</li>
+            <li>음: 면 - メン・ベン・ブン</li>
+            <li>훈: 면하다 - まぬか(れる)・ゆる(す)・や(める)・う(む)</li>
+          </ul>
+          <br/>
+          <h3>尽</h3>
+          <ul>
+            <li>4급 (부수:尸)</li>
+            <li>음: 진 - ジン</li>
+            <li>훈: 다하다, 바닥나다, 없어지다 - つ(くす)・つ(きる)・つ(かす)・すが(れる)・ことごと(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

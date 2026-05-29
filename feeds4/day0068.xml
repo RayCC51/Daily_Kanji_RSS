@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>残</h3>
+          <ul>
+            <li>7급 (부수:歹)</li>
+            <li>음: 잔 - ザン</li>
+            <li>훈: 남다 - のこ(る)・のこ(す)・そこ(なう)</li>
+          </ul>
+          <br/>
+          <h3>退</h3>
+          <ul>
+            <li>5급 (부수:辵)</li>
+            <li>음: 퇴 - タイ</li>
+            <li>훈: 물러나다, 물리치다 - しりぞ(く)・しりぞ(ける)・の(く)・の(ける)・すさ(る)・しさ(る)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>綱</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 강 - コウ</li>
+            <li>훈: 밧줄 - つな</li>
+          </ul>
+          <br/>
+          <h3>劾</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 핵 - ガイ</li>
+            <li>훈: 꾸짖다 - しら(べる)・あば(く)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

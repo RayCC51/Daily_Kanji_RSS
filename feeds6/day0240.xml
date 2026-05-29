@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>協</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 협력 - かな(う)</li>
+          </ul>
+          <br/>
+          <h3>属</h3>
+          <ul>
+            <li>6급 (부수:尸)</li>
+            <li>음: 속 - ゾク・ショク</li>
+            <li>훈: 무리 - つ(く)・やから</li>
+          </ul>
+          <br/>
+          <h3>浴</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 욕 - ヨク</li>
+            <li>훈: 목욕, 뒤집어쓰다, 퍼부어지다, 끼얹다 - あ(びる)・あ(びせる)・ゆあみ</li>
+          </ul>
+          <br/>
+          <h3>諦</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 체 - テイ・タイ</li>
+            <li>훈: 포기하다 - あきら(める)・つまび(らか)・まこと</li>
+          </ul>
+          <br/>
+          <h3>酌</h3>
+          <ul>
+            <li>2.5급 (부수:酉)</li>
+            <li>음: 작 - シャク</li>
+            <li>훈: 술 마시다 - く(む)</li>
+          </ul>
+          <br/>
+          <h3>奪</h3>
+          <ul>
+            <li>3급 (부수:大)</li>
+            <li>음: 탈 - ダツ・タツ</li>
+            <li>훈: 빼앗다 - うば(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

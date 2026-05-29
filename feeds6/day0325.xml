@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>密</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 밀 - ミツ・ビツ</li>
+            <li>훈: 빽빽함, 남 몰래 - ひそ(かに)・こま(かい)</li>
+          </ul>
+          <br/>
+          <h3>量</h3>
+          <ul>
+            <li>7급 (부수:里)</li>
+            <li>음: 량 - リョウ</li>
+            <li>훈: 양, 재다 - はか(る)・かさ・ちから</li>
+          </ul>
+          <br/>
+          <h3>実</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 실 - ジツ</li>
+            <li>훈: 열매 - み・みの(る)・み(ちる)・まこと・さね・まめ</li>
+          </ul>
+          <br/>
+          <h3>戚</h3>
+          <ul>
+            <li>2급 (부수:戈)</li>
+            <li>음: 척 - セキ</li>
+            <li>훈: 겨레 - みうち・いた(む)・うれ(える)</li>
+          </ul>
+          <br/>
+          <h3>殊</h3>
+          <ul>
+            <li>3급 (부수:歹)</li>
+            <li>음: 수 - シュ</li>
+            <li>훈: 특히 - こと</li>
+          </ul>
+          <br/>
+          <h3>恣</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 방자하다 - ほしいまま</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

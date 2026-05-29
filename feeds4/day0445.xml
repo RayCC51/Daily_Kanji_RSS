@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>望</h3>
+          <ul>
+            <li>7급 (부수:月)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 바라다, 바람직하다 - のぞ(む)・もち・うら(む)</li>
+          </ul>
+          <br/>
+          <h3>余</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 여 - ヨ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・ほか</li>
+          </ul>
+          <br/>
+          <h3>桃</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 복숭아, 분홍 - もも</li>
+          </ul>
+          <br/>
+          <h3>抜</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 발 - バツ</li>
+            <li>훈: 뽑다, 빠지다, 실수하다 - ぬ(く)・ぬ(ける)・ぬ(かす)・ぬ(かる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

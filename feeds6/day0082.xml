@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>友</h3>
+          <ul>
+            <li>9급 (부수:又)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 친구 - とも</li>
+          </ul>
+          <br/>
+          <h3>祝</h3>
+          <ul>
+            <li>7급 (부수:示)</li>
+            <li>음: 축 - シュク・シュウ</li>
+            <li>훈: 축하하다 - いわ(う)・た(つ)・の(る)・のろ(う)</li>
+          </ul>
+          <br/>
+          <h3>犯</h3>
+          <ul>
+            <li>6급 (부수:犬)</li>
+            <li>음: 범 - ハン・ボン</li>
+            <li>훈: 어기다 - おか(す)</li>
+          </ul>
+          <br/>
+          <h3>壁</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 벽 - かべ・がけ</li>
+          </ul>
+          <br/>
+          <h3>触</h3>
+          <ul>
+            <li>4급 (부수:角)</li>
+            <li>음: 촉 - ショク・ソク</li>
+            <li>훈: 닿다, 만지다 - ふれる・さわる</li>
+          </ul>
+          <br/>
+          <h3>餌</h3>
+          <ul>
+            <li>2급 (부수:食)</li>
+            <li>음: 이 - ジ</li>
+            <li>훈: 먹이, 사료, 미끼 - えさ・え・たべもの・く(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

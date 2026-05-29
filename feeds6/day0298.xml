@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>評</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 평 - ヒョウ・ヘイ</li>
+            <li>훈: 평가하다 - はか(る)・あげつら(う)</li>
+          </ul>
+          <br/>
+          <h3>米</h3>
+          <ul>
+            <li>9급 (부수:米)</li>
+            <li>음: 미 - ベイ・マイ・メ</li>
+            <li>훈: 쌀, 미터 - こめ・よね・メートル</li>
+          </ul>
+          <br/>
+          <h3>舎</h3>
+          <ul>
+            <li>6급 (부수:舌)</li>
+            <li>음: 사 - シャ・セキ</li>
+            <li>훈: 집 - いえ・やど・やど(る)・お(く)</li>
+          </ul>
+          <br/>
+          <h3>鼓</h3>
+          <ul>
+            <li>4급 (부수:鼓)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 타악기, 울리다 - つづみ</li>
+          </ul>
+          <br/>
+          <h3>酔</h3>
+          <ul>
+            <li>3급 (부수:酉)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 취하다 - よ(う)</li>
+          </ul>
+          <br/>
+          <h3>冠</h3>
+          <ul>
+            <li>3급 (부수:冖)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 갓, 왕관 - かんむり・かむ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

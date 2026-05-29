@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>剣</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 검 - ケン</li>
+            <li>훈: 칼 - つるぎ</li>
+          </ul>
+          <br/>
+          <h3>施</h3>
+          <ul>
+            <li>3급 (부수:方)</li>
+            <li>음: 시 - シ・セ</li>
+            <li>훈: 베풀다 - ほどこ(す)・し(く)</li>
+          </ul>
+          <br/>
+          <h3>符</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 부호 - わりふ</li>
+          </ul>
+          <br/>
+          <h3>免</h3>
+          <ul>
+            <li>3급 (부수:儿)</li>
+            <li>음: 면 - メン・ベン・ブン</li>
+            <li>훈: 면하다 - まぬか(れる)・ゆる(す)・や(める)・う(む)</li>
+          </ul>
+          <br/>
+          <h3>痢</h3>
+          <ul>
+            <li>2.5급 (부수:疒)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 병 - 無し</li>
+          </ul>
+          <br/>
+          <h3>緊</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 긴 - キン</li>
+            <li>훈: 긴장, 팽팽하다 - かた(い)・し(める)・ちぢ(む)・きび(しい)</li>
+          </ul>
+          <br/>
+          <h3>崖</h3>
+          <ul>
+            <li>2급 (부수:山)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 벼랑 - がけ</li>
+          </ul>
+          <br/>
+          <h3>赴</h3>
+          <ul>
+            <li>3급 (부수:走)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 향하여 가다 - おもむ(く)・つ(げる)</li>
+          </ul>
+          <br/>
+          <h3>荒</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 황 - コウ</li>
+            <li>훈: 거칠다, 망치다 - あら(い)・あ(れる)・あ(らす)・すさ(む)・すさ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>泌</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 필, 비 - ヒツ・ヒ</li>
+            <li>훈: 분비 - にじ(む)</li>
+          </ul>
+          <br/>
+          <h3>惧</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 구 - グ・ク</li>
+            <li>훈: 두려워하다 - おそ(れる)</li>
+          </ul>
+          <br/>
+          <h3>胎</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 태 - タイ</li>
+            <li>훈: 아이배다 - はら(む)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

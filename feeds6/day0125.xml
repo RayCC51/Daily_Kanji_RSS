@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>木</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 목 - ボク・モク</li>
+            <li>훈: 나무 - き・こ</li>
+          </ul>
+          <br/>
+          <h3>栄</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 영 - エイ</li>
+            <li>훈: 번영, 돋보이다 - さか(える)・は(え)・は(える)・は(やす)</li>
+          </ul>
+          <br/>
+          <h3>印</h3>
+          <ul>
+            <li>7급 (부수:卩)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 도장, 표시 - しるし・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>捕</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 포 - ホ・ブ</li>
+            <li>훈: 잡다 - と(らえる)・と(らわれる)・と(る)・つか(まえる)・つか(まる)</li>
+          </ul>
+          <br/>
+          <h3>淑</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 숙 - シュク</li>
+            <li>훈: 정숙하다 - しと(やか)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>曖</h3>
+          <ul>
+            <li>2급 (부수:日)</li>
+            <li>음: 애 - アイ</li>
+            <li>훈: 애매하다 - かげ(る)・くら(い)・おお(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

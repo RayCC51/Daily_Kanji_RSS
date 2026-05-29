@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>港</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 항구 - みなと</li>
+          </ul>
+          <br/>
+          <h3>食</h3>
+          <ul>
+            <li>9급 (부수:食)</li>
+            <li>음: 식 - ショク・ジキ・シ</li>
+            <li>훈: 먹다, 받다 - く(う)・く(らう)・た(べる)・は(む)</li>
+          </ul>
+          <br/>
+          <h3>連</h3>
+          <ul>
+            <li>7급 (부수:辵)</li>
+            <li>음: 련 - レン</li>
+            <li>훈: 연속, 줄 지어있다, 데리고 가다 - つら(なる)・つら(ねる)・つ(れる)・しき(りに)</li>
+          </ul>
+          <br/>
+          <h3>詮</h3>
+          <ul>
+            <li>2급 (부수:言)</li>
+            <li>음: 전 - セン</li>
+            <li>훈: 설명하다 - あきらか・しら(べる)・そな(わる)・えら(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>施</h3>
+          <ul>
+            <li>3급 (부수:方)</li>
+            <li>음: 시 - シ・セ</li>
+            <li>훈: 베풀다 - ほどこ(す)・し(く)</li>
+          </ul>
+          <br/>
+          <h3>娯</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 오 - ゴ</li>
+            <li>훈: 즐기다 - たの(しむ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

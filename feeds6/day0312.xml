@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>定</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 정 - テイ・ジョウ</li>
+            <li>훈: 정하다, 확실함 - さだ(める)・さだ(まる)・さだ(か)・き(まる)</li>
+          </ul>
+          <br/>
+          <h3>想</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 상 - ソウ・ソ</li>
+            <li>훈: 생각 - おも(う)</li>
+          </ul>
+          <br/>
+          <h3>官</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 벼슬 - つかさ・おおやけ</li>
+          </ul>
+          <br/>
+          <h3>疲</h3>
+          <ul>
+            <li>4급 (부수:疒)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 지치다 - つか(れる)</li>
+          </ul>
+          <br/>
+          <h3>瞳</h3>
+          <ul>
+            <li>2급 (부수:目)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 눈동자 - ひとみ</li>
+          </ul>
+          <br/>
+          <h3>没</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 몰 - ボツ・モツ</li>
+            <li>훈: 빠지다 - しず(む)・おぼ(れる)・し(ぬ)・な(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

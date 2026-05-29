@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>試</h3>
+          <ul>
+            <li>7급 (부수:言)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시험하다, 시도하다 - こころ(みる)・ため(す)</li>
+          </ul>
+          <br/>
+          <h3>神</h3>
+          <ul>
+            <li>8급 (부수:示)</li>
+            <li>음: 신 - シン・ジン</li>
+            <li>훈: 신 - かみ・かん・こう・たましい</li>
+          </ul>
+          <br/>
+          <h3>幽</h3>
+          <ul>
+            <li>3급 (부수:幺)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 그윽하다 - かす(か)・くら(い)</li>
+          </ul>
+          <br/>
+          <h3>了</h3>
+          <ul>
+            <li>3급 (부수:亅)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 마치다 - お(わる)・しま(う)・さと(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

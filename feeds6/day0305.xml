@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>証</h3>
+          <ul>
+            <li>6급 (부수:言)</li>
+            <li>음: 증 - ショウ</li>
+            <li>훈: 증거 - あか(し)</li>
+          </ul>
+          <br/>
+          <h3>郡</h3>
+          <ul>
+            <li>7급 (부수:邑)</li>
+            <li>음: 군 - グン・クン</li>
+            <li>훈: 고을 - こおり</li>
+          </ul>
+          <br/>
+          <h3>飼</h3>
+          <ul>
+            <li>6급 (부수:食)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 기르다 - か(う)・やしな(う)</li>
+          </ul>
+          <br/>
+          <h3>伴</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 반 - ハン・バン</li>
+            <li>훈: 따라가다 - ともな(う)・とも</li>
+          </ul>
+          <br/>
+          <h3>冒</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 모 - ボウ・ボク・モウ</li>
+            <li>훈: 무릅쓰다 - おか(す)・おお(う)・むさぼ(る)・ねた(む)</li>
+          </ul>
+          <br/>
+          <h3>痘</h3>
+          <ul>
+            <li>3급 (부수:疒)</li>
+            <li>음: 두 - トウ</li>
+            <li>훈: 병 - もがさ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

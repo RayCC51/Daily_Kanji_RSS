@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>角</h3>
+          <ul>
+            <li>9급 (부수:角)</li>
+            <li>음: 각 - カク</li>
+            <li>훈: 모서리, 뿔 - かど・つの・すみ・くら(べる)</li>
+          </ul>
+          <br/>
+          <h3>詞</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 말 - ことば</li>
+          </ul>
+          <br/>
+          <h3>担</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 담 - タン</li>
+            <li>훈: 메다, 짊어지다, 맡다 - かつ(ぐ)・にな(う)</li>
+          </ul>
+          <br/>
+          <h3>懇</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 간 - コン</li>
+            <li>훈: 간절, 공손함 - ねんご(ろ)</li>
+          </ul>
+          <br/>
+          <h3>恐</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 공 - キョウ</li>
+            <li>훈: 무섭다 - おそ(れる)・おそ(ろしい)・こわ(い)</li>
+          </ul>
+          <br/>
+          <h3>浄</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 정 - ジョウ</li>
+            <li>훈: 깨끗하다 - きよ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

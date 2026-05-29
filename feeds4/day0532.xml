@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>堀</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 굴 - クツ・コツ</li>
+            <li>훈: 수로 - ほり・あな</li>
+          </ul>
+          <br/>
+          <h3>崖</h3>
+          <ul>
+            <li>2급 (부수:山)</li>
+            <li>음: 애 - ガイ</li>
+            <li>훈: 벼랑 - がけ</li>
+          </ul>
+          <br/>
+          <h3>隷</h3>
+          <ul>
+            <li>4급 (부수:隶)</li>
+            <li>음: 례 - レイ</li>
+            <li>훈: 종 - したが(う)・しもべ</li>
+          </ul>
+          <br/>
+          <h3>換</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

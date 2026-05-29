@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>得</h3>
+          <ul>
+            <li>6급 (부수:彳)</li>
+            <li>음: 득 - トク</li>
+            <li>훈: 얻다, 할 수 있다 - え(る)・う(る)</li>
+          </ul>
+          <br/>
+          <h3>仲</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 중 - チュウ</li>
+            <li>훈: 사이 - なか</li>
+          </ul>
+          <br/>
+          <h3>築</h3>
+          <ul>
+            <li>6급 (부수:竹)</li>
+            <li>음: 축 - チク</li>
+            <li>훈: 쌓다 - きず(く)・つ(く)</li>
+          </ul>
+          <br/>
+          <h3>怠</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 태 - タイ</li>
+            <li>훈: 게으르다, 나른하다 - おこた(る)・なま(ける)・だる(い)</li>
+          </ul>
+          <br/>
+          <h3>桑</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 상 - ソウ</li>
+            <li>훈: 뽕나무 - くわ</li>
+          </ul>
+          <br/>
+          <h3>湿</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 습 - シツ</li>
+            <li>훈: 습하다, 적시다 - しめ(る)・しめ(す)・うるお(い)・うるお(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

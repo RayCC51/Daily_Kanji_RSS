@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>牧</h3>
+          <ul>
+            <li>7급 (부수:牛)</li>
+            <li>음: 목 - ボク・モク</li>
+            <li>훈: 목장 - まき・か(う)・やしな(う)・つかさ</li>
+          </ul>
+          <br/>
+          <h3>弓</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 궁 - キュウ</li>
+            <li>훈: 활 - ゆみ</li>
+          </ul>
+          <br/>
+          <h3>騒</h3>
+          <ul>
+            <li>4급 (부수:馬)</li>
+            <li>음: 소 - ソウ</li>
+            <li>훈: 떠들다 - さわ(ぐ)・ざわ(つく)・ぞめ(く)・うれ(い)</li>
+          </ul>
+          <br/>
+          <h3>毀</h3>
+          <ul>
+            <li>2급 (부수:殳)</li>
+            <li>음: 훼 - キ</li>
+            <li>훈: 부수다, 망가지다 - こぼ(つ)・やぶ(る)・やぶ(れる)・そし(る)・や(せる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>腹</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 배 - はら・こころ</li>
+          </ul>
+          <br/>
+          <h3>八</h3>
+          <ul>
+            <li>10급 (부수:八)</li>
+            <li>음: 팔 - ハチ</li>
+            <li>훈: 8, 여덟 - や・や(つ)・やっ(つ)・よう</li>
+          </ul>
+          <br/>
+          <h3>堪</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 감 - カン・タン</li>
+            <li>훈: 견디다, 참다 - た(える)・こら(える)・こた(える)・たま(る)</li>
+          </ul>
+          <br/>
+          <h3>範</h3>
+          <ul>
+            <li>4급 (부수:竹)</li>
+            <li>음: 범 - ハン</li>
+            <li>훈: 법, 본보기 - のり・いがた</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

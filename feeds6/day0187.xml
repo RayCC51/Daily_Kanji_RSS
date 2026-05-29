@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>貴</h3>
+          <ul>
+            <li>5급 (부수:貝)</li>
+            <li>음: 귀 - キ</li>
+            <li>훈: 귀중하다, 공경하다 - たっと(い)・とうと(い)・たっと(ぶ)・とうと(ぶ)・たか(い)</li>
+          </ul>
+          <br/>
+          <h3>物</h3>
+          <ul>
+            <li>8급 (부수:牛)</li>
+            <li>음: 물 - ブツ・モツ</li>
+            <li>훈: 물건 - もの</li>
+          </ul>
+          <br/>
+          <h3>婦</h3>
+          <ul>
+            <li>6급 (부수:女)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 며느리 - おんな</li>
+          </ul>
+          <br/>
+          <h3>棋</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 기 - キ・ゴ</li>
+            <li>훈: 바둑 - 無し</li>
+          </ul>
+          <br/>
+          <h3>硫</h3>
+          <ul>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 유황 - 無し</li>
+          </ul>
+          <br/>
+          <h3>換</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 환 - カン</li>
+            <li>훈: 바꾸다 - か(える)・か(わる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

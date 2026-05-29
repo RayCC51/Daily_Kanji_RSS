@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>祖</h3>
+          <ul>
+            <li>6급 (부수:示)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 조상 - おや・じじ・はじ(め)</li>
+          </ul>
+          <br/>
+          <h3>疑</h3>
+          <ul>
+            <li>5급 (부수:疋)</li>
+            <li>음: 의 - ギ</li>
+            <li>훈: 의심하다 - うたが(う)・うたぐ(る)</li>
+          </ul>
+          <br/>
+          <h3>博</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 박 - ハク・バク</li>
+            <li>훈: 넓음 - ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>降</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 강, 항 - コウ・ゴウ</li>
+            <li>훈: 내리다 - お(りる)・お(ろす)・ふ(る)・くだ(る)・くだ(す)</li>
+          </ul>
+          <br/>
+          <h3>札</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 표 - ふだ・さね・わかじに</li>
+          </ul>
+          <br/>
+          <h3>身</h3>
+          <ul>
+            <li>8급 (부수:身)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 몸 - み</li>
+          </ul>
+          <br/>
+          <h3>脅</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 위협하다, 협박하다, 겁내다 - おびや(かす)・おど(す)・おど(かす)・おび(える)</li>
+          </ul>
+          <br/>
+          <h3>挑</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 도 - チョウ</li>
+            <li>훈: 도전하다 - いど(む)</li>
+          </ul>
+          <br/>
+          <h3>姫</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 희 - キ</li>
+            <li>훈: 공주 - ひめ</li>
+          </ul>
+          <br/>
+          <h3>坪</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 평 - ヘイ</li>
+            <li>훈: 넓이 - つぼ</li>
+          </ul>
+          <br/>
+          <h3>随</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 수 - ズイ</li>
+            <li>훈: 따르다 - したが(う)</li>
+          </ul>
+          <br/>
+          <h3>偏</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 편 - ヘン</li>
+            <li>훈: 기울다, 치우치다, 오직 - かたよ(る)・ひとえ(に)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

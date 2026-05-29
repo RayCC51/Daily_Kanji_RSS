@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>計</h3>
+          <ul>
+            <li>9급 (부수:言)</li>
+            <li>음: 계 - ケイ</li>
+            <li>훈: 세다, 상의하다 - はか(る)・はか(らう)・かぞ(える)</li>
+          </ul>
+          <br/>
+          <h3>収</h3>
+          <ul>
+            <li>5급 (부수:又)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 넣다, 거두다, 수습되다 - おさ(める)・おさ(まる)</li>
+          </ul>
+          <br/>
+          <h3>西</h3>
+          <ul>
+            <li>9급 (부수:襾)</li>
+            <li>음: 서 - セイ・サイ・スイ</li>
+            <li>훈: 서쪽 - にし</li>
+          </ul>
+          <br/>
+          <h3>諭</h3>
+          <ul>
+            <li>2.5급 (부수:言)</li>
+            <li>음: 유 - ユ</li>
+            <li>훈: 타이르다 - さと(す)</li>
+          </ul>
+          <br/>
+          <h3>踪</h3>
+          <ul>
+            <li>2급 (부수:足)</li>
+            <li>음: 종 - ソウ・シュウ</li>
+            <li>훈: 자취 - あと</li>
+          </ul>
+          <br/>
+          <h3>掲</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 게 - ケイ</li>
+            <li>훈: 걸다, 매달다 - かか(げる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>造</h3>
+          <ul>
+            <li>6급 (부수:辵)</li>
+            <li>음: 조 - ゾウ</li>
+            <li>훈: 만들다, 짓다 - つく(る)・いた(る)・な(る)・はじ(める)・みやつこ</li>
+          </ul>
+          <br/>
+          <h3>除</h3>
+          <ul>
+            <li>5급 (부수:阜)</li>
+            <li>음: 제 - ジョ・ジ</li>
+            <li>훈: 제외하다 - のぞ(く)・はら(う)・の(ける)・よ(ける)・つ(きる)</li>
+          </ul>
+          <br/>
+          <h3>及</h3>
+          <ul>
+            <li>4급 (부수:又)</li>
+            <li>음: 급 - キュウ</li>
+            <li>훈: 미치다, 이르다 - およ(ぶ)・およ(び)・およ(ばす)</li>
+          </ul>
+          <br/>
+          <h3>獣</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 수 - ジュウ</li>
+            <li>훈: 짐승 - けもの・けだもの・しし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>臣</h3>
+          <ul>
+            <li>7급 (부수:臣)</li>
+            <li>음: 신 - シン・ジン</li>
+            <li>훈: 신하 - おみ</li>
+          </ul>
+          <br/>
+          <h3>由</h3>
+          <ul>
+            <li>8급 (부수:田)</li>
+            <li>음: 유 - ユ・ユウ・ユイ</li>
+            <li>훈: 까닭, 사정 - よし・よ(る)・なお…(ごとし)</li>
+          </ul>
+          <br/>
+          <h3>弱</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 약 - ジャク・ニャク</li>
+            <li>훈: 약하다 - よわ(い)・よわ(る)・よわ(まる)・よわ(める)</li>
+          </ul>
+          <br/>
+          <h3>慨</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 개 - ガイ・カイ</li>
+            <li>훈: 슬퍼하다 - なげ(く)・いきどお(る)</li>
+          </ul>
+          <br/>
+          <h3>筒</h3>
+          <ul>
+            <li>2.5급 (부수:竹)</li>
+            <li>음: 통 - トウ</li>
+            <li>훈: 통 - つつ</li>
+          </ul>
+          <br/>
+          <h3>圏</h3>
+          <ul>
+            <li>4급 (부수:囗)</li>
+            <li>음: 권 - ケン</li>
+            <li>훈: 우리 - かこ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

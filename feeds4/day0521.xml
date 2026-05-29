@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>憧</h3>
+          <ul>
+            <li>2급 (부수:心)</li>
+            <li>음: 동 - シュウ・ドウ</li>
+            <li>훈: 동경하다 - あこが(れる)</li>
+          </ul>
+          <br/>
+          <h3>仰</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 앙 - ギョウ・コウ</li>
+            <li>훈: 우러르다 - あお(ぐ)・おお(せ)・あおの(く)・の(く)</li>
+          </ul>
+          <br/>
+          <h3>執</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 집 - シツ・シュウ</li>
+            <li>훈: 쥐다 - と(る)・とら(える)</li>
+          </ul>
+          <br/>
+          <h3>擁</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 옹 - ヨウ</li>
+            <li>훈: 끼다 - いだ(く)・だ(く)・まも(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

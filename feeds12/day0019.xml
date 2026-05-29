@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>努</h3>
+          <ul>
+            <li>7급 (부수:力)</li>
+            <li>음: 노 - ド</li>
+            <li>훈: 노력하다 - つと(める)・ゆめ</li>
+          </ul>
+          <br/>
+          <h3>詩</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 시 - シ</li>
+            <li>훈: 시 - うた</li>
+          </ul>
+          <br/>
+          <h3>直</h3>
+          <ul>
+            <li>9급 (부수:目)</li>
+            <li>음: 직 - チョク・ジキ・チ</li>
+            <li>훈: 곧다, 즉시, 고치다 - ただ(ちに)・なお(す)・なお(る)・じか・すぐ・あたい・ひた</li>
+          </ul>
+          <br/>
+          <h3>庫</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 고 - コ・ク</li>
+            <li>훈: 곳집 - くら</li>
+          </ul>
+          <br/>
+          <h3>達</h3>
+          <ul>
+            <li>7급 (부수:辵)</li>
+            <li>음: 달 - タツ・ダチ・タチ</li>
+            <li>훈: 통달, 여럿 - とお(る)・とど(く)・たち・たし</li>
+          </ul>
+          <br/>
+          <h3>招</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 초대하다 - まね(く)</li>
+          </ul>
+          <br/>
+          <h3>奥</h3>
+          <ul>
+            <li>4급 (부수:大)</li>
+            <li>음: 오 - オウ</li>
+            <li>훈: 속, 부인 - おく・くま</li>
+          </ul>
+          <br/>
+          <h3>剰</h3>
+          <ul>
+            <li>2.5급 (부수:刀)</li>
+            <li>음: 잉 - ジョウ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・あまつさ(え)</li>
+          </ul>
+          <br/>
+          <h3>廊</h3>
+          <ul>
+            <li>3급 (부수:广)</li>
+            <li>음: 랑 - ロウ</li>
+            <li>훈: 복도 - わたどの</li>
+          </ul>
+          <br/>
+          <h3>徴</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 징 - チョウ・チ</li>
+            <li>훈: 부르다 - しるし・め(す)</li>
+          </ul>
+          <br/>
+          <h3>軌</h3>
+          <ul>
+            <li>3급 (부수:車)</li>
+            <li>음: 궤 - キ</li>
+            <li>훈: 바퀴자국 - わだち</li>
+          </ul>
+          <br/>
+          <h3>丘</h3>
+          <ul>
+            <li>4급 (부수:一)</li>
+            <li>음: 구 - キュウ</li>
+            <li>훈: 언덕 - おか</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

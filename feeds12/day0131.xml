@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>黒</h3>
+          <ul>
+            <li>9급 (부수:黒)</li>
+            <li>음: 흑 - コク</li>
+            <li>훈: 검정 - くろ・くろ(い)</li>
+          </ul>
+          <br/>
+          <h3>異</h3>
+          <ul>
+            <li>5급 (부수:田)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 다르다 - こと・あや(しい)</li>
+          </ul>
+          <br/>
+          <h3>展</h3>
+          <ul>
+            <li>5급 (부수:尸)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 펴다 - の(べる)・ひろ(げる)・つら(ねる)</li>
+          </ul>
+          <br/>
+          <h3>貴</h3>
+          <ul>
+            <li>5급 (부수:貝)</li>
+            <li>음: 귀 - キ</li>
+            <li>훈: 귀중하다, 공경하다 - たっと(い)・とうと(い)・たっと(ぶ)・とうと(ぶ)・たか(い)</li>
+          </ul>
+          <br/>
+          <h3>覧</h3>
+          <ul>
+            <li>5급 (부수:見)</li>
+            <li>음: 람 - ラン</li>
+            <li>훈: 보다 - み(る)</li>
+          </ul>
+          <br/>
+          <h3>幹</h3>
+          <ul>
+            <li>6급 (부수:干)</li>
+            <li>음: 간 - カン</li>
+            <li>훈: 줄기 - みき・から・わざ</li>
+          </ul>
+          <br/>
+          <h3>蛮</h3>
+          <ul>
+            <li>3급 (부수:虫)</li>
+            <li>음: 만 - バン</li>
+            <li>훈: 오랑캐 - えびす</li>
+          </ul>
+          <br/>
+          <h3>覇</h3>
+          <ul>
+            <li>2.5급 (부수:襾)</li>
+            <li>음: 패 - ハ</li>
+            <li>훈: 으뜸 - はたがしら</li>
+          </ul>
+          <br/>
+          <h3>洪</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 홍 - コウ</li>
+            <li>훈: 넓다, 넘치다 - おおみず</li>
+          </ul>
+          <br/>
+          <h3>漫</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 만 - マン・バン</li>
+            <li>훈: 흩어지다, 어쩐지 - みだ(りに)・そぞ(ろに)</li>
+          </ul>
+          <br/>
+          <h3>粘</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 점 - ネン・デン</li>
+            <li>훈: 달라붙다 - ねば(る)</li>
+          </ul>
+          <br/>
+          <h3>凝</h3>
+          <ul>
+            <li>3급 (부수:冫)</li>
+            <li>음: 응 - ギョウ</li>
+            <li>훈: 굳다, 엉기다 - こ(る)・こ(らす)・しこ(り)・こご(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

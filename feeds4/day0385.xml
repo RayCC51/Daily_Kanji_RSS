@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>梅</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 매 - バイ</li>
+            <li>훈: 매화 - うめ</li>
+          </ul>
+          <br/>
+          <h3>街</h3>
+          <ul>
+            <li>7급 (부수:行)</li>
+            <li>음: 가 - ガイ・カイ</li>
+            <li>훈: 거리 - まち・ちまた</li>
+          </ul>
+          <br/>
+          <h3>呂</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 려 - ロ・リョ</li>
+            <li>훈: 음률 - 無し</li>
+          </ul>
+          <br/>
+          <h3>胞</h3>
+          <ul>
+            <li>3급 (부수:肉)</li>
+            <li>음: 포 - ホウ</li>
+            <li>훈: 세포 - はら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

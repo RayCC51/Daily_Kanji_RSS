@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>谷</h3>
+          <ul>
+            <li>9급 (부수:谷)</li>
+            <li>음: 곡 - コク・ロク</li>
+            <li>훈: 골짜기 - たに・きわ(まる)・や</li>
+          </ul>
+          <br/>
+          <h3>商</h3>
+          <ul>
+            <li>8급 (부수:口)</li>
+            <li>음: 상 - ショウ</li>
+            <li>훈: 장사, 장사하다 - あきな(う)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>暫</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 잠 - ザン</li>
+            <li>훈: 잠깐 - しばら(く)・しば(し)</li>
+          </ul>
+          <br/>
+          <h3>繕</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 선 - ゼン・セン</li>
+            <li>훈: 수선하다 - つくろ(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

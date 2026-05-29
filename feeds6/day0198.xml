@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>差</h3>
+          <ul>
+            <li>7급 (부수:工)</li>
+            <li>음: 차 - サ・シ</li>
+            <li>훈: 다름, 비치다, 쓰다, 끼우다, 받치다 - さ(す)・たが(う)・つか(わす)</li>
+          </ul>
+          <br/>
+          <h3>昔</h3>
+          <ul>
+            <li>8급 (부수:日)</li>
+            <li>음: 석 - セキ・シャク</li>
+            <li>훈: 옛날 - むかし</li>
+          </ul>
+          <br/>
+          <h3>夕</h3>
+          <ul>
+            <li>10급 (부수:夕)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 저녁 - ゆう</li>
+          </ul>
+          <br/>
+          <h3>漏</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 루 - ロウ</li>
+            <li>훈: 새다 - も(る)・も(れる)・も(らす)</li>
+          </ul>
+          <br/>
+          <h3>臭</h3>
+          <ul>
+            <li>2.5급 (부수:自)</li>
+            <li>음: 취 - シュウ・キュウ</li>
+            <li>훈: 냄새 - くさ(い)・にお(う)</li>
+          </ul>
+          <br/>
+          <h3>壌</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 양 - ジョウ</li>
+            <li>훈: 흙 - つち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

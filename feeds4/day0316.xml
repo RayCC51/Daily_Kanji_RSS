@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>博</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 박 - ハク・バク</li>
+            <li>훈: 넓음 - ひろ(い)</li>
+          </ul>
+          <br/>
+          <h3>外</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 외 - ガイ・ゲ・ウイ</li>
+            <li>훈: 바깥, 다른 것, 빼다 - そと・ほか・はず(す)・はず(れる)・と</li>
+          </ul>
+          <br/>
+          <h3>傾</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 경 - ケイ</li>
+            <li>훈: 기울다 - かたむ(く)・かたむ(ける)・かし(ぐ)・かた(げる)・くつがえ(る)</li>
+          </ul>
+          <br/>
+          <h3>壁</h3>
+          <ul>
+            <li>4급 (부수:土)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 벽 - かべ・がけ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

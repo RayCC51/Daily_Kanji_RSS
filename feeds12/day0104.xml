@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>岸</h3>
+          <ul>
+            <li>8급 (부수:山)</li>
+            <li>음: 안 - ガン</li>
+            <li>훈: 물가, 벼랑 - きし・かどだ(つ)</li>
+          </ul>
+          <br/>
+          <h3>湖</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 호수 - みずうみ</li>
+          </ul>
+          <br/>
+          <h3>将</h3>
+          <ul>
+            <li>5급 (부수:寸)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 장차, 장수 - ひき(いる)・まさ(に…す)・はた</li>
+          </ul>
+          <br/>
+          <h3>易</h3>
+          <ul>
+            <li>6급 (부수:日)</li>
+            <li>음: 역, 이 - エキ・イ</li>
+            <li>훈: 쉽다, 바꿈 - やさ(しい)・か(える)・か(わる)・やす(い)・あなど(る)</li>
+          </ul>
+          <br/>
+          <h3>取</h3>
+          <ul>
+            <li>8급 (부수:又)</li>
+            <li>음: 취 - シュ</li>
+            <li>훈: 잡다 - と(る)</li>
+          </ul>
+          <br/>
+          <h3>費</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비용, 쓰다, 줄다 - つい(やす)・つい(える)</li>
+          </ul>
+          <br/>
+          <h3>亭</h3>
+          <ul>
+            <li>2.5급 (부수:亠)</li>
+            <li>음: 정 - テイ・チン</li>
+            <li>훈: 정자 - あずまや</li>
+          </ul>
+          <br/>
+          <h3>吟</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 음 - ギン</li>
+            <li>훈: 읊다 - うた(う)・うめ(く)</li>
+          </ul>
+          <br/>
+          <h3>頃</h3>
+          <ul>
+            <li>2급 (부수:頁)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 무렵 - ころ・しばら(く)・かたあし</li>
+          </ul>
+          <br/>
+          <h3>累</h3>
+          <ul>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 여러 - しば(る)・かさ(ねる)・かさ(なる)・しき(りに)・わずら(わす)</li>
+          </ul>
+          <br/>
+          <h3>婚</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 혼 - コン</li>
+            <li>훈: 결혼 - 無し</li>
+          </ul>
+          <br/>
+          <h3>戯</h3>
+          <ul>
+            <li>4급 (부수:戈)</li>
+            <li>음: 희 - ギ・ゲ</li>
+            <li>훈: 놀다 - たわむ(れる)・ざ(れる)・たわ(ける)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

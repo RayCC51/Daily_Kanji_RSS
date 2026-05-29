@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>緑</h3>
+          <ul>
+            <li>8급 (부수:糸)</li>
+            <li>음: 록 - リョク・ロク</li>
+            <li>훈: 초록 - みどり</li>
+          </ul>
+          <br/>
+          <h3>肉</h3>
+          <ul>
+            <li>9급 (부수:肉)</li>
+            <li>음: 육 - ニク・ジク</li>
+            <li>훈: 고기 - しし</li>
+          </ul>
+          <br/>
+          <h3>脳</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 뇌 - ノウ・ドウ</li>
+            <li>훈: 뇌 - 無し</li>
+          </ul>
+          <br/>
+          <h3>援</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 원 - エン</li>
+            <li>훈: 돕다 - たす(ける)・ひ(く)</li>
+          </ul>
+          <br/>
+          <h3>唯</h3>
+          <ul>
+            <li>2.5급 (부수:口)</li>
+            <li>음: 유 - ユイ・イ</li>
+            <li>훈: 오직 - ただ</li>
+          </ul>
+          <br/>
+          <h3>繕</h3>
+          <ul>
+            <li>3급 (부수:糸)</li>
+            <li>음: 선 - ゼン・セン</li>
+            <li>훈: 수선하다 - つくろ(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

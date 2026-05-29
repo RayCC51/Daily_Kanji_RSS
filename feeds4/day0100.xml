@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>不</h3>
+          <ul>
+            <li>7급 (부수:一)</li>
+            <li>음: 부, 불 - フ・ブ</li>
+            <li>훈: 아님 - …ず</li>
+          </ul>
+          <br/>
+          <h3>葉</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 엽 - ヨウ・ショウ</li>
+            <li>훈: 잎 - は・かみ・すえ</li>
+          </ul>
+          <br/>
+          <h3>奔</h3>
+          <ul>
+            <li>2.5급 (부수:大)</li>
+            <li>음: 분 - ホン</li>
+            <li>훈: 달리다 - はし(る)</li>
+          </ul>
+          <br/>
+          <h3>狙</h3>
+          <ul>
+            <li>2급 (부수:犬)</li>
+            <li>음: 저 - ソ</li>
+            <li>훈: 노리다 - ねら(う)・さる</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

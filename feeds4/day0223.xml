@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>厳</h3>
+          <ul>
+            <li>5급 (부수:ツ)</li>
+            <li>음: 엄 - ゲン・ゴン</li>
+            <li>훈: 엄하다 - おごそ(か)・きび(しい)・いかめ(しい)・いか(つい)</li>
+          </ul>
+          <br/>
+          <h3>験</h3>
+          <ul>
+            <li>7급 (부수:馬)</li>
+            <li>음: 험 - ケン・ゲン</li>
+            <li>훈: 시험, 경험 - しるし・あかし・ため(す)</li>
+          </ul>
+          <br/>
+          <h3>狂</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 광 - キョウ</li>
+            <li>훈: 미치다 - くる(う)・くる(おしい)・ふ(れる)</li>
+          </ul>
+          <br/>
+          <h3>勅</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 칙 - チョク</li>
+            <li>훈: 칙명 - みことのり</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

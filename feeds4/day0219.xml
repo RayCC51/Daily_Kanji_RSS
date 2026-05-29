@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>張</h3>
+          <ul>
+            <li>6급 (부수:弓)</li>
+            <li>음: 장 - チョウ</li>
+            <li>훈: 뻗다, 팽팽해지다 - は(る)</li>
+          </ul>
+          <br/>
+          <h3>氷</h3>
+          <ul>
+            <li>8급 (부수:水)</li>
+            <li>음: 빙 - ヒョウ</li>
+            <li>훈: 얼음 - こおり・ひ・こお(る)</li>
+          </ul>
+          <br/>
+          <h3>荒</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 황 - コウ</li>
+            <li>훈: 거칠다, 망치다 - あら(い)・あ(れる)・あ(らす)・すさ(む)・すさ(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>慕</h3>
+          <ul>
+            <li>3급 (부수:心)</li>
+            <li>음: 모 - ボ</li>
+            <li>훈: 그립다 - した(う)・しの(ぶ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

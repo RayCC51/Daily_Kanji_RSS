@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>順</h3>
+          <ul>
+            <li>7급 (부수:頁)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 순번 - したが(う)・すなお</li>
+          </ul>
+          <br/>
+          <h3>早</h3>
+          <ul>
+            <li>10급 (부수:日)</li>
+            <li>음: 조 - ソウ・サッ</li>
+            <li>훈: 이르다, 빨라지다 - はや(い)・はや(まる)・はや(める)・さ</li>
+          </ul>
+          <br/>
+          <h3>庁</h3>
+          <ul>
+            <li>5급 (부수:广)</li>
+            <li>음: 청 - チョウ・テイ</li>
+            <li>훈: 관청 - 無し</li>
+          </ul>
+          <br/>
+          <h3>友</h3>
+          <ul>
+            <li>9급 (부수:又)</li>
+            <li>음: 우 - ユウ</li>
+            <li>훈: 친구 - とも</li>
+          </ul>
+          <br/>
+          <h3>外</h3>
+          <ul>
+            <li>9급 (부수:夕)</li>
+            <li>음: 외 - ガイ・ゲ・ウイ</li>
+            <li>훈: 바깥, 다른 것, 빼다 - そと・ほか・はず(す)・はず(れる)・と</li>
+          </ul>
+          <br/>
+          <h3>暮</h3>
+          <ul>
+            <li>5급 (부수:日)</li>
+            <li>음: 모 - ボ</li>
+            <li>훈: 저물다, 살다 - く(れる)・く(らす)</li>
+          </ul>
+          <br/>
+          <h3>憾</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 감 - カン</li>
+            <li>훈: 섭섭하다 - うら(む)</li>
+          </ul>
+          <br/>
+          <h3>了</h3>
+          <ul>
+            <li>3급 (부수:亅)</li>
+            <li>음: 료 - リョウ</li>
+            <li>훈: 마치다 - お(わる)・しま(う)・さと(る)</li>
+          </ul>
+          <br/>
+          <h3>粋</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 순수, 세련되다 - いき</li>
+          </ul>
+          <br/>
+          <h3>隠</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 은 - イン・オン</li>
+            <li>훈: 숨다, 숨기다 - かく(す)・かく(れる)</li>
+          </ul>
+          <br/>
+          <h3>隷</h3>
+          <ul>
+            <li>4급 (부수:隶)</li>
+            <li>음: 례 - レイ</li>
+            <li>훈: 종 - したが(う)・しもべ</li>
+          </ul>
+          <br/>
+          <h3>猶</h3>
+          <ul>
+            <li>2.5급 (부수:犬)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 오히려 - なお・なお…(ごとし)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

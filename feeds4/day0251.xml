@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>姉</h3>
+          <ul>
+            <li>9급 (부수:女)</li>
+            <li>음: 자 - シ</li>
+            <li>훈: 누나, 언니 - あね</li>
+          </ul>
+          <br/>
+          <h3>組</h3>
+          <ul>
+            <li>9급 (부수:糸)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 짜다 - く(む)・くみ・くみひも</li>
+          </ul>
+          <br/>
+          <h3>併</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 합치다 - あわ(せる)・なら(ぶ)・しか(し)</li>
+          </ul>
+          <br/>
+          <h3>雇</h3>
+          <ul>
+            <li>3급 (부수:隹)</li>
+            <li>음: 고 - コ</li>
+            <li>훈: 고용하다 - やと(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

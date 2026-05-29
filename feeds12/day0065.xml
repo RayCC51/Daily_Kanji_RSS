@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>認</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 인 - ニン・ジン</li>
+            <li>훈: 인정하다 - みと(める)・したた(める)</li>
+          </ul>
+          <br/>
+          <h3>歩</h3>
+          <ul>
+            <li>9급 (부수:止)</li>
+            <li>음: 보 - ホ・ブ・フ</li>
+            <li>훈: 걷다 - ある(く)・あゆ(む)</li>
+          </ul>
+          <br/>
+          <h3>利</h3>
+          <ul>
+            <li>7급 (부수:刀)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 이로움, 발휘하다, 가능하다 - き(く)・するど(い)・と(し)・よ(い)</li>
+          </ul>
+          <br/>
+          <h3>教</h3>
+          <ul>
+            <li>9급 (부수:攵)</li>
+            <li>음: 교 - キョウ</li>
+            <li>훈: 가르치다, 배우다 - おし(える)・おそ(わる)</li>
+          </ul>
+          <br/>
+          <h3>題</h3>
+          <ul>
+            <li>8급 (부수:頁)</li>
+            <li>음: 제 - ダイ・テイ</li>
+            <li>훈: 제목 - 無し</li>
+          </ul>
+          <br/>
+          <h3>現</h3>
+          <ul>
+            <li>6급 (부수:玉)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 나타나다 - あらわ(れる)・あらわ(す)・うつつ</li>
+          </ul>
+          <br/>
+          <h3>湾</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 만 - ワン</li>
+            <li>훈: 물굽이 - いりえ</li>
+          </ul>
+          <br/>
+          <h3>滞</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 체 - タイ</li>
+            <li>훈: 밀리다, 막히다, 머무르다 - とどこお(る)</li>
+          </ul>
+          <br/>
+          <h3>炎</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 염 - エン</li>
+            <li>훈: 화염 - ほのお・も(える)</li>
+          </ul>
+          <br/>
+          <h3>塞</h3>
+          <ul>
+            <li>2급 (부수:土)</li>
+            <li>음: 색 - サイ・ソク</li>
+            <li>훈: 막다 - ふさ(ぐ)・ふさ(がる)・せ(く)・とりで・み(ちる)</li>
+          </ul>
+          <br/>
+          <h3>翁</h3>
+          <ul>
+            <li>2.5급 (부수:羽)</li>
+            <li>음: 옹 - オウ</li>
+            <li>훈: 늙은이 - おきな</li>
+          </ul>
+          <br/>
+          <h3>璽</h3>
+          <ul>
+            <li>2.5급 (부수:玉)</li>
+            <li>음: 새 - ジ</li>
+            <li>훈: 옥새 - しるし</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>声</h3>
+          <ul>
+            <li>9급 (부수:士)</li>
+            <li>음: 성 - セイ・ショウ</li>
+            <li>훈: 소리 - こえ・こわ</li>
+          </ul>
+          <br/>
+          <h3>損</h3>
+          <ul>
+            <li>6급 (부수:手)</li>
+            <li>음: 손 - ソン</li>
+            <li>훈: 손해, 손상하다, 해치다 - そこ(なう)・そこ(ねる)・へ(る)</li>
+          </ul>
+          <br/>
+          <h3>葉</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 엽 - ヨウ・ショウ</li>
+            <li>훈: 잎 - は・かみ・すえ</li>
+          </ul>
+          <br/>
+          <h3>幾</h3>
+          <ul>
+            <li>4급 (부수:幺)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 얼마 - いく・ほとん(ど)・きざ(し)・こいねが(う)</li>
+          </ul>
+          <br/>
+          <h3>悠</h3>
+          <ul>
+            <li>2.5급 (부수:心)</li>
+            <li>음: 유 - ユウ</li>
+            <li>훈: 침착하다 - はる(か)・とお(い)</li>
+          </ul>
+          <br/>
+          <h3>亀</h3>
+          <ul>
+            <li>2급 (부수:亀)</li>
+            <li>음: 귀 - キ・キュウ・キン</li>
+            <li>훈: 거북이 - かめ・あかぎれ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

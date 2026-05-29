@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>力</h3>
+          <ul>
+            <li>10급 (부수:力)</li>
+            <li>음: 력 - リョク・リキ</li>
+            <li>훈: 힘 - ちから・つと(める)</li>
+          </ul>
+          <br/>
+          <h3>社</h3>
+          <ul>
+            <li>9급 (부수:示)</li>
+            <li>음: 사 - シャ・ジャ</li>
+            <li>훈: 모이다, 신사 - やしろ</li>
+          </ul>
+          <br/>
+          <h3>乞</h3>
+          <ul>
+            <li>2급 (부수:乙)</li>
+            <li>음: 걸 - キツ・コツ</li>
+            <li>훈: 바라다 - こ(う)</li>
+          </ul>
+          <br/>
+          <h3>虹</h3>
+          <ul>
+            <li>2급 (부수:虫)</li>
+            <li>음: 홍 - コウ</li>
+            <li>훈: 무지개 - にじ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

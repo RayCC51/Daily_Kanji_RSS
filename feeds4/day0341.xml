@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>移</h3>
+          <ul>
+            <li>6급 (부수:禾)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 이동하다, 옮기다 - うつ(る)・うつ(す)</li>
+          </ul>
+          <br/>
+          <h3>館</h3>
+          <ul>
+            <li>8급 (부수:食)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 집, 저택 - やかた・たて・たち</li>
+          </ul>
+          <br/>
+          <h3>舷</h3>
+          <ul>
+            <li>2급 (부수:舟)</li>
+            <li>음: 현 - ゲン</li>
+            <li>훈: 뱃전 - ふなばた・ふなべり</li>
+          </ul>
+          <br/>
+          <h3>沃</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 옥 - ヨク・オク</li>
+            <li>훈: 물 대다 - そそ(ぐ)・こ(える)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

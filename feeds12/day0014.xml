@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>村</h3>
+          <ul>
+            <li>10급 (부수:木)</li>
+            <li>음: 촌 - ソン</li>
+            <li>훈: 마을 - むら</li>
+          </ul>
+          <br/>
+          <h3>栃</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 회 - 無し</li>
+            <li>훈: 상수리나무 - とち</li>
+          </ul>
+          <br/>
+          <h3>定</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 정 - テイ・ジョウ</li>
+            <li>훈: 정하다, 확실함 - さだ(める)・さだ(まる)・さだ(か)・き(まる)</li>
+          </ul>
+          <br/>
+          <h3>志</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 뜻 - こころざ(す)・こころざし・しる(す)</li>
+          </ul>
+          <br/>
+          <h3>態</h3>
+          <ul>
+            <li>6급 (부수:心)</li>
+            <li>음: 태 - タイ・テイ</li>
+            <li>훈: 모습 - さま・わざ(と)</li>
+          </ul>
+          <br/>
+          <h3>火</h3>
+          <ul>
+            <li>10급 (부수:火)</li>
+            <li>음: 화 - カ・コ</li>
+            <li>훈: 불 - ひ・ほ</li>
+          </ul>
+          <br/>
+          <h3>俊</h3>
+          <ul>
+            <li>2.5급 (부수:人)</li>
+            <li>음: 준 - シュン</li>
+            <li>훈: 우수하다 - すぐ(れる)</li>
+          </ul>
+          <br/>
+          <h3>賠</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 배 - バイ</li>
+            <li>훈: 배상하다 - つぐな(う)</li>
+          </ul>
+          <br/>
+          <h3>妥</h3>
+          <ul>
+            <li>2.5급 (부수:女)</li>
+            <li>음: 타 - ダ・タ</li>
+            <li>훈: 타당 - やす(らか)・おだ(やか)</li>
+          </ul>
+          <br/>
+          <h3>是</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 시 - ゼ・シ</li>
+            <li>훈: 옳다 - これ・こ(の)・ただ(しい)</li>
+          </ul>
+          <br/>
+          <h3>弐</h3>
+          <ul>
+            <li>4급 (부수:弋)</li>
+            <li>음: 이 - ニ・ジ</li>
+            <li>훈: 2 - ふた・ふた(つ)</li>
+          </ul>
+          <br/>
+          <h3>叔</h3>
+          <ul>
+            <li>2.5급 (부수:又)</li>
+            <li>음: 숙 - シュク</li>
+            <li>훈: 아재비 - わか(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

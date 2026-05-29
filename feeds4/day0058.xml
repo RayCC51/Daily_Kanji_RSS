@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>比</h3>
+          <ul>
+            <li>6급 (부수:比)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비교하다 - くら(べる)・なら(ぶ)・たぐい・ころ</li>
+          </ul>
+          <br/>
+          <h3>優</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 우 - ユウ・ウ</li>
+            <li>훈: 상냥하다, 뛰어나다 - やさ(しい)・すぐ(れる)・ゆた(か)・まさ(る)・わざおぎ・やわ(らぐ)</li>
+          </ul>
+          <br/>
+          <h3>甚</h3>
+          <ul>
+            <li>2.5급 (부수:甘)</li>
+            <li>음: 심 - ジン</li>
+            <li>훈: 매우, 심하다 - はなは(だ)・はなは(だしい)・いた(く)</li>
+          </ul>
+          <br/>
+          <h3>奨</h3>
+          <ul>
+            <li>2.5급 (부수:大)</li>
+            <li>음: 장 - ショウ・ソウ</li>
+            <li>훈: 장려하다 - すす(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

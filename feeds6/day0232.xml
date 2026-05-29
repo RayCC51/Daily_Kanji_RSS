@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>生</h3>
+          <ul>
+            <li>10급 (부수:生)</li>
+            <li>음: 생 - セイ・ショウ</li>
+            <li>훈: 살다, 태어나다, 나다 - い(きる)・い(かす)・い(ける)・う(まれる)・う(む)・お(う)・は(える)・は(やす)・き・なま・いのち・うぶ・な(る)・な(す)</li>
+          </ul>
+          <br/>
+          <h3>宇</h3>
+          <ul>
+            <li>5급 (부수:宀)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 집 - のき・いえ</li>
+          </ul>
+          <br/>
+          <h3>国</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 국 - コク</li>
+            <li>훈: 나라 - くに</li>
+          </ul>
+          <br/>
+          <h3>楷</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 해 - カイ</li>
+            <li>훈: 본보기 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>暫</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 잠 - ザン</li>
+            <li>훈: 잠깐 - しばら(く)・しば(し)</li>
+          </ul>
+          <br/>
+          <h3>炊</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 취 - スイ</li>
+            <li>훈: 밥을 짓다 - た(く)・かし(ぐ)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

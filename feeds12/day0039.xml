@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>光</h3>
+          <ul>
+            <li>9급 (부수:儿)</li>
+            <li>음: 광 - コウ</li>
+            <li>훈: 빛, 빛나다 - ひか(る)・ひかり</li>
+          </ul>
+          <br/>
+          <h3>製</h3>
+          <ul>
+            <li>6급 (부수:衣)</li>
+            <li>음: 제 - セイ</li>
+            <li>훈: 짓다 - つく(る)</li>
+          </ul>
+          <br/>
+          <h3>後</h3>
+          <ul>
+            <li>9급 (부수:彳)</li>
+            <li>음: 후 - ゴ・コウ</li>
+            <li>훈: 뒤 - のち・うし(ろ)・あと・おく(れる)・しり</li>
+          </ul>
+          <br/>
+          <h3>査</h3>
+          <ul>
+            <li>6급 (부수:木)</li>
+            <li>음: 사 - サ</li>
+            <li>훈: 조사 - しら(べる)</li>
+          </ul>
+          <br/>
+          <h3>管</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 관 - カン</li>
+            <li>훈: 관리 - くだ・ふえ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>度</h3>
+          <ul>
+            <li>8급 (부수:广)</li>
+            <li>음: 도 - ド・ト・タク</li>
+            <li>훈: 때, 정도 - たび・のり・めもり・わた(る)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>疲</h3>
+          <ul>
+            <li>4급 (부수:疒)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 지치다 - つか(れる)</li>
+          </ul>
+          <br/>
+          <h3>秀</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 뛰어나다 - ひい(でる)</li>
+          </ul>
+          <br/>
+          <h3>紹</h3>
+          <ul>
+            <li>4급 (부수:糸)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 소개 - つ(ぐ)</li>
+          </ul>
+          <br/>
+          <h3>悩</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 뇌 - ノウ・ドウ</li>
+            <li>훈: 고민, 괴롭다 - なや(む)・なや(ます)</li>
+          </ul>
+          <br/>
+          <h3>避</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 피 - ヒ</li>
+            <li>훈: 피하다 - さ(ける)・よ(ける)</li>
+          </ul>
+          <br/>
+          <h3>霊</h3>
+          <ul>
+            <li>3급 (부수:雨)</li>
+            <li>음: 령 - レイ・リョウ</li>
+            <li>훈: 혼 - たま・たましい・よ(い)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

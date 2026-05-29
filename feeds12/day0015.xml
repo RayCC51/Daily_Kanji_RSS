@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>裏</h3>
+          <ul>
+            <li>5급 (부수:衣)</li>
+            <li>음: 리 - リ</li>
+            <li>훈: 속, 뒤 - うら・うち</li>
+          </ul>
+          <br/>
+          <h3>協</h3>
+          <ul>
+            <li>7급 (부수:十)</li>
+            <li>음: 협 - キョウ</li>
+            <li>훈: 협력 - かな(う)</li>
+          </ul>
+          <br/>
+          <h3>唱</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 창 - ショウ</li>
+            <li>훈: 부르다, 소리 내어 읽다, 주장하다 - とな(える)・うた(う)・うた</li>
+          </ul>
+          <br/>
+          <h3>因</h3>
+          <ul>
+            <li>6급 (부수:囗)</li>
+            <li>음: 인 - イン</li>
+            <li>훈: 원인 - よ(る)・ちな(む)・ちなみ・よすが</li>
+          </ul>
+          <br/>
+          <h3>秒</h3>
+          <ul>
+            <li>8급 (부수:禾)</li>
+            <li>음: 초 - ビョウ</li>
+            <li>훈: 초 - のぎ</li>
+          </ul>
+          <br/>
+          <h3>守</h3>
+          <ul>
+            <li>8급 (부수:宀)</li>
+            <li>음: 수 - シュ・ス</li>
+            <li>훈: 지키다 - まも(る)・も(り)・かみ</li>
+          </ul>
+          <br/>
+          <h3>戒</h3>
+          <ul>
+            <li>4급 (부수:戈)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 훈계하다 - いまし(める)</li>
+          </ul>
+          <br/>
+          <h3>慎</h3>
+          <ul>
+            <li>4급 (부수:心)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 삼가다, 조심스럽다 - つつし(む)・つつま(しい)・つつま(しやか)</li>
+          </ul>
+          <br/>
+          <h3>徐</h3>
+          <ul>
+            <li>3급 (부수:彳)</li>
+            <li>음: 서 - ジョ</li>
+            <li>훈: 서서히 - おもむろ</li>
+          </ul>
+          <br/>
+          <h3>痩</h3>
+          <ul>
+            <li>2급 (부수:疒)</li>
+            <li>음: 수 - ソウ・シュウ</li>
+            <li>훈: 야위다, 살 빠지다 - や(せる)・ほそ(い)・こ(ける)</li>
+          </ul>
+          <br/>
+          <h3>威</h3>
+          <ul>
+            <li>4급 (부수:女)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 위엄, 협박하다 - おど(す)</li>
+          </ul>
+          <br/>
+          <h3>麓</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 록 - ロク</li>
+            <li>훈: 산기슭 - ふもと</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

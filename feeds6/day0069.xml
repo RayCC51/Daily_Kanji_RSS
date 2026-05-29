@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>佐</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 좌 - サ</li>
+            <li>훈: 보좌 - すけ・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>増</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 증 - ゾウ・ソウ</li>
+            <li>훈: 늘다, 증가하다 - ま(す)・ふ(える)・ふ(やす)</li>
+          </ul>
+          <br/>
+          <h3>至</h3>
+          <ul>
+            <li>5급 (부수:至)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 이르다 - いた(る)</li>
+          </ul>
+          <br/>
+          <h3>暇</h3>
+          <ul>
+            <li>4급 (부수:日)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 틈, 시간 - ひま・いとま</li>
+          </ul>
+          <br/>
+          <h3>賄</h3>
+          <ul>
+            <li>2.5급 (부수:貝)</li>
+            <li>음: 회 - ワイ・カイ</li>
+            <li>훈: 뇌물, 조달하다 - まかな(う)・まいな(う)</li>
+          </ul>
+          <br/>
+          <h3>奔</h3>
+          <ul>
+            <li>2.5급 (부수:大)</li>
+            <li>음: 분 - ホン</li>
+            <li>훈: 달리다 - はし(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>準</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 준 - ジュン・シュン・セツ</li>
+            <li>훈: 준하다 - なぞら(える)</li>
+          </ul>
+          <br/>
+          <h3>歌</h3>
+          <ul>
+            <li>9급 (부수:欠)</li>
+            <li>음: 가 - カ</li>
+            <li>훈: 노래 - うた・うた(う)</li>
+          </ul>
+          <br/>
+          <h3>髄</h3>
+          <ul>
+            <li>3급 (부수:骨)</li>
+            <li>음: 수 - ズイ</li>
+            <li>훈: 뼛골 - 無し</li>
+          </ul>
+          <br/>
+          <h3>炉</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 로 - ロ</li>
+            <li>훈: 화로 - いろり・ひばち</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

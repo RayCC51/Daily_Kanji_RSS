@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>弓</h3>
+          <ul>
+            <li>9급 (부수:弓)</li>
+            <li>음: 궁 - キュウ</li>
+            <li>훈: 활 - ゆみ</li>
+          </ul>
+          <br/>
+          <h3>室</h3>
+          <ul>
+            <li>9급 (부수:宀)</li>
+            <li>음: 실 - シツ</li>
+            <li>훈: 방 - むろ・へや・つま・いえ</li>
+          </ul>
+          <br/>
+          <h3>節</h3>
+          <ul>
+            <li>7급 (부수:竹)</li>
+            <li>음: 절 - セツ・セチ</li>
+            <li>훈: 마디 - ふし・みさお・ノット</li>
+          </ul>
+          <br/>
+          <h3>特</h3>
+          <ul>
+            <li>7급 (부수:牛)</li>
+            <li>음: 특 - トク・ドク</li>
+            <li>훈: 특별 - おうし・とりわ(け)・ひと(り)・ひと(つ)</li>
+          </ul>
+          <br/>
+          <h3>魚</h3>
+          <ul>
+            <li>9급 (부수:魚)</li>
+            <li>음: 어 - ギョ</li>
+            <li>훈: 물고기 - うお・さかな</li>
+          </ul>
+          <br/>
+          <h3>式</h3>
+          <ul>
+            <li>8급 (부수:弋)</li>
+            <li>음: 식 - シキ・ショク</li>
+            <li>훈: 법 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>昇</h3>
+          <ul>
+            <li>3급 (부수:日)</li>
+            <li>음: 승 - ショウ</li>
+            <li>훈: 오르다 - のぼ(る)</li>
+          </ul>
+          <br/>
+          <h3>嘲</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 조 - チョウ・トウ</li>
+            <li>훈: 비웃다 - あざけ(る)・からか(う)</li>
+          </ul>
+          <br/>
+          <h3>呪</h3>
+          <ul>
+            <li>2급 (부수:口)</li>
+            <li>음: 주 - ジュ・シュウ</li>
+            <li>훈: 저주하다 - のろ(う)・まじな(う)・まじな(い)</li>
+          </ul>
+          <br/>
+          <h3>勅</h3>
+          <ul>
+            <li>2.5급 (부수:力)</li>
+            <li>음: 칙 - チョク</li>
+            <li>훈: 칙명 - みことのり</li>
+          </ul>
+          <br/>
+          <h3>到</h3>
+          <ul>
+            <li>4급 (부수:刀)</li>
+            <li>음: 도 - トウ</li>
+            <li>훈: 이르다 - いた(る)</li>
+          </ul>
+          <br/>
+          <h3>称</h3>
+          <ul>
+            <li>4급 (부수:禾)</li>
+            <li>음: 칭 - ショウ</li>
+            <li>훈: 칭하다 - とな(える)・たた(える)・あ(げる)・かな(う)・はか(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

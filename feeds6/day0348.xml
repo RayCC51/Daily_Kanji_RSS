@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>偶</h3>
+          <ul>
+            <li>3급 (부수:人)</li>
+            <li>음: 우 - グウ</li>
+            <li>훈: 짝, 어쩌다 - たまたま・たぐい・ひとがた</li>
+          </ul>
+          <br/>
+          <h3>羨</h3>
+          <ul>
+            <li>2급 (부수:羊)</li>
+            <li>음: 선 - セン・ゼン・エン</li>
+            <li>훈: 부럽다 - うらや(む)・うらや(ましい)・あま(る)・はかみち</li>
+          </ul>
+          <br/>
+          <h3>扶</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 돕다 - たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>巾</h3>
+          <ul>
+            <li>2급 (부수:巾)</li>
+            <li>음: 건 - キン</li>
+            <li>훈: 수건 - きれ・ふきん</li>
+          </ul>
+          <br/>
+          <h3>髄</h3>
+          <ul>
+            <li>3급 (부수:骨)</li>
+            <li>음: 수 - ズイ</li>
+            <li>훈: 뼛골 - 無し</li>
+          </ul>
+          <br/>
+          <h3>彰</h3>
+          <ul>
+            <li>2.5급 (부수:彡)</li>
+            <li>음: 창 - ショウ</li>
+            <li>훈: 드러나다 - あき(らか)・あらわ(す)・あらわ(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

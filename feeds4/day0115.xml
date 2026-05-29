@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>至</h3>
+          <ul>
+            <li>5급 (부수:至)</li>
+            <li>음: 지 - シ</li>
+            <li>훈: 이르다 - いた(る)</li>
+          </ul>
+          <br/>
+          <h3>式</h3>
+          <ul>
+            <li>8급 (부수:弋)</li>
+            <li>음: 식 - シキ・ショク</li>
+            <li>훈: 법 - のり・のっと(る)</li>
+          </ul>
+          <br/>
+          <h3>筒</h3>
+          <ul>
+            <li>2.5급 (부수:竹)</li>
+            <li>음: 통 - トウ</li>
+            <li>훈: 통 - つつ</li>
+          </ul>
+          <br/>
+          <h3>疎</h3>
+          <ul>
+            <li>2.5급 (부수:疋)</li>
+            <li>음: 소 - ソ・ショ</li>
+            <li>훈: 소원하다, 멀리하다, 소홀함 - うと(い)・うと(む)・まば(ら)・うろ・おろ・おろそ(か)・おろ(か)・とお(る)・とお(す)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

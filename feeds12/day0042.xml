@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>縄</h3>
+          <ul>
+            <li>7급 (부수:糸)</li>
+            <li>음: 승 - ジョウ</li>
+            <li>훈: 새끼줄 - なわ・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>王</h3>
+          <ul>
+            <li>10급 (부수:玉)</li>
+            <li>음: 왕 - オウ</li>
+            <li>훈: 임금 - きみ</li>
+          </ul>
+          <br/>
+          <h3>液</h3>
+          <ul>
+            <li>6급 (부수:水)</li>
+            <li>음: 액 - エキ</li>
+            <li>훈: 액체 - しる・わき</li>
+          </ul>
+          <br/>
+          <h3>橋</h3>
+          <ul>
+            <li>8급 (부수:木)</li>
+            <li>음: 교 - キョウ</li>
+            <li>훈: 다리 - はし</li>
+          </ul>
+          <br/>
+          <h3>単</h3>
+          <ul>
+            <li>7급 (부수:ツ)</li>
+            <li>음: 단 - タン・ゼン</li>
+            <li>훈: 홑 - ひと(つ)・ひとえ</li>
+          </ul>
+          <br/>
+          <h3>久</h3>
+          <ul>
+            <li>6급 (부수:丿)</li>
+            <li>음: 구 - キュウ・ク</li>
+            <li>훈: 오래다 - ひさ(しい)</li>
+          </ul>
+          <br/>
+          <h3>篤</h3>
+          <ul>
+            <li>3급 (부수:竹)</li>
+            <li>음: 독 - トク</li>
+            <li>훈: 두터이 하다 - あつ(い)</li>
+          </ul>
+          <br/>
+          <h3>掘</h3>
+          <ul>
+            <li>4급 (부수:手)</li>
+            <li>음: 굴 - クツ</li>
+            <li>훈: 파다 - ほ(る)</li>
+          </ul>
+          <br/>
+          <h3>陶</h3>
+          <ul>
+            <li>3급 (부수:阜)</li>
+            <li>음: 도 - トウ・ヨウ</li>
+            <li>훈: 흙 - すえ</li>
+          </ul>
+          <br/>
+          <h3>掌</h3>
+          <ul>
+            <li>3급 (부수:手)</li>
+            <li>음: 장 - ショウ</li>
+            <li>훈: 손바닥 - てのひら・たなごころ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>扶</h3>
+          <ul>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 부 - フ</li>
+            <li>훈: 돕다 - たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>租</h3>
+          <ul>
+            <li>2.5급 (부수:禾)</li>
+            <li>음: 조 - ソ</li>
+            <li>훈: 조세 - みつぎ・ちんが(り)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

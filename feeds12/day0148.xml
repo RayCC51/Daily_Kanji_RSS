@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>報</h3>
+          <ul>
+            <li>6급 (부수:土)</li>
+            <li>음: 보 - ホウ</li>
+            <li>훈: 보답하다, 보복하다 - むく(いる)・しら(せる)</li>
+          </ul>
+          <br/>
+          <h3>米</h3>
+          <ul>
+            <li>9급 (부수:米)</li>
+            <li>음: 미 - ベイ・マイ・メ</li>
+            <li>훈: 쌀, 미터 - こめ・よね・メートル</li>
+          </ul>
+          <br/>
+          <h3>的</h3>
+          <ul>
+            <li>7급 (부수:白)</li>
+            <li>음: 적 - テキ</li>
+            <li>훈: 목표, 적 - まと・あき(らか)</li>
+          </ul>
+          <br/>
+          <h3>清</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 청 - セイ・ショウ・シン</li>
+            <li>훈: 맑다, 깨끗이 하다 - きよ(い)・きよ(まる)・きよ(める)・さや(か)・す(む)</li>
+          </ul>
+          <br/>
+          <h3>孫</h3>
+          <ul>
+            <li>7급 (부수:子)</li>
+            <li>음: 손 - ソン</li>
+            <li>훈: 손자 - まご</li>
+          </ul>
+          <br/>
+          <h3>救</h3>
+          <ul>
+            <li>6급 (부수:攵)</li>
+            <li>음: 구 - キュウ・グ・ク</li>
+            <li>훈: 구하다 - すく(う)・たす(ける)</li>
+          </ul>
+          <br/>
+          <h3>蛇</h3>
+          <ul>
+            <li>2.5급 (부수:虫)</li>
+            <li>음: 사 - ジャ・ダ・タ・イ</li>
+            <li>훈: 뱀 - へび</li>
+          </ul>
+          <br/>
+          <h3>津</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 진 - シン</li>
+            <li>훈: 나루터, 진액 - つ・しる</li>
+          </ul>
+          <br/>
+          <h3>桁</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 형 - コウ</li>
+            <li>훈: 자릿수 - けた</li>
+          </ul>
+          <br/>
+          <h3>弊</h3>
+          <ul>
+            <li>2.5급 (부수:廾)</li>
+            <li>음: 폐 - ヘイ</li>
+            <li>훈: 폐단, 해지다 - やぶ(れる)・つい(える)・つか(れる)</li>
+          </ul>
+          <br/>
+          <h3>訂</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 정 - テイ</li>
+            <li>훈: 바로잡다 - ただ(す)・さだ(める)</li>
+          </ul>
+          <br/>
+          <h3>閑</h3>
+          <ul>
+            <li>2.5급 (부수:門)</li>
+            <li>음: 한 - カン</li>
+            <li>훈: 한가하다 - ひま・しず(か)・なら(う)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

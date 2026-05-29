@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>効</h3>
+          <ul>
+            <li>6급 (부수:力)</li>
+            <li>음: 효 - コウ</li>
+            <li>훈: 효과 - き(く)・かい・いた(す)・なら(う)</li>
+          </ul>
+          <br/>
+          <h3>県</h3>
+          <ul>
+            <li>8급 (부수:目)</li>
+            <li>음: 현 - ケン</li>
+            <li>훈: 고을 - あがた</li>
+          </ul>
+          <br/>
+          <h3>牧</h3>
+          <ul>
+            <li>7급 (부수:牛)</li>
+            <li>음: 목 - ボク・モク</li>
+            <li>훈: 목장 - まき・か(う)・やしな(う)・つかさ</li>
+          </ul>
+          <br/>
+          <h3>賢</h3>
+          <ul>
+            <li>3급 (부수:貝)</li>
+            <li>음: 현 - ケン</li>
+            <li>훈: 현명하다 - かしこ(い)・さか(しい)・まさ(る)</li>
+          </ul>
+          <br/>
+          <h3>御</h3>
+          <ul>
+            <li>4급 (부수:彳)</li>
+            <li>음: 어 - ギョ・ゴ</li>
+            <li>훈: 높임말 - おん・お・み・おさ(める)</li>
+          </ul>
+          <br/>
+          <h3>彩</h3>
+          <ul>
+            <li>4급 (부수:彡)</li>
+            <li>음: 채 - サイ</li>
+            <li>훈: 색칠하다 - いろど(る)・あや</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

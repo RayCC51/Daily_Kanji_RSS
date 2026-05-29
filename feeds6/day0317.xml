@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>余</h3>
+          <ul>
+            <li>6급 (부수:人)</li>
+            <li>음: 여 - ヨ</li>
+            <li>훈: 남다 - あま(る)・あま(す)・ほか</li>
+          </ul>
+          <br/>
+          <h3>容</h3>
+          <ul>
+            <li>6급 (부수:宀)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 얼굴 - かたち・い(れる)・ゆる(す)</li>
+          </ul>
+          <br/>
+          <h3>班</h3>
+          <ul>
+            <li>5급 (부수:玉)</li>
+            <li>음: 반 - ハン</li>
+            <li>훈: 반 - わ(ける)・かえ(す)</li>
+          </ul>
+          <br/>
+          <h3>雄</h3>
+          <ul>
+            <li>4급 (부수:隹)</li>
+            <li>음: 웅 - ユウ</li>
+            <li>훈: 수컷 - お・おす・おん・まさ(る)</li>
+          </ul>
+          <br/>
+          <h3>焦</h3>
+          <ul>
+            <li>3급 (부수:火)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 타다, 그을다, 안달하다 - こ(げる)・こ(がす)・こ(がれる)・あせ(る)・や(く)・じ(らす)・じ(れる)</li>
+          </ul>
+          <br/>
+          <h3>湾</h3>
+          <ul>
+            <li>3급 (부수:水)</li>
+            <li>음: 만 - ワン</li>
+            <li>훈: 물굽이 - いりえ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

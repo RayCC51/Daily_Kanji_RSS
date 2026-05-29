@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>札</h3>
+          <ul>
+            <li>7급 (부수:木)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 표 - ふだ・さね・わかじに</li>
+          </ul>
+          <br/>
+          <h3>羽</h3>
+          <ul>
+            <li>9급 (부수:羽)</li>
+            <li>음: 우 - ウ</li>
+            <li>훈: 날개 - は・はね</li>
+          </ul>
+          <br/>
+          <h3>椅</h3>
+          <ul>
+            <li>2급 (부수:木)</li>
+            <li>음: 의 - イ</li>
+            <li>훈: 의자 - 無し</li>
+          </ul>
+          <br/>
+          <h3>汰</h3>
+          <ul>
+            <li>2급 (부수:水)</li>
+            <li>음: 태 - タ・タイ</li>
+            <li>훈: 일다 - よな(げる)・にご(る)・おご(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

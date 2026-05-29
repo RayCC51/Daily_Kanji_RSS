@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>同</h3>
+          <ul>
+            <li>9급 (부수:口)</li>
+            <li>음: 동 - ドウ・トウ</li>
+            <li>훈: 같음 - おな(じ)・とも(に)</li>
+          </ul>
+          <br/>
+          <h3>法</h3>
+          <ul>
+            <li>7급 (부수:水)</li>
+            <li>음: 법 - ホウ・ハッ・ホッ</li>
+            <li>훈: 법 - のり・のっと(る)・フラン</li>
+          </ul>
+          <br/>
+          <h3>虎</h3>
+          <ul>
+            <li>2급 (부수:虍)</li>
+            <li>음: 호 - コ</li>
+            <li>훈: 호랑이 - とら</li>
+          </ul>
+          <br/>
+          <h3>壮</h3>
+          <ul>
+            <li>2.5급 (부수:士)</li>
+            <li>음: 장 - ソウ</li>
+            <li>훈: 장하다 - さか(ん)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

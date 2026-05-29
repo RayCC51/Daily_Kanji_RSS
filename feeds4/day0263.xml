@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>赤</h3>
+          <ul>
+            <li>10급 (부수:赤)</li>
+            <li>음: 적 - セキ・シャク</li>
+            <li>훈: 빨강, 아기 - あか・あか(い)・あか(らむ)・あか(らめる)</li>
+          </ul>
+          <br/>
+          <h3>園</h3>
+          <ul>
+            <li>9급 (부수:囗)</li>
+            <li>음: 원 - エン・オン</li>
+            <li>훈: 동산 - その・にわ</li>
+          </ul>
+          <br/>
+          <h3>齢</h3>
+          <ul>
+            <li>4급 (부수:歯)</li>
+            <li>음: 령 - レイ</li>
+            <li>훈: 나이 - よわい・とし</li>
+          </ul>
+          <br/>
+          <h3>隠</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 은 - イン・オン</li>
+            <li>훈: 숨다, 숨기다 - かく(す)・かく(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

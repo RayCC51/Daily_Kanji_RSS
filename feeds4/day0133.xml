@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>信</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 신 - シン</li>
+            <li>훈: 믿음 - まこと・まか(せる)・たよ(り)</li>
+          </ul>
+          <br/>
+          <h3>億</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 100000000 - おしはか(る)</li>
+          </ul>
+          <br/>
+          <h3>某</h3>
+          <ul>
+            <li>3급 (부수:木)</li>
+            <li>음: 모 - ボウ</li>
+            <li>훈: 아무 - それがし・なにがし</li>
+          </ul>
+          <br/>
+          <h3>穫</h3>
+          <ul>
+            <li>3급 (부수:禾)</li>
+            <li>음: 확 - カク</li>
+            <li>훈: 거두다 - か(る)・とりい(れる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

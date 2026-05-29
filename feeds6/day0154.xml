@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>意</h3>
+          <ul>
+            <li>8급 (부수:心)</li>
+            <li>음: 의 - イ</li>
+            <li>훈: 뜻 - こころ・おも(う)</li>
+          </ul>
+          <br/>
+          <h3>胸</h3>
+          <ul>
+            <li>5급 (부수:肉)</li>
+            <li>음: 흉 - キョウ</li>
+            <li>훈: 가슴 - むね・むな・こころ</li>
+          </ul>
+          <br/>
+          <h3>質</h3>
+          <ul>
+            <li>6급 (부수:貝)</li>
+            <li>음: 질 - シツ・シチ・チ・シ</li>
+            <li>훈: 바탕 - もと・たち・ただ(す)</li>
+          </ul>
+          <br/>
+          <h3>盾</h3>
+          <ul>
+            <li>4급 (부수:目)</li>
+            <li>음: 순 - ジュン</li>
+            <li>훈: 방패 - たて</li>
+          </ul>
+          <br/>
+          <h3>驚</h3>
+          <ul>
+            <li>4급 (부수:馬)</li>
+            <li>음: 경 - キョウ</li>
+            <li>훈: 놀라다 - おどろ(く)・おどろ(かす)</li>
+          </ul>
+          <br/>
+          <h3>尻</h3>
+          <ul>
+            <li>2급 (부수:尸)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 엉덩이 - しり</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

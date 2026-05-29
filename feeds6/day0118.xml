@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>飛</h3>
+          <ul>
+            <li>7급 (부수:飛)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 날다 - と(ぶ)・と(ばす)</li>
+          </ul>
+          <br/>
+          <h3>師</h3>
+          <ul>
+            <li>6급 (부수:巾)</li>
+            <li>음: 사 - シ</li>
+            <li>훈: 스승 - みやこ・いくさ</li>
+          </ul>
+          <br/>
+          <h3>俵</h3>
+          <ul>
+            <li>5급 (부수:人)</li>
+            <li>음: 표 - ヒョウ</li>
+            <li>훈: 가마니 - たわら</li>
+          </ul>
+          <br/>
+          <h3>端</h3>
+          <ul>
+            <li>4급 (부수:立)</li>
+            <li>음: 단 - タン</li>
+            <li>훈: 끝 - はし・は・はた・ただ(しい)・はな・はじ(め)・はした</li>
+          </ul>
+          <br/>
+          <h3>塾</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 숙 - ジュク</li>
+            <li>훈: 기숙사 - 無し</li>
+          </ul>
+          <br/>
+          <h3>曹</h3>
+          <ul>
+            <li>2.5급 (부수:曰)</li>
+            <li>음: 조 - ソウ・ゾウ</li>
+            <li>훈: 무리 - つかさ・ともがら</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

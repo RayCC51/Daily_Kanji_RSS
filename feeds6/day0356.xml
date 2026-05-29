@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>遂</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 수 - スイ</li>
+            <li>훈: 이루다, 마침내 - と(げる)・おお(せる)・つい(に)</li>
+          </ul>
+          <br/>
+          <h3>闇</h3>
+          <ul>
+            <li>2급 (부수:門)</li>
+            <li>음: 암 - アン</li>
+            <li>훈: 어둠 - やみ・くら(い)</li>
+          </ul>
+          <br/>
+          <h3>菓</h3>
+          <ul>
+            <li>4급 (부수:艸)</li>
+            <li>음: 과 - カ</li>
+            <li>훈: 과자 - くだもの</li>
+          </ul>
+          <br/>
+          <h3>糧</h3>
+          <ul>
+            <li>3급 (부수:米)</li>
+            <li>음: 량 - リョウ・ロウ</li>
+            <li>훈: 식량 - かて</li>
+          </ul>
+          <br/>
+          <h3>叔</h3>
+          <ul>
+            <li>2.5급 (부수:又)</li>
+            <li>음: 숙 - シュク</li>
+            <li>훈: 아재비 - わか(い)</li>
+          </ul>
+          <br/>
+          <h3>陰</h3>
+          <ul>
+            <li>4급 (부수:阜)</li>
+            <li>음: 음 - イン・オン・アン</li>
+            <li>훈: 그늘 - かげ・かげ(る)・くら(い)・ひそ(か)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

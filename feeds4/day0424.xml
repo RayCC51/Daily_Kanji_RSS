@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>何</h3>
+          <ul>
+            <li>9급 (부수:人)</li>
+            <li>음: 하 - カ</li>
+            <li>훈: 무엇 - なに・なん・いず(れ)・いず(く)</li>
+          </ul>
+          <br/>
+          <h3>談</h3>
+          <ul>
+            <li>8급 (부수:言)</li>
+            <li>음: 담 - ダン・タン</li>
+            <li>훈: 말씀 - かた(る)</li>
+          </ul>
+          <br/>
+          <h3>肖</h3>
+          <ul>
+            <li>2.5급 (부수:肉)</li>
+            <li>음: 초 - ショウ</li>
+            <li>훈: 닮다 - に(る)・あやか(る)・かたど(る)</li>
+          </ul>
+          <br/>
+          <h3>狭</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 협 - キョウ・コウ</li>
+            <li>훈: 좁다 - せま(い)・せば(める)・せば(まる)・さ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>夕</h3>
+          <ul>
+            <li>10급 (부수:夕)</li>
+            <li>음: 석 - セキ</li>
+            <li>훈: 저녁 - ゆう</li>
+          </ul>
+          <br/>
+          <h3>罪</h3>
+          <ul>
+            <li>6급 (부수:网)</li>
+            <li>음: 죄 - ザイ</li>
+            <li>훈: 죄 - つみ</li>
+          </ul>
+          <br/>
+          <h3>耐</h3>
+          <ul>
+            <li>4급 (부수:而)</li>
+            <li>음: 내 - タイ</li>
+            <li>훈: 견디다 - た(える)</li>
+          </ul>
+          <br/>
+          <h3>羞</h3>
+          <ul>
+            <li>2급 (부수:羊)</li>
+            <li>음: 수 - シュウ</li>
+            <li>훈: 부끄럽다 - は(じる)・はずかし(める)・はじ・はずかし(め)・すす(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

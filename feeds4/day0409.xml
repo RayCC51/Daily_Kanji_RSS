@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 4자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 4자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>異</h3>
+          <ul>
+            <li>5급 (부수:田)</li>
+            <li>음: 이 - イ</li>
+            <li>훈: 다르다 - こと・あや(しい)</li>
+          </ul>
+          <br/>
+          <h3>入</h3>
+          <ul>
+            <li>10급 (부수:入)</li>
+            <li>음: 입 - ニュウ・ジュウ・ジュ</li>
+            <li>훈: 들어가다, 넣다 - い(る)・い(れる)・はい(る)・しお</li>
+          </ul>
+          <br/>
+          <h3>該</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 해 - ガイ・カイ</li>
+            <li>훈: 갖추다 - か(ねる)・そな(わる)・そ(の)</li>
+          </ul>
+          <br/>
+          <h3>更</h3>
+          <ul>
+            <li>4급 (부수:曰)</li>
+            <li>음: 경, 갱 - コウ</li>
+            <li>훈: 더욱, 깊어지다, 고치다 - さら・ふ(ける)・ふ(かす)・か(える)・あらた(める)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

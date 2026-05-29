@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>埼</h3>
+          <ul>
+            <li>7급 (부수:土)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 곶 - さい・さき</li>
+          </ul>
+          <br/>
+          <h3>画</h3>
+          <ul>
+            <li>9급 (부수:田)</li>
+            <li>음: 화, 획 - ガ・カク</li>
+            <li>훈: 그림 - え・えが(く)・か(く)・かぎ(る)・はか(る)</li>
+          </ul>
+          <br/>
+          <h3>麦</h3>
+          <ul>
+            <li>9급 (부수:麦)</li>
+            <li>음: 맥 - バク</li>
+            <li>훈: 보리 - むぎ</li>
+          </ul>
+          <br/>
+          <h3>琴</h3>
+          <ul>
+            <li>2.5급 (부수:玉)</li>
+            <li>음: 금 - キン・ゴン</li>
+            <li>훈: 거문고 - こと</li>
+          </ul>
+          <br/>
+          <h3>塁</h3>
+          <ul>
+            <li>2.5급 (부수:土)</li>
+            <li>음: 루 - ルイ</li>
+            <li>훈: 보루 - とりで・かさ(ねる)</li>
+          </ul>
+          <br/>
+          <h3>妨</h3>
+          <ul>
+            <li>3급 (부수:女)</li>
+            <li>음: 방 - ボウ・ホウ</li>
+            <li>훈: 방해하다 - さまた(げる)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

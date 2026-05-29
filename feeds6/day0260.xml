@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>服</h3>
+          <ul>
+            <li>8급 (부수:月)</li>
+            <li>음: 복 - フク</li>
+            <li>훈: 옷 - きもの・き(る)・したが(う)・の(む)</li>
+          </ul>
+          <br/>
+          <h3>伝</h3>
+          <ul>
+            <li>7급 (부수:人)</li>
+            <li>음: 전 - デン</li>
+            <li>훈: 전하다 - つた(わる)・つた(える)・つた(う)・つて</li>
+          </ul>
+          <br/>
+          <h3>揮</h3>
+          <ul>
+            <li>5급 (부수:手)</li>
+            <li>음: 휘 - キ</li>
+            <li>훈: 휘두르다 - ふる(う)</li>
+          </ul>
+          <br/>
+          <h3>傾</h3>
+          <ul>
+            <li>4급 (부수:人)</li>
+            <li>음: 경 - ケイ</li>
+            <li>훈: 기울다 - かたむ(く)・かたむ(ける)・かし(ぐ)・かた(げる)・くつがえ(る)</li>
+          </ul>
+          <br/>
+          <h3>齢</h3>
+          <ul>
+            <li>4급 (부수:歯)</li>
+            <li>음: 령 - レイ</li>
+            <li>훈: 나이 - よわい・とし</li>
+          </ul>
+          <br/>
+          <h3>隷</h3>
+          <ul>
+            <li>4급 (부수:隶)</li>
+            <li>음: 례 - レイ</li>
+            <li>훈: 종 - したが(う)・しもべ</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>能</h3>
+          <ul>
+            <li>6급 (부수:肉)</li>
+            <li>음: 능 - ノウ</li>
+            <li>훈: 능력 - あた(う)・よ(く)・よ(くする)・はたら(き)</li>
+          </ul>
+          <br/>
+          <h3>害</h3>
+          <ul>
+            <li>7급 (부수:宀)</li>
+            <li>음: 해 - ガイ・カイ</li>
+            <li>훈: 해하다 - そこ(なう)・わざわ(い)</li>
+          </ul>
+          <br/>
+          <h3>州</h3>
+          <ul>
+            <li>8급 (부수:川)</li>
+            <li>음: 주 - シュウ・ス</li>
+            <li>훈: 고을 - す・しま・くに</li>
+          </ul>
+          <br/>
+          <h3>丸</h3>
+          <ul>
+            <li>9급 (부수:丶)</li>
+            <li>음: 환 - ガン</li>
+            <li>훈: 통째로, 둥글다 - まる・まる(い)・まる(める)・たま</li>
+          </ul>
+          <br/>
+          <h3>望</h3>
+          <ul>
+            <li>7급 (부수:月)</li>
+            <li>음: 망 - ボウ・モウ</li>
+            <li>훈: 바라다, 바람직하다 - のぞ(む)・もち・うら(む)</li>
+          </ul>
+          <br/>
+          <h3>航</h3>
+          <ul>
+            <li>6급 (부수:舟)</li>
+            <li>음: 항 - コウ</li>
+            <li>훈: 배 - わた(る)</li>
+          </ul>
+          <br/>
+          <h3>隅</h3>
+          <ul>
+            <li>2.5급 (부수:阜)</li>
+            <li>음: 우 - グウ</li>
+            <li>훈: 모퉁이, 구석 - すみ</li>
+          </ul>
+          <br/>
+          <h3>璧</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 벽 - ヘキ</li>
+            <li>훈: 옥, 흠이 없음 - たま</li>
+          </ul>
+          <br/>
+          <h3>鬱</h3>
+          <ul>
+            <li>2급 (부수:鬯)</li>
+            <li>음: 울 - ウツ</li>
+            <li>훈: 우울하다 - しげ(る)・ふさ(ぐ)・さか(ん)</li>
+          </ul>
+          <br/>
+          <h3>尻</h3>
+          <ul>
+            <li>2급 (부수:尸)</li>
+            <li>음: 고 - コウ</li>
+            <li>훈: 엉덩이 - しり</li>
+          </ul>
+          <br/>
+          <h3>迫</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 박 - ハク</li>
+            <li>훈: 다가오다 - せま(る)・せ(る)</li>
+          </ul>
+          <br/>
+          <h3>渇</h3>
+          <ul>
+            <li>2.5급 (부수:水)</li>
+            <li>음: 갈 - カツ</li>
+            <li>훈: 목마르다 - かわ(く)・むさぼ(る)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

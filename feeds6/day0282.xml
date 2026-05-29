@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 6자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 6자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>司</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 사 - シ・ス</li>
+            <li>훈: 맡다 - つかさ・つかさど(る)</li>
+          </ul>
+          <br/>
+          <h3>警</h3>
+          <ul>
+            <li>5급 (부수:言)</li>
+            <li>음: 경 - ケイ・キョウ</li>
+            <li>훈: 경계하다 - いまし(める)</li>
+          </ul>
+          <br/>
+          <h3>育</h3>
+          <ul>
+            <li>8급 (부수:肉)</li>
+            <li>음: 육 - イク</li>
+            <li>훈: 자라다, 기르다 - そだ(つ)・そだ(てる)・はぐく(む)</li>
+          </ul>
+          <br/>
+          <h3>狭</h3>
+          <ul>
+            <li>4급 (부수:犬)</li>
+            <li>음: 협 - キョウ・コウ</li>
+            <li>훈: 좁다 - せま(い)・せば(める)・せば(まる)・さ</li>
+          </ul>
+          <br/>
+          <h3>庸</h3>
+          <ul>
+            <li>2.5급 (부수:广)</li>
+            <li>음: 용 - ヨウ</li>
+            <li>훈: 뽑다 - もち(いる)・つね・おろ(か)・なん(ぞ)</li>
+          </ul>
+          <br/>
+          <h3>澄</h3>
+          <ul>
+            <li>4급 (부수:水)</li>
+            <li>음: 징 - チョウ</li>
+            <li>훈: 맑다 - す(む)・す(ます)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>하루 12자 일본어 상용한자</title>
+    <link>{{LINK}}</link>
+    <description></description>
+    <language>ko</language>
+
+    <item>
+      <title>오늘의 일본어 상용한자 12자</title>
+      <link>{{LINK}}/rss.xml</link>
+      <description>
+        <![CDATA[
+          <h3>由</h3>
+          <ul>
+            <li>8급 (부수:田)</li>
+            <li>음: 유 - ユ・ユウ・ユイ</li>
+            <li>훈: 까닭, 사정 - よし・よ(る)・なお…(ごとし)</li>
+          </ul>
+          <br/>
+          <h3>学</h3>
+          <ul>
+            <li>10급 (부수:子)</li>
+            <li>음: 학 - ガク</li>
+            <li>훈: 배우다 - まな(ぶ)</li>
+          </ul>
+          <br/>
+          <h3>葉</h3>
+          <ul>
+            <li>8급 (부수:艸)</li>
+            <li>음: 엽 - ヨウ・ショウ</li>
+            <li>훈: 잎 - は・かみ・すえ</li>
+          </ul>
+          <br/>
+          <h3>山</h3>
+          <ul>
+            <li>10급 (부수:山)</li>
+            <li>음: 산 - サン・セン</li>
+            <li>훈: 산 - やま</li>
+          </ul>
+          <br/>
+          <h3>底</h3>
+          <ul>
+            <li>7급 (부수:广)</li>
+            <li>음: 저 - テイ</li>
+            <li>훈: 밑, 바닥 - そこ</li>
+          </ul>
+          <br/>
+          <h3>器</h3>
+          <ul>
+            <li>7급 (부수:口)</li>
+            <li>음: 기 - キ</li>
+            <li>훈: 그릇 - うつわ</li>
+          </ul>
+          <br/>
+          <h3>遇</h3>
+          <ul>
+            <li>3급 (부수:辵)</li>
+            <li>음: 우 - グウ・グ</li>
+            <li>훈: 만나다 - あ(う)・もてな(す)・たまたま</li>
+          </ul>
+          <br/>
+          <h3>曽</h3>
+          <ul>
+            <li>2급 (부수:曰)</li>
+            <li>음: 증 - ソウ・ゾ・ソ・ゾウ</li>
+            <li>훈: 일찍 - かつ(て)・かさ(なる)・ま(す)・すなわ(ち)</li>
+          </ul>
+          <br/>
+          <h3>込</h3>
+          <ul>
+            <li>4급 (부수:辵)</li>
+            <li>음: 입 - 無し</li>
+            <li>훈: 담다, 채우다, 붐비다 - こ(む)・こ(める)</li>
+          </ul>
+          <br/>
+          <h3>請</h3>
+          <ul>
+            <li>3급 (부수:言)</li>
+            <li>음: 청 - セイ・シン・ショウ</li>
+            <li>훈: 청하다, 떠맡다 - こ(う)・う(ける)</li>
+          </ul>
+          <br/>
+          <h3>柄</h3>
+          <ul>
+            <li>4급 (부수:木)</li>
+            <li>음: 병 - ヘイ</li>
+            <li>훈: 몸집, 품위, 자루 - がら・え・つか・いきお(い)</li>
+          </ul>
+          <br/>
+          <h3>玩</h3>
+          <ul>
+            <li>2급 (부수:玉)</li>
+            <li>음: 완 - ガン</li>
+            <li>훈: 즐기다 - もてあそ(ぶ)・あじ(わう)</li>
+          </ul>
+          <br/>
+        ]]>
+      </description>
+      <pubDate>{{DATE}}</pubDate>
+      <guid>{{LINK}}/rss.xml</guid>
+    </item>
+  </channel>
+</rss>
