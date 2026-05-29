@@ -1,7 +1,6 @@
 #!/bin/sh
 
-DOMAIN_LINK="http://localhost:8080"
-# DOMAIN_LINK="https://yourusername.github.io/kanji"
+DOMAIN_LINK="https://raycc51.github.io/Daily_Kanji_RSS"
 STATUS_FILE="./current_day.txt"
 WEB_DIR="./web"
 
