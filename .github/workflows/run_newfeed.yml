@@ -15,15 +15,18 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# 💡 깃허브 서버에 구형 Node 20도 에러 없이 안전하게 실행하라고 명령하는 옵션입니다.
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+
 jobs:
   update-rss:
     runs-on: ubuntu-latest
     steps:
-    # v4에서 변경 없음 (Node 24 공식 지원 버전을 이미 쓰고 계셨으나 경고 방지를 위해 유지)
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    # 1. 캐시 복원 (v4 유지하되 완벽한 호환성을 위해 아래 코드와 싱크)
+    # 1. 이전 날짜 진도(current_day.txt) 복원 (캐시 이용)
     - name: Restore current day cache
       uses: actions/cache/restore@v4
       with:
@@ -33,23 +36,23 @@ jobs:
     - name: Make script executable
       run: chmod +x ./newfeed.sh
 
-    # 2. 스크립트 실행
+    # 2. 스크립트 실행 (rss.xml 생성 및 current_day.txt 업데이트)
     - name: Run newfeed script
       run: ./newfeed.sh
 
-    # 3. 캐시 다시 저장 (v4 유지)
+    # 3. 오늘 바뀐 진도(current_day.txt)를 다음 날을 위해 캐시에 다시 저장
     - name: Save current day cache
       uses: actions/cache/save@v4
       with:
         path: ./current_day.txt
         key: kanji-day-cache
 
-    # 4. 배포할 파일들을 아티팩트로 묶기 (★ v3에서 v4로 업그레이드)
+    # 4. 배포할 파일들을 아티팩트로 묶기 (루트 폴더 전체)
     - name: Upload Pages Artifact
       uses: actions/upload-pages-artifact@v4
       with:
         path: 'web' # index.html, rss.xml
 
-    # 5. 깃허브 페이지 서버로 배포 (★ v4에서 v5로 업그레이드)
+    # 5. 깃허브 페이지 서버로 다이렉트 쏴서 배포 시키기
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v5
