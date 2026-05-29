@@ -2,61 +2,61 @@
 <rss version="2.0">
   <channel>
     <title>하루 6자 일본어 상용한자</title>
-    <link>http://localhost:8080</link>
+    <link>https://raycc51.github.io/Daily_Kanji_RSS</link>
     <description></description>
     <language>ko</language>
 
     <item>
       <title>오늘의 일본어 상용한자 6자</title>
-      <link>http://localhost:8080/rss.xml</link>
+      <link>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</link>
       <description>
         <![CDATA[
-          <h3>本</h3>
+          <h3>殺</h3>
           <ul>
-            <li>10급 (부수:木)</li>
-            <li>음: 본 - ホン</li>
-            <li>훈: 책, 근본 - もと</li>
+            <li>6급 (부수:殳)</li>
+            <li>음: 살 - サツ・サイ・セツ</li>
+            <li>훈: 죽이다 - ころ(す)・そ(ぐ)・そ(げる)・けず(る)</li>
           </ul>
           <br/>
-          <h3>賀</h3>
+          <h3>骨</h3>
           <ul>
-            <li>7급 (부수:貝)</li>
-            <li>음: 하 - ガ</li>
-            <li>훈: 축하 - よろこ(ぶ)</li>
+            <li>5급 (부수:骨)</li>
+            <li>음: 골 - コツ</li>
+            <li>훈: 뼈 - ほね</li>
           </ul>
           <br/>
-          <h3>券</h3>
+          <h3>似</h3>
           <ul>
-            <li>5급 (부수:刀)</li>
-            <li>음: 권 - ケン</li>
-            <li>훈: 문서 - てがた・わりふ</li>
+            <li>6급 (부수:人)</li>
+            <li>음: 사 - ジ・シ</li>
+            <li>훈: 닮다, 어울리다 - に(る)・ごと(し)</li>
           </ul>
           <br/>
-          <h3>堪</h3>
+          <h3>臆</h3>
           <ul>
-            <li>2.5급 (부수:土)</li>
-            <li>음: 감 - カン・タン</li>
-            <li>훈: 견디다, 참다 - た(える)・こら(える)・こた(える)・たま(る)</li>
+            <li>2급 (부수:肉)</li>
+            <li>음: 억 - オク</li>
+            <li>훈: 가슴, 억지 - おしはか(る)</li>
           </ul>
           <br/>
-          <h3>符</h3>
+          <h3>繭</h3>
           <ul>
-            <li>3급 (부수:竹)</li>
-            <li>음: 부 - フ</li>
-            <li>훈: 부호 - わりふ</li>
+            <li>2.5급 (부수:糸)</li>
+            <li>음: 견 - ケン</li>
+            <li>훈: 고치 - まゆ</li>
           </ul>
           <br/>
-          <h3>菌</h3>
+          <h3>冶</h3>
           <ul>
-            <li>2.5급 (부수:艸)</li>
-            <li>음: 균 - キン</li>
-            <li>훈: 세균 - きのこ・たけ</li>
+            <li>2급 (부수:冫)</li>
+            <li>음: 야 - ヤ</li>
+            <li>훈: 제련 - と(ける)・い(る)・なまめ(かしい)</li>
           </ul>
           <br/>
         ]]>
       </description>
-      <pubDate>Fri, 29 May 2026 01:05:08 +0000</pubDate>
-      <guid>http://localhost:8080/rss.xml</guid>
+      <pubDate>Fri, 29 May 2026 06:55:40 +0000</pubDate>
+      <guid>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</guid>
     </item>
   </channel>
 </rss>

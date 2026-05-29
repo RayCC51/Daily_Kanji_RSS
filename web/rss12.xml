@@ -2,103 +2,103 @@
 <rss version="2.0">
   <channel>
     <title>하루 12자 일본어 상용한자</title>
-    <link>http://localhost:8080</link>
+    <link>https://raycc51.github.io/Daily_Kanji_RSS</link>
     <description></description>
     <language>ko</language>
 
     <item>
       <title>오늘의 일본어 상용한자 12자</title>
-      <link>http://localhost:8080/rss.xml</link>
+      <link>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</link>
       <description>
         <![CDATA[
-          <h3>貸</h3>
+          <h3>典</h3>
           <ul>
-            <li>6급 (부수:貝)</li>
-            <li>음: 대 - タイ</li>
-            <li>훈: 빌려주다 - か(す)</li>
+            <li>7급 (부수:八)</li>
+            <li>음: 전 - テン</li>
+            <li>훈: 법 - ふみ・のり</li>
           </ul>
           <br/>
-          <h3>財</h3>
+          <h3>界</h3>
           <ul>
-            <li>6급 (부수:貝)</li>
-            <li>음: 재 - ザイ・サイ</li>
-            <li>훈: 재물 - たから</li>
+            <li>8급 (부수:田)</li>
+            <li>음: 계 - カイ</li>
+            <li>훈: 지경 - さかい</li>
           </ul>
           <br/>
-          <h3>町</h3>
+          <h3>批</h3>
           <ul>
-            <li>10급 (부수:田)</li>
-            <li>음: 정 - チョウ・テイ</li>
-            <li>훈: 마을 - まち・あぜみち</li>
+            <li>5급 (부수:手)</li>
+            <li>음: 비 - ヒ</li>
+            <li>훈: 비평하다 - う(つ)・ただ(す)</li>
           </ul>
           <br/>
-          <h3>氷</h3>
+          <h3>件</h3>
           <ul>
-            <li>8급 (부수:水)</li>
-            <li>음: 빙 - ヒョウ</li>
-            <li>훈: 얼음 - こおり・ひ・こお(る)</li>
+            <li>6급 (부수:人)</li>
+            <li>음: 건 - ケン</li>
+            <li>훈: 물건 - くだり・くだん</li>
           </ul>
           <br/>
-          <h3>完</h3>
+          <h3>株</h3>
           <ul>
-            <li>7급 (부수:宀)</li>
-            <li>음: 완 - カン</li>
-            <li>훈: 완전 - まっと(うする)</li>
+            <li>5급 (부수:木)</li>
+            <li>음: 주 - シュ</li>
+            <li>훈: 주식 - かぶ</li>
           </ul>
           <br/>
-          <h3>退</h3>
+          <h3>囲</h3>
           <ul>
-            <li>5급 (부수:辵)</li>
-            <li>음: 퇴 - タイ</li>
-            <li>훈: 물러나다, 물리치다 - しりぞ(く)・しりぞ(ける)・の(く)・の(ける)・すさ(る)・しさ(る)・ひ(く)</li>
+            <li>6급 (부수:囗)</li>
+            <li>음: 위 - イ</li>
+            <li>훈: 둘러싸다 - かこ(む)・かこ(う)</li>
           </ul>
           <br/>
-          <h3>燥</h3>
+          <h3>擦</h3>
           <ul>
-            <li>4급 (부수:火)</li>
-            <li>음: 조 - ソウ</li>
-            <li>훈: 마르다 - かわ(く)・はしゃ(ぐ)</li>
+            <li>3급 (부수:手)</li>
+            <li>음: 찰 - サツ</li>
+            <li>훈: 문지르다, 스치다 - す(る)・す(れる)・こす(る)・かす(れる)・さす(る)・なす(る)</li>
           </ul>
           <br/>
-          <h3>喩</h3>
+          <h3>鬼</h3>
           <ul>
-            <li>2급 (부수:口)</li>
-            <li>음: 유 - ユ</li>
-            <li>훈: 깨우치다 - たと(える)・さと(す)・よろこ(ぶ)</li>
+            <li>4급 (부수:鬼)</li>
+            <li>음: 귀 - キ</li>
+            <li>훈: 귀신, 도깨비 - おに</li>
           </ul>
           <br/>
-          <h3>冒</h3>
+          <h3>硫</h3>
           <ul>
-            <li>4급 (부수:曰)</li>
-            <li>음: 모 - ボウ・ボク・モウ</li>
-            <li>훈: 무릅쓰다 - おか(す)・おお(う)・むさぼ(る)・ねた(む)</li>
+            <li>2.5급 (부수:石)</li>
+            <li>음: 류 - リュウ・ル</li>
+            <li>훈: 유황 - 無し</li>
           </ul>
           <br/>
-          <h3>駐</h3>
+          <h3>彙</h3>
           <ul>
-            <li>3급 (부수:馬)</li>
-            <li>음: 주 - チュウ・チュ</li>
-            <li>훈: 머무르다 - とど(まる)</li>
+            <li>2급 (부수:彐)</li>
+            <li>음: 휘 - イ</li>
+            <li>훈: 무리 - あつ(める)・たぐい・はりねずみ</li>
           </ul>
           <br/>
-          <h3>狩</h3>
+          <h3>括</h3>
           <ul>
-            <li>4급 (부수:犬)</li>
-            <li>음: 수 - シュ</li>
-            <li>훈: 사냥하다 - か(る)・か(り)</li>
+            <li>2.5급 (부수:手)</li>
+            <li>음: 괄 - カツ</li>
+            <li>훈: 묶다 - くく(る)・くび(る)・くび(れる)</li>
           </ul>
           <br/>
-          <h3>采</h3>
+          <h3>需</h3>
           <ul>
-            <li>2급 (부수:釆)</li>
-            <li>음: 채 - サイ</li>
-            <li>훈: 주사위, 풍채 - と(る)・いろどり・すがた・うね</li>
+            <li>4급 (부수:雨)</li>
+            <li>음: 수 - ジュ</li>
+            <li>훈: 쓰다 - もと(める)</li>
           </ul>
           <br/>
         ]]>
       </description>
-      <pubDate>Fri, 29 May 2026 01:05:08 +0000</pubDate>
-      <guid>http://localhost:8080/rss.xml</guid>
+      <pubDate>Fri, 29 May 2026 06:55:40 +0000</pubDate>
+      <guid>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</guid>
     </item>
   </channel>
 </rss>

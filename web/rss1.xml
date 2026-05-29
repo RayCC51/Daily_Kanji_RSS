@@ -2,26 +2,26 @@
 <rss version="2.0">
   <channel>
     <title>하루 1자 일본어 상용한자</title>
-    <link>http://localhost:8080</link>
+    <link>https://raycc51.github.io/Daily_Kanji_RSS</link>
     <description></description>
     <language>ko</language>
 
     <item>
       <title>오늘의 일본어 상용한자 1자</title>
-      <link>http://localhost:8080/rss.xml</link>
+      <link>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</link>
       <description>
         <![CDATA[
-          <h3>鮮</h3>
+          <h3>笑</h3>
           <ul>
-            <li>4급 (부수:魚)</li>
-            <li>음: 선 - セン</li>
-            <li>훈: 선명함 - あざ(やか)・あたら(しい)・すく(ない)</li>
+            <li>7급 (부수:竹)</li>
+            <li>음: 소 - ショウ</li>
+            <li>훈: 웃다 - わら(う)・え(む)</li>
           </ul>
           <br/>
         ]]>
       </description>
-      <pubDate>Fri, 29 May 2026 01:05:08 +0000</pubDate>
-      <guid>http://localhost:8080/rss.xml</guid>
+      <pubDate>Fri, 29 May 2026 06:55:40 +0000</pubDate>
+      <guid>https://raycc51.github.io/Daily_Kanji_RSS/rss.xml</guid>
     </item>
   </channel>
 </rss>

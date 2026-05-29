@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DOMAIN_LINK="https://raycc51.github.io/Daily_Kanji_RSS"
-STATUS_FILE="./current_day.txt"
+STATUS_FILE="./web/current_day.txt"
 WEB_DIR="./web"
 
 # 배시 배열 대신 모든 쉘에서 호환되는 공백 구분 문자열 사용
