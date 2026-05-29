@@ -77,7 +77,7 @@ for count in split_counts:
 {html_content}        ]]>
       </description>
       <pubDate>{{{{DATE}}}}</pubDate>
-      <guid>{{{{LINK}}}}/rss.xml</guid>
+      <guid>{{{{LINK}}}}/rss.xml?date={{{{GUID_DATE}}}}</guid>
     </item>
   </channel>
 </rss>"""

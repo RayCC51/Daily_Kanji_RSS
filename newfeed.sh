@@ -9,6 +9,8 @@ SPLIT_COUNTS="1 4 6 12 24"
 
 # 현재 날짜 (RFC 2822 형식)
 PUB_DATE=$(date -R)
+# yymmdd
+GUID_DATE=$(date +'%y%m%d')
 
 # 1. 상태 저장 파일이 없거나 비어있다면 기본값 0001로 초기화
 if [ ! -f "$STATUS_FILE" ] || [ ! -s "$STATUS_FILE" ]; then
@@ -53,6 +55,7 @@ for count in $SPLIT_COUNTS; do
     
     sed -i "s|{{LINK}}|$DOMAIN_LINK|g" "$TARGET_FILE"
     sed -i "s|{{DATE}}|$PUB_DATE|g" "$TARGET_FILE"
+    sed -i "s|{{GUID_DATE}}|$GUID_DATE|g" "$TARGET_FILE"
 
     # 6. 다음 실행을 위해 일수 +1 증가시켜 저장 준비
     NEXT_NUM=$((CLEAN_NUM + 1))
